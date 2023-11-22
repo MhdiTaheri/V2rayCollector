@@ -24,5 +24,6 @@ jobs:
           git config --global user.email "vip.mahditaheri@gmail.com"
           git config --global user.name "MhdiTaheri"
           git add -A
-          git commit -m "🚀 Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "🌩 New Servers Added - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git pull --no-edit origin main
+          git push https://username:${{ secrets.PUSH_BOT }}@github.com/MahdiTaIr/SMT.git
