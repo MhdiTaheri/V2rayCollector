@@ -21,17 +21,19 @@ jobs:
         run: |
           php bot.php
           git config credential.helper store
+      
       - name: Configure Git
         run: |
           git config --global user.email "vip.mahditaheri@gmail.com"
           git config --global user.name "MhdiTaheri"
           git remote set-url origin https://github.com/MhdiTaheri/V2rayCollector.git
       
-      - name: Push changes
+      - name: Push changes with rebase
         run: |
           git add -A
           git commit -m "🌩 New Servers Added - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
-          git pull --no-edit origin main
+          git pull --rebase origin main
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.PUSH_BOT }}
+
