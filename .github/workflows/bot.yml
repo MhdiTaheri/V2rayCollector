@@ -26,4 +26,4 @@ jobs:
           git add -A
           git commit -m "🌩 New Servers Added - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git pull --no-edit origin main
-          git push https://username:${{ secrets.PUSH_BOT }}@github.com/MahdiTaIr/SMT.git
+          git push https://username:${{ secrets.PUSH_BOT }}@github.com/MhdiTaheri/V2rayCollector.git
