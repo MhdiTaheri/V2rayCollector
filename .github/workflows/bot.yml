@@ -1,0 +1,28 @@
+name: "CONFIG COLLECTOR"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/60 * * * *'
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          
+      - name: Execute PHP script
+        run: |
+          php main.php
+          git config credential.helper store
+          git config --global user.email "mahdiritahe@gmail.com"
+          git config --global user.name "MahdiTaIr"
+          git add -A
+          git commit -m "🚀 Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git pull --no-edit origin main
