@@ -19,10 +19,10 @@ jobs:
           
       - name: Execute PHP script
         run: |
-          php main.php
+          php bot.php
           git config credential.helper store
-          git config --global user.email "mahdiritahe@gmail.com"
-          git config --global user.name "MahdiTaIr"
+          git config --global user.email "vip.mahditaheri@gmail.com"
+          git config --global user.name "MhdiTaheri"
           git add -A
           git commit -m "🚀 Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git pull --no-edit origin main
