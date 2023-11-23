@@ -85,5 +85,5 @@ if (!empty($allVMessConfigs)) {
     file_put_contents('vmess.txt', $allVMess, FILE_APPEND);
 }
 
-file_put_contents('debug.log', 'Script ran successfully.', FILE_APPEND);
+
 ?>
