@@ -18,6 +18,8 @@ This PHP script fetches content from various Telegram channels and extracts VLES
 - [How It Works](#how-it-works)
 - [Files Generated](#files-generated)
 - [Contributing](#contributing)
+- [Channels](Channels-Used)
+- [Sub](#Sub-Link)
 - [License](#license)
 
 ## Introduction
@@ -78,6 +80,14 @@ Contributions are welcome! If you find any issues or want to enhance the script,
 | v2rayNG_VPNN | [Link](https://t.me/s/v2rayNG_VPNN) |
 | v2ray_outlineir | [Link](https://t.me/s/v2ray_outlineir) |
 | v2_vmess | [Link](https://t.me/s/v2_vmess) |
+
+## Sub Link
+| Type | Link |
+|--------------|--------------|
+| Vless | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vless.txt) |
+| Vmess | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vmess.txt) |
+| SS | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/ss.txt) |
+| Trojan | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/trojan.txt) |
 
 ## License
 
