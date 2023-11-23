@@ -18,7 +18,7 @@ This PHP script fetches content from various Telegram channels and extracts VLES
 - [How It Works](#how-it-works)
 - [Files Generated](#files-generated)
 - [Contributing](#contributing)
-- [Channels](Channels-Used)
+- [Channels](#Channels-Used)
 - [Sub](#Sub-Link)
 - [License](#license)
 
