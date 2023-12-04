@@ -42,8 +42,6 @@ function generateTrojanConfig() {
 }
 
 $telegramChannelURLs = [
-    "https://t.me/s/V2rayCollectorDonate",
-    "https://t.me/s/TVCminer",
     "https://t.me/s/networknim",
     "https://t.me/s/beiten",
     "https://t.me/s/MsV2ray",
