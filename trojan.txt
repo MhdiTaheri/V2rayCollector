@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-06-Dec-2023 18:00
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-06-Dec-2023 18:57
 trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_5
 trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_6
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?sni=glc-us3.windowsupdatea.com#%F0%9F%87%BA%F0%9F%87%B8*US*%E7%BE%8E%E5%9B%BD*1
@@ -127,5 +127,8 @@ trojan://telegram-id-privatevpns@3.126.26.255:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@13.40.241.36:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7ConfigV2RayNG
 trojan://telegram-id-privatevpns@15.237.10.216:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%B5t.me%2FConfigV2RayNG
 trojan://telegram-id-privatevpns@16.16.161.153:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AAConfigV2RayNG
+trojan://telegram-id-directvpn@52.215.54.89:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#ConfigV2RayNG
+trojan://telegram-id-directvpn@15.237.6.238:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#ConfigV2RayNG
+trojan://telegram-id-directvpn@3.66.62.40:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#ConfigV2RayNG
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&amp;sni=C.1lagvpn13.cfd#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%DA%86%D9%86%D9%84+%40vpnmasi
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
