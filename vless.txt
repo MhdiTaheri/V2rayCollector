@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Dec-2023 14:02
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Dec-2023 14:50
 vless://bc9e193b-adbd-4609-b7be-fe513fb1d5f1@free.networknim.site:8080?security=none&amp;encryption=none&amp;host=nimnetwork.cam&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
 vless://bc9e193b-adbd-4609-b7be-fe513fb1d5f1@free.networknim.site:8080?security=none&amp;encryption=none&amp;host=nimnetwork.site&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
 vless://bc9e193b-adbd-4609-b7be-fe513fb1d5f1@free.networknim.site:8080?security=none&amp;encryption=none&amp;host=nimnetwork.site&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
@@ -788,7 +788,6 @@ vless://0d46e745-ad46-428a-ba01-de41ef6f27a2@join-bede.savagev2ray.site:2085?mod
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me%2FV
 vless://b37deda3-795f-4bce-bc94-f852c3d4e14a@MorPhiNn.gheychi.me:443?path=%2Fmetrix&amp;security=tls&amp;encryption=none&amp;host=14446c64f.gheychi.games&amp;type=ws&amp;sni=14446c64f.gheychi.games#%5B%F0%9F%87%A8%F0%9F%87%A6%5D+telegram+%40V2ray_Custom
 vless://8099cb0f-d19d-4252-af27-1527c00b64c5@sk.abadanvpn.host:443?encryption=none&amp;flow=xtls-rprx-direct&amp;security=xtls&amp;type=tcp&amp;headerType=none#%40V2ray_Custom
-vless://d11bd54a-b5a4-403a-a598-2e05173d98e3@all.vpncustomize.cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=‌ @VPNCUSTOMIZE ‌&amp;sni…
 vless://cfdec9b8-7f32-437d-8ee4-e8002ff9cdd6@all.vpncustomize.cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=‌ @VPNCUSTOMIZE ‌&amp;sni=FreeV2rayng.VPNCUSTOMIZE.tech#ALL NET @VPNCUSTOMIZE
 vless://cfdec9b8-7f32-437d-8ee4-e8002ff9cdd6@all.vpncustomize.cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=‌ @VPNCUSTOMIZE ‌&amp;sni=FreaV2rayng.VPNCUSTOMIZE.tech#ALL @VPNCUSTOMIZE
 vless://cfdec9b8-7f32-437d-8ee4-e8002ff9cdd6@all.vpncustomize.cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=‌ @VPNCUSTOMIZE ‌&amp;sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#ALL NET @VPNCUSTOMIZE
