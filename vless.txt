@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-11-Dec-2023 01:57
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-11-Dec-2023 02:52
 vless://bc9e193b-adbd-4609-b7be-fe513fb1d5f1@nimnetwork.org:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac43:4675]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac43:4675]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;ser…
@@ -205,7 +205,6 @@ vless://9b44f7df-feca-4c84-9b6d-92bbf1bcf41a@global.globalnetvpn.site:28791?path
 vless://1ce90b6e-155c-45ae-90da-54894b540c0f@all.globalnetvpn.site:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@global_net_vpn&amp;sni=global.globalnetvpn.site#2+%40FreakConfig
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;fp=chrome&amp;type=ws&amp;sni=nl57.Vlessx.us#%F0%9F%87%B3%F0%9F%87%B1+%40FreakConfig
 vless://86f8b923-549d-4d1c-82e0-15f6d3164798@65.109.185.86:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=pfn0LfpllyB_V5uqxKMSzliA_S-JE-9OC2Er5-WU6gQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Everyday_VPN&amp;sni=gsmarena.com&amp;sid=c4ede1c0#%F0%9F%87%AB%F0%9F%87%AE+%40FreakConfig
-vless://ab97e6ee-3e00-4612-bb63-83cf5e354383@78.46.240.115:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=GTVnubp-q8gRkQt8FynkMWNgyP-PAOEZgCFtCLfGYxI&amp;fp=firefox&amp;spx=%2F@ELiV2ray-@ELiV2ray@-ELiV2ray@…
 vless://629dd5ff-c28d-447e-dfe8-e5a3186fb226@panel.eliv2ray.top:444?type=grpc&amp;serviceName=@ELiV2ray-ELiV2ray&amp;security=reality&amp;fp=firefox&amp;pbk=MCR2-loliqQE2wv4HLAEUSbrgGXnkxxY8v95jQITOGA&amp;sni=www.iranserver.com&amp;sid=2336f776&amp;spx=%2F#Reality-@ELiV2ray
 vless://8c31b427-d6e7-4631-edb2-be6cf14f7004@173.245.58.250:443/?type=grpc&amp;encryption=none&amp;serviceName=@ELiV2ray&amp;security=tls&amp;sni=cdn.eliv2ray.top#CDN-gRPC-@ELiV2ray
 vless://6c498591-5ef8-475d-e1ea-312eab1345dc@173.245.58.250:8443?type=ws&amp;path=%2F&amp;host=cdn.ELiV2ray.top&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=cdn.eliv2ray.top#CDN-WS-@ELiV2ray
