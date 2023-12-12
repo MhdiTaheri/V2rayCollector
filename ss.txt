@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-12-Dec-2023 02:55
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-12-Dec-2023 05:50
 ss://bc9e193b-adbd-4609-b7be-fe513fb1d5f1@nimnetwork.org:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
 ss://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac43:4675]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
 ss://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac43:4675]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;ser…
@@ -286,7 +286,6 @@ ss://184149c1-821e-4c62-a2a6-3a3315e0b002@78.46.240.115:443?mode=gun&amp;securit
 ss://7e30f796-f1a4-48d1-f490-5799215be61a@173.245.58.250:443?type=grpc&amp;serviceName=@ELiV2ray&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=cdn.eliv2ray.top#CDN-gRPC-@ELiV2ray
 ss://184149c1-821e-4c62-a2a6-3a3315e0b002@78.46.240.115:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=GTVnubp-q8gRkQt8FynkMWNgyP-PAOEZgCFtCLf…
 ss://0e380457-d0ae-49ad-9ce3-7059007560f7@49.13.65.28:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=nQQfCCQkDE9b12xB6h9lMPDkQimWDBPGN94DC86KuTM&amp;fp=firefox&amp;spx=%2F@ELiV2ray-@ELiV2ray-@ELiV2ray-@ELiV2ray&amp;type=grpc&amp;serviceName=%40V2rayZs&amp;sni=greenpepper.ir&amp;sid=80d440e7#@ELiV2ray
-ss://b0da626c-7c65-478b-be5a-956e96ce228b@104.25.254.88:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=Xzc.donaldvpn.sbs#@ELiV2ray6%EF%B8%8F%E2%83%A3
 ss://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;type=ws&amp;sni=nl57.Vlessx.us#@ELiV2ray2%EF%B8%8F%E2%83%A3
 ss://0e380457-d0ae-49ad-9ce3-7059007560f7@49.13.65.28:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=nQQfCCQkDE9b12xB6h9lMPDkQimWDBPGN94DC86KuTM&amp;fp=firefox&amp;spx=%2F@ELiV2ray-@ELiV2ray-@ELiV2ray…
 ss://5c1e2b32-83e9-41f0-b2d9-d4ae5acb3d1a@sdsdf.numal.site:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40ServerNett+%40ServerNett+%40ServerNett+%40ServerNett+%40ServerNett+%40…
