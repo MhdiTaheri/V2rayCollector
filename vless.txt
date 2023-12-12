@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-12-Dec-2023 14:03
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-12-Dec-2023 14:49
 vless://bc9e193b-adbd-4609-b7be-fe513fb1d5f1@nimnetwork.org:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany-nim+%28canel%29
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac43:4675]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac43:4675]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;ser…
@@ -613,7 +613,7 @@ vless://ffdc189d-b9f9-4c09-907e-58a0ba664623@5.161.133.226:443/?type=grpc&amp;en
 vless://4c080474-f6c0-4500-85d0-99ba994f8a37@78.47.206.184:2087/?type=grpc&amp;encryption=none&amp;flow=&amp;sni=greenpepper.ir&amp;fp=firefox&amp;security=reality&amp;pbk=-FJ39r74kpiTshb4xuc6mxgAqvc4P_qJEE5IahxK2wE&amp;sid=80d440e7#free%20
 vless://a21c127a-054b-463d-ab1a-9b9524290520@159.69.43.123:49193/?type=grpc&amp;encryption=none&amp;flow=&amp;sni=www.speedtest.net&amp;fp=chrome&amp;security=reality&amp;pbk=b3ybIyfay5HKxmq3LpI3TZXH9kcaxhUSTezc-Qz4AE4&amp;sid=73fa2a0d#RighTel
 vless://9b44f7df-feca-4c84-9b6d-92bbf1bcf41a@45.144.152.102:28791/?type=http&amp;encryption=none&amp;flow=&amp;path=%2F&amp;sni=zula.ir&amp;fp=firefox&amp;security=reality&amp;pbk=yIKmkG9ouKtjVF6V7vwNrHaSse2GinaXZzylDNNOiw4&amp;sid=2e375dc3#%40v2rayNG_VPN
-vless://782d080d-9d42-48e3-927e-685a04d27a61@65.109.196.60:443/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=%40Everyday_VPN&amp;sni=greenpepper.ir&amp;fp=chrome&amp;security=reality&amp;pbk=HyfhuipSo5mPPlOlQ53Oi-jySZAx32cRbK7VMdVccAk&amp;sid=db77564f#%F0%9F%87%AB%F0%9F%87%AE%20%20
+vless://5fa0a5d2-e73c-4399-96d9-2d44dbc19d9c@65.109.196.60:443/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=%40Everyday_VPN&amp;sni=greenpepper.ir&amp;fp=chrome&amp;security=reality&amp;pbk=HyfhuipSo5mPPlOlQ53Oi-jySZAx32cRbK7VMdVccAk&amp;sid=db77564f#mci
 vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ge1.v2vml.ga&amp;type=ws&amp;sni=ge1.v2vml.ga#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&amp;encryption=none&amp;seed=OXR9lTl7yj&amp;headerType=dtls&amp;type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
@@ -952,8 +952,6 @@ vless://184149c1-821e-4c62-a2a6-3a3315e0b002@78.46.240.115:443?mode=gun&amp;secu
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;fp=chrome&amp;type=ws&amp;sni=nl57.Vlessx.us#%40FreakConfig+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;fp=chrome&amp;type=ws&amp;sni=nl57.Vlessx.us#%40FreakConfig+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;fp=chrome&amp;type=ws&amp;sni=nl57.Vlessx.us#%40…
-vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl54.vlessx.us&amp;type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://290cba8a-4eb3-4c8e-80e9-25f1e1438992@104.21.12.150:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl1.vlessx.us&amp;type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%40m4dvpn%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl54.vlessx.us&amp;type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:2082?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl57.vlessx.us&amp;type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edge.020770.xyz&amp;type=ws&amp;sni=edge.020770.xyz#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
