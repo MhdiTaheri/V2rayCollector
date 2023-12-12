@@ -1,5 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-13-Dec-2023 00:50
-vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:6811:5d2f]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-13-Dec-2023 02:01
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:6811:e94f]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
@@ -536,6 +535,9 @@ vless://290cba8a-4eb3-4c8e-80e9-25f1e1438992@104.21.12.150:80?path=%2F%3Fed%3D20
 vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%40m4dvpn%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl54.vlessx.us&amp;type=ws#%40V2ray1_Ng
 vless://79a0b2a8-f5f7-43bc-a6e3-2b8ff3f526b2@172.67.218.115:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=sg18.vlessx.xyz&amp;type=ws#%40V2ray1_Ng
 vless://c255f68f-18f7-488a-b7fc-06a5676564f0@188.114.96.3:2052?path=tel.mehrosaboran&amp;security=none&amp;encryption=none&amp;host=jp10.vlessx.xyz&amp;type=ws#%40V2RAY1_NG
+vless://896efe15-7363-4d6c-97aa-cb0bb5499228@95.217.28.160:443?security=reality&amp;encryption=none&amp;pbk=gB2mHBv8PQXA0HSxOlOcB91nq5luio58GPdkjAgmk2M&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net&amp;sid=10ff054b#%40vpnfail_bot%20free%v2ray
+vless://43f7f589-6ee9-42cc-b03e-24b08c467309@78.46.160.40:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=E2mL4gNMBXhZRdOSkq8oU3XmN0SGE4jMK3ov85-SyFY&amp;fp=firefox&amp;type=grpc&amp;serviceName=@VPNwedbaz&amp;sni=greenpepper.ir&amp;sid=1afa0fd6#%40vpnfail_bot%20free%v2ray
+vless://fa14afaa-059a-4c6e-89e4-389f555ded6e@tel.hopev2ray.link:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl19.vlessx.us&amp;type=ws#%40vpnfail_bot%20free%v2ray
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&amp;security=reality&amp;encryption=none&amp;pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&amp;fp=chrome&amp;type=http&amp;sni=ubuntu.com&amp;sid=61138e86#%40Maznet+%2830396%29
 vless://d63aefe4-7170-44c1-b2e2-603b463dd1b8@free.sabettrade.shop:14376?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Easy_Free_VPN
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#%40Easy_Free_VPN
