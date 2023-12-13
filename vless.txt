@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-13-Dec-2023 02:55
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-13-Dec-2023 05:49
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:6811:e94f]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.networknim.site#networknim
@@ -546,7 +546,6 @@ vless://user@s23.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&am
 vless://user@s24.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s24.mynameismahsa.info#FI-S24-USA
 vless://user@s25.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s25.mynameismahsa.info#FI-S25-USA
 vless://user@s26.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#FI-S26-USA
-vless://ca95788b-5e8a-4df5-bd34-c6ca7ed8e9d1@185.18.212.124:8080?security=none&amp;encryption=none&amp;host=fast.speedgo.lol&amp;headerType=http&amp;type=tcp#%40V2RAY_VMESS_free
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;fp=chrome&amp;type=ws&amp;sni=nl57.Vlessx.us#%40V2RAY_VMESS_free
 vless://4705c695-0722-4f19-cf99-6a03f6840f86@0321.gexiao1994.top:443?path=%2Fcfvless&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=0321.gexiao1994.top#@v2ray_for_free
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg582228486&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=test.hotshellow.com#t.me/v2ray_for_free
