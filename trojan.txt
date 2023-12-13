@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-13-Dec-2023 18:01
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-13-Dec-2023 18:57
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?sni=glc-us3.windowsupdatea.com#%F0%9F%87%BA%F0%9F%87%B8*US*%E7%BE%8E%E5%9B%BD*1
 trojan://65c3941e-46b9-42f6-9c89-daedf472b6db@141.94.221.127:80?sni=fr1-t.sshmax.xyz#%F0%9F%87%AB%F0%9F%87%B7*FR*%E6%B3%95%E5%9B%BD*3
 trojan://46d69a7e-9002-44a3-99c1-01c412f29726@5.104.107.143:443?sni=de1.xn--mes358a9urctx.com#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
@@ -17,7 +17,6 @@ trojan://telegram-id-directvpn@3.10.32.137:22222?security=tls&amp;alpn=http/1.1&
 trojan://telegram-id-directvpn@54.217.250.46:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%40vmess_vless_v2rayng+%7C+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88+%D8%A8%D8%B4%DB%8C%D8%AF
 trojan://telegram-id-privatevpns@3.10.202.140:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%40vmess_vless_v2rayng+%7C+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88+%D8%A8%D8%B4%DB%8C%D8%AF
 trojan://telegram-id-privatevpns@13.36.206.254:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%40vmess_vless_v2rayng+%7C+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88+%D8%A8%D8%B4%DB%8C%D8%AF
-trojan://telegram-id-privatevpns@13.37.150.156:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S115)
 trojan://telegram-id-privatevpns@35.181.139.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S116)
 trojan://telegram-id-privatevpns@13.42.117.73:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S117)
 trojan://telegram-id-privatevpns@18.171.118.182:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S118)
@@ -36,40 +35,10 @@ trojan://telegram-id-privatevpns@52.16.7.201:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@16.170.194.56:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.50.205.189:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S112)
 trojan://telegram-id-privatevpns@35.158.38.76:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S113)
+trojan://telegram-id-privatevpns@3.71.132.91:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S114)
 trojan://7fb404f3-9aa0-4734-8783-34ce1c24f9e0@jp1.lxjc.app:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=16-163-218-240.nhost.00cdn.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=is2-t.sshmax.xyz#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://ZjzcW3LXeJ@172.67.221.114:2096?path=%2F%40apt_mahdi&amp;security=tls&amp;host=amsb.carfin.tech&amp;fp=chrome&amp;type=ws&amp;sni=amsb.carfin.tech#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1hkt.windowsupdatea.com:443?sni=glc-hkt1.windowsupdatea.com#Hong+Kong
-trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?sni=aws-us-dallas-1.f1rocketnode.com#United+States
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@frontend.kuangbiaoyun.com:40004#Canada
-trojan://dTjHHw2kDE@23.94.122.66:38505#United+States
-trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?sni=ftp.debian.org#France
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download2hkt.windowsupdatea.com:443?security=tls&amp;sni=glc-hkt2.windowsupdatea.com&amp;type=tcp&amp;headerType=none#Hong+Kong
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@frontend.kuangbiaoyun.com:40003?security=tls&amp;sni=frontend.kuangbiaoyun.com#Canada
-trojan://zIvR7ryOXv@159.223.207.182:34428?allowInsecure=0#United+States
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?sni=glc-tw1.windowsupdatea.com#Taiwan
-trojan://vMbujq85mD@103.174.73.134:443?security=tls&amp;sni=dl.kgvn.garenanow.com#Vietnam
-trojan://5a035db3-34ea-48ca-9aa2-72c8229e1532@ru.mjt001.com:443?security=tls#Japan
-trojan://027c71ac-026b-4755-9a33-26558ce6f6a2@172.105.5.158:443?sni=ddragon.leagueoflegends.com#Canada
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@frontend.kuangbiaoyun.com:40007?allowInsecure=1&amp;sni=frontend.kuangbiaoyun.com#Canada
-trojan://P1HaLPP9hz@188.166.208.64:16183?sni=android.googleapis.com#Singapore
-trojan://fd2ef3e6-75b7-46cf-bc60-e8899851ed57@70.34.252.233:443?security=tls&amp;sni=proxmox.com#Poland
-trojan://VpRuqFDCJo@138.2.234.225:45555?sni=undefined#United+States
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&amp;sni=lovehjq.xyz#South+Korea
-trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&amp;sni=is2-t.sshmax.xyz#Russia
-trojan://xxoo@us.blazeppn.info:443?security=tls#United+States
-trojan://11e247e5-136d-45f1-844a-a7f054d36bab@tempest-us.aikun.online:443#New+Zealand
-trojan://xxoo@138.197.5.103:443?security=tls&amp;sni=telewebion.com#United+States
-trojan://027c71ac-026b-4755-9a33-26558ce6f6a2@mrarshaordenshpgaamericang00d.arshaproplus.cf:443?security=tls&amp;sni=ddragon.leagueoflegends.com#Canada
-trojan://fd2ef3e6-75b7-46cf-bc60-e8899851ed57@worldbehindmiepsycho-passmarsha.sprotarsha.top:443?sni=ftp.debian.org#Poland
-trojan://94c3eeeb-a2ed-4645-922e-f8fc6bda7fbd@jp4.421421.xyz:20230?sni=jp4.421421.xyz#Italy
-trojan://telegram-id-directvpn@35.181.234.133:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;type=tcp#France
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?sni=lovehjq.xyz#South+Korea
-trojan://9da06414-9c1f-41b1-b46d-28efd22e14ba@t5.583181.xyz:1272?sni=www.baidu.com#Canada
-trojan://pjdnqv@aws-us-nyc-1.f1rocketnode.com:443?sni=aws-us-nyc-1.f1rocketnode.com#United+States
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?sni=lovehjq.xyz#South+Korea
-trojan://ZjzcW3LXeJ@172.67.221.114:2096?fp=chrome&amp;host=amsb.carfin.tech&amp;path=%2F%40apt_mahdi&amp;security=tls&amp;sni=amsb.carfin.tech&amp;type=ws#United+States
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign04.lovehjq.xyz:46527?security=tls&amp;sni=lovehjq.xyz#South+Korea
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1hkt.windowsupdatea.com:443?sni=glc-hkt1.windowsupdatea.com#Hong+Kong trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?sni=aws-us-dallas-1.f1rocketnode.com#United+States trojan://57edfecf-5694-4a34…
 trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#FI-S1-Sweden-Trojan
 trojan://user@s2.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s2.mynameismahsa.info#FI-S2-Germany-Trojan
