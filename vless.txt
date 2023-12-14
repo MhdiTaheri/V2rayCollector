@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-15-Dec-2023 02:00
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-15-Dec-2023 02:54
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.network-nim.site#networknim
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;s…
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.network-nim.site#networknim
@@ -502,6 +502,8 @@ vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=Telegram+%3A+%40freeiranweb&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;fp=chrome&amp;type=ws&amp;sni=nl57.Vlessx.us#%40napsternetv_config2
 vless://9ebb91b6-8bcb-4cba-e9e5-55402024282c@135.181.249.33:443?encryption=none&amp;flow=&amp;security=reality&amp;sni=datadoghq.com&amp;fp=chrome&amp;pbk=G8bruW9IICvTcA5mrBG5X6D5AOz9ucUqZaHBeKRHWwc&amp;sid=ebcc6ba4&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&amp;headerType=#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%AB%F0%9F%87%AEFinland
 vless://73e7054e-1dac-43fa-aad1-55322954de36@cloud-341.pages.dev:443?encryption=none&amp;flow=&amp;security=tls&amp;sni=&amp;type=ws&amp;host=&amp;path=%2F%3Fed&amp;headerType=#%F0%9F%8C%BB%40DeamNet_%F0%9F%87%A8%F0%9F%87%A6Canada
+vless://b922ed30-a906-472d-a3f9-f895c49ecdb1@104.21.25.0:80?path=%2Fbackup&amp;security=none&amp;encryption=none&amp;host=yWIAQK.SPAmdETECtor.World&amp;type=ws#%40napsternetv_config
+vless://a5ed79b9-3899-4473-bcd4-2ce49972e66e@185.146.173.20:80?path=%2Fbackup&amp;security=none&amp;encryption=none&amp;host=DqbHGC.bAZaaRS.PRO&amp;type=ws#%40napsternetv_config
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&amp;security=reality&amp;encryption=none&amp;pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&amp;fp=chrome&amp;type=http&amp;sni=ubuntu.com&amp;sid=61138e86#%40Maznet+%2830396%29
 vless://d63aefe4-7170-44c1-b2e2-603b463dd1b8@free.sabettrade.shop:14376?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Easy_Free_VPN
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#%40Easy_Free_VPN
