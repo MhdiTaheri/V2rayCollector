@@ -102,6 +102,7 @@ Contributions are welcome! If you find any issues or want to enhance the script,
 | frev2ray | [Link](https://t.me/s/frev2ray) | FreakConfig | [Link](https://t.me/s/FreakConfig) |
 | Awlix_ir | [Link](https://t.me/s/Awlix_ir) | v2rayngvpn | [Link](https://t.me/s/v2rayngvpn) |
 | God_CONFIG | [Link](https://t.me/s/God_CONFIG) | Configforvpn01 | [Link](https://t.me/s/Configforvpn01) |
+| inikotesla | [Link](https://t.me/s/inikotesla) | forwardv2ray | [Link](https://t.me/s/forwardv2ray) |
 
 
 ## Sub Link
