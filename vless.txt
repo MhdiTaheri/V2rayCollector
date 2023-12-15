@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-15-Dec-2023 05:50
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-15-Dec-2023 06:56
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.network-nim.site#networknim
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;s…
 vless://6f45eda7-d6af-45b3-a2d6-87739f3d7e75@[::ffff:ac40:937b]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=frre.network-nim.site#networknim
@@ -458,10 +458,8 @@ vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%2F%3Fed%3D
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=Poshtiban.ehsa0535.top#%40V2ray_NG
 vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@104.31.16.32:443?path=%2Fuorpws&amp;security=tls&amp;encryption=none&amp;host=oniyx.fun&amp;type=ws&amp;sni=oniyx.fun#%40V2ray_NG
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&amp;encryption=none&amp;pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.makers.com&amp;sid=3c#%40V2ray_NG
-vless://20334828-5963-4417-8c52-3f8bc08a074b@skk.moe:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=vless.mac2win.top&amp;type=ws&amp;sni=vless.mac2win.top#%40V2ray_NG
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;type=ws&amp;sni=nl57.Vlessx.us#%40V2ray_NG
-vless://bfad1a25-f5b5-41e6-98b3-438de77b524e@190.93.247.155:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=hamrah.academiwollf.sbs&amp;type=ws#%40V2ray_NG
-vless://20334828-5963-4417-8c52-3f8bc08a074b@104.21.52.57:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=vless.mac2win.top&amp;type=ws&amp;sni=vless.mac2win.top#%40V2ray_NG
+vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@104.31.16.32:443?path=%2Fuorpws&amp;security=tls&amp;encryption=none&amp;host=oniyx.fun&amp;type=ws&amp;sni=oniyx.fun#%40V2ray_NG
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=current.ircp.online&amp;type=ws&amp;sni=current.ircp.online#%40V2ray_NG
 vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80?security=&amp;type=tcp&amp;encryption=none#112@ShadowsocksM
 vless://ba3b1bb0-466e-4d7d-92d7-f2eeb4c73e76@172.67.218.205:2086?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=de2.vlessx.xyz&amp;type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
