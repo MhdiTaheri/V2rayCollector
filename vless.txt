@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Dec-2023 02:53
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Dec-2023 05:49
 vless://32ae2f5b-40ac-428d-83a9-f304ae12e869@free.network-nim.site:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=nimne…
 vless://32ae2f5b-40ac-428d-83a9-f304ae12e869@free.network-nim.site:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=nimne-twork.cam&amp;type=ws#nim-h2mupzcq
 vless://32ae2f5b-40ac-428d-83a9-f304ae12e869@free.network-nim.site:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=nimne-twork.cam&amp;type=ws#nim-h2mupzcq
@@ -894,8 +894,17 @@ vless://4d1dea0c-7515-4aae-db31-6e16c8da328e@panel.eliv2ray.top:444/?type=grpc&a
 vless://4d1dea0c-7515-4aae-db31-6e16c8da328e@panel.eliv2ray.top:444/?type=grpc&amp;encryption=none&amp;serviceName=%40ELiV2ray-ELiV2ray&amp;sni=www.iranserver.com&amp;fp=firefox&amp;security=reality&amp;pbk=MCR2-loliqQE2wv4HLAEUSbrgGXnkxxY8v95jQITOGA&amp;sid=2336f776#MTN2
 vless://4d1dea0c-7515-4aae-db31-6e16c8da328e@panel.eliv2ray.top:444/?type=grpc&amp;encryption=none&amp;serviceName=%40ELiV2ray-ELiV2ray&amp;sni=www.iranserver.com&amp;fp=firefox&amp;security=reality&amp;pbk=MCR2-loliqQE2wv4HLAEUSbrgGXnkxxY8v95jQITOGA&amp;sid=2336f776#MTN3
 vless://4d1dea0c-7515-4aae-db31-6e16c8da328e@panel.eliv2ray.top:444/?type=grpc&amp;encryption=none&amp;serviceName=%40ELiV2ray-ELiV2ray&amp;sni=www.iranserver.com&amp;fp=firefox&amp;security=reality&amp;pbk=MCR2-loliqQE2wv4HLAEUSbrgGXnkxxY8v95jQITOGA&amp;sid=2336f776#MTN4
-vless://2cc12839-3202-48b0-a59f-de0ab6d68bdd@facelessvoid.uk:21880?security=reality&amp;encryption=none&amp;pbk=dLnCEYLlbn2oZDFoUzTmnykrgWBaeVFTbPD_xDByPmA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=discord.com&amp;sid=194748e6#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-vless://a6197b33-2f0d-463e-87bc-9d1ad9d8e32f@88.151.194.190:8443?security=reality&amp;encryption=none&amp;pbk=zFEZYLjOxvSIs-cX73BFuMz3A19X30gXuwDtfJJRMxs&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net&amp;sid=6625f00f#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-vless://d09ad744-453d-4ff0-8306-8d09b4ce21c8@blacksnake.uk:23738?security=reality&amp;encryption=none&amp;pbk=WJ386E21D82LOILjXIPVWIDcnPM4_htXVTrqBKWjy2A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discord.com&amp;sid=bab0161f#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-vless://dcffdde1-7c4a-4361-8ca2-961251f3a023@blackmonkey.uk:35517?security=reality&amp;encryption=none&amp;pbk=uQj3GQEayrF-EubsrWd89A3g8DBPc1S6R9GLK-ykxDI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discord.com&amp;sid=1c3b838d#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edgood.king361.cf&amp;type=ws&amp;sni=edgood.king361.cf#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+vless://11684290-6acd-4a72-850c-7a58d0ea1a17@all.globalnetvpn.site:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=global.globalnetvpn.site&amp;type=ws&amp;sni=global.globalnetvpn.site#t.me/ConfigsHub
+vless://619350fe-8251-458e-90f7-20d454d74283@all.globalnetvpn.site:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=global.globalnetvpn.site&amp;type=ws&amp;sni=global.globalnetvpn.site#t.me/ConfigsHub
+vless://e44cadc4-6e97-4e35-9d4b-10ff1785a0a9@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://3628c8ee-adc5-4615-a381-256201a9a992@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://e5b41e45-b707-4ac0-8360-bc48287927cd@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://e44cadc4-6e97-4e35-9d4b-10ff1785a0a9@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://a49cb4b7-7aa3-4815-ab78-f3006bc023d2@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://3628c8ee-adc5-4615-a381-256201a9a992@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://e5b41e45-b707-4ac0-8360-bc48287927cd@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://a49cb4b7-7aa3-4815-ab78-f3006bc023d2@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://e44cadc4-6e97-4e35-9d4b-10ff1785a0a9@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://e5b41e45-b707-4ac0-8360-bc48287927cd@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://3628c8ee-adc5-4615-a381-256201a9a992@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
+vless://a49cb4b7-7aa3-4815-ab78-f3006bc023d2@detiliti.filterchy.cfd:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2#t.me/ConfigsHub
