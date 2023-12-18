@@ -106,12 +106,10 @@ Contributions are welcome! If you find any issues or want to enhance the script,
 
 
 ## Sub Link
-| Type | Link |
-|--------------|--------------|
-| Vless | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vless.txt) |
-| Vmess | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vmess.txt) |
-| SS | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/ss.txt) |
-| Trojan | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/trojan.txt) |
+| Type | Link | Type | Link |
+|--------------|--------------|--------------|--------------|
+| Vless | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vless.txt) | Vmess |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vmess.txt)|
+| ss | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/ss.txt) | Trojan |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/trojan.txt)|
 
 ## License
 
