@@ -1,5 +1,6 @@
 # Configuration Extractor
 
+[![Php](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54)](https://github.com/MhdiTaheri/V2rayCollector)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector/blob/main/LICENSE)
 ![PHP version](https://img.shields.io/badge/php-%3E%3D7.0-blue?style=for-the-badge)
 [![GitHub stars](https://img.shields.io/github/stars/MhdiTaheri/V2rayCollector?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector/stargazers)
