@@ -18,7 +18,7 @@ This Code of Conduct outlines the expectations and standards for behavior within
 
 ## Reporting Guidelines
 
-If you experience or witness any behavior that violates this Code of Conduct, please report it by contacting vip.mahditaheri@gmail.com.
+If you experience or witness any behavior that violates this Code of Conduct, please report it by contacting [Gmail](mailto:vip.mahditaheri@gmail.com).
 
 ## Enforcement Actions
 
