@@ -83,4 +83,5 @@ $telegramChannelURLs = [
 	"https://t.me/s/inikotesla",
 	"https://t.me/s/forwardv2ray",
     "https://t.me/s/EUT_VPN",
+    "https://t.me/s/ParsRoute",
 ];
