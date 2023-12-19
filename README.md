@@ -15,10 +15,6 @@ This PHP script fetches content from various Telegram channels and extracts VLES
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Files Generated](#files-generated)
 - [Contributing](#contributing)
 - [Sub](#Sub-Link)
 - [Channels](#Channels-Used)
@@ -27,35 +23,6 @@ This PHP script fetches content from various Telegram channels and extracts VLES
 ## Introduction
 
 This script is designed to retrieve configuration details for various VPN protocols (VLESS, VMess, Shadowsocks, and Trojan) from a list of Telegram channel URLs provided within the script. It uses cURL to fetch content and regular expressions to extract the configurations.
-
-## Prerequisites
-
-- **PHP**: Ensure PHP is installed on your system.
-- **cURL**: The script uses cURL, ensure it's enabled in your PHP configuration.
-
-## Usage
-
-1. Clone or download the script to your local machine.
-2. Ensure PHP is properly configured.
-3. Run the script in your PHP environment.
-
-```bash
-php bot.php
-```
-
-## How It Works
-
-- The script sets the timezone and defines functions for fetching content and extracting configurations.
-- It contains a list of Telegram channel URLs.
-- It iterates through each URL, fetching content and extracting configurations for VLESS, VMess, Shadowsocks, and Trojan.
-- Extracted configurations are saved into separate text files for each protocol.
-
-## Files Generated
-
-- **vless.txt**: Contains VLESS configurations.
-- **vmess.txt**: Contains VMess configurations.
-- **ss.txt**: Contains Shadowsocks configurations.
-- **trojan.txt**: Contains Trojan configurations.
 
 ## Contributing
 
