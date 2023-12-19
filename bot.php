@@ -97,4 +97,12 @@ file_put_contents('trojan.txt', generateTrojanConfig() . PHP_EOL . implode(PHP_E
 file_put_contents('hysteria.txt', generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . Signature());
 file_put_contents('tuic.txt', generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $alltuicConfigs) . PHP_EOL . Signature());
 file_put_contents('mix.txt', generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . implode(PHP_EOL, $alltuicConfigs) . PHP_EOL . Signature());
+// base64
+file_put_contents('vlessbase64.txt', base64_encode(generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . Signature()));
+file_put_contents('vmessbase64.txt', base64_encode(generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . Signature()));
+file_put_contents('ssbase64.txt', base64_encode(generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . Signature()));
+file_put_contents('trojanbase64.txt', base64_encode(generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . Signature()));
+file_put_contents('hysteriabase64.txt', base64_encode(generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . Signature()));
+file_put_contents('tuicbase64.txt', base64_encode(generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $alltuicConfigs) . PHP_EOL . Signature()));
+file_put_contents('mixbase64.txt', base64_encode(generateTrojanConfig() . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . implode(PHP_EOL, $alltuicConfigs) . PHP_EOL . Signature()));
 ?>
