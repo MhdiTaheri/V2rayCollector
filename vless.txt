@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-21-Dec-2023 04:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-21-Dec-2023 05:57
 vless://3ab2553a-d971-4e55-b9cd-653a6eee80e6@gr.network-nim.site:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=s.network-nim.site#%F0%9F%87%A9%F0%9F%87%AA-Germany
 vless://3ab2553a-d971-4e55-b9cd-653a6eee80e6@gr.network-nim.site:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@networknim&amp;sni=s.network-nim.site#%F0%9F%87%A9%F0%9F%87%AA-Germany
 vless://--MsV2ray--MsV2ray--MsV2ray--@de.MsV2ray.sbs:443?type=ws&amp;path=%2F&amp;host=ws.MsV2ray.sbs&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=ws.MsV2ray.sbs#@MsV2ray | All  
@@ -319,6 +319,7 @@ vless://c07a0f30-c957-45e1-a7ec-7f50b4a9a6cd@45.85.119.120:443?path=%2F&amp;secu
 vless://4a7d1ca5-120f-4b13-ade4-ae94bfe4c2f7@join-bde.vmessq.info:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@vmessq&amp;sni=frert418146.vmessq.info#Join+%40Vmessq+%7C+Sv+Finland+%F0%9F%87%AB%F0%9F%87%AE
 vless://4a7d1ca5-120f-4b13-ade4-ae94bfe4c2f7@join-bde.vmessq.info:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@vmessq&amp;sni=frert418146.vmessq.info#Join+%40Vmessq+%7C+Sv+Finland+%F0%9F%87%AB%F0%9F%87%AE  Finland 
 vless://4c5c877c-37cc-46b6-d6c7-2bfb5951c61c@185.78.20.20:57951?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Join+%40Vmessq+%7C+Sv+German+%F0%9F%87%A9%F0%9F%87%AA
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=cf-wkrs-pages-vless-aoy.pages.dev&amp;type=ws&amp;sni=cf-wkrs-pages-vless-aoy.pages.dev#%40V2ray_NG%F0%9F%87%B8%F0%9F%87%AC
 vless://95f1f90e-8d42-4fe7-e26a-64c8b292a13f@104.31.16.8:80?path=%2Fwhoiam&amp;security=none&amp;encryption=none&amp;host=helP.ShOkr.de&amp;type=ws#%40V2ray_NG%F0%9F%87%AB%F0%9F%87%AE
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.172:2087?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=baipiao1.curly-train.pages.dev&amp;type=ws&amp;sni=baipiao1.curly-train.pages.dev#%40V2ray_NG
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=baipiao1.curly-train.pages.dev&amp;type=ws&amp;sni=baipiao1.curly-train.pages.dev#%40V2ray_NG
@@ -370,7 +371,6 @@ vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@173.245.58.34:443?path=%2F%3Fed%3D2
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=pages.20230619.love&amp;type=ws&amp;sni=pages.20230619.love#%40V2eay_NG
 vless://eae76614-f990-4bc3-b544-9957b91fb2b0@maskunlimit2.api-tel.online:41485?security=reality&amp;encryption=none&amp;pbk=o-GAnBu1-OiNAWTZaaamyZCKKeXM96rcH45bE0bMhnY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=zula.ir&amp;sid=b335888870#Reality
 vless://eae76614-f990-4bc3-b544-9957b91fb2b0@mask43offer.api-tel.online:41485?security=reality&amp;encryption=none&amp;pbk=Ymo7hkOjZgk4alshxFPDlV9MeTr40yNYaHEY42wbpyQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=zula.ir&amp;sid=62f95ecce9#Reality
-vless://63806160-98e8-4ab9-9d88-f336f826152f@vipnet.api-tel.xyz:24421?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#Dubai
 vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80?security=&amp;type=tcp&amp;encryption=none#112@ShadowsocksM
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?security=tls&amp;type=ws&amp;path=/current_time&amp;encryption=none#https://t.me/ShadowsocksM
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran24.xyz:443?security=tls&amp;type=ws&amp;path=/current_time&amp;encryption=none#
