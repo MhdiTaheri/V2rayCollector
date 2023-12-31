@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-31-Dec-2023 06:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-31-Dec-2023 07:50
 vless://9cd7404f-9a58-4908-a619-feccc42af370@[::ffff:ac43:4675]:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@networknim&amp;sni=bbb.webobin.site#%40networknim
 vless://9cd7404f-9a58-4908-a619-feccc42af370@[::ffff:ac43:4675]:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@networknim&amp;sni=bbb.webobin.site#%40networknim
 vless://-MsV2ray--MsV2ray--MsV2ray-@de.MsV2ray.sbs:443?type=ws&amp;path=%2F&amp;host=ws.MsV2ray.sbs&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=ws.MsV2ray.sbs#@MsV2ray | All  
@@ -469,15 +469,6 @@ vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&amp;sec
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&amp;encryption=none&amp;seed=OXR9lTl7yj&amp;headerType=dtls&amp;type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
-vless://60828d2c-7ed3-43cc-99c6-5c215f4a2531@104.16.54.99:2087?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=tls&amp;encryption=none&amp;host=salama.config-rayegan-nufilter.space&amp;fp=chrome&amp;type=ws&amp;sni=salama.config-rayegan-nufilter.space#ConfigV2RayNG
-vless://1b0e6a05-a267-4240-f151-94200c172e5e@104.18.219.101:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram:
-vless://5c01988d-d127-4248-b6bf-5f1ad1759fdb@maz.maznet.cfd:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=
-vless://e123a614-5b1b-44c5-9767-ec0ed5dd8446@maz.maznet.cfd:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=
-vless://1b0e6a05-a267-4240-f151-94200c172e5e@104.19.14.75:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram:
-vless://1b0e6a05-a267-4240-f151-94200c172e5e@188.114.97.3:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram:
-vless://e02b44ce-b189-4f9f-8201-8806b2824752@maz.maznet.cfd:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=
-vless://Free_HTTPCustom-0@free.httpcustom.site:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=
-vless://1b0e6a05-a267-4240-f151-94200c172e5e@104.21.7.235:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram:
 vless://b20699a5-59a0-4c97-9bb3-c7d79eb810ae@forward3.maryam1700.com:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=forward33.maryam1500.top#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%40ConfigV2RayNG
 vless://CONFIG@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=High-speedV2ray.VPNCUSTOMIZE.online&amp;type=ws#ConfigV2RayNG
 vless://8a8bfbad-e6ef-4776-d62c-e790c3da5683@190.93.246.241:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=grpc&amp;serviceName=
@@ -906,6 +897,7 @@ vless://446cf1db-74f9-4f26-91ad-3acb9fc2beb0@best.configforvpn.fun:2053?mode=gun
 vless://774b9eb8-49eb-4f90-adb2-a3f1f77c82b1@www.speedtest.net:2087?path=%2F%40mahsa_net+%40azadi_az_inja_migzare&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=mah5.hasMailkoRea.storE&amp;fp=chrome&amp;type=ws&amp;sni=mah5.hasMailkoRea.storE#Mahsa+CDN-WS3
 vless://774b9eb8-49eb-4f90-adb2-a3f1f77c82b1@Mci.dgi000.store:2087?path=%2F%40mahsa_net+%40azadi_az_inja_migzare&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=mah5.hasMailkoRea.storE&amp;fp=chrome&amp;type=ws&amp;sni=mah5.hasMailkoRea.storE#Mahsa+CDN-WS4
 vless://a348801d-05df-4ffd-9c63-899aa19ba004@cdn.cheshmsabz.top:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=king.cheshmsabz.top&amp;type=ws#نامحدود
+vless://937a7b51-905f-4b5b-b30c-74fb3168479a@cdnjs.com:8080?path=%2F&amp;security=none&amp;encryption=none&amp;serviceName=@Freeiranweb&amp;host=mahdi.arvanandroid.online&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+%40Freeiranweb
 vless://4dd4d218-c21b-4e72-88ba-bc7f864fdfbb@20.199.18.216:33333?security=reality&amp;encryption=none&amp;pbk=E0Mq7rKubT_xJIECrywZK1-F52iw7qHLZOO3aJFhb3M&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=9ab107fe#%F0%9F%87%AB%F0%9F%87%B7-ParsRoute-FREE
 vless://a7ad42db-a379-4b70-9d98-526dea84bace@20.199.18.216:33333?type=tcp&amp;security=reality&amp;pbk=E0Mq7rKubT_xJIECrywZK1-F52iw7qHLZOO3aJFhb3M&amp;fp=chrome&amp;sni=www.speedtest.net&amp;sid=9ab107fe&amp;spx=%2F#%F0%9F%87%AB%F0%9F%87%B7-ParsRoute-
 vless://79432dc9-370a-4e28-bd24-8d5877e63271@20.78.121.179:44444?type=tcp&amp;security=reality&amp;pbk=6dvNuGDle8Ut5zNigsdP0mgl5dY7YG5xWF-wTu2KbT8&amp;fp=chrome&amp;sni=zula.ir&amp;sid=e754ef13&amp;spx=%2F#%F0%9F%87%AF%F0%9F%87%B5-ParsRoute-HamPingii
