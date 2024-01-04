@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-04-Jan-2024 13:48
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-04-Jan-2024 14:45
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@in01.trojanyyds.xyz:443?allowInsecure=1#%e6%97%a5%e6%9c%ac-3.76MB%2fs
@@ -13,8 +13,6 @@ trojan://74811f39-8f69-4334-9e0f-a8a25d7413c1@www.casperco.online:993#%F0%9F%87%
 trojan://2d8a021a-0ba2-4a3c-bbd1-f63b743c2920@a25.zgc.su:567#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_9
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?sni=hk03.trojanyyds.xyz#%F0%9F%87%AD%F0%9F%87%B0_HK_%E9%A6%99%E6%B8%AF_10
-trojan://telegram-id-privatevpns@13.43.230.180:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S107)
-trojan://telegram-id-privatevpns@18.171.2.217:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S108)
 trojan://telegram-id-privatevpns@3.255.27.205:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S109)
 trojan://telegram-id-privatevpns@46.137.3.49:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.51.89.69:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S111)
@@ -32,6 +30,8 @@ trojan://telegram-id-privatevpns@51.21.15.71:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@3.74.195.217:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S103)
 trojan://telegram-id-privatevpns@3.73.19.81:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S104)
 trojan://telegram-id-privatevpns@15.188.28.194:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S105)
+trojan://telegram-id-privatevpns@35.181.225.15:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S106)
+trojan://telegram-id-privatevpns@18.132.224.33:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S107)
 trojan://ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U@23.106.33.156:443?security=tls&amp;sni=scottie.golfland.club&amp;type=tcp#https://t.me/ShadowsocksM
 trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&amp;sni=hdfy7c1.foriran2.eu.org&amp;allowInsecure=1&amp;type=grpc&amp;serviceName=fYn1ncaQMA1foaK1hpquM#https://t.me/ShadowsocksM
 trojan://your_password@aws-aus-sydney-1.f1cflinea.com:443?security=tls&amp;sni=aws-aus-sydney-1.f1cflinea.com&amp;allowInsecure=1&amp;type=tcp#https://t.me/ShadowsocksM
@@ -130,5 +130,4 @@ trojan://telegram-id-privatevpns@51.20.29.96:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-directvpn@51.20.230.83:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#ConfigV2RayNG
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&amp;sni=C.1lagvpn13.cfd#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%DA%86%D9%86%D9%84+%40vpnmasi
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
-trojan://telegram-id-privatevpns@15.188.28.194:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#t.me/ConfigsHub
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
