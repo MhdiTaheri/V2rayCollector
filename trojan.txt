@@ -1,11 +1,9 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-18-Jan-2024 17:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-18-Jan-2024 18:47
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#%F0%9F%87%B0%F0%9F%87%B7.KR.%E9%9F%A9%E5%9B%BD.6
 trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?sni=lienquan.garena.vn#%F0%9F%87%BB%F0%9F%87%B3.VN.%E8%B6%8A%E5%8D%97.9
 trojan://AlphaOmegaVPN@173.245.58.51:443/?type=grpc&amp;serviceName=grpc52717&amp;security=tls&amp;sni=cdnfreepanel.1alphaomega.org&amp;alpn=h2&amp;allowInsecure=1&amp;fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%40FreakConfig
-trojan://telegram-id-privatevpns@18.171.195.88:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S108)
-trojan://telegram-id-privatevpns@54.73.5.101:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S109)
 trojan://telegram-id-privatevpns@63.33.227.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S110)
 trojan://telegram-id-privatevpns@63.33.227.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S110)
 trojan://telegram-id-privatevpns@3.127.171.227:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S111)
@@ -22,6 +20,8 @@ trojan://telegram-id-privatevpns@54.76.158.101:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@3.251.43.194:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.50.125.70:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S111)
 trojan://telegram-id-privatevpns@16.170.58.222:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S112)
+trojan://telegram-id-privatevpns@3.127.92.228:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S113)
+trojan://telegram-id-privatevpns@18.199.51.57:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S114)
 trojan://1d0a80ca-0f96-4016-ac51-c284dedd28a1@91.206.92.17:443?security=tls&amp;sni=insaneguo2333.top&amp;type=tcp#https://t.me/ShadowsocksM
 trojan://telegram-id-privatevpns@18.168.240.92:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;allowInsecure=1#https://t.me/ShadowsocksM
 trojan://telegram-id-directvpn@13.39.246.36:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;allowInsecure=1#https://t.me/ShadowsocksM
@@ -128,10 +128,12 @@ trojan://telegram-id-privatevpns@52.47.194.216:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-directvpn@44.229.138.104:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#ConfigV2RayNG
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&amp;sni=C.1lagvpn13.cfd#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%DA%86%D9%86%D9%84+%40vpnmasi
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
+trojan://6yIitAmNwb@tel.VPNCUSTOMIZE.cam:2096?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=,@VPNCUSTOMIZE&amp;sni=England-V2ray.vpncustomize.tech#
 trojan://AlphaOmegaVPN@173.245.58.51:443/?type=grpc&amp;serviceName=grpc52717&amp;security=tls&amp;sni=cdnfreepanel.1alphaomega.org&amp;alpn=h2&amp;allowInsecure=1&amp;fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%40FreakConfig
 trojan://KyiT6N1Wxo@zula.ir:80?security=none&amp;type=ws&amp;host=k01-h.cloudka.us.to&amp;path=%2F#Kiava-K1-U118
 trojan://KyiT6N1Wxo@zula.ir:80?security=none&amp;type=ws&amp;host=k02-n.cloudka.us.to&amp;path=%2F#Kiava-K2-U118
 trojan://KyiT6N1Wxo@zula.ir:80?security=none&amp;type=ws&amp;host=k03-s.cloudka.us.to&amp;path=%2F#Kiava-K3-U118
 trojan://KyiT6N1Wxo@zula.ir:80?security=none&amp;type=ws&amp;host=k04-u.cloudka.us.to&amp;path=%2F#Kiava-K4-U118
 trojan://KyiT6N1Wxo@zula.ir:80?security=none&amp;type=ws&amp;host=k05-r.cloudka.us.to&amp;path=%2F#Kiava-K5-U118
+trojan://6yIitAmNwb@190.93.246.241:2096?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android&amp;serviceName=%40VP%4eCU%53T%4f%4dI%5aE&amp;sni=England-V2ray.vpncustomize.tech#%40Archive_Android+All+Operators+-+3%F0%9F%8D%AB%F0%9F%98%90
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
