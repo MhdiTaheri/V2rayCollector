@@ -93,4 +93,5 @@ Contributions are welcome! If you find any issues or want to enhance the script,
 ## License
 
 This script is licensed under the [MIT License](LICENSE).
-
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=MhdiTaheri/V2rayCollector&type=Date)](https://star-history.com/#MhdiTaheri/V2rayCollector&Date)
