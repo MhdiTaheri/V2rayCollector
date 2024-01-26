@@ -7,7 +7,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MhdiTaheri/V2rayCollector?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/MhdiTaheri/V2rayCollector?style=for-the-badge)
 
-
+> [!NOTE]  
+> The Bot is on the way to a new update and will be released soon
 
 This PHP script fetches content from various Telegram channels and extracts VLESS, VMess, Shadowsocks, and Trojan configurations. It then organizes and saves them into separate text files.
 
