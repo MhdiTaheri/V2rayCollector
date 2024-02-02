@@ -40,10 +40,10 @@ Contributions are welcome! If you find any issues or want to enhance the script,
 
 | Type | Link | Type | Link |
 |--------------|--------------|--------------|--------------|
-| **Vless (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vlessbase64.txt) | **Vmess (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vmessbase64.txt)|
-| **ss (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/ssbase64.txt) | **Trojan (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/trojanbase64.txt)|
-| **tuic (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/tuicbase64.txt) | **hysteria (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/hysteriabase64.txt)|
-| **MIX (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/mixbase64.txt)|
+| **Vless (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vlessbase64) | **Vmess (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vmessbase64)|
+| **ss (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/ssbase64) | **Trojan (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/trojanbase64)|
+| **tuic (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/tuicbase64) | **hysteria (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/hysteriabase64.txt)|
+| **MIX (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/mixbase64)|
 
 ## Channels Used
 
