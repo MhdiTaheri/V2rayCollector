@@ -32,10 +32,10 @@ Contributions are welcome! If you find any issues or want to enhance the script,
 ## Sub Link
 | Type | Link | Type | Link |
 |--------------|--------------|--------------|--------------|
-| **Vless (Normal)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vless.txt) | **Vmess (Normal)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/vmess.txt)|
-| **ss (Normal)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/ss.txt) | **Trojan (Normal)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/trojan.txt)|
-| **tuic (Normal)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/tuic.txt) | **hysteria (Normal)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/hysteria.txt)|
-| **MIX (Normal)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/mix.txt)|
+| **Vless (Normal)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vless) | **Vmess (Normal)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vmess)|
+| **ss (Normal)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/ss) | **Trojan (Normal)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/trojan)|
+| **tuic (Normal)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/tuic) | **hysteria (Normal)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/hysteria)|
+| **MIX (Normal)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/mix)|
 
 
 | Type | Link | Type | Link |
