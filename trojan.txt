@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-02-Feb-2024 15:57
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-02-Feb-2024 16:47
 trojan://6142def766c332f126d4131d01d96d66f6916c0220fe773571aa6bfce531ddbc@fre.webobin.site:443?mode=gun&amp;security=tls&amp;alpn=http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=9c7e8249-de8c-4fc4-ba70-180287706bf0___b6dadac833b41f5d46c0eb29e7c9e651&amp;sni=fre.webobin.site#%40networknim
 trojan://2d87850f263eca3b6ad32686235d56da34bf9b80c34998aaa023aa230096b137@fre.webobin.site:443?path=%2F9c7e8249-de8c-4fc4-ba70-180287706bf0%2Fd96aaf69def381a18e87f575dc0cde8d&amp;security=tls&amp;alpn=http/1.1&amp;host=fre.webobin.site&amp;fp=chrome&amp;type=ws&amp;sni=fre.webobin.site#%40networknim
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
@@ -14,8 +14,6 @@ trojan://8089420e-7955-4e1e-8b87-ca48fc5b2eae@aa015.zhuan99.men:10015?sni=zhu.99
 trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10850?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_7
 trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10838?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_9
 trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10837?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_10
-trojan://telegram-id-privatevpns@51.21.9.149:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S111)
-trojan://telegram-id-privatevpns@13.50.121.165:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S112)
 trojan://telegram-id-privatevpns@35.156.129.20:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S113)
 trojan://telegram-id-privatevpns@18.156.123.121:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S114)
 trojan://telegram-id-privatevpns@13.36.46.175:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S115)
@@ -33,6 +31,8 @@ trojan://telegram-id-privatevpns@15.237.227.42:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@35.177.97.162:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S107)
 trojan://telegram-id-privatevpns@3.9.116.251:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S108)
 trojan://telegram-id-privatevpns@54.229.173.143:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S109)
+trojan://telegram-id-privatevpns@34.241.68.249:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S110)
+trojan://telegram-id-privatevpns@16.170.190.245:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S111)
 trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@vpnhat.liangyuandiancloud.com:443/?type=tcp&amp;security=tls#
 trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@vpnpool.liangyuandiancloud.com:443/?type=tcp&amp;security=tls#
 trojan://share.mjj-home.com@185.212.56.168:443/?type=tcp&amp;security=tls&amp;sni=tw.softbank.mjj-home.com#
@@ -113,4 +113,5 @@ trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1
 trojan://1@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=redproxy.xyz&amp;type=ws#1  vless://18a511e4-6e33-4bdd-ac2d-c9cf564f6c…
+trojan://i5puPOYXNf@www.speedtest.net:80?path=%2F&amp;security=none&amp;host=s9.in01.tech&amp;type=ws#100GV2ray
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
