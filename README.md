@@ -42,7 +42,7 @@ Contributions are welcome! If you find any issues or want to enhance the script,
 |--------------|--------------|--------------|--------------|
 | **Vless (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vlessbase64) | **Vmess (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vmessbase64)|
 | **ss (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/ssbase64) | **Trojan (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/trojanbase64)|
-| **tuic (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/tuicbase64) | **hysteria (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/hysteriabase64.txt)|
+| **tuic (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/tuicbase64) | **hysteria (Base64)** |[Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/hysteriabase64)|
 | **MIX (Base64)** | [Link](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/mixbase64)|
 
 ## Channels Used
