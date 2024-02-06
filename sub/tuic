@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Feb-2024 06:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Feb-2024 07:40
 
 
 
@@ -50,9 +50,8 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tc
 
 
 
-tuic://670998c6-a78f-43cc-86aa-29292476e040:dongtaiwang.com@64.110.25.10:33445/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=bing.com&amp;alpn=h3&amp;allow_insecure=1#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20%28TUIC1%29
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=bing.com&amp;alpn=h3&amp;allow_insecure=1#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20%28TUIC2%29
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20%28TUIC3%29
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20%28TUIC2%29
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20%28TUIC1%29
 
 
 
@@ -82,7 +81,8 @@ tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:44
 
 
 
-
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20%28TUIC2%29
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20%28TUIC1%29
 tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@108.181.22.155:12255/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://670998c6-a78f-43cc-86aa-29292476e040:dongtaiwang.com@64.110.25.10:33445/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
