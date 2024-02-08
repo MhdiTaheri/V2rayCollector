@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-08-Feb-2024 05:11
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-08-Feb-2024 05:45
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -730,15 +730,7 @@ vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fc
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
 vless://d22fab5a-7292-4463-bd68-f331fdaa9926@time.is:443?type=ws&amp;host=cdn.cc2.maroon-shimi.ir&amp;path=/khak-to-saret-filterchi&amp;security=tls&amp;fp=chrome&amp;sni=cdn.cc2.maroon-shimi.ir&amp;fragment=10-20,1-3,tlshello#IOS
-vless://SVNTEAM@www.speedtest.net:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SvnTeam-V2ray-Two.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.com&amp;type=ws#Tiv2ray2++%F0%9F%8D%80%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#Tiv2ray2++%F0%9F%8D%80%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86
-vless://792145b6-bbcd-41b2-bf80-1a17958ce0b7@173.245.59.16:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=p9AYr8.shOkr.De&amp;type=ws#Tiv2ray2++%F0%9F%8D%80%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.196.138:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=baipiao406.stunning-bassoon.pages.dev&amp;type=ws&amp;sni=baipiao406.stunning-bassoon.pages.dev#Tiv2ray2++%F0%9F%8D%80%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86
-vless://fafcd6a9-07b2-4185-a4e8-a2e5abf8035c@Finland.v2rayngz.com:2087?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;security=reality&amp;serviceName=Telegram%3A%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official%2C%40Titaniom_Official&amp;sni=sourceforge.net&amp;type=grpc#7
-vless://94fd9e77-1804-4d25-a8e1-c5b5ba514063@65.109.203.49:10974?encryption=none&amp;fp=chrome&amp;pbk=QbLsx0oV7dQVz4wXbm1ggmEVQ_bQKqiWHXa1sjsntGM&amp;security=reality&amp;sid=9c55cb07&amp;sni=Chir&amp;type=grpc#2
-vless://5f8c9ef2-d6a5-4ef2-bc68-eeef97f6b6af@23.88.47.9:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=9o7f3Rkn6BUL_emZVS6yMoVu8OoTozpOKlkc7JaUSQ8&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=1fefa3a0&amp;sni=%2A.hetzner.com&amp;spx=%2F&amp;type=grpc#4
-vless://974d4696-a900-4d44-b627-9833b8a7b27a@51.75.86.63:443?alpn=http%2F1.1&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;fp=edge&amp;pbk=UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8&amp;security=reality&amp;sid=d73382b02fa94fc2&amp;sni=flightradar24.com&amp;type=tcp#9
-vless://d5ed6cb7-7088-4ebb-9240-e12d241ca81f@reversereality2.cpionline.us:443?encryption=none&amp;fp=chrome&amp;mode=gun&amp;pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&amp;security=reality&amp;serviceName=&amp;sni=reversereality2.cpionline.us&amp;type=grpc#6
+
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
