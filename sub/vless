@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-09-Feb-2024 05:10
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-09-Feb-2024 05:44
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -722,21 +722,12 @@ vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fc
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
 vless://d22fab5a-7292-4463-bd68-f331fdaa9926@time.is:443?type=ws&amp;host=cdn.cc2.maroon-shimi.ir&amp;path=/khak-to-saret-filterchi&amp;security=tls&amp;fp=chrome&amp;sni=cdn.cc2.maroon-shimi.ir&amp;fragment=10-20,1-3,tlshello#IOS
-vless://2491b9f0-fd22-4d44-a615-bc7fa456339d@caca.pubgji.eu.org:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&amp;sni=go-to-hell.savarkaraan.ir#%E3%80%8A%F0%9F%87%A8%F0%9F%87%A6CA%F0%9F%87%A8%F0%9F%87%A6VPNCTVIP%E3%80%8B
-vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&amp;flow=&amp;fp=chrome&amp;pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&amp;security=reality&amp;sid=57b65cc1b228c7c1&amp;sni=upmusics.com&amp;type=grpc#13
-vless://3c9815c6-6ca2-41a1-a110-7d81d6c52a94@without.digikalashiraz.sbs:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=vtDZUwb2kAvssvz2vfKH27G-PQ5u1WcqSD_cw47jVRQ&amp;security=reality&amp;serviceName=&amp;sid=fac65216&amp;sni=7learn.com&amp;spx=%2F&amp;type=grpc#4
-vless://974d4696-a900-4d44-b627-9833b8a7b27a@51.75.86.63:443?alpn=http%2F1.1&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;fp=edge&amp;pbk=UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8&amp;security=reality&amp;sid=d73382b02fa94fc2&amp;sni=flightradar24.com&amp;type=tcp#14
-vless://94fd9e77-1804-4d25-a8e1-c5b5ba514063@65.109.203.49:10974?encryption=none&amp;fp=chrome&amp;mode=gun&amp;pbk=QbLsx0oV7dQVz4wXbm1ggmEVQ_bQKqiWHXa1sjsntGM&amp;security=reality&amp;serviceName=&amp;sid=9c55cb07&amp;sni=Chir&amp;type=grpc#8
-vless://518aa910-411c-421a-9cae-7fd90ece7752@finland.nodes.mrzb.artydev.ru:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;headerType=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;security=reality&amp;sni=cdn.discordapp.com&amp;type=tcp#3
-vless://17862058-afa4-42a7-bba8-a264aed1ecc1@104.22.75.105:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=hadis.mosavi0.workers.Dev&amp;fp=chrome&amp;type=ws&amp;sni=hadis.mosavi0.workers.Dev#%D8%A7%D9%87%D8%AF%D8%A7%DB%8C%DB%8C
 vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.21.64.117:8080?path=%2F%40x2rayn_vpnCDN%3Fed%3D2090&amp;security=none&amp;encryption=none&amp;host=DE.AWLONE.EU.ORG&amp;type=ws#%40@TV_v2ray
 vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.18.202.232:8080?path=%2F%40x2rayn_vpnCDN%3Fed%3D2090&amp;security=none&amp;encryption=none&amp;host=IT.AWLONE.EU.ORG&amp;type=ws#%40@TV_v2ray
 vless://cce2f72e-a166-4563-be4f-59392881c9d8@195.201.238.126:443?security=none&amp;encryption=none&amp;host=irnode1.check-host.com&amp;headerType=http&amp;type=tcp#%40@TV_v2ray
-vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.21.64.117:8080?path=%2F%40x2rayn_vpnCDN%3Fed%3D2090&amp;security=none&amp;encryption=none&amp;host=DE.AWLONE.EU.ORG&amp;type=ws#[
 vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.18.202.232:8080?path=%2F%40x2rayn_vpnCDN%3Fed%3D2090&amp;security=none&amp;encryption=none&amp;host=IT.AWLONE.EU.ORG&amp;type=ws#[
 vless://cce2f72e-a166-4563-be4f-59392881c9d8@195.201.238.126:443?security=none&amp;encryption=none&amp;host=irnode1.check-host.com&amp;headerType=http&amp;type=tcp#[
-vless://d5ed6cb7-7088-4ebb-9240-e12d241ca81f@csghydx.pubgji.eu.org:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=reversereality2.cpionline.us#%E3%80%8A%F0%9F%87%A9%F0%9F%87%AA%D8%A7%D9%84%D9%85%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AAVPNCTVIP%E3%80%8B
-vless://d5ed6cb7-7088-4ebb-9240-e12d241ca81f@csghydx.pubgji.eu.org:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=reversereality2.cpionline.us#%E3%80%8A%F0%9F%87%A9%F0%9F%87%AA%D8%A7%D9%84%D9%85%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AAVPNCTVIP%E3%80%8B
+vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.21.64.117:8080?path=%2F%40x2rayn_vpnCDN%3Fed%3D2090&amp;security=none&amp;encryption=none&amp;host=DE.AWLONE.EU.ORG&amp;type=ws#[
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
