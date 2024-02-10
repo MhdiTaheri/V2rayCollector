@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-10-Feb-2024 02:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-10-Feb-2024 04:04
 
 
 
@@ -181,7 +181,13 @@ trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;
 
 
 
-
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@upload.ir:443?path=%2Fpq%2Fjp1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=p2jp1.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=p2jp1.pqjc.buzz#proxy_mtm
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@zula.ir:443?path=%2Fpq%2Fsg1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=psg1.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=psg1.pqjc.buzz#%40proxy_mtm
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@upload.ir:443?path=%2Fpq%2Fjp2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=2jp3.pqjc.buzz&amp;fp=firefox&amp;type=ws&amp;sni=2jp3.pqjc.buzz#%40proxy_mtm
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@zula.ir:443?path=%2Fpq%2Fus2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=3us2.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=3us2.pqjc.buzz#proxy_mtm
+trojan://17f4087c-d014-491e-b89c-c54391fda9cd@spaescalesante.com:443?path=%2Fpq%2Fjp1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=2jp2.pqjc.buzz&amp;fp=firefox&amp;type=ws&amp;sni=2jp2.pqjc.buzz#proxy_mtm
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@discord.com:443?path=%2Fpq%2Fjp2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=2jp4.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=2jp4.pqjc.buzz#proxy_mtm
+trojan://17f4087c-d014-491e-b89c-c54391fda9cd@discord.com:443?path=%2Fpq%2Fus3&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=6us3.pqjc.buzz&amp;fp=safari&amp;type=ws&amp;sni=6us3.pqjc.buzz#%40proxy_mtm
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
