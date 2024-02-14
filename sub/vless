@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-14-Feb-2024 05:12
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-14-Feb-2024 05:45
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -933,14 +933,23 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 
-vless://cf7b57db-b47f-47f7-b67c-26ef50740b58@104.17.101.35:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch8.sa7.shop&amp;type=ws#[
-vless://5547a590-ee27-48a8-a386-fbddf21ced23@31.40.4.105:8443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7+T%C3%BCrkiye+++%F0%9F%9F%A2+%40VPNHTTPInjectorfree++%F0%9F%A9%B7+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84++%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%F0%9F%A9%B7
-vless://dbff34ab-eb96-441d-9f07-30f0a7776037@49.13.69.46:56078?encryption=none&amp;fp=chrome&amp;headerType=none&amp;pbk=SUCJ94wKPUdfkBJw8VnANql6kevueb6EyA71C3AfKFs&amp;security=reality&amp;sid=bf44fc2c&amp;sni=canva.com&amp;type=tcp#7
-vless://cb00ef4a-fcf7-484a-8c49-6a2422ed84e6@188.34.194.108:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=W6ol7KU4fjV1mBS2aG_xs8emIKsqF8y6Ufva-2MRa20&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=9d2b63ad&amp;sni=ftp.debian.org&amp;spx=%2F&amp;type=grpc#4
-vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&amp;flow=&amp;fp=chrome&amp;pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&amp;security=reality&amp;sid=57b65cc1b228c7c1&amp;sni=upmusics.com&amp;type=grpc#8
-vless://021e1111-e6d9-4f6c-a1b8-03a70b6e4540@49.13.149.114:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=gqIyM6we26p1RDqHL-X9iB7OEkNVTf5M1-hZ85bukSI&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=23e8beee&amp;sni=%2A.nareezacademy.com&amp;spx=%2F&amp;type=grpc#2
-vless://1156d4f5-2782-4eaa-a94a-19fd60cb7471@164.90.144.213:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=nHbSnSCCS5A-lJoUpeUhg5pMHsaEpDIAAUGHkY0I3G8&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=6b43158a&amp;sni=%2A.feat.agency&amp;spx=%2F&amp;type=grpc#1
-vless://5547a590-ee27-48a8-a386-fbddf21ced23@31.40.4.105:8443?type=tcp&amp;path=%2FAna_Service&amp;headerType=http&amp;security=none#%F0%9F%87%B9%F0%9F%87%B7+T%C3%BCrkiye+++%F0%9F%9F%A2+%40VPNHTTPInjectorfree++%F0%9F%A9%B7+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84++%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%F0%9F%A9%B7
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=w1.sylar8.eu.org&amp;type=ws&amp;sni=w1.sylar8.eu.org#%40v2raying
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=always-online1.lp-airdrop.top&amp;fp=randomized&amp;type=ws&amp;sni=always-online1.lp-airdrop.top#%40v2raying
+vless://4dd6004c-c710-485c-a70f-3bed83e8540c@104.16.123.175:8080?path=%2F%40Arthas_vpn&amp;security=none&amp;encryption=none&amp;host=mandlahe.huondadalioshop.ir&amp;type=ws#%40v2raying
+vless://4357483a-58b1-4861-a08e-5b790dae8131@104.19.101.129:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch7.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+30.0+GB+%7C+3d
+vless://5afae0e7-db70-4be6-a234-8620834f62db@104.16.23.29:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch6.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+30.0+GB+%7C+4d
+vless://a938521a-ba14-44fa-b630-7308a9b54547@104.17.101.35:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch8.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+10.0+GB+%7C+5d
+vless://51c26e11-e598-4d5e-b44d-1eb581846594@104.16.23.29:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch6.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+20.0+GB+%7C+3d
+vless://a0ff288e-e23d-48bb-bc44-79f5f8d84427@104.17.101.35:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch8.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+40.0+GB+%7C+4d
+vless://9a91d8c0-b5fe-42b2-a68b-7d58b54b7353@104.19.101.129:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch7.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+30.0+GB+%7C+5d
+vless://9406ff80-7b4a-4898-8342-3c9361520ce1@104.17.101.35:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch8.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+40.0+GB+%7C+5d
+vless://82ab7793-979d-436f-a3f6-2c2f83880e94@www.unpkg.com:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch5.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+10.0+GB+%7C+5d
+vless://82c480a6-29fd-4bd7-bbb2-e62bfc97fe15@104.17.101.35:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch8.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+20.0+GB+%7C+4d
+vless://60ea648e-2888-430d-8ce3-833e13dc9154@104.16.23.29:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch6.sa8.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+30.0+GB+%7C+5d
+vless://aa14519c-8e66-49f9-ba16-908cf496076b@104.19.101.129:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch7.sa7.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+20.0+GB+%7C+4d
+vless://7ce29a07-1acb-44d4-a983-7cc778f6fa54@104.16.23.29:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch6.sa7.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+40.0+GB+%7C+5d
+vless://8e7c04ae-087d-4771-b75c-bf6d4f725baf@104.19.101.129:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch7.sa7.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+20.0+GB+%7C+5d
+vless://cf7b57db-b47f-47f7-b67c-26ef50740b58@104.17.101.35:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch8.sa7.shop&amp;type=ws#%E2%9C%85+%40Cafing_vpn+%7C+40.0+GB+%7C+2d
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
