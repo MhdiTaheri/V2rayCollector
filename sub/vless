@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-15-Feb-2024 04:07
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-15-Feb-2024 05:11
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -907,16 +907,13 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 
-vless://ef3ac28c-1874-47bb-b26d-bcc9ea1ebfd9@buy.g4.videoshopgame.online:6978?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=discord.com#
-vless://a4faf5d8-b9a8-433e-9518-2d2e21d76f78@104.18.190.52:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=nginx.nirevil.ir&amp;fp=chrome&amp;type=ws&amp;sni=nginx.nirevil.ir#
-vless://021e1111-e6d9-4f6c-a1b8-03a70b6e4540@128.140.73.69:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=pFIXFBUWlfxKzjMQG4k7RxZrtHbbROURhe61gbKTOzM&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=mail.albasir.in&amp;sid=23e8beee#
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=w1.sylar8.eu.org&amp;type=ws&amp;sni=w1.sylar8.eu.org#
-vless://3e9910cf-26fb-4b8f-bc8e-5a1fd221b1da@www.speedtest.net:80?path=%2Fgsmxserver&amp;security=none&amp;encryption=none&amp;host=ws2.gsmvx.com&amp;type=ws#
-vless://e8d5dba1-64e9-46ec-9aeb-70da5a6fe19f@104.31.16.9:80?host=lashashin.garayane.xbox.heydas.heydasgermany.name.ng&amp;security=none&amp;type=ws&amp;path=%2F&amp;encryption=none#
-vless://3c110307-dcf0-4002-b944-6d2c9530dd23@Telegram.icv2ray.top:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;serviceName=%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e&amp;sni=dash.%7a%65%64%6d%6f%64%65%6f%6e.lat#
-vless://35529d09-bc2a-47bf-a8bc-65703cd95247@all.icv2ray.top:25365/?type=grpc&amp;encryption=none&amp;serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;serviceName=%40%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e&amp;sni=sourceforge.net&amp;fp=chrome&amp;security=reality&amp;pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&amp;sid=fc790928#
-vless://c396675b-8d10-456b-b311-643c2d52c69b@maz.maznet.cfd:2083?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=join20.maznet.cfd&amp;fp=chrome&amp;type=ws&amp;sni=join20.maznet.cfd#
+vless://094477e5-e8ee-4833-8051-1c3a27426c17@104.16.23.29:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ch6.sa9.shop&amp;type=ws#
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@all.icv2ray.top:25365?encryption=none&amp;fp=chrome&amp;pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&amp;security=reality&amp;serviceName=%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON&amp;sid=fc790928&amp;sni=sourceforge.net&amp;type=grpc#
+vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&amp;flow=&amp;fp=chrome&amp;pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&amp;security=reality&amp;sid=57b65cc1b228c7c1&amp;sni=upmusics.com&amp;type=grpc#
+vless://fc6ef02f-aaca-477d-8609-c7c1537f8a6f@95.217.222.125:443?encryption=none&amp;fp=chrome&amp;mode=gun&amp;pbk=uvwIRRB8ZUmTdcXmRkonO6Dh23b0RDa2iPRgWQUMFBw&amp;security=reality&amp;serviceName=&amp;sid=7e4444ac&amp;sni=s13.norbertpro.site&amp;spx=%2F&amp;type=grpc#
+vless://d04363b7-306d-4f68-9ff3-46fed9eb693f@15.235.203.5:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=rl3b7Kvk25jVW05W6bVTgwxKEflNPU2SnPYT6r6anCg&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=d9f06ec4&amp;sni=kohchangartstudio.com&amp;spx=%2F&amp;type=grpc#
+vless://9ffd7abc-6d40-46a2-b0d6-71c2d1f1fcd6@165.232.87.109:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=mZ55nxRoRWqdnZH5lDRenJTJmeKrfXl6gbkU2gtn6XE&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=727f53e2&amp;sni=mail.feedthemplants.com&amp;spx=%2F&amp;type=grpc#
+vless://tel-deli-servers@37.32.10.95:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
