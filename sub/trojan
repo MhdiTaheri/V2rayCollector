@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-16-Feb-2024 07:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-16-Feb-2024 08:40
 
 
 
@@ -159,7 +159,14 @@ trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;
 
 
 
-
+trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@sk01.trojanyyds.xyz:443?security=tls&amp;allowInsecure=1&amp;type=tcp#
+trojan://b3902e81-6260-4932-bcc9-708445fe40b4@frt2.sshocean.net:443?security=tls&amp;sni=frt2.sshocean.net&amp;allowInsecure=1&amp;type=tcp#
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls&amp;allowInsecure=1&amp;type=tcp#
+trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@kh.mjt000.com:443?security=tls&amp;sni=kh.mjt000.com&amp;allowInsecure=1&amp;type=tcp#
+trojan://d4e41ff772c7fd45@5.44.249.42:3306?security=tls&amp;allowInsecure=1&amp;type=tcp#
+trojan://95af4fd9-3b0a-3af6-8836-982739fed565@euro.nextloink.com:16217?security=tls&amp;sni=eplcgame.com&amp;allowInsecure=1&amp;type=tcp#
+trojan://469ed42e-2905-3aec-a622-e8dae2100813@backcn.rmanluo.top:443?security=tls&amp;sni=backcn.rmanluo.top&amp;allowInsecure=1&amp;type=tcp#
+trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&amp;sni=sbank.ir&amp;allowInsecure=1&amp;type=tcp#
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
