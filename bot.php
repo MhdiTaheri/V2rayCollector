@@ -19,7 +19,7 @@ function fetchContent($url) {
 }
 
 function extractConfigurations($content) {
-    $vlessPattern = "(vless:\/\/[^\#\s\n]*)(\#[^\s\n<]+)";
+    $vlessPattern = '/vless:\/\/[^<>\'"]+/';
     $vmessPattern = '/vmess:\/\/[^<>\'"]+/';
     $ssPattern = '/ss:\/\/[^<>\'"]+/';
     $trojanPattern = '/trojan:\/\/[^<>\'"]+/';
