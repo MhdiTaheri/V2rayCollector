@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-17-Feb-2024 07:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-17-Feb-2024 08:39
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -430,6 +430,7 @@ vless://--DIGIV2RAY---@190.93.247.155:2087?path=%2FDigiV%3Fed%3D2048&amp;securit
 vless://etZgxHJS6cpk1ZGjXt9WuE@185.39.18.77:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=microsoft.com&amp;fp=chrome&amp;security=reality&amp;pbk=uR_iiQ5thhk8Zj2gazpySDUpkyjAKcICMmgPqzhKrRg&amp;sid=f2552204f500c521#%F0%9F%87%B3%F0%9F%87%B1-NL-vless
 vless://48c16dd7-1cd2-472a-9055-416ae126a9e3@cdb1.mazedownloader.lol:443?path=%2Fsegws%2F18541%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barbarians.segstar.info&amp;fp=chrome&amp;type=ws&amp;sni=apis.segstar.info#%F0%9F%87%A9%F0%9F%87%AA-DE-CDN-2
 vless://215b2dc7-8b84-4974-bdee-10969221046d@172.64.202.215:8443?path=%2Fws%2F&amp;security=tls&amp;encryption=none&amp;host=telegram-ailumao.lp-airdrop.top&amp;fp=chrome&amp;type=ws&amp;sni=telegram-ailumao.lp-airdrop.top#%F0%9F%AB%A1+%40v2rayNG_VPN
+vless://26455f11-c2e3-4757-a25b-6bf1849a4532@cda1.mazedownloader.lol:443?path=%2Fsegws%2F59340%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barbarians.segstar.info&amp;fp=chrome&amp;type=ws&amp;sni=apiss.segstar.info#%F0%9F%87%A9%F0%9F%87%AA-DE-CDN-1
 vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ge1.v2vml.ga&amp;type=ws&amp;sni=ge1.v2vml.ga#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&amp;encryption=none&amp;seed=OXR9lTl7yj&amp;headerType=dtls&amp;type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 
@@ -754,6 +755,7 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 
+vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=FR.meberplus.site&amp;type=ws#
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=IT.meberplus.site&amp;type=ws#
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Uk.meberplus.site&amp;type=ws#
 
@@ -1732,6 +1734,7 @@ ss://eyJhZGQiOiIxMDQuMjAuMjMxLjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Q
 ss://eyJhZGQiOiJzZXJ2ZXIxMC5iZWhlc2h0YmFuZWguY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY2ZDRhZjFjLWZjYzMtNDc5Yi04NDdjLTMyNjAyNTNlMWZhYSIsIm5ldCI6IndzIiwicGFja2V0X2VuY29kaW5nIjoiIiwicGF0aCI6Ii8iLCJwb3J0IjoiODg4MCIsInBzIjoiQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://48c16dd7-1cd2-472a-9055-416ae126a9e3@cdb1.mazedownloader.lol:443?path=%2Fsegws%2F18541%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barbarians.segstar.info&amp;fp=chrome&amp;type=ws&amp;sni=apis.segstar.info#%F0%9F%87%A9%F0%9F%87%AA-DE-CDN-2
 ss://215b2dc7-8b84-4974-bdee-10969221046d@172.64.202.215:8443?path=%2Fws%2F&amp;security=tls&amp;encryption=none&amp;host=telegram-ailumao.lp-airdrop.top&amp;fp=chrome&amp;type=ws&amp;sni=telegram-ailumao.lp-airdrop.top#%F0%9F%AB%A1+%40v2rayNG_VPN
+ss://26455f11-c2e3-4757-a25b-6bf1849a4532@cda1.mazedownloader.lol:443?path=%2Fsegws%2F59340%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barbarians.segstar.info&amp;fp=chrome&amp;type=ws&amp;sni=apiss.segstar.info#%F0%9F%87%A9%F0%9F%87%AA-DE-CDN-1
 ss://eyJhZGQiOiJ5aW5nLW1vYmxlLmdhdGtucWguY24iLCJ2IjoyLCJwcyI6IvCfh6jwn4ezX0NOX+S4reWbvS0+8J+HuPCfh6xfU0df5paw5Yqg5Z2hIiwicG9ydCI6NDAyMjgsImlkIjoiZmIxNjQ1ZjctMDY4YS0zYjQwLWE5YmYtNWM0OWJiMWJmNGUxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
 ss://eyJhZGQiOiJzdG9jay5ob3N0bW9uaXQuY29tIiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm70tPvCfh7jwn4esX1NHX+aWsOWKoOWdoSIsInBvcnQiOjQ0MywiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3NoaXJrZXIiLCJob3N0Ijoic2ctb3ZoLnNoYXJlY2VudHJlLm9ubGluZSJ9
 ss://eyJhZGQiOiJ5aW5nLXVuaWNvbS5nYXRrbnFoLmNuIiwidiI6MiwicHMiOiLwn4eo8J+Hs19DTl/kuK3lm70tPvCfh6fwn4etX0JIX+W3tOaelyIsInBvcnQiOjQwMjI0LCJpZCI6ImZiMTY0NWY3LTA2OGEtM2I0MC1hOWJmLTVjNDliYjFiZjRlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
@@ -2331,6 +2334,8 @@ ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&am
 ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@13.43.191.243:443#
+ss://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=FR.meberplus.site&amp;type=ws#
 ss://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=IT.meberplus.site&amp;type=ws#
 ss://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Uk.meberplus.site&amp;type=ws#
 
