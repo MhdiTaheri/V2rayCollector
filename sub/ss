@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 01:37
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 02:38
 ss://eyJhZGQiOiJmcmVlZS53ZWJvYmluLnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlYm16OHdvLkFIRVNQRDIubWNpLmlyLCByZWJtejh3by5zcGVlZHRlc3QxLnNoYXRlbC5pciwgcmVibXo4d28uYWh2YXoxLmlyYW5jZWxsLmlyLCByZWJtejh3by5pbnRyYXNwZWVkdGVzdDIubW9iaW5uZXQuaXIsIHJlYm16OHdvLmF1dG91cC5pciwgcmVibXo4d28uc3BlZWR0ZXN0LmZwZ2MuaXIsIHJlYm16OHdvLnNwZWVkLmF0aW5ldC5pciwgcmVibXo4d28uZndsYi5hcmFzcGF5YW0uY29tIiwiaWQiOiIzNzg2NDA5NS1iZTlhLTQzYzUtOTQ5ZS03MTdmYTQ5NDNiZWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL24zSkh1eHNxL0s4U2x6YWdtNm9Lb0JHL1EzTlpUTUhIUTF0SXhXL3F5VlVuYzVDZEpHQi90ak82Z3pucU1vIiwicG9ydCI6IjE1MDM0IiwicHMiOiIo8J+HqfCfh6ogbmV0d29ya25pbSkiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJmcmVlZS53ZWJvYmluLnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlYm16OHdvLkFIRVNQRDIubWNpLmlyLCByZWJtejh3by5zcGVlZHRlc3QxLnNoYXRlbC5pciwgcmVibXo4d28uYWh2YXoxLmlyYW5jZWxsLmlyLCByZWJtejh3by5pbnRyYXNwZWVkdGVzdDIubW9iaW5uZXQuaXIsIHJlYm16OHdvLmF1dG91cC5pciwgcmVibXo4d28uc3BlZWR0ZXN0LmZwZ2MuaXIsIHJlYm16OHdvLnNwZWVkLmF0aW5ldC5pciwgcmVibXo4d28uZndsYi5hcmFzcGF5YW0uY29tIiwiaWQiOiIzNzg2NDA5NS1iZTlhLTQzYzUtOTQ5ZS03MTdmYTQ5NDNiZWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL24zSkh1eHNxL0s4U2x6YWdtNm9Lb0JHL1EzTlpUTUhIUTF0SXhXL3F5VlVuYzVDZEpHQi90ak82Z3pucU1vIiwicG9ydCI6IjE1MDM0IiwicHMiOiIo8J+HqfCfh6ogbmV0d29ya25pbSkiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
@@ -901,6 +901,8 @@ ss://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=non
 ss://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vipvpn_v2ray%F0%9F%92%AF  
 
 
+ss://7a50ca41-d663-4231-b165-e0bfeafa59ec@chanel2.gold15.ir:443?type=grpc&amp;serviceName=okala.com&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=chanel2.gold15.ir#%40beta_v2ray
+ss://7a50ca41-d663-4231-b165-e0bfeafa59ec@chanel2.gold15.ir:443?type=grpc&amp;serviceName=okala.com&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=chanel2.gold15.ir#%40beta_v2ray  
 ss://eyJhbHBuIjoiIiwibmV0Ijoid3MiLCJ0bHMiOiJub25lIiwiYWRkIjoiNDUuODcuMTU1LjcwIiwic2VydmljZU5hbWUiOiJub25lIiwicGF0aCI6Ilwvdm1lc3MiLCJwcyI6Itiz2LHZiNixINio24zYtNiq2LEg2K/YsSA9PiBAYmV0YV92MnJheSIsImZwIjoiIiwiaGVhZGVyVHlwZSI6IiIsInR5cGUiOiJub25lIiwic2VlZCI6IiIsImlkIjoiODhjMGExZmItZmM0ZC00ZWFiLTg1YzctNGRkODQ0MDdlOWE1IiwiYWlkIjoiMCIsInYiOiIyIiwic25pIjoiIiwicG9ydCI6Ijg4ODAiLCJob3N0IjoiIn0=
 ss://eyJhbHBuIjoiIiwibmV0Ijoid3MiLCJ0bHMiOiJub25lIiwiYWRkIjoiNDUuODcuMTU1LjcwIiwic2VydmljZU5hbWUiOiJub25lIiwicGF0aCI6Ilwvdm1lc3MiLCJwcyI6Itiz2LHZiNixINio24zYtNiq2LEg2K/YsSA9PiBAYmV0YV92MnJheSIsImZwIjoiIiwiaGVhZGVyVHlwZSI6IiIsInR5cGUiOiJub25lIiwic2VlZCI…
 
@@ -1124,25 +1126,22 @@ ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&am
 ss://YWVzLTI1Ni1nY206MU5LcDVVUjBZUkUyOG1kZg@37.140.241.40:55223#%F0%9F%87%B7%F0%9F%87%BA
 ss://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@[::ffff:1285:d01c]:443#Shadow
-ss://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=TELEGRAM...PROXY_MTM%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#
-ss://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#
-ss://254a7626-01a5-4c33-bd66-a87de4979129@188.121.100.108:37317?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0N6UkdFemV4d3hRNXowM0xjWXJF@freenttestsshhmjatawv0zi1wb2x5mtmwntphqufreefd.asdir.link:8243/#
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.32.40:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=baipiao406.stunning-bassoon.pages.dev&amp;type=ws&amp;sni=baipiao406.stunning-bassoon.pages.dev#
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.32.40:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=baipiao406.stunning-bassoon.pages.dev&amp;type=ws&amp;sni=baipiao406.stunning-bassoon.pages.dev#
-ss://8bbae542-af42-47be-ab5c-a9808991db6f@94.130.229.99:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=27Qgz6T2KqYnCmzpVBW-g76VAj_0BxT7J9mw6UcLHlg&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40ipV2Ray&amp;sni=*.yesklenoty.cz&amp;sid=4d11d0df#
-ss://2db979a2-c7f1-4e8a-af9a-af2624c9c7c1@188.166.31.128:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=Z5kgtjpg0fUICpbeUzM0Q8S05dwJYO2p2uQIpWS3zAQ&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40%40ipV2Ray&amp;sni=*.dnschecker.org&amp;sid=23ba3a00#
+ss://abbccaa-abac-caba-dacb-baccbabacabc@127.0.0.1:8080?security=tls&amp;type=tcp#
+ss://0f0aee3e-874e-48b3-bafd-fd773be3f767@104.17.254.26:8443?security=tls&amp;sni=ri.aminivip2023.site&amp;type=ws&amp;host=ri.aminivip2023.site&amp;path=%2FV2zed&amp;alpn=http%2F1.1#
+ss://232d764d-12e6-4a15-a45a-c40fdc553a95@162.159.136.234:80?security=none&amp;type=ws&amp;host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.&amp;path=%2F#
+ss://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.107.27:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#
 ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiZmMzNDcwMDYtNTQyYy00OTg0LThmOWQtYTU4YWZjN2NhYzE4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
-ss://254a7626-01a5-4c33-bd66-a87de4979129@188.121.100.108:37317?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-ss://254a7626-01a5-4c33-bd66-a87de4979129@188.121.100.108:37317?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
 ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://254a7626-01a5-4c33-bd66-a87de4979129@188.121.100.108:37317?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-ss://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQEZPUldBUkRWMlJBWSJ9
-ss://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQEZPUldBUkRWMlJBWSJ9
-ss://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQEZPUldBUkRWMlJBWSJ9
-ss://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQEZPUldBUkRWMlJBWSJ9
-ss://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQEZPUldBUkRWMlJBWSJ9
+ss://YWVzLTI1Ni1nY206NzJhYzUzYTItYThhOC00YWNhLTg0NWMtM2M1MDE0ZmU1MTM1@164.152.61.51:7702#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@51.142.159.23:32790#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@51.142.159.23:32790#
+ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#
+ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
+ss://ed88d25b-98c2-4b84-87ed-96e228d86ce9@104.20.239.70:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed&amp;security=none&amp;encryption=none&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.&amp;type=ws#
+ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiNzMwNDEwMGEtMWE2MC00Yjc2LTgxZDUtMTU2YmUyZjllY2MxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 
 
