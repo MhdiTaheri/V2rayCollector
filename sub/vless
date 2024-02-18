@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-18-Feb-2024 13:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-18-Feb-2024 14:36
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -130,12 +130,14 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=Path%2F%2F%3
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.182.110:443?path=path%2FTELEGRAM...%40FreakConfig%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#8%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 vless://2cc2c64a-f1ff-44d4-ac05-4037adc9a3e2@[2a01:4f9:c011:64f::30]:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Everyday_VPN&amp;sni=gsmarena.com&amp;sid=32d7a82d#%F0%9F%87%AB%F0%9F%87%AE+%40FreakConfig
 vless://38f30c94-7bb8-4fcc-8574-17fb02677d7e@[2a01:4f9:c010:6fb9::31]:443/?type=grpc&amp;encryption=none&amp;serviceName=%40Everyday_VPN&amp;sni=gsmarena.com&amp;fp=chrome&amp;security=reality&amp;pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&amp;sid=32d7a82d#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-vless://c8ca32d1-15b1-4a03-991c-0ef9118403b6@172.67.191.234:2095/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?path=%2F&amp;security=none&amp;encryption=none&amp;host=EliV2ray.%E5%88%9B%E4%BC%98%E8%88%8D.ORG.&amp;type=ws#@ELiV2RAY
 vless://9066bb7e-e9f0-49dc-bd72-22d07c0cf525@104.21.0.219:2096/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&amp;encryption=none&amp;security=tls&amp;sni=ss.ali767.com&amp;fp=chrome#@ELiV2RAY
 vless://9066bb7e-e9f0-49dc-bd72-22d07c0cf525@172.67.128.83:2096/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&amp;encryption=none&amp;security=tls&amp;sni=ss.ali767.com&amp;fp=chrome#S2-@ELiV2RAY
 vless://9066bb7e-e9f0-49dc-bd72-22d07c0cf525@104.21.0.219:2096/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&amp;encryption=none&amp;security=tls&amp;sni=ss.ali767.com&amp;fp=chrome#@ELiV2RAY  vless://9066bb7e…
 vless://062c1db7-0227-4f0b-b9ed-3b06a4c63371@37.152.179.185:2086/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@ELiV2RAY
 vless://1137c369-8c74-4fdd-9f94-629e8f55c1b6@87.107.188.17:19320?security=none&amp;encryption=none&amp;host=www.speedtest.ner&amp;headerType=http&amp;type=tcp#@ELiV2RAY
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=id067.v2net.work#
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&amp;host=ftp.debian.org&amp;type=tcp&amp;headerType=http#
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=id067.v2net.work#
 vless://d3539bc8-7363-4aa0-950d-1e5268420fd8@join344.numalla.top:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=join344.numalla.top#%40ServerNett+%40ServerNett+1
 vless://3676d69c-6e38-4e13-a627-7103c3e3b0d0@joinsevernett.numalla.top:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=joinsevernett.numalla.top#%40ServerNett+%40ServerNett+2
 vless://06d844ab-c569-4b37-bfd0-773e51ac3453@join344.numalla.top:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=join344.numalla.top#%40ServerNett+%40ServerNett+1
@@ -640,7 +642,6 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.182.110:443?path=path%2FTELE
 vless://2cc2c64a-f1ff-44d4-ac05-4037adc9a3e2@[2a01:4f9:c011:64f::30]:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Everyday_VPN&amp;sni=gsmarena.com&amp;sid=32d7a82d#%F0%9F%87%AB%F0%9F%87%AE+%40FreakConfig
 vless://38f30c94-7bb8-4fcc-8574-17fb02677d7e@[2a01:4f9:c010:6fb9::31]:443/?type=grpc&amp;encryption=none&amp;serviceName=%40Everyday_VPN&amp;sni=gsmarena.com&amp;fp=chrome&amp;security=reality&amp;pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&amp;sid=32d7a82d#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40V2rayNGVPN
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=tunn.free.hr&amp;type=ws#%40V2rayNGVPN
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=w2.sylarsun.eu.org&amp;type=ws&amp;sni=w2.sylarsun.eu.org#%40V2rayNGVPN
 vless://85c9f90e-8b2f-4a3b-bc40-88add01453b8@shhproxy.varzesh3-cnd.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=SHHPROXY.xn--69-pv2cl2k5x3fipr.org&amp;type=ws&amp;sni=SHHPROXY.xn--69-pv2cl2k5x3fipr.org#%40V2rayNGVPN
@@ -660,6 +661,7 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@140.238.145.194:443?path=Path%2FTel
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=w1.sylar8.eu.org&amp;type=ws&amp;sni=w1.sylar8.eu.org#%40V2rayNGVPN
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.111.9:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40V2rayNGVPN
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40V2rayNGVPN
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40V2rayNGVPN
 
 vless://42f84d7c-f225-425b-b2cd-56043d76c6be@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;ty…
 vless://42f84d7c-f225-425b-b2cd-56043d76c6be@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@configforVPN&amp;sni=greenpepper.ir&amp;sid=614214c8#%40ConfigforVPN
@@ -679,16 +681,18 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
-vless://055f1d1b-32b3-4485-a97b-181b1f2617f9@79.137.198.240:2083?security=tls&amp;type=grpc&amp;headerType=&amp;serviceName=2083vless&amp;host=&amp;sni=tikpm.papm.ir&amp;fp=&amp;alpn=#
+vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@104.20.239.70:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed&amp;security=none&amp;encryption=none&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.&amp;type=ws#
+vless://7f55b425-a623-439b-bbd5-0b1778162054@Alln1.azaronline.org:80?path=%2F%40V2ray_God+%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Fre1V2rayGod.xn--hssjg9ekdj8f1f.site.&amp;type=ws#
+vless://Venom-Servers@discord.com:443/?type=grpc&amp;serviceName=Telegram-Channel%40Venom_serversTelegram-Channel%40Venom_serversTelegram-Channel%40Venom_serversTelegram-Channel%40Venom_serversTelegram-Channel%40Venom_serversTelegram-Channel%40Venom_serversTelegram-Channel%40Venom_serversTelegram-Channel%40Venom_servers&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;sni=Venom-FR.snowborn.ir#
+vless://3aca2a4d-aed9-4c72-ac66-9e345ddb941d@190.93.247.155:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@HpV2Ray_official,@HpV2Ray_official,@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official&amp;sni=Punisher-V2rayCnc.radiotehran.org#
+vless://9a8a75f9-f087-4b9e-b9c0-c10c53f46da9@190.93.247.155:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@HpV2Ray_official,@HpV2Ray_official,@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official&amp;sni=Punisher-V2rayCnc.radiotehran.org#
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=w1.sylar8.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=w1.sylar8.eu.org#
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=w1.sylar8.eu.org&amp;type=ws&amp;sni=w1.sylar8.eu.org#
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.111.9:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#
 vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@95.179.216.171:2096?path=%2FSvnTeam&amp;security=none&amp;encryption=none&amp;host=fast.com&amp;type=ws#
-vless://a7910fca-5da1-4429-832e-0d372fe0dd82@185.58.241.132:55042?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@zula.ir:2053?path=%2Fp%3D19&amp;security=tls&amp;encryption=none&amp;host=itcenteriran.blog&amp;type=ws&amp;sni=itcenteriran.blog#
-vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@iranserver.com:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#
-vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@iranserver.com:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#
-vless://26455f11-c2e3-4757-a25b-6bf1849a4532@cda1.mazedownloader.lol:443?path=%2Fsegws%2F59340%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barbarians.segstar.info&amp;fp=chrome&amp;type=ws&amp;sni=apiss.segstar.info#
+vless://fd7eea92-ae65-4e12-8679-7bb2ebbd4547@178.79.142.245:2086?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=8LDFrYcXx-UsftgAZOY1zib8iEnJjyMXL1jGR965WXg&amp;fp=chrome&amp;type=grpc&amp;serviceName=@x2rayn_vpn&amp;sni=discord.com&amp;sid=62b82605b6ebd9b0#
+vless://fd7eea92-ae65-4e12-8679-7bb2ebbd4547@178.79.142.245:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
