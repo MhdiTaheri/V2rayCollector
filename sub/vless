@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-18-Feb-2024 09:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-18-Feb-2024 10:39
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -665,10 +665,12 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
-vless://telegram-id-ArV2ray@142.132.164.116:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=UxElrD_c6qrXRc9PFNKIcfsiqWJdvbUQHX2WpxHB428&amp;fp=firefox&amp;type=grpc&amp;serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&amp;sni=ftpdeb.com&amp;sid=4eafa6e8#
-vless://ca117a00-39fd-42c9-bcea-2b4012a9a236@check-host.net:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&amp;sni=tel.ArV2ray.host#
-vless://fd7eea92-ae65-4e12-8679-7bb2ebbd4547@178.79.142.245:2086?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=8LDFrYcXx-UsftgAZOY1zib8iEnJjyMXL1jGR965WXg&amp;fp=chrome&amp;type=grpc&amp;serviceName=@x2rayn_vpn&amp;sni=discord.com&amp;sid=62b82605b6ebd9b0#
-vless://telegram-id-ArV2ray@www.Agh9731.Ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&amp;sni=www.Agh9731.Ir#
+vless://f746de28-4bf9-47b9-a727-64d774c4bafb@proxyip.sg.fxxk.dedyn.io:443?encryption=none&amp;security=tls&amp;sni=kr.xujiang.link&amp;type=ws&amp;host=kr.xujiang.link&amp;path=%2Fargox-vl%3Fed%3D2048#
+vless://f746de28-4bf9-47b9-a727-64d774c4bafb@proxyip.jp.fxxk.dedyn.io:443?encryption=none&amp;security=tls&amp;sni=kr.xujiang.link&amp;type=ws&amp;host=kr.xujiang.link&amp;path=%2Fargox-vl%3Fed%3D2048#
+vless://89b364ab-4492-4ab6-953e-b5a4d642a086@proxyip.fxxk.dedyn.io:443?encryption=none&amp;security=tls&amp;sni=de.xujiang.link&amp;type=ws&amp;host=de.xujiang.link&amp;path=%2Fargox-vl%3Fed%3D2048#
+vless://89b364ab-4492-4ab6-953e-b5a4d642a086@proxyip.hk.fxxk.dedyn.io:443?encryption=none&amp;security=tls&amp;sni=de.xujiang.link&amp;type=ws&amp;host=de.xujiang.link&amp;path=%2Fargox-vl%3Fed%3D2048#
+vless://89b364ab-4492-4ab6-953e-b5a4d642a086@proxyip.sg.fxxk.dedyn.io:443?encryption=none&amp;security=tls&amp;sni=de.xujiang.link&amp;type=ws&amp;host=de.xujiang.link&amp;path=%2Fargox-vl%3Fed%3D2048#
+vless://0c148583-697e-4f19-a6a3-929bff415a77@www.zula.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=upload.irmuzik.com&amp;fp=chrome&amp;type=ws&amp;sni=upload.irmuzik.com#
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
