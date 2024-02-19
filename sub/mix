@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 05:12
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 05:46
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -691,16 +691,6 @@ vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&a
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://fd7eea92-ae65-4e12-8679-7bb2ebbd4547@178.79.142.245:2086?encryption=none&amp;fp=chrome&amp;mode=gun&amp;pbk=8LDFrYcXx-UsftgAZOY1zib8iEnJjyMXL1jGR965WXg&amp;security=reality&amp;serviceName=%40x2rayn_vpn&amp;sid=62b82605b6ebd9b0&amp;sni=discord.com&amp;type=grpc#
-vless://974d4696-a900-4d44-b627-9833b8a7b27a@51.75.86.63:443?alpn=http%2F1.1&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;fp=edge&amp;pbk=UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8&amp;security=reality&amp;sid=d73382b02fa94fc2&amp;sni=flightradar24.com&amp;type=tcp#
-vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&amp;flow=&amp;fp=chrome&amp;pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&amp;security=reality&amp;sid=57b65cc1b228c7c1&amp;sni=upmusics.com&amp;type=grpc#
-vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443?encryption=none&amp;fp=chrome&amp;pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&amp;security=reality&amp;sid=&amp;sni=cloudreve.r-yu.me&amp;type=tcp#
-vless://0424e3a8-9890-48f0-be8a-56c352b26f9c@188.166.33.153:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=LYWZDBlcQA3b1l7UuzMVcOHtOFGiC3Hfn4EqAYGXGU0&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=33723055&amp;sni=feedthemplants.com&amp;spx=%2F&amp;type=grpc#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 
 
 vmess://eyJhZGQiOiJmcmVlZS53ZWJvYmluLnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlYm16OHdvLkFIRVNQRDIubWNpLmlyLCByZWJtejh3by5zcGVlZHRlc3QxLnNoYXRlbC5pciwgcmVibXo4d28uYWh2YXoxLmlyYW5jZWxsLmlyLCByZWJtejh3by5pbnRyYXNwZWVkdGVzdDIubW9iaW5uZXQuaXIsIHJlYm16OHdvLmF1dG91cC5pciwgcmVibXo4d28uc3BlZWR0ZXN0LmZwZ2MuaXIsIHJlYm16OHdvLnNwZWVkLmF0aW5ldC5pciwgcmVibXo4d28uZndsYi5hcmFzcGF5YW0uY29tIiwiaWQiOiIzNzg2NDA5NS1iZTlhLTQzYzUtOTQ5ZS03MTdmYTQ5NDNiZWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL24zSkh1eHNxL0s4U2x6YWdtNm9Lb0JHL1EzTlpUTUhIUTF0SXhXL3F5VlVuYzVDZEpHQi90ak82Z3pucU1vIiwicG9ydCI6IjE1MDM0IiwicHMiOiIo8J+HqfCfh6ogbmV0d29ya25pbSkiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
@@ -1015,8 +1005,7 @@ vmess://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZw
 vmess://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1Iiwi…
 vmess://eyJhZGQiOiJpcHMuY29uZmlnZm9ydnBuLmZ1biIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoicm9vdC5jb25maWdmb3J2cG4uZnVuIiwiaWQiOiJkYTI4Yzg1ZS1lNzFiLTQ1NTQtYTlmYy0xNjJiYzk0YzdjYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vmess://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiNzAzYjU4YmYtYmNmNS00NDhkLWE1MTEtMzAzNzlhMGRkZWMyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
-vmess://eyJhZGQiOiAiMTg4LjExNC45Ny43IiwgImFpZCI6ICIwIiwgImhvc3QiOiAia2Fuc2FzLmdhZm4ub25saW5lIiwgImlkIjogIjUxMWY0YWQ1LWQ3NDEtNDM3NS04Njg1LTVkMjU4M2NlMWU1ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvc3BlZWR0ZXN0IiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJrYW5zYXMuZ2Fmbi5vbmxpbmUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+vmess://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiOTk1ODMxZDgtOWY4Yy00Zjg5LTg0YTEtNzY0NmI5MDI2NjY1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
 
 
 ss://eyJhZGQiOiJmcmVlZS53ZWJvYmluLnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlYm16OHdvLkFIRVNQRDIubWNpLmlyLCByZWJtejh3by5zcGVlZHRlc3QxLnNoYXRlbC5pciwgcmVibXo4d28uYWh2YXoxLmlyYW5jZWxsLmlyLCByZWJtejh3by5pbnRyYXNwZWVkdGVzdDIubW9iaW5uZXQuaXIsIHJlYm16OHdvLmF1dG91cC5pciwgcmVibXo4d28uc3BlZWR0ZXN0LmZwZ2MuaXIsIHJlYm16OHdvLnNwZWVkLmF0aW5ldC5pciwgcmVibXo4d28uZndsYi5hcmFzcGF5YW0uY29tIiwiaWQiOiIzNzg2NDA5NS1iZTlhLTQzYzUtOTQ5ZS03MTdmYTQ5NDNiZWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL24zSkh1eHNxL0s4U2x6YWdtNm9Lb0JHL1EzTlpUTUhIUTF0SXhXL3F5VlVuYzVDZEpHQi90ak82Z3pucU1vIiwicG9ydCI6IjE1MDM0IiwicHMiOiIo8J+HqfCfh6ogbmV0d29ya25pbSkiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
@@ -2145,24 +2134,24 @@ ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&am
 ss://YWVzLTI1Ni1nY206MU5LcDVVUjBZUkUyOG1kZg@37.140.241.40:55223#%F0%9F%87%B7%F0%9F%87%BA
 ss://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@[::ffff:1285:d01c]:443#Shadow
-ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiNzAzYjU4YmYtYmNmNS00NDhkLWE1MTEtMzAzNzlhMGRkZWMyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989#
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.103:9070#
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@103.172.116.90:9018#
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.103:9084#
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@103.172.116.103:9001#
+ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@103.172.116.90:9050#
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.90:9038#
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.12.116.66:989#
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.251.168.143:443#
+ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@103.172.116.103:9032#
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.197.236.198:443#
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@103.172.116.90:9098#
+ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
+ss://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiOTk1ODMxZDgtOWY4Yy00Zjg5LTg0YTEtNzY0NmI5MDI2NjY1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
 ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://fd7eea92-ae65-4e12-8679-7bb2ebbd4547@178.79.142.245:2086?encryption=none&amp;fp=chrome&amp;mode=gun&amp;pbk=8LDFrYcXx-UsftgAZOY1zib8iEnJjyMXL1jGR965WXg&amp;security=reality&amp;serviceName=%40x2rayn_vpn&amp;sid=62b82605b6ebd9b0&amp;sni=discord.com&amp;type=grpc#
-ss://974d4696-a900-4d44-b627-9833b8a7b27a@51.75.86.63:443?alpn=http%2F1.1&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;fp=edge&amp;pbk=UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8&amp;security=reality&amp;sid=d73382b02fa94fc2&amp;sni=flightradar24.com&amp;type=tcp#
-ss://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&amp;flow=&amp;fp=chrome&amp;pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&amp;security=reality&amp;sid=57b65cc1b228c7c1&amp;sni=upmusics.com&amp;type=grpc#
-ss://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443?encryption=none&amp;fp=chrome&amp;pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&amp;security=reality&amp;sid=&amp;sni=cloudreve.r-yu.me&amp;type=tcp#
-ss://0424e3a8-9890-48f0-be8a-56c352b26f9c@188.166.33.153:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=LYWZDBlcQA3b1l7UuzMVcOHtOFGiC3Hfn4EqAYGXGU0&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=33723055&amp;sni=feedthemplants.com&amp;spx=%2F&amp;type=grpc#
-ss://eyJhZGQiOiAiMTg4LjExNC45Ny43IiwgImFpZCI6ICIwIiwgImhvc3QiOiAia2Fuc2FzLmdhZm4ub25saW5lIiwgImlkIjogIjUxMWY0YWQ1LWQ3NDEtNDM3NS04Njg1LTVkMjU4M2NlMWU1ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvc3BlZWR0ZXN0IiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJrYW5zYXMuZ2Fmbi5vbmxpbmUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
-ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadU5Da0laYVNMdVV5N0Y1N3BvbUta@vpn-ru.wwp.im:15174#
-ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@172.233.51.96:8080#
 ss://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 
 
