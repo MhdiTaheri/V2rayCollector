@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 02:38
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 04:06
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -523,7 +523,6 @@ vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vipvpn_v2ray%F0%9F%92%AF  
 
 
-vless://7a50ca41-d663-4231-b165-e0bfeafa59ec@chanel2.gold15.ir:443?type=grpc&amp;serviceName=okala.com&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=chanel2.gold15.ir#%40beta_v2ray
 vless://7a50ca41-d663-4231-b165-e0bfeafa59ec@chanel2.gold15.ir:443?type=grpc&amp;serviceName=okala.com&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=chanel2.gold15.ir#%40beta_v2ray  
 
 
@@ -687,15 +686,15 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
-vless://abbccaa-abac-caba-dacb-baccbabacabc@127.0.0.1:8080?security=tls&amp;type=tcp#
-vless://0f0aee3e-874e-48b3-bafd-fd773be3f767@104.17.254.26:8443?security=tls&amp;sni=ri.aminivip2023.site&amp;type=ws&amp;host=ri.aminivip2023.site&amp;path=%2FV2zed&amp;alpn=http%2F1.1#
-vless://232d764d-12e6-4a15-a45a-c40fdc553a95@162.159.136.234:80?security=none&amp;type=ws&amp;host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.&amp;path=%2F#
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.107.27:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@104.20.239.70:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed&amp;security=none&amp;encryption=none&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.&amp;type=ws#
+vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
+vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
+vless://83ea9c5a-ab1a-4ecb-ba53-937ee0ca51b1@www.tegzitp.net:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=dm.bo3kot.com#
+vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
+vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 
