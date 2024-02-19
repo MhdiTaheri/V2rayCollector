@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 06:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 07:40
 
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&amp;type=ws#MsV2ray+%7C+Mci
@@ -140,6 +140,9 @@ vless://062c1db7-0227-4f0b-b9ed-3b06a4c63371@37.152.179.185:2086/@ELiV2RAY-@ELiV
 vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=id067.v2net.work#
 vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&amp;host=ftp.debian.org&amp;type=tcp&amp;headerType=http#
 vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=id067.v2net.work#
+vless://6826532d-6b3e-4427-ab1f-95c4e70c1c4c@104.21.28.8:2053/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&amp;encryption=none&amp;security=tls&amp;sni=free.riflvpn.tech&amp;alpn=h2%2Chttp%2F1.1#
+vless://4b6d3cb5-017a-4dd6-94e0-08fa5d862c9a@104.16.32.40:2087/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&amp;encryption=none&amp;serviceName=baipiao406.stunning-bassoon.pages.dev&amp;security=tls&amp;sni=hu.moienmusic.space&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#
+vless://6826532d-6b3e-4427-ab1f-95c4e70c1c4c@104.21.28.8:2053/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&amp;encryption=none&amp;security=tls&amp;sni=free.riflvpn.tech&amp;alpn=h2%2Chttp%2F1.1#
 vless://391b04d5-3aa2-4460-8c58-9194ad48113c@join344.numalla.top:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=join344.numalla.top#%40ServerNett+%40ServerNett+1
 vless://015ea61e-d5df-4104-b7a0-fd1256854bdf@joinsevernett.numalla.top:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=joinsevernett.numalla.top#%40ServerNett+%40ServerNett+2
 vless://454be4ca-b6e1-4e92-9d06-d697007699bb@join344.numalla.top:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=join344.numalla.top#%40ServerNett+%40ServerNett+1
@@ -523,6 +526,7 @@ vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vipvpn_v2ray%F0%9F%92%AF  
 
 
+vless://7a50ca41-d663-4231-b165-e0bfeafa59ec@chanel2.gold15.ir:443?type=grpc&amp;serviceName=okala.com&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=chanel2.gold15.ir#%40beta_v2ray
 vless://7a50ca41-d663-4231-b165-e0bfeafa59ec@chanel2.gold15.ir:443?type=grpc&amp;serviceName=okala.com&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=chanel2.gold15.ir#%40beta_v2ray  
 
 
@@ -686,20 +690,12 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
-vless://3cde8c7f-c98d-4202-906a-7a2feb3f56b9@account.zula.ir:8880?security=none&amp;type=ws&amp;path=/Telegram:@vmessorg?ed%3D2048&amp;host=vmessorg1.xn--54qv00ez5ar77g.co.&amp;encryption=none#
-vless://3cde8c7f-c98d-4202-906a-7a2feb3f56b9@www.speedtest.net:8880?security=none&amp;type=ws&amp;path=/Telegram:@vmessorg?ed%3D2048&amp;host=vmessorg1.xn--54qv00ez5ar77g.co.&amp;encryption=none#
-vless://3cde8c7f-c98d-4202-906a-7a2feb3f56b9@joinbede.vmessorg.site:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vmessorg1.xn--54qv00ez5ar77g.co.&amp;path=%2FTelegram%3A%40vmessorg%3Fed%3D2048#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://2aa1ef7e-d8e9-4b7c-ea93-01e33872476c@185.233.13.157:80?path=%2F%2CTurk&amp;security=none&amp;encryption=none&amp;host=%40V2raySeven%40V2raySeven%40V2raySeven%40V2raySeven&amp;type=ws#
-vless://2ad7e026-8db7-48ab-aa6d-5a942c19c428@172.67.142.41:80?path=%2F%40FreeStrongVpn-%40FreeStrongVpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fra.servervless.de&amp;type=ws#
-vless://75052f82-4638-446a-a778-de0de0ea1a4a@104.24.172.7:8080?path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&amp;security=none&amp;encryption=none&amp;host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&amp;type=ws#
-vless://7f55b425-a623-439b-bbd5-0b1778162054@Alln1.azaronline.org:80?path=%2F%40V2ray_God+%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Fre1V2rayGod.xn--hssjg9ekdj8f1f.site.&amp;type=ws#
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#
+vless://e8686af6-bd43-4d5e-9358-3940e3d9ab62@162.159.1.94:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=2083vless&amp;sni=H.hide-luod.com#
+vless://e8686af6-bd43-4d5e-9358-3940e3d9ab62@dash.hide-abr.cloud:1231?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#
+vless://VPNCUSTOMIZE-VPNCUSTOMIZE@discord.gg:80?path=%2F%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=free_V2ray.xn--4oq36ed28d.ORG.&amp;type=ws#
+vless://2e55adb9-acff-4eb4-b569-c96a283ac1cb@[2a01:4f9:c010:6fb9::32]:443?encryption=none&amp;security=reality&amp;sni=gsmarena.com&amp;serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&amp;fp=chrome&amp;pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&amp;sid=32d7a82d&amp;spx=%2F&amp;type=grpc#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://6826532d-6b3e-4427-ab1f-95c4e70c1c4c@104.21.28.8:2053/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&amp;encryption=none&amp;security=tls&amp;sni=free.riflvpn.tech&amp;alpn=h2%2Chttp%2F1.1#
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
