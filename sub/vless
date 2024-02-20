@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-20-Feb-2024 05:09
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-20-Feb-2024 05:44
 vless://9b76baa9-4269-4c46-aaec-4d884a305da0@[::ffff:681a:f50]:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=8443vless&amp;sni=g.networknim.lol#%F0%9F%87%A9%F0%9F%87%AA+Germany-grpc+%28networknim%29
 vless://9b76baa9-4269-4c46-aaec-4d884a305da0@[::ffff:681a:f50]:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2…
 
@@ -650,17 +650,7 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edge.020770.xyz&amp;type=ws&amp;sni=edge.020770.xyz#
-vless://SVNTEAM@mtn.vpnprosec.com:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=SvnTeam-V2rayNew-One.SnappFoodi.Com#
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=Path%2Fconfing_Costume%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=always-online1.lp-airdrop.top&amp;fp=randomized&amp;type=ws&amp;sni=always-online1.lp-airdrop.top#
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edgu.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=edgu.pureboy.eu.org#
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=Path%2Fconfing_Costume%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edgu.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=edgu.pureboy.eu.org#
-vless://SVNTEAM@Discord.gg:8080?type=ws&amp;host=svnteamfreet.rubikae.com.&amp;path=/SVNTEAM-SVNTEAM?ed%3D1048&amp;security=none#
-vless://7cd8fafc-bf13-42b8-af9d-e9ddf8fd7b8f@188.166.108.132:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=P0MLEcNkBAKBpNnqosSzDHY9HAtkZWr_0JED3Y3yFXM&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=4513bf26&amp;sni=%2A.dnschecker.org&amp;spx=%2F&amp;type=grpc#
-vless://69a75a84-31ab-46c4-8e42-fc4c6d320ba1@95.179.217.33:45712?fp=chrome&amp;pbk=RsbT8HImgysmMNJaDi3x4yyrUdWpfk3EJEDVYQPvZRw&amp;security=reality&amp;sid=d55861e7&amp;sni=cdn.discordapp.com&amp;spx=%2F&amp;type=tcp#
-vless://cb00ef4a-fcf7-484a-8c49-6a2422ed84e6@188.34.194.108:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=W6ol7KU4fjV1mBS2aG_xs8emIKsqF8y6Ufva-2MRa20&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=9d2b63ad&amp;sni=ftp.debian.org&amp;spx=%2F&amp;type=grpc#
-vless://22f3cbcc-55b5-4d71-a3ca-9d6f3287aace@144.126.234.182:51697?encryption=none&amp;fp=firefox&amp;pbk=3KmWh8OPrAr-gBXyVdyS4IaB8DKUTtdIpbv5qvN15RY&amp;security=reality&amp;sid=c2abcb19&amp;sni=%2A.sourceforge.net&amp;type=tcp#
-vless://b1c1da37-726b-4db1-8139-27a7497e3186@116.203.229.47:443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=c452clIZOGrphH1pKZLlFFyN9bjhk2JxMemT2Df6C3w&amp;security=reality&amp;serviceName=%40ipV2Ray&amp;sid=d276874c&amp;sni=%2A.dnschecker.org&amp;spx=%2F&amp;type=grpc#
+
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
