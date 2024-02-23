@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-23-Feb-2024 10:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-23-Feb-2024 11:41
 
 
 
@@ -90,19 +90,6 @@ tuic://f2843ad2-c87f-4dda-9de1-472381078375:f2843ad2-c87f-4dda-9de1-472381078375
 tuic://a0ebeed3-30ab-44bc-a6dc-33039a164694:a0ebeed3-30ab-44bc-a6dc-33039a164694@146.235.218.148:29337/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=sanjose-live.biny.eu.org&amp;alpn=h3#%40TUICity%20%7CTUIC%7C
 tuic://81d527fd-5bbf-40fc-b2b0-be1956133aa6:81d527fd-5bbf-40fc-b2b0-be1956133aa6@107.173.15.52:14758/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://768dba4b-40e9-43dd-8135-9dec2425cd53:7f36c26f9e5e21ae@136.244.102.244:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.214.160:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@108.181.22.155:12255/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://670998c6-a78f-43cc-86aa-29292476e040:dongtaiwang.com@64.110.25.10:33445/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://b46cb204-5849-4b86-852d-8154fb8eb580:b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:61213/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://f2843ad2-c87f-4dda-9de1-472381078375:f2843ad2-c87f-4dda-9de1-472381078375@192.9.136.220:12099/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=sanjose-google.biny.eu.org&amp;alpn=h3#%40TUICity%20%7CTUIC%7C
-tuic://a0ebeed3-30ab-44bc-a6dc-33039a164694:a0ebeed3-30ab-44bc-a6dc-33039a164694@146.235.218.148:29337/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=sanjose-live.biny.eu.org&amp;alpn=h3#%40TUICity%20%7CTUIC%7C
-tuic://81d527fd-5bbf-40fc-b2b0-be1956133aa6:81d527fd-5bbf-40fc-b2b0-be1956133aa6@107.173.15.52:14758/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
@@ -148,15 +135,7 @@ tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:44
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://b46cb204-5849-4b86-852d-8154fb8eb580:b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:61213/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://768dba4b-40e9-43dd-8135-9dec2425cd53:7f36c26f9e5e21ae@136.244.102.244:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://768dba4b-40e9-43dd-8135-9dec2425cd53:7f36c26f9e5e21ae@95.179.156.72:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.214.160:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
+tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
+tuic://b46cb204-5849-4b86-852d-8154fb8eb580:b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:61213/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
