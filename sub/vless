@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-28-Feb-2024 04:04
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-28-Feb-2024 05:11
 vless://cd7db63e-4904-453b-8f93-bf56d1fd53e5@[::ffff:6811:e94f]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@networknim&amp;sni=vm.webobin.site#%40networknim
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99…
@@ -791,20 +791,17 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 
-vless://e971e939-c844-4209-8720-e93db30210e3@37.32.5.185:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=tara2.striside.com#
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@37.32.5.185:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=zeebusbest7.especializacionpaz.info#
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@zula.ir:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=zeebusbest8.especializacionpaz.info#
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@zula.ir:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=zeebusbest2.especializacionpaz.info#
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@zula.ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=wowpizzz2.especializacionpaz.info#
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@zula.ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=wowpizzz5.especializacionpaz.info#
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@zula.ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=wowpizzz4.especializacionpaz.info#
-vless://e971e939-c844-4209-8720-e93db30210e3@37.32.5.185:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=tara2.striside.com#
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@37.32.5.185:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=zeebusbest7.especializacionpaz.info#
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@zula.ir:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=zeebusbest8.especializacionpaz.info#
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@zula.ir:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=zeebusbest2.especializacionpaz.info#
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@zula.ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=wowpizzz2.especializacionpaz.info#
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@zula.ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=wowpizzz5.especializacionpaz.info#
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@zula.ir:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=wowpizzz4.especializacionpaz.info#
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@192.65.217.101:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.47.24:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
+vless://dbfd19e8-6dc6-4f35-e195-2720227ac566@190.93.244.239:2083?security=tls&amp;sni=max-allnet.mpyana.ir&amp;type=grpc&amp;fp=chrome&amp;alpn=h2#
+vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@162.159.130.234:443?security=tls&amp;sni=zeebusbest7.especializacionpaz.info&amp;type=grpc&amp;fp=chrome&amp;alpn=h3,h2#
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.49.253:80?security=none&amp;type=ws&amp;host=ehda.sajaditsme.com&amp;path=Path/Telegram@V2ray_alpha/?ed=2048#
+vless://2aa88edb-fe41-43e6-a8e6-8a5dfd509524@162.159.130.234:80?security=none&amp;type=ws&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;path=/join--ServerNett--ServerNett?ed=1048#
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@192.65.217.101:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@192.65.217.101:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.47.24:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
+vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@162.159.130.234:443?security=tls&amp;sni=zeebusbest7.especializacionpaz.info&amp;type=grpc&amp;fp=chrome&amp;alpn=h3,h2#
+vless://2aa88edb-fe41-43e6-a8e6-8a5dfd509524@162.159.130.234:80?security=none&amp;type=ws&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;path=/join--ServerNett--ServerNett?ed=1048#
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
