@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-28-Feb-2024 05:11
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-28-Feb-2024 05:45
 vless://cd7db63e-4904-453b-8f93-bf56d1fd53e5@[::ffff:6811:e94f]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@networknim&amp;sni=vm.webobin.site#%40networknim
 
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99…
@@ -159,6 +159,9 @@ vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@104.16.159.9:443/@ELiV2RAY-@ELiV2RA
 vless://d678027b-b43a-4c32-872d-e3a571d1c52b@104.21.68.89:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=mxdrug32.shahabservices.com#
 vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@172.67.31.117:443/?type=grpc&amp;encryption=none&amp;serviceName=6eenmFpWJ6RknrPH6qK9&amp;security=tls&amp;sni=srv12.xyzquant.cloud&amp;fp=chrome#
 vless://352f8151-f56f-4858-a855-b338e3053e6d@188.121.103.47:2087/?type=tcp&amp;encryption=none&amp;sni=www.speedtest.net&amp;fp=chrome&amp;security=reality&amp;pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&amp;sid=21e8adbf#Test-ELENA
+vless://1a57253c-9012-442d-b1e4-db4e2eb12a31@104.21.69.44:2087/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=mehdi1.honarestan-hegmataneh.com#
+vless://6401c853-62b6-452b-b0dd-c1444bb4f22f@104.16.120.85:2087/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=Soby&amp;sni=mesoot.rada-cosmetics.ir#
+vless://59900344-9850-5676-5538-520141532025@156.236.31.192:40316?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=a.korton.co.in#MTN-ELiV2RAY
 vless://1b3ab5ed-6c19-417d-af14-5cdb4dced143@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a…
 vless://5d16aea7-f4ec-41ce-9306-598d4a92aaae@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MTN+1
 vless://9356d1b8-ffb9-4ebb-8f3a-f2bf09c1a94e@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MTN+2
@@ -791,17 +794,7 @@ vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@192.65.217.101:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.47.24:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
-vless://dbfd19e8-6dc6-4f35-e195-2720227ac566@190.93.244.239:2083?security=tls&amp;sni=max-allnet.mpyana.ir&amp;type=grpc&amp;fp=chrome&amp;alpn=h2#
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@162.159.130.234:443?security=tls&amp;sni=zeebusbest7.especializacionpaz.info&amp;type=grpc&amp;fp=chrome&amp;alpn=h3,h2#
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.49.253:80?security=none&amp;type=ws&amp;host=ehda.sajaditsme.com&amp;path=Path/Telegram@V2ray_alpha/?ed=2048#
-vless://2aa88edb-fe41-43e6-a8e6-8a5dfd509524@162.159.130.234:80?security=none&amp;type=ws&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;path=/join--ServerNett--ServerNett?ed=1048#
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@192.65.217.101:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@192.65.217.101:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.47.24:2083?security=tls&amp;sni=pages.20230619.love&amp;type=ws&amp;host=pages.20230619.love&amp;path=telegram
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@162.159.130.234:443?security=tls&amp;sni=zeebusbest7.especializacionpaz.info&amp;type=grpc&amp;fp=chrome&amp;alpn=h3,h2#
-vless://2aa88edb-fe41-43e6-a8e6-8a5dfd509524@162.159.130.234:80?security=none&amp;type=ws&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;path=/join--ServerNett--ServerNett?ed=1048#
+
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
