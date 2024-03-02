@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-02-Mar-2024 23:37
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-03-Mar-2024 00:37
 ss://9483c256-45d6-4589-89b2-be52b9b0661c@[::ffff:6812:735]:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=8443vless&amp;sni=frt.networknim.lol#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%A1%EF%B8%8F+%28networknim_free%29+1.95+TB+%E2%88%9E
 ss://9483c256-45d6-4589-89b2-be52b9b0661c@[::ffff:6812:735]:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2…
 
@@ -255,7 +255,6 @@ ss://cead5a7e-4a1d-4f93-8825-429969dd2fb8@discord.gg:2083/@ELiV2RAY-@ELiV2RAY-@E
 ss://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443/?type=grpc&amp;encryption=none&amp;security=tls&amp;sni=zac1.striside.com&amp;fp=chrome#
 ss://e971e939-c844-4209-8720-e93db30210e3@104.18.200.220:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&amp;encryption=none&amp;security=tls&amp;sni=tara2.striside.com&amp;fp=chrome#
 ss://b1e596eb-8df6-4b40-d358-0f09cbdbd833@190.93.247.155:2083/?type=grpc&amp;encryption=none&amp;serviceName=gb1.korda.top&amp;security=tls&amp;sni=gb1.korda.top#
-ss://61fc700b-8d33-4a72-b045-5616174ede9b@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a…
 ss://8c12150e-d553-4aea-810a-67b4ac16e48c@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MTN+2
 ss://d00ced52-9f4a-47c8-a83a-edc73c89ec8c@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MTN+1
 ss://0ea301a8-3078-41d1-9cba-84726d28093f@discord.gg:80?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MCI+1
@@ -288,6 +287,10 @@ ss://2a03d97c-1778-459b-bdec-97b0e8c26930@91.193.58.1:8880?path=%2Fjoin--ServerN
 ss://2a03d97c-1778-459b-bdec-97b0e8c26930@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MCI+1
 ss://68fbf85b-31d7-4316-8fe2-6532e7c5f522@discord.gg:80?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MCI+2
 ss://34de54cc-814c-4e5d-b274-e10aef3f4082@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a…
+ss://8dbc35b5-f521-409d-bd78-72fbeabc46bf@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MTN+2
+ss://db03b7ff-ee37-4d91-a4d4-1fb1ca42bfa1@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MTN+1
+ss://db03b7ff-ee37-4d91-a4d4-1fb1ca42bfa1@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MCI+1
+ss://b8d210c4-e391-4c3c-b1fa-e808d07d6982@discord.gg:80?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MCI+2
 ss://8dbc35b5-f521-409d-bd78-72fbeabc46bf@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MTN+2
 ss://db03b7ff-ee37-4d91-a4d4-1fb1ca42bfa1@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MTN+1
 ss://db03b7ff-ee37-4d91-a4d4-1fb1ca42bfa1@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#%40SERVERNETT+MCI+1
@@ -1221,8 +1224,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@51.142.159.23:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVHQ4dlk4SGJQd09mazIxYzNpMTNo@45.8.147.65:37219#%F0%9F%87%B8%F0%9F%87%AA+%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 
-ss://b179bb8f-ee87-4c21-9079-f6be6c76a001@ir.mrxz.sbs:2053?security=none&amp;encryption=none&amp;host=eset.com&amp;headerType=http&amp;type=tcp#%40V2rayNGVPN
-ss://01db62cc-437b-4389-a2a4-d6042942880f@14.102.228.218:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=ios.net-server.com-mehdi.com-bmi.ir-servers.com-hetzner.net-console.monitor.bmibank-melli-saderat-tejarat-mehr-sepah-Price-New-null-site-an.com&amp;type=ws#%40V2rayNGVPN
 ss://889bd6ac-37af-4e3c-9b79-8620f20d524f@www.speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&amp;type=ws#%40V2rayNGVPN
 ss://7f55b425-a623-439b-bbd5-0b1778162054@V2RAY_GOD-mc.azaronline.org:80?path=%2F%40V2ray_God%3DTelegram%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=%D8%A2%DB%8C%D8%AF%DB%8C-%DA%86%D9%86%D9%84-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D9%85%D8%A7V2ray_God%D9%87%D8%B3%D8%AA%D8%B4.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.site.&amp;type=ws#%40V2rayNGVPN
 ss://7f55b425-a623-439b-bbd5-0b1778162054@our-channel-is-V2ray_God-in-telegram-mc.azaronline.org:80?path=%2F%40V2ray_God%3DTelegram%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=%D8%A2%DB%8C%D8%AF%DB%8C-%DA%86%D9%86%D9%84-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D9%85%D8%A7V2ray_God%D9%87%D8%B3%D8%AA%D8%B4.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.site.&amp;type=ws#%40V2rayNGVPN
@@ -1258,26 +1259,22 @@ ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&am
 ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@13.42.172.84:443#
-ss://Parsashonam-13@www.speedtest.net:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&amp;type=ws#
-ss://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#
-ss://faace358-a1f6-42ab-957b-f5c185ec6f59@discord.gg:443?type=ws&amp;path=%2F&amp;host=red.aria0mani0shop.sbs&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=red.aria0mani0shop.sbs#
-ss://db03b7ff-ee37-4d91-a4d4-1fb1ca42bfa1@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#
-ss://-DIGIV2RAY@185.146.173.51:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&amp;type=ws#
-ss://-DIGIV2RAY@www.speedtest.net:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&amp;type=ws#
-ss://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=w2.sylarsun.eu.org&amp;type=ws&amp;sni=w2.sylarsun.eu.org#
-ss://faace358-a1f6-42ab-957b-f5c185ec6f59@discord.gg:443?type=ws&amp;path=%2F&amp;host=red.aria0mani0shop.sbs&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=red.aria0mani0shop.sbs#
-ss://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=always-online1.lp-airdrop.top&amp;fp=randomized&amp;type=ws&amp;sni=always-online1.lp-airdrop.top#
-ss://2ed92125-f761-4668-b5d8-9c59e3f250a1@www.speedtest.net:80?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed&amp;security=none&amp;encryption=none&amp;host=vmessorg1.xn--54qv00ez5ar77g.co.&amp;type=ws#
-ss://2ed92125-f761-4668-b5d8-9c59e3f250a1@iranserver.com:80?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed&amp;security=none&amp;encryption=none&amp;host=vmessorg1.xn--54qv00ez5ar77g.co.&amp;type=ws#
-ss://e971e939-c844-4209-8720-e93db30210e3@104.18.200.220:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=tara2.striside.com#
-ss://-DIGIV2RAY@185.146.173.51:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&amp;type=ws#
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aEJOc1N0UXVxR0hEdVFzdDRXOXZ3U2RUZm1aWDd0cFJRQ05RWEFDRFZVND06U1JZQkx2NnZrVUNOK25KVjlMMGJaa0xVNUIxSUNxeXZ4c0NhaTRmamhxND0@91.107.190.105:443?type=tcp#
-ss://Parsashonam-13@www.speedtest.net:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&amp;type=ws#
-ss://Parsashonam-13@www.speedtest.net:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&amp;type=ws#
-ss://e971e939-c844-4209-8720-e93db30210e3@104.18.200.220:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=tara2.striside.com#
-ss://db03b7ff-ee37-4d91-a4d4-1fb1ca42bfa1@162.159.130.234:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#
-ss://e971e939-c844-4209-8720-e93db30210e3@104.18.200.220:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=tara2.striside.com#
+ss://c5a974bc-a657-4e42-d4a7-eacef0f546ac@172.67.204.84:2053?security=tls&amp;sni=digi4.kanal-tel-nufilter.site&amp;type=grpc&amp;serviceName=Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER-Telegram:%40NUFiLTER&amp;alpn=h2,http/1.1#
+ss://65a1668f-0dac-467a-ba4c-b8b8d2176003@104.24.172.7:8080?security=none&amp;type=ws&amp;host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&amp;path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet#
+ss://29688522-fa77-4344-8249-842b1fb96434@154.197.75.57:8080?security=none&amp;type=ws&amp;host=daily-configs-daily-configsdaily-configs-daily-configs.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&amp;path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs#
+ss://9bc6e46c-ed84-4bf3-b1e7-983991ba6ec1@172.67.173.36:2096?security=tls&amp;sni=mcishit.holyquran666.sbs&amp;type=grpc&amp;serviceName=zula.ir&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#
+ss://b8d210c4-e391-4c3c-b1fa-e808d07d6982@162.159.136.234:80?security=none&amp;type=ws&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048#
+ss://aa7ac727-d60d-11ee-aaa8-00505603e70d@172.67.158.12:443?security=tls&amp;sni=st-fr-1.brocdn.com&amp;type=ws&amp;host=st-fr-1.brocdn.com&amp;path=%2Fwebsocket&amp;fp=chrome#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#
+ss://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?security=tls&amp;sni=1.irancloudflare.cab&amp;type=ws&amp;host=1.irancloudflare.cab&amp;path=%2F%3Fed%3D2048#
+ss://b148a04d-4deb-495d-ad2b-2ea02aa9d670@www.speedtest.net:443?path=%2Fwws&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#
+ss://b148a04d-4deb-495d-ad2b-2ea02aa9d670@www.speedtest.net:443?path=%2Fwws&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#
+ss://b148a04d-4deb-495d-ad2b-2ea02aa9d670@www.speedtest.net:443?path=%2Fwws&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#
+ss://b148a04d-4deb-495d-ad2b-2ea02aa9d670@www.speedtest.net:443?path=%2Fwws&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#
+ss://b8d210c4-e391-4c3c-b1fa-e808d07d6982@discord.gg:80?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#
+ss://db03b7ff-ee37-4d91-a4d4-1fb1ca42bfa1@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#
+ss://13547d6a-e224-4f91-9c47-50a7f6dce7b1@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#
+ss://13547d6a-e224-4f91-9c47-50a7f6dce7b1@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
