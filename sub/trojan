@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-02-Mar-2024 11:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-02-Mar-2024 12:37
 
 
 
@@ -20,6 +20,8 @@ trojan://565aa5e6-15ff-3f58-b134-4ac80c744d48@dotu-krv2.03p4fad6vd.com:11049?sni
 
 
 
+trojan://telegram-id-privatevpns@15.188.155.141:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
+trojan://telegram-id-privatevpns@15.237.164.80:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S106)
 trojan://telegram-id-privatevpns@52.56.239.178:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.178.75.105:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S108)
 trojan://telegram-id-privatevpns@52.48.93.169:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S109)
@@ -161,7 +163,13 @@ trojan://qG9K8AGnn9XH5jUqeFu96g@188.114.96.3:2083?path=%2F&amp;security=tls&amp;
 
 
 
-
+trojan://2aFwm055Uw@185.128.40.224:47515?security=none&amp;type=kcp&amp;headerType=none&amp;seed=uVsQ6c96bZ#%F0%9F%91%89%F0%9F%86%94%20%40FORWARDV2RAY
+trojan://ISSTGsFZ0d@185.128.40.224:30801?security=none&amp;type=quic&amp;headerType=none&amp;quicSecurity=none&amp;key=tJaQrRxftz#%F0%9F%91%89%F0%9F%86%94%20%40FORWARDV2RAY
+trojan://rq5WV77h9l@185.128.40.224:46608?security=none&amp;type=ws&amp;path=%2F#%F0%9F%91%89%F0%9F%86%94%20%40FORWARDV2RAY
+trojan://tPZBQgrLxg@185.128.40.224:13291?security=none&amp;type=ws&amp;path=%2F#%F0%9F%91%89%F0%9F%86%94%20%40FORWARDV2RAY
+trojan://f9IFkyX7D7@185.128.40.224:12362?security=none&amp;type=ws&amp;path=%2F#%F0%9F%91%89%F0%9F%86%94%20%40FORWARDV2RAY
+trojan://XVJ9b9ix6q@185.128.40.224:43305?security=none&amp;type=ws&amp;path=%2F#%F0%9F%91%89%F0%9F%86%94%20%40FORWARDV2RAY
+trojan://c1XrhVwbBs@185.128.40.224:57331?security=none&amp;type=ws&amp;path=%2F#%F0%9F%91%89%F0%9F%86%94%20%40FORWARDV2RAY
 
 
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
