@@ -1,5 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-04-Mar-2024 22:36
-ss://9483c256-45d6-4589-89b2-be52b9b0661c@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=8443vless&amp;sni=frt.networknim.lol#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%A1%EF%B8%8F+%28networknim_free%29
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-04-Mar-2024 23:38
 ss://9483c256-45d6-4589-89b2-be52b9b0661c@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2…
 ss://bf5618b7-6e4c-4e2c-a193-7de03f4cf6b7@autox.baxtvx.online:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://9483c256-45d6-4589-89b2-be52b9b0661c@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=8443vless&amp;sni=frt.networknim.lol#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%A1%EF%B8%8F+%28networknim_free%29
@@ -707,9 +706,9 @@ ss://-DIGiV2RAY-@www.speedtest.net:80?path=%2FDigiv2ray-&amp;security=none&amp;e
 ss://5d0245cd-8412-4a32-b52c-ef810651e65b@190.93.247.155:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&amp;sni=digi--v2raycncfs.RadioTeHran.oRG.#w55htswc
 ss://-DIGiV2RAY-@www.speedtest.net:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&amp;type=ws#MCI   تمام نت ها
 ss://5d0245cd-8412-4a32-b52c-ef810651e65b@190.93…
-ss://-DIGiV2RAY--@www.speedtest.net:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&amp;type=ws#MCI
-ss://-DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=digi--v2raycncfs.RadioTeHran.oRG.&amp;type=ws#MTN
-ss://5d0245cd-8412-4a32-b52c-ef810651e650@190.93.247.155:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&amp;sni=digi--v2raycncfs.RadioTeHran.oRG.#w55htswc
+ss://-DIGiV2RAY--@www.speedtest.net:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG&amp;type=ws#MCI
+ss://-DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&amp;security=none&amp;encryption=none&amp;host=digi--v2raycncfs.RadioTeHran.oRG&amp;type=ws#MTN
+ss://5d0245cd-8412-4a32-b52c-ef810651e650@190.93.247.155:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&amp;sni=digi--v2raycncfs.RadioTeHran.oRG#w55htswc
 ss://48c16dd7-1cd2-472a-9055-416ae126a9e3@cdb1.mazedownloader.lol:443?path=%2Fsegws%2F18541%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barbarians.segstar.info&amp;fp=chrome&amp;type=ws&amp;sni=apis.segstar.info#%F0%9F%87%A9%F0%9F%87%AA-DE-CDN-2
 ss://215b2dc7-8b84-4974-bdee-10969221046d@172.64.202.215:8443?path=%2Fws%2F&amp;security=tls&amp;encryption=none&amp;host=telegram-ailumao.lp-airdrop.top&amp;fp=chrome&amp;type=ws&amp;sni=telegram-ailumao.lp-airdrop.top#%F0%9F%AB%A1+%40v2rayNG_VPN
 ss://26455f11-c2e3-4757-a25b-6bf1849a4532@cda1.mazedownloader.lol:443?path=%2Fsegws%2F59340%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barbarians.segstar.info&amp;fp=chrome&amp;type=ws&amp;sni=apiss.segstar.info#%F0%9F%87%A9%F0%9F%87%AA-DE-CDN-1
@@ -957,6 +956,8 @@ ss://43514dd5-8cad-43a9-ad66-66290a28bb4b@www.speedtest.net:80?path=%2F&amp;secu
 ss://f872c518-7929-42aa-a01a-cdd391376078@discord.gg:80?path=%2F%40VtowRay_NG&amp;security=none&amp;encryption=none&amp;host=home.kellekcollection.com&amp;type=ws#%40ConfigV2RayNG+%F0%9F%87%AB%F0%9F%87%B7+MCI
 
 
+ss://15c75be2-3177-48c5-9ea7-746b7885cb53@all.savagev2ray.site:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=40wsfdSWCXP4wELLA7V5Pqx2CxSSdg2VSACb77FD8Hw&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi&amp;sni=mihanyas.ir&amp;sid=bb0a16fa#%40Vpnmasi-7l7xnsf3
+ss://2a80f815-1a00-4706-958b-0c91a53cc81d@all.savagev2ray.site:45503?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#all3-n6c6fx71
 ss://b612cae2-4002-4288-82b0-d4d58628fd94@vpnmasi.savagev2ray.site:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all2.savagev2ray.site&amp;type=ws&amp;sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls+-+Cloned-tnpw8z5c
 ss://09ba7e47-92b9-4b14-9ee0-acc595b8185a@Vpnmasi.savagev2ray.site:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all2.savagev2ray.site&amp;type=ws&amp;sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-8rrlzmsz
 ss://90c8370b-e57f-4db8-a49d-7f3266ffebf2@all5.savagev2ray.site:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=all6.savagev2ray.site&amp;type=ws#Ws-%40Vpnmasi
@@ -984,7 +985,6 @@ ss://5da3c626-db86-437c-93a5-c3bce1920adf@Vpnmasi.savagev2ray.site:2083?type=ws&
 ss://5da3c626-db86-437c-93a5-c3bce1920adf@Vpnmasi.savagev2ray.site:2083?type=ws&amp;path=%2F&amp;host=all2.savagev2ray.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=all2.savagev2ray.site#%40Vpnmasi%20-%20Tls-h39cqipt  لوکیشن : آلمان 
 ss://cd6725a0-b6f6-4204-a156-1bb280498f6b@Vpnmasi.savagev2ray.site:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all2.savagev2ray.site&amp;type=ws&amp;sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-min9dtkg
 ss://cd6725a0-b6f6-4204-a156-1bb280498f6b@Vpnmasi.savagev2ray.site:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all2.savagev2ray.site&amp;type=ws&amp;sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-min9dtkg  لوکیشن : آلمان 
-ss://167c5b69-fc03-430d-828e-862f8d47b5b5@www.speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=All.savagev2ray.online&amp;type=ws#Ws-0tqp16ju
 ss://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me%2FV
 ss://eyJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJhaWQiOjAsImhvc3QiOiJ1cy1zdC0yLnNoYXJlY2VudHJlLm9ubGluZSIsImlkIjoiMjBlOTI4ODEtNWZiNC00YjA1LWJjNzctNTc5Mjk0NzZkYzY5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NoaXJrZXIiLCJwb3J0Ijo0NDMsInBzIjoi44CMU0NQ44CNVVMtQ0YyIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJ1cy1zdC0yLnNoYXJlY2VudHJlLm9ubGluZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0=
 ss://eyJhZGQiOiAid3d3LnNjaWVuY2VkaXJlY3QuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAidXMtdi5zc2htYXgueHl6IiwgImlkIjogIjZmMDFjYWU4LWMyYzUtNDI2ZC04N2VmLWE3OTI5ZTlmMTc5OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAic2N5IjogImF1dG8iLCAic25pIjogInVzLXYuc3NobWF4Lnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -1184,7 +1184,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcUJ4K3pBUjl1NmhGdUx4Tjc0ZVRoZEZUMENlbDZFcm5
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TXlVc01oL1FBWjI2RCsxTjZLdTZkNDB4alVXalIrSUtIemhML3F6SVFwST0=@38.114.120.181:443#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4WGdyTlJNdXRWSzFIQXhOUDFvdEJR@51.143.138.203:56917#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
 
-ss://ffffffff-eeae-4311-b37c-b2a67847fed2@188.114.97.3:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=watashi.free.de.mnhacker.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=watashi.free.de.mnhacker.eu.org#%40V2rayNGVPN
 ss://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=biA.ALlhub.LTD&amp;fp=random&amp;type=ws&amp;sni=Bia.alLhub.Ltd#%40V2rayNGVPN
 ss://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2FPath%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=w1.sylar8.eu.org&amp;type=ws&amp;sni=w1.sylar8.eu.org#%40V2rayNGVPN
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.68.191:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=baipiao343.stunning-bassoon.pages.dev&amp;fp=random&amp;type=ws&amp;sni=baipiao343.stunning-bassoon.pages.dev#%40Gp_Config+%DA%AF%D8%B1%D9%88%D9%87+%D9%85%D8%A7
