@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-04-Mar-2024 21:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-04-Mar-2024 22:36
 
 
 
@@ -20,7 +20,6 @@ trojan://565aa5e6-15ff-3f58-b134-4ac80c744d48@dotu-krv2.03p4fad6vd.com:11049?sni
 
 
 
-trojan://telegram-id-privatevpns@54.217.250.86:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S120)
 trojan://telegram-id-privatevpns@13.51.132.134:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.51.19.219:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S102)
 trojan://telegram-id-privatevpns@3.77.59.105:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S103)
@@ -38,6 +37,7 @@ trojan://telegram-id-privatevpns@3.75.40.147:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@15.237.16.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S115)
 trojan://telegram-id-privatevpns@52.47.66.241:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S116)
 trojan://telegram-id-privatevpns@3.8.244.80:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S117)
+trojan://telegram-id-privatevpns@18.169.253.149:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S118)
 
 
 
@@ -151,7 +151,6 @@ trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;
 
 
 
-trojan://wkmY1R4EcP@209.250.246.191:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-003294.kailib.com#%40V2rayNGVPN
 trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-002805.kailib.com#%40V2rayNGVPN
 trojan://MuZr9fkHXC@discord.com:443?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=k.nightwolf.shop#
 
