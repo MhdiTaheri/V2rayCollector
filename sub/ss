@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Mar-2024 07:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Mar-2024 08:39
 ss://6324ed1c-472d-4d53-8ca3-d41656407496@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=8443vless&amp;sni=tes.webobin.site#%F0%9F%87%A9%F0%9F%87%AA+Germany
 ss://347bae22-9d1c-486c-ab55-a8dbe8105cbb@dark.gostmod.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://f2c921fe-23fa-41e6-cb72-98f884fa8d00@dark.gostmod.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
@@ -1149,7 +1149,7 @@ ss://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=%2F%3Fed%3D2048
 ss://e9122f37-d226-469c-89df-db15701f2023@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=87.%E4%BA%8B%E5%87%BA%E5%9C%BA%E6%AC%A1%E4%BB%A5%E8%BF%907.tech&amp;type=ws#3+join+•+(+@v2rayng_v+)+•SPEED
 ss://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edgu.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=edgu.pureboy.eu.org#4+join+•+(+@v2rayng_v+)+•SPEED
 ss://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=w1.sylar8.eu.org&amp;type=ws&amp;sni=w1.sylar8.eu.org#1+jo…
-ss://eyJ2IjoiMiIsInBzIjoiQGlyX2NvbmZpZ3MtNzcwODAiLCJhZGQiOiJzdi5jb25maW5nLnRvcCIsInBvcnQiOjI2MzExLCJpZCI6ImQxMDI5YzI2LTU5MjItNGU0OS1hODA3LTk2MmQ3ZjQ2YWJjZ
+
 
 ss://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 ss://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
@@ -1255,7 +1255,7 @@ ss://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eDhvZ1RzUHpNbml6YkZrRm5kcUFR@95.164.11.94:1080#NEPHREEN%20-ShadowSocks%20%F0%9F%87%B9%F0%9F%87%B7
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZ2x0YnBtNmNEOWVIU0ZoS0k2bWFD@45.89.52.197:32058#
 ss://9e2bab6a-0eef-4160-864f-0d269810bb3d@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&amp;security=none&amp;encryption=none&amp;host=xn--047h.iman-v2ray.sbs.&amp;type=ws#
 ss://eyJhZGQiOiAibHQyLXZtZXNzLnNzaG1heC54eXoiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibHQyLXZtZXNzLnNzaG1heC54eXoiLCAiaWQiOiAiYTIzYTljZGUtZTU2My00NDYxLTliNDUtNzg0M2U3YzI4ZDAwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
