@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Mar-2024 15:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Mar-2024 16:38
 
 
 
@@ -80,7 +80,9 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tc
 
 
 
-
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#
+tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;alpn=h3%2Cspdy%2F3.1&amp;allow_insecure=1#
 tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://b46cb204-5849-4b86-852d-8154fb8eb580:b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:61213/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
 tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%40TUICity%20%7CTUIC%7C
