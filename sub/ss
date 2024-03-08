@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Mar-2024 02:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Mar-2024 04:06
 ss://6324ed1c-472d-4d53-8ca3-d41656407496@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=8443vless&amp;sni=tes.webobin.site#%F0%9F%87%A9%F0%9F%87%AA+Germany
 ss://347bae22-9d1c-486c-ab55-a8dbe8105cbb@dark.gostmod.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
 ss://f2c921fe-23fa-41e6-cb72-98f884fa8d00@dark.gostmod.shop:2083?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40networknim
@@ -984,8 +984,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.169.204:22222?path=%2Ftelegram-c
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.12.108:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram+%40ConfigV2RayNG+%F0%9F%87%AC%F0%9F%87%A7
 
 
-ss://09ba7e47-92b9-4b14-9ee0-acc595b8185a@Vpnmasi.savagev2ray.site:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all2.savagev2ray.site&amp;type=ws&amp;sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-8rrlzmsz
-ss://90c8370b-e57f-4db8-a49d-7f3266ffebf2@all5.savagev2ray.site:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=all6.savagev2ray.site&amp;type=ws#Ws-%40Vpnmasi
 ss://b8a7b7a4-8039-40fb-86b8-45f434f9ddaf@Vpnmasi.savagev2ray.site:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all2.savagev2ray.site&amp;type=ws&amp;sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-rvj5aqf5
 ss://26319d90-a842-4a9f-9e02-16813a7c04dc@all5.savagev2ray.site:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=all6.savagev2ray.site&amp;security=none#Ws-%40Vpnmasi
 ss://7fece30a-4d96-48e7-82c9-b1667988c87b@Vpnmasi.savagev2ray.site:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all2.savagev2ray.site&amp;type=ws&amp;sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-mn57hw4p
@@ -1012,6 +1010,7 @@ ss://cd6725a0-b6f6-4204-a156-1bb280498f6b@Vpnmasi.savagev2ray.site:2083?path=%2F
 ss://cd6725a0-b6f6-4204-a156-1bb280498f6b@Vpnmasi.savagev2ray.site:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all2.savagev2ray.site&amp;type=ws&amp;sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-min9dtkg  لوکیشن : آلمان 
 ss://2ec2a21b-6766-4951-81b0-12b3a6ba792e@bia-to.savagev2ray.site:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=All2.savagev2ray.site&amp;type=ws&amp;sni=All2.savagev2ray.site#1msjabi4
 ss://2ec2a21b-6766-4951-81b0-12b3a6ba792e@bia-to.savagev2ray.site:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=All2.savagev2ray.site&amp;type=ws&amp;sni=All2.savagev2ray.site#1msjabi4  لوکیشن : فرانسه 
+ss://dc0163b6-feae-475a-b347-69e4d7fb32f8@www.speedtest.net:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=All2.savagev2ray.site#%40SavageV2ray-zsidxy3o
 ss://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me%2FV
 ss://eyJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJhaWQiOjAsImhvc3QiOiJ1cy1zdC0yLnNoYXJlY2VudHJlLm9ubGluZSIsImlkIjoiMjBlOTI4ODEtNWZiNC00YjA1LWJjNzctNTc5Mjk0NzZkYzY5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NoaXJrZXIiLCJwb3J0Ijo0NDMsInBzIjoi44CMU0NQ44CNVVMtQ0YyIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJ1cy1zdC0yLnNoYXJlY2VudHJlLm9ubGluZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0=
 ss://eyJhZGQiOiAid3d3LnNjaWVuY2VkaXJlY3QuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAidXMtdi5zc2htYXgueHl6IiwgImlkIjogIjZmMDFjYWU4LWMyYzUtNDI2ZC04N2VmLWE3OTI5ZTlmMTc5OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAic2N5IjogImF1dG8iLCAic25pIjogInVzLXYuc3NobWF4Lnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
