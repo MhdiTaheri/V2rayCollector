@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-17-Jul-2024 09:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-17-Jul-2024 10:42
 
 
 
@@ -20,8 +20,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@15.236.140.182:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
-trojan://telegram-id-privatevpns@15.236.138.65:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@35.177.130.4:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@3.9.143.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@63.34.46.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
@@ -36,6 +34,8 @@ trojan://telegram-id-privatevpns@13.42.230.198:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@35.177.132.124:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@54.228.105.5:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@34.254.139.59:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
+trojan://telegram-id-privatevpns@16.16.245.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@51.21.56.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 
 
 
@@ -70,6 +70,7 @@ trojan://ypDt8RkT7J@138.199.57.185:43118/?type=tcp&amp;security=tls&amp;sni=eiet
 trojan://ypDt8RkT7J@185.180.13.70:43118/?type=tcp&amp;security=tls&amp;sni=earya.phooeyunfold.com&amp;allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US-185.180.13.70-0139
 trojan://ypDt8RkT7J@207.211.215.169:43118/?type=tcp&amp;security=tls&amp;sni=tpmwf.phooeyunfold.com&amp;allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7TR-207.211.215.169-0261
 trojan://telegram-id-privatevpns@13.48.9.236:22222/?type=tcp&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;allowInsecure=1#%28S112%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
+trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=egajz.phooeyunfold.com#
 
 
 
@@ -109,6 +110,7 @@ trojan://user@s26.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@jp03.156786.xyz:709?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=jp03.156786.xyz#Japan+AWS
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@0kr02.156786.xyz:709?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=0kr02.156786.xyz#South+Korea+AWS
 trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=eiety.phooeyunfold.com#Canada+Datacamp
+trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=egajz.phooeyunfold.com#Poland+ScaleWay
 
 
 
