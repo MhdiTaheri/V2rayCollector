@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jul-2024 14:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jul-2024 15:50
 
 
 
@@ -21,8 +21,6 @@ trojan://telegram-id-directvpn@51.20.210.67:22222?security=tls&amp;alpn=http/1.1
 
 
 
-trojan://telegram-id-privatevpns@52.213.187.215:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
-trojan://telegram-id-privatevpns@13.50.54.63:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.48.39.54:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@18.199.43.21:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@3.79.131.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
@@ -39,6 +37,8 @@ trojan://telegram-id-privatevpns@3.77.117.115:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@15.237.8.166:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.39.252.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@35.179.25.175:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@13.42.213.18:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@54.75.28.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 trojan://Watashi_VPN@www.visa.com.sg:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#ID%28%40Outline_Vpn%29+733

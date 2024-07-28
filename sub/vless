@@ -1,11 +1,9 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jul-2024 14:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jul-2024 15:50
 vless://fa7829d6-d3ce-4a0d-cbf4-aedf98a17a48@185.143.233.5:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=devar.ir&amp;type=ws#nim-1g8on94cp
 vless://fa7829d6-d3ce-4a0d-cbf4-aedf98a17a48@185.143.233.5:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=devar.ir&amp;type=ws#nim-1g8on94cp همه اپراتور ها 
 
 
 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=de.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de.tradex2080.com#telegram 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?path=%2FBQV6vAwQzmCFpMcdx&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=tr2.tradex2080.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=tr2.tradex2080.com#telegram 
@@ -205,6 +203,8 @@ vless://8c600ca3-ebec-48f8-a823-9f04b4811087@hidden-xvwmvluyi772qgrel6.123456789
 vless://8ce24081-784e-4534-963d-d155fcd38668@hidden-sfznjxontzde2qe8hv.123aasearch123547.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-sfznjxontzde2qe8hv.123aasearch123547.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-sfznjxontzde2qe8hv.123aasearch123547.shop#telegram 
 vless://fb59d467-15a0-428e-b3b8-282aea0bfc6f@hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop#telegram 
 vless://cf2d7f24-800c-4c57-bacd-1613d7a61e32@hidden-wjbgjftnziokgczlhm.domainregistration01.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-wjbgjftnziokgczlhm.domainregistration01.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-wjbgjftnziokgczlhm.domainregistration01.shop#telegram 
+vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
+vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
 
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@188.114.97.3:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@190.93.247.155:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
@@ -742,7 +742,7 @@ vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=
 
 
 
-vless://Parsashonam-23@104.24.185.137:8080/?type=ws&amp;encryption=none&amp;flow=&amp;host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&amp;path=%2F%3Fed%3D2560#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%20New%201
+
 
 
 vless://telegram-id-ArV2ray@www.parsvds.ir:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=10.V.v.ww.speedtest.net.ftp.debian.org.mashtimji.iR.&amp;path=/%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579?ed%3D2048#
@@ -830,7 +830,6 @@ vless://join-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;se
 vless://Join-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 vless://Telegram-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 vless://join-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
-vless://Join-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@188.114.97.3:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@190.93.247.155:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
 vless://DIgIV2RAy@185.146.173.93:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&amp;type=ws#%40Freakconfig

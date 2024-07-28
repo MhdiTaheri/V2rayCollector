@@ -1,11 +1,9 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jul-2024 14:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jul-2024 15:50
 vless://fa7829d6-d3ce-4a0d-cbf4-aedf98a17a48@185.143.233.5:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=devar.ir&amp;type=ws#nim-1g8on94cp
 vless://fa7829d6-d3ce-4a0d-cbf4-aedf98a17a48@185.143.233.5:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=devar.ir&amp;type=ws#nim-1g8on94cp همه اپراتور ها 
 
 
 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=de.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de.tradex2080.com#telegram 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?path=%2FBQV6vAwQzmCFpMcdx&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=tr2.tradex2080.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=tr2.tradex2080.com#telegram 
@@ -205,6 +203,8 @@ vless://8c600ca3-ebec-48f8-a823-9f04b4811087@hidden-xvwmvluyi772qgrel6.123456789
 vless://8ce24081-784e-4534-963d-d155fcd38668@hidden-sfznjxontzde2qe8hv.123aasearch123547.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-sfznjxontzde2qe8hv.123aasearch123547.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-sfznjxontzde2qe8hv.123aasearch123547.shop#telegram 
 vless://fb59d467-15a0-428e-b3b8-282aea0bfc6f@hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop#telegram 
 vless://cf2d7f24-800c-4c57-bacd-1613d7a61e32@hidden-wjbgjftnziokgczlhm.domainregistration01.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-wjbgjftnziokgczlhm.domainregistration01.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-wjbgjftnziokgczlhm.domainregistration01.shop#telegram 
+vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
+vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
 
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@188.114.97.3:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@190.93.247.155:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
@@ -742,7 +742,7 @@ vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=
 
 
 
-vless://Parsashonam-23@104.24.185.137:8080/?type=ws&amp;encryption=none&amp;flow=&amp;host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&amp;path=%2F%3Fed%3D2560#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%20New%201
+
 
 
 vless://telegram-id-ArV2ray@www.parsvds.ir:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=10.V.v.ww.speedtest.net.ftp.debian.org.mashtimji.iR.&amp;path=/%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579?ed%3D2048#
@@ -830,7 +830,6 @@ vless://join-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;se
 vless://Join-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 vless://Telegram-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 vless://join-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
-vless://Join-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@188.114.97.3:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@190.93.247.155:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
 vless://DIgIV2RAy@185.146.173.93:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&amp;type=ws#%40Freakconfig
@@ -1192,8 +1191,6 @@ ss://fa7829d6-d3ce-4a0d-cbf4-aedf98a17a48@185.143.233.5:80?path=%2F&amp;security
 
 
 
-ss://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
-ss://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
 ss://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
 ss://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=de.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de.tradex2080.com#telegram 
 ss://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?path=%2FBQV6vAwQzmCFpMcdx&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=tr2.tradex2080.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=tr2.tradex2080.com#telegram 
@@ -1396,6 +1393,8 @@ ss://8c600ca3-ebec-48f8-a823-9f04b4811087@hidden-xvwmvluyi772qgrel6.123456789asd
 ss://8ce24081-784e-4534-963d-d155fcd38668@hidden-sfznjxontzde2qe8hv.123aasearch123547.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-sfznjxontzde2qe8hv.123aasearch123547.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-sfznjxontzde2qe8hv.123aasearch123547.shop#telegram 
 ss://fb59d467-15a0-428e-b3b8-282aea0bfc6f@hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop#telegram 
 ss://cf2d7f24-800c-4c57-bacd-1613d7a61e32@hidden-wjbgjftnziokgczlhm.domainregistration01.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-wjbgjftnziokgczlhm.domainregistration01.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-wjbgjftnziokgczlhm.domainregistration01.shop#telegram 
+ss://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
+ss://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
 ss://eyJhZGQiOiIxMDQuMjYuOC4yMTAiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8xIiwicG9ydCI6IjQ0MyIsImlkIjoiMjA2MjU5ZmQtMDlhZi00NmVlLWVjNmQtNWFjOGE4MjkxZDZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXloZ2l1eWZld2RyZ2YtdG8xMjM0NS54aWFvaGhoLnh5eiIsInRscyI6InRscyIsInBhdGgiOiIvNjYifQ==
 ss://eyJhZGQiOiIxNzIuNjcuMTE2LjQ4IiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm71fMiIsInBvcnQiOiI4MCIsImlkIjoiMjJhMTNhYTItNDg1NC00NGNiLWUwOTAtZWM3MWFiODRiMWZmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid2FwLmhvc3RtamouY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
 ss://eyJhZGQiOiJkZGQ0NzQ4MS0wZDZmLTA4YjktNzIwOS1iMGRkYzBjNWZhNDUub25lcGx1cy5wdWIiLCJ2IjoyLCJwcyI6InVuZGVmaW5lZCB1bmRlZmluZWQgMSIsInBvcnQiOiI4MCIsImlkIjoiNDZjZmNmZTEtZTQ1MC00NTlkLWEzYWItOTQwNjAxMWFiM2ViIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsInRscyI6IiIsInBhdGgiOiIvIn0=
@@ -2432,7 +2431,6 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0R
 ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@no-vote.realofspeed.com:2048#%F0%9F%A4%A6%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F%D8%B1%D8%A7%DB%8C+%D9%86%D8%AF%D9%87%DB%8C%D8%AF%F0%9F%A4%A6%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F
 ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@[2001:1600:10:100::fb5]:2048#%F0%9F%A4%A6%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F%D8%B1%D8%A7%DB%8C+%D9%86%D8%AF%D9%87%DB%8C%D8%AF%F0%9F%A4%A6%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F
 
-ss://Parsashonam-23@104.24.185.137:8080/?type=ws&amp;encryption=none&amp;flow=&amp;host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&amp;path=%2F%3Fed%3D2560#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%20New%201
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04tLVpFRE1PREVPTg@45.145.42.70:25366#%40Network_442_%20irancell%20%F0%9F%87%A9%F0%9F%87%AA
 ss://eyJhZGQiOiIxNzIuNjcuMTU2LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuZXp1a28ucmFpZGVuc2hvZ3VuLmNsb3VkbnMub3JnIiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzL2FmcmhtczE2di5iZXN0eHJheS5idXp6IiwicG9ydCI6IjQ0MyIsInBzIjoiQE5ldHdvcmtfNDQyXyBpcmFuY2VsbCDwn5ucIiwic2N5IjoiYXV0byIsInNuaSI6Im5lenVrby5yYWlkZW5zaG9ndW4uY2xvdWRucy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJATmV0d29ya180NDJfIGlyYW5jZWxsIPCfm5zwn4e68J+HsiIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -2535,7 +2533,6 @@ ss://join-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;secur
 ss://Join-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 ss://Telegram-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 ss://join-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
-ss://Join-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp;type=ws#@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray/@frev2ray
 ss://02eb83b5-7f86-49e6-a451-5fd1343f34ad@188.114.97.3:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
 ss://02eb83b5-7f86-49e6-a451-5fd1343f34ad@190.93.247.155:80?path=%2FPROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#%40Freakconfig
 ss://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVXMxLnNvY2lmaWxlcy5jb20uIiwiaWQiOiIzM2FlODZhMC00NzNkLTExZWYtYTZjZC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -2615,8 +2612,6 @@ trojan://telegram-id-directvpn@51.20.210.67:22222?security=tls&amp;alpn=http/1.1
 
 
 
-trojan://telegram-id-privatevpns@52.213.187.215:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
-trojan://telegram-id-privatevpns@13.50.54.63:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.48.39.54:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@18.199.43.21:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@3.79.131.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
@@ -2633,6 +2628,8 @@ trojan://telegram-id-privatevpns@3.77.117.115:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@15.237.8.166:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.39.252.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@35.179.25.175:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@13.42.213.18:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@54.75.28.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 trojan://Watashi_VPN@www.visa.com.sg:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#ID%28%40Outline_Vpn%29+733
