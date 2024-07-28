@@ -1,11 +1,9 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jul-2024 06:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-28-Jul-2024 07:43
 vless://fa7829d6-d3ce-4a0d-cbf4-aedf98a17a48@185.143.233.5:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=devar.ir&amp;type=ws#nim-1g8on94cp
 vless://fa7829d6-d3ce-4a0d-cbf4-aedf98a17a48@185.143.233.5:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=devar.ir&amp;type=ws#nim-1g8on94cp همه اپراتور ها 
 
 
 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
 vless://4c1983a8-1802-46f1-8837-aaf33958ed46@185.148.105.52:443?path=%2FMgFwdcE2Hs2cgQYI0W&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=fln1.novinping.com&amp;fp=chrome&amp;type=ws&amp;sni=fln1.novinping.com#telegram 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
@@ -181,6 +179,20 @@ vless://8ce24081-784e-4534-963d-d155fcd38668@hidden-sfznjxontzde2qe8hv.123aasear
 vless://fb59d467-15a0-428e-b3b8-282aea0bfc6f@hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop&amp;fp=chrome&amp;type=ws&amp;sni=hidden-bugylzfj9vh8tsgih0.123aasearch123547.shop#telegram 
 vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
 vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
+vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
+vless://f533e37c-9da5-4955-a218-a7886e5719b6@172.66.213.38:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nl88.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=nl88.tradex2080.com#telegram 
+vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?path=%2FBQV6vAwQzmCFpMcdx&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=tr2.tradex2080.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=tr2.tradex2080.com#telegram 
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?hiddify=1&amp;sni=de-02.tradex2080.com&amp;type=grpc&amp;alpn=h2&amp;path=gPGhgE3kwHBXqebAryGsQ&amp;host=de-02.tradex2080.com&amp;serviceName=gPGhgE3kwHBXqebAryGsQ&amp;mode=gun&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=tls#telegram 
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=de01.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=deefull.tradex2080.com#telegram 
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de-04.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=de-04.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de-04.tradex2080.com#telegram 
+vless://d2c6ddc0-891a-4435-ac0a-4a5cdb78cb7d@104.16.4.103:443?hiddify=1&amp;sni=fl1.tradex2080.com&amp;type=ws&amp;alpn=http/1.1&amp;path=/uy4vb8KcMmQqnkXOdFN4WJ&amp;host=fl1.tradex2080.com&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=tls#telegram 
+vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
+vless://f533e37c-9da5-4955-a218-a7886e5719b6@172.66.213.38:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nl88.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=nl88.tradex2080.com#telegram 
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de-04.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=de-04.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de-04.tradex2080.com#telegram 
+vless://f533e37c-9da5-4955-a218-a7886e5719b6@104.26.9.103:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nl88.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=nl88.tradex2080.com#telegram 
+vless://4c1983a8-1802-46f1-8837-aaf33958ed46@185.148.105.52:443?path=%2FMgFwdcE2Hs2cgQYI0W&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=fln1.novinping.com&amp;fp=chrome&amp;type=ws&amp;sni=fln1.novinping.com#telegram 
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@172.67.77.67:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=de01.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de01.tradex2080.com#telegram 
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=de.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de.tradex2080.com#telegram 
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%40Freakconfig
@@ -726,7 +738,8 @@ vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=
 
 
 
-
+vless://join--ZEDMODEON@www.speedtest.net:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=www.speedtest.net.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&amp;path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048#%40Network_442_%20MCI%20%F0%9F%9B%9C
+vless://Parsashonam-23@104.24.185.137:8080/?type=ws&amp;encryption=none&amp;flow=&amp;host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&amp;path=%2F%3Fed%3D2560#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%20New%201
 
 
 vless://telegram-id-ArV2ray@www.parsvds.ir:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=8.V.V2.www.speedtest.net.ftp.debian.org.bahrane.ir.&amp;path=/%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579?ed%3D2048#
