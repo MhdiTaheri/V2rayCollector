@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-02-Aug-2024 02:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-02-Aug-2024 04:24
 
 
 
@@ -678,6 +678,13 @@ vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@85.9.98.114:2083?path=%2Fvbd&amp;se
 vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@85.9.98.114:2083?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=chrome&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F…
 vless://3eba6868-8bea-42c2-b0a0-652a5a27776e@194.5.179.148:443?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=randomized&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreeeee
 vless://bff1cd01-fa62-4161-8e83-943a77639efa@62.60.160.168:443?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=randomized&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreee
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;fp=chrome&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://b2daa807-ddaa-4dc2-86de-3d99e083bab5@46.245.65.211:333?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 vless://DIgIV2RAy@payphone.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-1
 vless://DIgIV2RAy@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&amp;type=ws#%40Digiv2ray-2
