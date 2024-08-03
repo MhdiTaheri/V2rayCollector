@@ -1,12 +1,10 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-03-Aug-2024 08:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-03-Aug-2024 09:47
 vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
 vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
 vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
 
 
 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.1.buybikeshop.com.&amp;security=none#telegram 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&amp;path=%2F%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.2.buybikeshop.com.&amp;security=none#telegram 
 vless://f533e37c-9da5-4955-a218-a7886e5719b6@104.26.9.103:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nl88.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=nl88.tradex2080.com#telegram 
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=de.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de.tradex2080.com#telegram 
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de-04.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=de-04.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de-04.tradex2080.com#telegram 
@@ -265,6 +263,12 @@ vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V18.SiMansaNaT.Ir.#telegram 
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V19.SiMansaNaT.Ir.#telegram 
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.#telegram 
+vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582382982106555.shahrelor-aaaai.buzz&amp;type=ws&amp;sni=638582382982106555.shahrelor-aaaai.buzz#telegram 
+vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582382825212752.seth-saaak.buzz&amp;type=ws&amp;sni=638582382825212752.seth-saaak.buzz#telegram 
+vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582382825222652.seth-saaak.buzz&amp;type=ws&amp;sni=638582382825222652.seth-saaak.buzz#telegram 
+vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582363231156273.sebastian-saaab.buzz&amp;type=ws&amp;sni=638582363231156273.sebastian-saaab.buzz#telegram 
+vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582363231166737.sebastian-saaab.buzz&amp;type=ws&amp;sni=638582363231166737.sebastian-saaab.buzz#telegram 
+vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582380103698749.semnan-aaaai.buzz&amp;type=ws&amp;sni=638582380103698749.semnan-aaaai.buzz#telegram 
 
 vless://4a71a621-4b4c-4e81-95d7-e6cb7c287a49@zula.ir:80?path=%2FPROXY_MTM-PROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=ws#Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fraud.chase&amp;type=ws#%40Freakconfig
