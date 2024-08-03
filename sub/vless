@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-03-Aug-2024 23:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-04-Aug-2024 00:41
 vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
 vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
@@ -526,8 +526,6 @@ vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=%2FT%2CE%2CL
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
-vless://36c038c9-4afd-4bf1-91f9-a80669fb8b9c@78.46.152.136:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=v2ra1.ecrgpk.workers.dev&amp;type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://49aacdab-c9b9-4031-8e64-514e9cd72089@104.18.22.19:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=shAHaNShahi.pagES.deV&amp;fp=randomized&amp;type=ws&amp;sni=ShahANsHahi.paGEs.Dev#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.47.121.146:31008?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=dns68.putata.eu.org&amp;type=ws&amp;sni=dns68.putata.eu.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@3.70.219.196:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=dns68.putata.eu.org&amp;type=ws&amp;sni=dns68.putata.eu.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -749,7 +747,11 @@ vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=
 
 
 
-
+vless://bc827d67-f095-4c65-9327-33039decb888@172.67.151.162:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=s5c.giga-downloader.com&amp;path=%2Fws5%2F8080&amp;security=tls&amp;sni=s5c.giga-downloader.com&amp;alpn=http%2F1.1&amp;fp=chrome#%40Network_442%20MTN%20%401
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.130.66:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=iyjil.cfonni.info&amp;path=%2Fparadise&amp;security=tls&amp;sni=iyjil.cfonni.info#%40Network_442%20MTN%20%402
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.183.252:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=mmdv2.pages.dev&amp;security=tls&amp;sni=mmdv2.pages.dev#%40Network_442%20MTN%20%403
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.99.174:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=mmdv2.pages.dev&amp;security=tls&amp;sni=mmdv2.pages.dev#%40Network_442%20MTN%20%404
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.252.162:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=mmdv2.pages.dev&amp;security=tls&amp;sni=mmdv2.pages.dev#%40Network_442%20MTN%20%405
 
 
 vless://telegram-id-PcV2ray@www.speedtest.net:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=2.V.V2.www.speedtest.net.e.www.speedtest.net.mashtimji.iR.&amp;path=/-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry#
