@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-04-Aug-2024 05:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-04-Aug-2024 06:44
 vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
 vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
@@ -612,14 +612,9 @@ vless://user@s26.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&am
 
 vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzhichao1996&amp;security=tls&amp;encryption=none&amp;host=op.manluqiusuo.top&amp;type=ws&amp;sni=op.manluqiusuo.top#v2ray_for_free
 
+vless://30efd06e-d5b9-4524-9f59-881ae0f58201@206.189.84.74:443?security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=Whatsapp.net#Singapore+Digital+Ocean
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.67.9.5:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=shg2.azurewebsites.net&amp;type=ws&amp;sni=shg2.azurewebsites.net#Singapore+Azure
 
-
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;fp=chrome&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?path=%2Fyuyg5ujoovohfscy%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=00e463Dc.beSTVPn-4xi.PAgES.dEv&amp;type=ws&amp;sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=de4ecf6b.isvphp-4g8.pages.dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;fp=chrome&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%…
 vless://6065d5ae-8b1d-4684-b2bf-fe4e46547059@zula.ir:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://6065d5ae-8b1d-4684-b2bf-fe4e46547059@www.parsvds.ir:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
