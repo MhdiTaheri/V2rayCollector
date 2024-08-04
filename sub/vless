@@ -1,26 +1,11 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-04-Aug-2024 14:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-04-Aug-2024 15:50
 vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
-vless://50644bda-912b-4de0-95b4-36b1b3e5e5c5@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-5p3icc1q
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 
 
 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?hiddify=1&amp;sni=de-02.tradex2080.com&amp;type=grpc&amp;alpn=h2&amp;path=gPGhgE3kwHBXqebAryGsQ&amp;host=de-02.tradex2080.com&amp;serviceName=gPGhgE3kwHBXqebAryGsQ&amp;mode=gun&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=tls#telegram 
-vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?path=%2FBQV6vAwQzmCFpMcdx&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=tr2.tradex2080.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=tr2.tradex2080.com#telegram 
-vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
-vless://d2c6ddc0-891a-4435-ac0a-4a5cdb78cb7d@104.16.4.103:443?hiddify=1&amp;sni=fl1.tradex2080.com&amp;type=ws&amp;alpn=http/1.1&amp;path=/uy4vb8KcMmQqnkXOdFN4WJ&amp;host=fl1.tradex2080.com&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=tls#telegram 
-vless://f533e37c-9da5-4955-a218-a7886e5719b6@104.26.9.103:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nl88.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=nl88.tradex2080.com#telegram 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=de01.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=deefull.tradex2080.com#telegram 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de-04.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=de-04.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de-04.tradex2080.com#telegram 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=de.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de.tradex2080.com#telegram 
-vless://f533e37c-9da5-4955-a218-a7886e5719b6@172.66.213.38:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nl88.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=nl88.tradex2080.com#telegram 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@172.67.77.67:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=de01.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de01.tradex2080.com#telegram 
-vless://4c1983a8-1802-46f1-8837-aaf33958ed46@185.148.105.52:443?path=%2FMgFwdcE2Hs2cgQYI0W&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=fln1.novinping.com&amp;fp=chrome&amp;type=ws&amp;sni=fln1.novinping.com#telegram 
-vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de-04.tradex2080.com:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=de-04.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de-04.tradex2080.com#telegram 
-vless://f533e37c-9da5-4955-a218-a7886e5719b6@172.66.213.38:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nl88.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=nl88.tradex2080.com#telegram 
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@161.35.108.194:12345?type=http&amp;security=reality&amp;pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&amp;fp=chrome&amp;sni=refersion.com&amp;sid=c57d2373&amp;spx=/&amp;flow=#telegram 
 vless://b22ced12-e5dc-4057-b792-fd0ef2487047@24.199.94.226:443?type=tcp&amp;security=reality&amp;pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&amp;fp=chrome&amp;sni=zula.ir&amp;sid=f394b7d3&amp;spx=/&amp;flow=xtls-rprx-vision#telegram 
 vless://b927294d-b137-45ff-ac76-86d774a15c0a@147.182.186.35:443?type=tcp&amp;security=reality&amp;pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&amp;fp=chrome&amp;sni=zula.ir&amp;sid=f394b7d3&amp;spx=/&amp;flow=xtls-rprx-vision#telegram 
@@ -256,6 +241,9 @@ vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V18.SiMansaNaT.Ir.#telegram 
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V19.SiMansaNaT.Ir.#telegram 
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.#telegram 
+vless://60883ce2-c780-49de-9626-4d036090f3a7@hidden-j6i1452egb2lisvp7u.slamalicoom.click:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-j6i1452egb2lisvp7u.slamalicoom.click&amp;fp=chrome&amp;type=ws&amp;sni=hidden-j6i1452egb2lisvp7u.slamalicoom.click#telegram 
+vless://5732d698-247c-4536-851f-e0876485e905@hidden-oeopk75ivnoqi5gsnu.slamalicoom.click:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-oeopk75ivnoqi5gsnu.slamalicoom.click&amp;fp=chrome&amp;type=ws&amp;sni=hidden-oeopk75ivnoqi5gsnu.slamalicoom.click#telegram 
+vless://1ec35aaa-f629-429c-8673-47d9588fd984@hidden-jtdztubuxn3vmtlult.slamalicoom.click:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=hidden-jtdztubuxn3vmtlult.slamalicoom.click&amp;fp=chrome&amp;type=ws&amp;sni=hidden-jtdztubuxn3vmtlult.slamalicoom.click#telegram 
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%40Freakconfig
 vless://5f27aa21-60c9-48a2-9b93-6351ef7e0c34@www.parspack.com:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#Freakconfig
