@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-04-Aug-2024 22:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-04-Aug-2024 23:43
 ss://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 ss://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 ss://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
@@ -308,8 +308,6 @@ ss://c6579c4f-c388-4e65-bbcb-cd10107ebdd7@www.speedtest.net:80?path=/%54%65l%65%
 ss://c6579c4f-c388-4e65-bbcb-cd10107ebdd7@www.speedtest.net:80?path=/%54%65l%65%67%72%61m-%43onf%69%67M%73%3Fed%3D2048?-Telegram--@ELiV2Ray--@ELiV2Ray…
 ss://ee8c0fc4-e798-420c-a789-8ca2ebeab6a7@193.111.235.118:443?security=none&amp;encryption=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&amp;headerType=none&amp;type=tcp#
 ss://7ee1514d-b6f6-4ff5-bb05-0d4f6440f9cb@www.speedtest.net:2095?path=%2F&amp;security=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&amp;encryption=none&amp;host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&amp;type=httpupgrade#
-ss://aa596cfd-53b5-4b5c-97c8-1236c747bfd2@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=dcc22.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+2
-ss://f30aad19-41df-486d-9b57-3df1eceab697@185.146.173.58:80?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=dcc21.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+3
 ss://a7055414-a620-4981-b262-9d8f281cc5e7@185.146.173.58:8080?path=%2Fsevernett&amp;security=none&amp;encryption=none&amp;host=dcc20.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+4
 ss://90a93a20-1f02-46fb-814a-9abaaeaf7616@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=dcc33.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+1
 ss://49d642c2-0d12-4e9b-9329-ae6daebf05f8@185.146.173.58:2095?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=dcc32.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+2
@@ -320,6 +318,10 @@ ss://f186877b-42a8-411b-8dbc-1d3e97119f4b@185.146.173.58:2095?path=%2Fservernett
 ss://e737d92b-6080-458c-b5f1-d4958277611e@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=dcc30.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+4
 ss://72c6fa10-e19f-4301-914a-d464ebcb7ad2@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=dcc31.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+3
 ss://db347ece-5a53-4991-a531-056d6d17c27d@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=dcc33.servernet.fun.&amp;type=ws#%40SERVERNETT+MTN+1
+ss://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:34198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+ALL+1
+ss://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:31407?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+ALL+3
+ss://TELEGRAM-ServerNett@[2a01:4f8:c17:48e4::1]:43404?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+ALL+2
+ss://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+ALL+4
 ss://eyJhZGQiOiIxODUuMTQ2LjE3My4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImphaGZramhhLmNmZCIsImlkIjoiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6ImNvbmZpZ2thZGXwn5GJQHByb3h5c3RvcmUxMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYWhma2poYS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.142.84:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#configkade%F0%9F%91%89%40proxystore11
 ss://eyJhZGQiOiIxNzIuNjcuMjE5LjE5NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsImlkIjoiYjMyMWZkNWQtZTZlYy00MjkzLWE2NDQtMTY0ZTM4ODVmNTJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6ImNvbmZpZ2thZGXwn5GJQHByb3h5c3RvcmUxMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJhZGVuYzM2di54dG9vbHRlY2guY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
