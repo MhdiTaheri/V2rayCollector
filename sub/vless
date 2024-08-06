@@ -1,16 +1,10 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Aug-2024 12:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Aug-2024 13:43
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 
 
 
-vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582962744554186.blake-paaas.buzz&amp;type=ws&amp;sni=638582962744554186.blake-paaas.buzz#telegram 
-vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582962740755622.blake-paaar.buzz&amp;type=ws&amp;sni=638582962740755622.blake-paaar.buzz#telegram 
-vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582955069133658.barrett-paaaq.buzz&amp;type=ws&amp;sni=638582955069133658.barrett-paaaq.buzz#telegram 
-vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582953775747219.axel-paaar.buzz&amp;type=ws&amp;sni=638582953775747219.axel-paaar.buzz#telegram 
-vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582953775747219.axel-paaar.buzz&amp;type=ws&amp;sni=638582953775747219.axel-paaar.buzz#telegram 
-vless://0dd1347e-e342-456c-b802-779b859cca42@speedtest.org:443?path=%2FchatApiws&amp;security=tls&amp;encryption=none&amp;host=638582962737172339.blake-paaaq.buzz&amp;type=ws&amp;sni=638582962737172339.blake-paaaq.buzz#telegram 
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?hiddify=1&amp;sni=de-02.tradex2080.com&amp;type=grpc&amp;alpn=h2&amp;path=gPGhgE3kwHBXqebAryGsQ&amp;host=de-02.tradex2080.com&amp;serviceName=gPGhgE3kwHBXqebAryGsQ&amp;mode=gun&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=tls#telegram 
 vless://f533e37c-9da5-4955-a218-a7886e5719b6@104.26.9.103:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nl88.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=nl88.tradex2080.com#telegram 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#telegram 
@@ -239,6 +233,26 @@ vless://177dfbdf-8337-40ea-8791-906924b9fb2f@206.189.194.85:12345?type=http&amp;
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@159.223.101.48:12345?type=http&amp;security=reality&amp;pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&amp;fp=chrome&amp;sni=refersion.com&amp;sid=c57d2373&amp;spx=/&amp;flow=#telegram 
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@137.184.197.138:12345?type=http&amp;security=reality&amp;pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&amp;fp=chrome&amp;sni=refersion.com&amp;sid=c57d2373&amp;spx=/&amp;flow=#telegram 
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@159.223.137.202:12345?type=http&amp;security=reality&amp;pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&amp;fp=chrome&amp;sni=refersion.com&amp;sid=c57d2373&amp;spx=/&amp;flow=#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V01.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V02.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V03.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V05.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V06.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V07.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V08.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V09.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V10.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V12.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V13.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V14.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V16.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V17.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V18.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V19.SiMansaNaT.Ir.#telegram 
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.#telegram 
 
 vless://9ce76e4b-619c-4f74-a39a-ac9714afad91@www.parspack.com:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTMPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade
 vless://9ce76e4b-619c-4f74-a39a-ac9714afad91@zula.ir:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTMPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#Freakconfig
@@ -546,7 +560,7 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&amp;sec
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&amp;type=ws#%40V2rayNG3
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fraud.chase&amp;type=ws#%40V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=%2FT%2CE%2CL%2CE%2CG%2CR%2CA%2CM%2CX%2CV%2C2%2CR%2CA%2CY%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.salf101.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&amp;type=ws#%40V2rayNG3
-
+vless://--ELiV2ray-ELiV2ray--@dash.cloudflare.com.www.speedtest.net.2.Elmahstyle.iR:80?type=ws&amp;path=%2F&amp;host=&amp;security=none#
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
@@ -783,7 +797,6 @@ vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=
 
 
 
-vless://telegram-id-PcV2ray@www.speedtest.net:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=2.V.V2.www.speedtest.net.e.www.speedtest.net.mashtimji.iR.&amp;path=/-PcV2ry-…
 vless://telegram-id-ArV2ray@www.parsvds.ir:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=13.v.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&amp;path=/%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579?ed%3D2048#
 vless://46c86b08-9806-44f2-e901-8d325e420b38@www.speedtest.net:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=emshab.bklink.iR.&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed#
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&amp;encryption=none&amp;type=grpc&amp;sid=f77e5398&amp;fp=chrome&amp;pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY#
@@ -818,6 +831,13 @@ vless://c39b8139-5a4a-4a6f-a80d-271ab55fca69@104.17.148.22:8880?security=none&am
 vless://telegram-id-ArV2ray@www.speedtest.net:2095?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#
 vless://Telegram-NUFiLTER@172.67.138.69:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=bpb.KmEVPs.iR&amp;path=/f6QE1QHz0sEFAUIO/MjAyLjYxLjE5My4yNDg#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=bpb.KmEVPs.iR&amp;path=/f6QE1QHz0sEFAUIO/MjAyLjYxLjE5My4yNDg#
+vless://94f51d56-204b-466b-b1d7-d397df9273d1@188.114.96.2:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed%3D1024#
+vless://2a16d3a6-33b0-4c4d-9cc2-24f2d9d5b259@185.146.173.252:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080#
+vless://biatosh--ZEDMODEON@www.speedtest.net:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=www.speedtest.net.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&amp;path=%252F%2540%255aED%254d%254fDE%254f%254e-%255aED%254d%254fDE%254f%254e-%2540%255aED%254d%254fDE%254f%254e-%255aED%254d%254fDE%254f%254e-TEL-%255aED%254d%254fDE%254f%254e-%2540%255aED%254d%254fDE%254f%254e%253Fed%253D2048#
+vless://b67e1595-6f4f-4bbf-8770-29ce16e51d34@www.parsvds.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=HAJIMAMAD-JoiN-ShO.MaStErSrV.iR.&amp;path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--?ed%3D8080#
+vless://7ea91431-8f1b-46ac-a671-232be9f8af7f@104.17.148.22:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed%3D2056#
+vless://telegram-id-ArV2ray@www.speedtest.net:8880?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#
 
 vless://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 vless://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
