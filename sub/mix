@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Aug-2024 13:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Aug-2024 14:40
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
@@ -266,6 +266,7 @@ vless://b5c56758-0eda-4676-a270-2540aaf5eb39@172.64.133.252:80?path=%2FTELEGRAM-
 vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@151.101.2.219:443?path=%2Fwebsocket%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=01.ir&amp;type=ws&amp;sni=speedtest.net#%40Freakconfig
 vless://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://5699054c-3538-496c-a5d3-62f6fb517d4a@212.80.24.241:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig
+vless://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://ee8c0fc4-e798-420c-a789-8ca2ebeab6a7@193.111.235.118:443?security=none&amp;encryption=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&amp;headerType=none&amp;type=tcp#
 vless://7ee1514d-b6f6-4ff5-bb05-0d4f6440f9cb@www.speedtest.net:2095?path=%2F&amp;security=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&amp;encryption=none&amp;host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&amp;type=httpupgrade#
 vless://18f48984-81fa-4fd8-95b0-35250f265478@www.speedtest.net:80?path=/%54%65l%65%67%72%61m-%43onf%69%67M%73%3Fed%3D2048?-Telegram----@ELiV2Ray----@ELiV2Ray----&amp;security=none&amp;encryption=none&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#
@@ -889,6 +890,7 @@ vless://b5c56758-0eda-4676-a270-2540aaf5eb39@172.64.133.252:80?path=%2FTELEGRAM-
 vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@151.101.2.219:443?path=%2Fwebsocket%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=01.ir&amp;type=ws&amp;sni=speedtest.net#%40Freakconfig
 vless://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://5699054c-3538-496c-a5d3-62f6fb517d4a@212.80.24.241:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig
+vless://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 
 
 
@@ -965,6 +967,7 @@ vmess://eyJhZGQiOiIxODUuMTQ2LjE3My41OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQ2gyLnZtZXNzLnNpdGUuIiwiaWQiOiJhNmYyYzE1Zi00ZWU2LTU1MzktOGNkYi1hYmU3NjAwMzdhZmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjA1MiIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiRGUxLnZtZXNzLnNpdGUuIiwiaWQiOiI4NjM5ZTUyYi1hMGNlLTVkNjgtYjQ2NS1iNTk0ODgxZmViNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkBGcmVha2NvbmZpZyIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQ2gyLnZtZXNzLnNpdGUuIiwiaWQiOiJhNmYyYzE1Zi00ZWU2LTU1MzktOGNkYi1hYmU3NjAwMzdhZmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjA1MiIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
 
@@ -1199,6 +1202,7 @@ vmess://eyJhZGQiOiIxODUuMTQ2LjE3My41OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQ2gyLnZtZXNzLnNpdGUuIiwiaWQiOiJhNmYyYzE1Zi00ZWU2LTU1MzktOGNkYi1hYmU3NjAwMzdhZmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjA1MiIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiRGUxLnZtZXNzLnNpdGUuIiwiaWQiOiI4NjM5ZTUyYi1hMGNlLTVkNjgtYjQ2NS1iNTk0ODgxZmViNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkBGcmVha2NvbmZpZyIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQ2gyLnZtZXNzLnNpdGUuIiwiaWQiOiJhNmYyYzE1Zi00ZWU2LTU1MzktOGNkYi1hYmU3NjAwMzdhZmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjA1MiIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
 
@@ -1541,6 +1545,8 @@ ss://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N
 ss://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiRGUxLnZtZXNzLnNpdGUuIiwiaWQiOiI4NjM5ZTUyYi1hMGNlLTVkNjgtYjQ2NS1iNTk0ODgxZmViNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkBGcmVha2NvbmZpZyIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 ss://5699054c-3538-496c-a5d3-62f6fb517d4a@212.80.24.241:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig
+ss://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+ss://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQ2gyLnZtZXNzLnNpdGUuIiwiaWQiOiJhNmYyYzE1Zi00ZWU2LTU1MzktOGNkYi1hYmU3NjAwMzdhZmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjA1MiIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://ee8c0fc4-e798-420c-a789-8ca2ebeab6a7@193.111.235.118:443?security=none&amp;encryption=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&amp;headerType=none&amp;type=tcp#
 ss://7ee1514d-b6f6-4ff5-bb05-0d4f6440f9cb@www.speedtest.net:2095?path=%2F&amp;security=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&amp;encryption=none&amp;host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&amp;type=httpupgrade#
 ss://18f48984-81fa-4fd8-95b0-35250f265478@www.speedtest.net:80?path=/%54%65l%65%67%72%61m-%43onf%69%67M%73%3Fed%3D2048?-Telegram----@ELiV2Ray----@ELiV2Ray----&amp;security=none&amp;encryption=none&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#
@@ -2534,6 +2540,8 @@ ss://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N
 ss://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiRGUxLnZtZXNzLnNpdGUuIiwiaWQiOiI4NjM5ZTUyYi1hMGNlLTVkNjgtYjQ2NS1iNTk0ODgxZmViNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkBGcmVha2NvbmZpZyIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 ss://5699054c-3538-496c-a5d3-62f6fb517d4a@212.80.24.241:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig
+ss://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+ss://eyJhZGQiOiIxODUuMTQ2LjE3My45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQ2gyLnZtZXNzLnNpdGUuIiwiaWQiOiJhNmYyYzE1Zi00ZWU2LTU1MzktOGNkYi1hYmU3NjAwMzdhZmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjA1MiIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
 
@@ -2581,8 +2589,6 @@ trojan://telegram-id-directvpn@18.219.136.183:22222?security=tls&amp;alpn=http/1
 
 
 
-trojan://telegram-id-privatevpns@15.236.16.101:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
-trojan://telegram-id-privatevpns@51.44.44.126:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.168.0.12:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@18.175.0.57:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@34.248.101.69:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
@@ -2601,6 +2607,8 @@ trojan://telegram-id-privatevpns@13.49.121.252:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@13.50.216.167:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@18.199.207.238:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@13.36.1.133:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
+trojan://telegram-id-privatevpns@15.236.79.65:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://telegram-id-privatevpns@3.8.74.193:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 
 
 trojan://Watashi_VPN@www.visa.com.sg:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#ID%28%40Outline_Vpn%29+733
