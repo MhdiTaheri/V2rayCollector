@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Aug-2024 21:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Aug-2024 22:40
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
@@ -252,8 +252,6 @@ vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@151.101.2.219:443?path=%2Fwebsocket
 vless://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://5699054c-3538-496c-a5d3-62f6fb517d4a@212.80.24.241:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig
 vless://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
-vless://ee8c0fc4-e798-420c-a789-8ca2ebeab6a7@193.111.235.118:443?security=none&amp;encryption=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&amp;headerType=none&amp;type=tcp#
-vless://7ee1514d-b6f6-4ff5-bb05-0d4f6440f9cb@www.speedtest.net:2095?path=%2F&amp;security=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&amp;encryption=none&amp;host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&amp;type=httpupgrade#
 vless://18f48984-81fa-4fd8-95b0-35250f265478@www.speedtest.net:80?path=/%54%65l%65%67%72%61m-%43onf%69%67M%73%3Fed%3D2048?-Telegram----@ELiV2Ray----@ELiV2Ray----&amp;security=none&amp;encryption=none&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#
 vless://18f48984-81fa-4fd8-95b0-35250f265478@www.speedtest.net:80?path=/%54%65l%65%67%72%61m-%43onf%69%67M%73%3Fed%3D2048?-Telegram----@ELiV2Ray----@ELiV2Ray…
 vless://18f48984-81fa-4fd8-95b0-35250f265478@www.speedtest.net:80?path=/%54%65l%65%67%72%61m-%43onf%69%67M%73%3Fed%3D2048?-Telegram----@ELiV2Ray----@ELiV2Ray…
@@ -276,6 +274,10 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542?security=none&amp;encry
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:34198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+ALL+1  vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:31407?se…
 vless://d8d3c82d-d655-4c93-a5ae-59072a962dbb@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc4.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://227da22a-ab08-4fcf-8ac0-5995e2056e7e@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc3.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:31407?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
+vless://d82e1a8b-3b01-43f0-88e3-515f6720f6f7@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc4.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
+vless://f8712daa-b04e-4bf0-9a70-9491af07ff51@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc3.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:31407?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=7.V.V2.www.speedtest.net.dw.cloudflare.com.mehpow.iR.&amp;type=httpupgrade#configkade%F0%9F%91%89%40proxystore11
@@ -763,13 +765,6 @@ vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=
 
 
 
-vless://c0615218-5881-49d3-a008-03ca8359dc68@www.visa.com:80?security=none&amp;encryption=none&amp;type=ws&amp;host=thexw4.huondadalioshop.ir&amp;path=/Netspeed?ed%3D512#
-vless://telegram-id-ArV2ray@www.parsvds.ir:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=13.v.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&amp;path=/%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579%252C%2574ele%2567ra%256d-%2541rV%2532r%2579?ed%3D2048#
-vless://a6de88e1-f498-4f27-8130-0322ce633f84@www.parsvds.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=HAJIMAMAD-JoiN-ShO.MaStErSrV.iR.&amp;path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--?ed%3D8080#
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&amp;encryption=none&amp;type=grpc&amp;sid=f77e5398&amp;fp=chrome&amp;pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY#
-vless://biain--ZEDMODEON@www.speedtest.net:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=www.speedtest.net.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&amp;path=%252F%2540%255aED%254d%254fDE%254f%254e-%255aED%254d%254fDE%254f%254e-%2540%255aED%254d%254fDE%254f%254e-%255aED%254d%254fDE%254f%254e-TEL-%255aED%254d%254fDE%254f%254e-%2540%255aED%254d%254fDE%254f%254e%253Fed%253D2048#
-vless://46c86b08-9806-44f2-e901-8d325e420b38@www.speedtest.net:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=emshab.bklink.iR.&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed#
-vless://Telegram-ipV2Ray-asl@www.speedtest.net:80?security=none&amp;encryption=none&amp;type=ws&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;path=/Telegram-ipV2Ray?ed%3D2048#
 vless://c0615218-5881-49d3-a008-03ca8359dc68@www.visa.com:80?security=none&amp;encryption=none&amp;type=ws&amp;host=thexw4.huondadalioshop.ir&amp;path=/Netspeed?ed%3D512#
 vless://Parsashonam-25@104.24.185.137:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&amp;path=%252F%253Fed%253D2560#
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&amp;encryption=none&amp;type=grpc&amp;sid=f77e5398&amp;fp=chrome&amp;pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY#
