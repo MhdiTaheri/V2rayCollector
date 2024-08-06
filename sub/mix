@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Aug-2024 22:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-06-Aug-2024 23:42
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
 vless://b8f30013-76bd-47d5-93c8-224350339760@193.107.48.15:37790?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#nim-49itu9rq
@@ -646,7 +646,6 @@ vless://30efd06e-d5b9-4524-9f59-881ae0f58201@206.189.84.74:443?security=tls&amp;
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.67.9.5:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=shg2.azurewebsites.net&amp;type=ws&amp;sni=shg2.azurewebsites.net#Singapore+Azure
 vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&amp;type=ws&amp;sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev#Canada+Cloudflare
 
-vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@85.9.98.114:2083?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=chrome&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@85.9.98.114:2083?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=chrome&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F…
 vless://3eba6868-8bea-42c2-b0a0-652a5a27776e@194.5.179.148:443?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=randomized&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreeeee
 vless://bff1cd01-fa62-4161-8e83-943a77639efa@62.60.160.168:443?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=randomized&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreee
@@ -671,9 +670,6 @@ vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://d8d3c82d-d655-4c93-a5ae-59072a962dbb@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc4.lebasnoo.ir.&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-vless://DigiV2RAY@payphone.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-1
-vless://DigiV2RAY@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&amp;type=ws#%40Digiv2ray-2
-vless://DigiV2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-3
 vless://DIgiV2RAY@payphone.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-1
 vless://DIgiV2RAY@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&amp;type=ws#%40Digiv2ray-2
 vless://DIgiV2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-3
@@ -693,6 +689,8 @@ vless://94f51d56-204b-466b-b1d7-d397df9273d0@www.payphone.ir:2095?path=%2FDigi-T
 vless://94f51d56-204b-466b-b1d7-d397df9273d0@www.zula.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-2
 vless://94f51d56-204b-466b-b1d7-d397df9273d1@www.payphone.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#%40Digiv2ray-1
 vless://94f51d56-204b-466b-b1d7-d397df9273d1@www.zula.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-2
+vless://94f51d56-204b-466b-b1d7-d397df9273d2@www.payphone.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#%40Digiv2ray-1
+vless://94f51d56-204b-466b-b1d7-d397df9273d2@www.zula.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-2
 vless://1668fbe7-0779-4812-9d70-6a4fabc8490d@www.speedtest.net:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=30.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&amp;type=ws#%D9%85%D9%88%D9%82%D8%AA%2830%29
 vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ge1.v2vml.ga&amp;type=ws&amp;sni=ge1.v2vml.ga#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&amp;encryption=none&amp;seed=OXR9lTl7yj&amp;headerType=dtls&amp;type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
@@ -765,7 +763,6 @@ vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=
 
 
 
-vless://c0615218-5881-49d3-a008-03ca8359dc68@www.visa.com:80?security=none&amp;encryption=none&amp;type=ws&amp;host=thexw4.huondadalioshop.ir&amp;path=/Netspeed?ed%3D512#
 vless://Parsashonam-25@104.24.185.137:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&amp;path=%252F%253Fed%253D2560#
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&amp;encryption=none&amp;type=grpc&amp;sid=f77e5398&amp;fp=chrome&amp;pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY#
 vless://biain--ZEDMODEON@www.speedtest.net:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=www.speedtest.net.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&amp;path=%252F%2540%255aED%254d%254fDE%254f%254e-%255aED%254d%254fDE%254f%254e-%2540%255aED%254d%254fDE%254f%254e-%255aED%254d%254fDE%254f%254e-TEL-%255aED%254d%254fDE%254f%254e-%2540%255aED%254d%254fDE%254f%254e%253Fed%253D2048#
@@ -2082,7 +2079,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206LytPb2V1aHpxTnU5YXRzTktud0QyRWRpQ1B2ZXdXVG1
 ss://eyJhZGQiOiIxNjIuMjIxLjIwNy42MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MjlhMWI3MC0wMTEwLTQ3MDEtOTIxZC04YTViYjc2NzZkMDUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkNhbmFkYSBlU2VjdXJlRGF0YSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://eyJhZGQiOiI4NS4xNTkuMjI5LjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiQFZQTl9PQ0VBTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 ss://eyJhZGQiOiIxNjIuMTU5LjEyOS4xNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoidy53Lncuc3BlZWR0ZXN0Lm5ldC54bi0tZzI4aC5kbnMtZHluYW1pYy5uZXQuIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZjMiLCJwb3J0IjoiODAiLCJwcyI6IkBWUE5fT0NFQU4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://19a3a5fc-640b-47af-aebb-7335c1c0a42c@85.9.98.114:2083?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=chrome&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://19a3a5fc-640b-47af-aebb-7335c1c0a42c@85.9.98.114:2083?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=chrome&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F…
 ss://3eba6868-8bea-42c2-b0a0-652a5a27776e@194.5.179.148:443?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=randomized&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreeeee
 ss://bff1cd01-fa62-4161-8e83-943a77639efa@62.60.160.168:443?path=%2Fvbd&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=france.alighan.ir&amp;fp=randomized&amp;type=ws&amp;sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreee
@@ -2128,9 +2124,6 @@ ss://eyJ2IjoiMiIsInBzIjoi5LqM54i357+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIE5vZGVfMTE
 ss://eyJ2IjoiMiIsInBzIjoi5LqM54i357+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIE5vZGVfMTE4IiwiYWRkIjoiMzYuMTM4LjIxOC40MSIsInBvcnQiOjEwMDY5LCJpZCI6ImFkMjExNGNhLTFjNzUtNDYwNy1hZDE0LTFhMTgyNGE2ZGRlOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9
 ss://eyJ2IjoiMiIsInBzIjoi5LqM54i357+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIE5vZGVfMTE5IiwiYWRkIjoiMTgzLjIzOC4yMDIuMTczIiwicG9ydCI6NTExOTMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9
 ss://eyJ2IjoiMiIsInBzIjoi5LqM54i357+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIE5vZGVfMTIwIiwiYWRkIjoieGN0cmFuc2ZlcjFzdC5jb2tlY2xvdWQudG9wIiwicG9ydCI6NDU0NDksImlkIjoiMmFmYTFhZDItOTkwZS00NzExLThjZDAtMzQwODUxMTVlYzIyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoiIn0=
-ss://DigiV2RAY@payphone.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-1
-ss://DigiV2RAY@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&amp;type=ws#%40Digiv2ray-2
-ss://DigiV2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-3
 ss://DIgiV2RAY@payphone.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-1
 ss://DIgiV2RAY@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&amp;type=ws#%40Digiv2ray-2
 ss://DIgiV2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-3
@@ -2150,6 +2143,8 @@ ss://94f51d56-204b-466b-b1d7-d397df9273d0@www.payphone.ir:2095?path=%2FDigi-Tel-
 ss://94f51d56-204b-466b-b1d7-d397df9273d0@www.zula.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-2
 ss://94f51d56-204b-466b-b1d7-d397df9273d1@www.payphone.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#%40Digiv2ray-1
 ss://94f51d56-204b-466b-b1d7-d397df9273d1@www.zula.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-2
+ss://94f51d56-204b-466b-b1d7-d397df9273d2@www.payphone.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#%40Digiv2ray-1
+ss://94f51d56-204b-466b-b1d7-d397df9273d2@www.zula.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#%40Digiv2ray-2
 ss://1668fbe7-0779-4812-9d70-6a4fabc8490d@www.speedtest.net:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=30.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&amp;type=ws#%D9%85%D9%88%D9%82%D8%AA%2830%29
 ss://eyJhZGQiOiIxNjUuMjIuMTAxLjQ5IiwiYWlkIjoiMCIsImhvc3QiOiJtLnpvb20udXMiLCJpZCI6IjIwNjBhZjZlLTczYzUtNDA5MC1iMDlhLWJkNDExNDM2NTEzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii93b3JyeWZyZWUiLCJwb3J0IjoiNDQzIiwicHMiOiJ0Lm1lL2t1dG9wcm94efCfh6nwn4eqIiwic25pIjoibS56b29tLnVzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://eyJhZGQiOiIxNjUuMjIuMjUwLjE2OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJlZDk1ZTFhMi04YWExLTQyM2ItY2EyYS02MDU5MTI3YTJkYjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidC5tZS9rdXRvcHJveHnwn4ep8J+HqiIsInNuaSI6Im0uem9vbS51cyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -2360,7 +2355,6 @@ ss://eyJhZGQiOiIxNzIuNjcuMTMxLjEwOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N
 ss://eyJhZGQiOiIxNzIuNjcuMTk4LjE4NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieG1pdmlkZW8uY2ZkIiwiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQE5ldHdvcmtfNDQyXyBzc18gaXJhbmNlbGzwn5ucJDEzIiwic2N5IjoiYXV0byIsInNuaSI6InhtaXZpZGVvLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
-ss://c0615218-5881-49d3-a008-03ca8359dc68@www.visa.com:80?security=none&amp;encryption=none&amp;type=ws&amp;host=thexw4.huondadalioshop.ir&amp;path=/Netspeed?ed%3D512#
 ss://Parsashonam-25@104.24.185.137:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&amp;path=%252F%253Fed%253D2560#
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04tLVpFRE1PREVPTi0tWkVETU9ERU9OQDQ1LjE0NS40Mi43MDoyNTM2Nw==#
 ss://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&amp;encryption=none&amp;type=grpc&amp;sid=f77e5398&amp;fp=chrome&amp;pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY#
@@ -2507,8 +2501,6 @@ trojan://telegram-id-directvpn@18.219.136.183:22222?security=tls&amp;alpn=http/1
 
 
 
-trojan://telegram-id-privatevpns@18.132.167.71:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
-trojan://telegram-id-privatevpns@54.77.224.113:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@54.77.127.83:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
 trojan://telegram-id-privatevpns@13.49.121.252:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.50.216.167:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
@@ -2527,6 +2519,8 @@ trojan://telegram-id-privatevpns@13.37.195.196:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@13.38.144.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@35.178.35.70:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://telegram-id-privatevpns@3.11.235.226:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
+trojan://telegram-id-privatevpns@52.211.244.203:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
+trojan://telegram-id-privatevpns@63.34.136.94:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
 
 
 
