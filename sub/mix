@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-18-Aug-2024 09:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-18-Aug-2024 10:40
 
 
 
@@ -353,6 +353,7 @@ vless://d2a6d415-6dd2-4e6f-89ed-505fa09b0f6d@185.146.173.58:8080?path=%2Fservern
 vless://fd0177dc-8912-4dc8-a3f3-3aeb7e5f4c55@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc9.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:22481?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:45075?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
+vless://d2a6d415-6dd2-4e6f-89ed-505fa09b0f6d@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc8.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://fd0177dc-8912…
 vless://d2a6d415-6dd2-4e6f-89ed-505fa09b0f6d@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc8.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://fd0177dc-8912…
 vless://94f51d56-204b-466b-b1d7-d397df9273d8@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=6.V2.c.www.speedtest.net.speedtest-3.Shop.&amp;type=httpupgrade#configkade%F0%9F%91%89%40proxystore11
@@ -979,7 +980,7 @@ vmess://eyJhZGQiOiIxNjIuMjIxLjIwNy42MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxNjUuMjIuMjQ5LjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDM2NGNlMC02NjUyLTQ4ZDItOWE2Ny05Y2QzYmVjM2MzNTMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMyNDg5IiwicHMiOiJTaW5nYXBvcmUgRGlnaXRhbCBPY2VhbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNjIuMjIxLjIwNy42MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MjlhMWI3MC0wMTEwLTQ3MDEtOTIxZC04YTViYjc2NzZkMDUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkNhbmFkYSBlU2VjdXJlRGF0YSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-
+vmess://eyJhZGQiOiJmcmVlLmlyYW50bHMuY2YiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImFhOWQ0NTljLTllNDUtNDU2MC04MGZjLWE1OTQ4Nzk5ZThlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMzMDMzIiwicHMiOiLinJTvuI7wnZCc8J2QofCdkJrwnZCn8J2Qp/CdkJ7wnZCl4p6qQENvbmZpZ1YycmF5Rm9yRnJlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxODMuMjQwLjIzNS4xNjIiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQ4ODIiLCJwcyI6IuS6jOeIt+WFjei0uee/u+WimSBodHRwczovLzE4MDguZnJlZS5ociDoioLngrlfNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJydXNzaWEuY29tIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI3YzU2MTcwLWVkYjQtNGM0YS1iYjY0LWVkNWVmNDBiODczOSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MDgwIiwicHMiOiLkuozniLflhY3otLnnv7vlopkgaHR0cHM6Ly8xODA4LmZyZWUuaHIg6IqC54K5XzUwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNzIuNjcuMTMwLjE0MCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4MiIsInBzIjoi5LqM54i35YWN6LS557+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIOiKgueCuV81MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -1515,6 +1516,7 @@ ss://fd0177dc-8912-4dc8-a3f3-3aeb7e5f4c55@185.146.173.58:8080?path=%2Fservernett
 ss://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:22481?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 ss://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:45075?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://d2a6d415-6dd2-4e6f-89ed-505fa09b0f6d@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc8.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://fd0177dc-8912…
+ss://d2a6d415-6dd2-4e6f-89ed-505fa09b0f6d@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc8.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://fd0177dc-8912…
 ss://94f51d56-204b-466b-b1d7-d397df9273d8@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#configkade%F0%9F%91%89%40proxystore11
 ss://eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiNjk2NWE0MDctNzU0OS00MzZlLTgwNjQtMjJlM2QzZDJlN2NkIiwibmV0Ijoid3MiLCJwYXRoIjoiL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwicG9ydCI6IjgwIiwicHMiOiJjb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#configkade%F0%9F%91%89%40proxystore11
@@ -1959,6 +1961,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206LytPb2V1aHpxTnU5YXRzTktud0QyRWRpQ1B2ZXdXVG1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNzlCNDhaZm8yNUgxOE9VVmIzdnY2@3.112.45.126:443#Japan+AWS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WG1ydEh2ck9WSmxJUXFXRklsVmhV@47.130.2.79:443#Singapore+AWS
 
+ss://eyJhZGQiOiJmcmVlLmlyYW50bHMuY2YiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImFhOWQ0NTljLTllNDUtNDU2MC04MGZjLWE1OTQ4Nzk5ZThlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMzMDMzIiwicHMiOiLinJTvuI7wnZCc8J2QofCdkJrwnZCn8J2Qp/CdkJ7wnZCl4p6qQENvbmZpZ1YycmF5Rm9yRnJlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://b25fa07c-169d-4366-8733-82e82feb6083@www.parsvds.ir:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V08.SiMansaNaT.Ir.&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
@@ -2349,8 +2352,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@3.122.15.215:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@35.158.8.221:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@15.236.99.226:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.39.250.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.130.190.255:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
@@ -2367,6 +2368,8 @@ trojan://telegram-id-privatevpns@18.171.102.64:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@3.11.234.104:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@176.34.182.236:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@52.49.152.140:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
+trojan://telegram-id-privatevpns@13.60.133.162:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@16.170.18.235:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 
 
 
