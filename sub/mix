@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-18-Aug-2024 07:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-18-Aug-2024 08:42
 
 
 
@@ -695,7 +695,13 @@ vless://14165b8b-17ee-4c86-808c-9d6afd4f3b69@104.17.249.203:443?security=tls&amp
 
 
 
-
+vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=7.www.speedtest.net.E.speedtest-1.Live.&amp;type=httpupgrade#%F0%9F%86%94+%40ConfigV2RayNG
+vless://9488c287-bbfc-4281-a1ef-d70797d00c29@join.2.kiava.cloud.nevao.ir:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws84.cloudfront.net.kiava.fun&amp;type=ws#%F0%9F%86%94+%40ConfigV2RayNG
+vless://ff1ea66a-a918-4c52-8437-e7c816d28d87@join.2.kiava.cloud.nevao.ir:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht84.cloudfront.net.kiava.fun&amp;type=httpupgrade#%F0%9F%86%94+%40ConfigV2RayNG
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#%F0%9F%86%94+%40ConfigV2RayNG
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.119:2096?path=%2FTpNhwdaFkYhxDUze%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=dBc7A449.BPB-WOrkeR78.PAgEs.deV&amp;fp=randomized&amp;type=ws&amp;sni=DBC7a449.BPb-WOrKER78.PaGES.DeV#%F0%9F%86%94+%40ConfigV2RayNG
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#%F0%9F%86%94+%40ConfigV2RayNG
+vless://8ae64dff-9513-4af8-ac77-77377648764f@Arpc.MAshti.link:8880?path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=17-wordpress-admin-cpanel-chanel-github-iran.mralpha-vpn.COM.&amp;type=ws#%F0%9F%86%94+%40ConfigV2RayNG
 
 
 vless://f75d6cb5-1598-4d79-a8b4-f6c28e777530@www.parsvds.ir:8080?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.svgspeedtest.net&amp;type=ws#%40Vpnmasi+-+Ws-tg3l4s2e
@@ -1053,7 +1059,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUt
 
 
 
-
+vmess://eyJhZGQiOiJ3aG9pcy5wYXJzcGFjay5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNzbHMudVBncmFkZS5nT09nbGUuY09tLnd3dy5zcGVlZHRlc3QubkVULnd3dy5zcEVFZHRlc3QubmV0LnNob1BWUHJlbWl1bS5JUi4iLCJpZCI6ImE3Yjg1NzE2LTk3MmEtNDQ3OC1hOTE5LTViYmMzMDViMzE1OCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9kM2QzTG1seVlXNW9iM04wTG1OdmJRXHUwMDNkXHUwMDNkP2VkXHUwMDNkMjA1NiIsInBvcnQiOiI4MCIsInBzIjoi8J+GlCBAQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDQuMjEuOTQuNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmphMDUuaHdjYXIuc2JzIiwiaWQiOiIzOWNlYzE4Zi1hNDM5LTQyN2MtOWE0ZS1hZWI2ZmNkZjZmNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+GlCBAQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMjEuOTUuMTY1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzYXJlaWtlbGEuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfhpQgQENvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoic2FyZWlrZWxhLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfhpQgQENvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoibGluamEwNS5od2Nhci5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 
 
@@ -2149,7 +2158,17 @@ ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF
 
 
 
-
+ss://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=7.www.speedtest.net.E.speedtest-1.Live.&amp;type=httpupgrade#%F0%9F%86%94+%40ConfigV2RayNG
+ss://9488c287-bbfc-4281-a1ef-d70797d00c29@join.2.kiava.cloud.nevao.ir:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws84.cloudfront.net.kiava.fun&amp;type=ws#%F0%9F%86%94+%40ConfigV2RayNG
+ss://ff1ea66a-a918-4c52-8437-e7c816d28d87@join.2.kiava.cloud.nevao.ir:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht84.cloudfront.net.kiava.fun&amp;type=httpupgrade#%F0%9F%86%94+%40ConfigV2RayNG
+ss://eyJhZGQiOiJ3aG9pcy5wYXJzcGFjay5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNzbHMudVBncmFkZS5nT09nbGUuY09tLnd3dy5zcGVlZHRlc3QubkVULnd3dy5zcEVFZHRlc3QubmV0LnNob1BWUHJlbWl1bS5JUi4iLCJpZCI6ImE3Yjg1NzE2LTk3MmEtNDQ3OC1hOTE5LTViYmMzMDViMzE1OCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9kM2QzTG1seVlXNW9iM04wTG1OdmJRXHUwMDNkXHUwMDNkP2VkXHUwMDNkMjA1NiIsInBvcnQiOiI4MCIsInBzIjoi8J+GlCBAQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#%F0%9F%86%94+%40ConfigV2RayNG
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.119:2096?path=%2FTpNhwdaFkYhxDUze%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=dBc7A449.BPB-WOrkeR78.PAgEs.deV&amp;fp=randomized&amp;type=ws&amp;sni=DBC7a449.BPb-WOrKER78.PaGES.DeV#%F0%9F%86%94+%40ConfigV2RayNG
+ss://eyJhZGQiOiIxMDQuMjEuOTQuNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmphMDUuaHdjYXIuc2JzIiwiaWQiOiIzOWNlYzE4Zi1hNDM5LTQyN2MtOWE0ZS1hZWI2ZmNkZjZmNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+GlCBAQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://eyJhZGQiOiIxMDQuMjEuOTUuMTY1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzYXJlaWtlbGEuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfhpQgQENvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoic2FyZWlrZWxhLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#%F0%9F%86%94+%40ConfigV2RayNG
+ss://eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfhpQgQENvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoibGluamEwNS5od2Nhci5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+ss://8ae64dff-9513-4af8-ac77-77377648764f@Arpc.MAshti.link:8880?path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=17-wordpress-admin-cpanel-chanel-github-iran.mralpha-vpn.COM.&amp;type=ws#%F0%9F%86%94+%40ConfigV2RayNG
 
 
 ss://f75d6cb5-1598-4d79-a8b4-f6c28e777530@www.parsvds.ir:8080?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.svgspeedtest.net&amp;type=ws#%40Vpnmasi+-+Ws-tg3l4s2e
