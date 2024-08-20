@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-21-Aug-2024 01:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-21-Aug-2024 02:43
 vless://fb81fa44-40d8-441a-c9ab-04b10fe3a1c4@185.143.233.5:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=bshshs.ir&amp;type=ws#e0csuvibh
 
 
@@ -617,6 +617,9 @@ vless://user@s24.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&am
 vless://user@s25.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s25.mynameismahsa.info#FI-S25-USA
 vless://user@s26.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#FI-S26-USA
 
+vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg582228486&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=test.hotshellow.com#t.me/v2ray_for_free
+vless://486b8352-cb9e-4ef9-9a04-d0630e61a808@cxt.gebiliangzai.top:443?path=%2Fliangzai&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=cxt.gebiliangzai.top#%40v2ray_for_free+%F0%9F%8C%B9
+vless://0b5fc58c-2dee-4b66-a01c-13002dc3a962@test.lhqtiktok.top:443?path=%2Flhq165403tiktok&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=test.lhqtiktok.top#%40v2ray_for_free+%E2%99%A5%EF%B8%8F
 vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzhichao1996&amp;security=tls&amp;encryption=none&amp;host=op.manluqiusuo.top&amp;type=ws&amp;sni=op.manluqiusuo.top#v2ray_for_free
 
 vless://30efd06e-d5b9-4524-9f59-881ae0f58201@206.189.84.74:443?security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=Whatsapp.net#Singapore+Digital+Ocean
