@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-23-Aug-2024 13:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-23-Aug-2024 14:40
 
 
 
@@ -808,7 +808,7 @@ vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fc
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-
+vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@54.220.213.97:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Ireland+%F0%9F%87%AE%F0%9F%87%AA
 
 
 vless://61c4d3ca-7192-4d59-9d6e-f33b7e72129e@tun-1.donyaanime.com:22113?type=tcp&amp;path=%2F&amp;host=uptvs.com&amp;headerType=http&amp;security=none#%F0%9F%87%A9%F0%9F%87%AA-ParsRoute-FREE
@@ -2263,7 +2263,7 @@ ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&am
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29nLnNoYWhpbm5ldC5zaG9wIiwiaWQiOiI5NjU4ODkxMi0zYmNiLTQ5MWMtOGNlMy03YTk2NWJiZWMwN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
+ss://6ee42f60-cd65-4ab8-bb79-991d12ae877f@54.220.213.97:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Ireland+%F0%9F%87%AE%F0%9F%87%AA
 
 
 ss://61c4d3ca-7192-4d59-9d6e-f33b7e72129e@tun-1.donyaanime.com:22113?type=tcp&amp;path=%2F&amp;host=uptvs.com&amp;headerType=http&amp;security=none#%F0%9F%87%A9%F0%9F%87%AA-ParsRoute-FREE
@@ -2297,8 +2297,6 @@ trojan://telegram-id-privatevpns@13.49.99.44:22222?security=tls&amp;alpn=http/1.
 
 
 
-trojan://telegram-id-privatevpns@52.51.26.35:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
-trojan://telegram-id-privatevpns@34.254.132.235:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.50.58.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@16.170.64.249:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@18.198.147.190:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
@@ -2314,6 +2312,8 @@ trojan://telegram-id-privatevpns@13.51.145.1:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@35.156.1.246:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@52.58.228.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@13.36.102.138:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
+trojan://telegram-id-privatevpns@35.180.219.174:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://telegram-id-privatevpns@3.10.76.90:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 
 
 
