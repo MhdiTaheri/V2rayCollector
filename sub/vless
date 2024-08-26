@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-27-Aug-2024 00:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-27-Aug-2024 01:43
 
 
 
@@ -442,7 +442,6 @@ vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2FTelegram%40
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=80acf9Da.EhSaN-PAnEL.PAGES.dEv&amp;type=ws&amp;sni=80acf9Da.EhSaN-PAnEL.PAGES.dEv#%40V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#%40V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#%40V2rayNG3
-vless://2a07fda6-b02a-443f-a088-7ee9482544c5@193.228.91.59:443/?type=tcp&amp;encryption=none#
 vless://11af4efd-beec-4a3b-a5c1-f446f6324358@78.109.194.127:8880/?encryption=none&amp;host=telewebion.com&amp;type=tcp&amp;headerType=http#D
 vless://189dfeca-ffd8-40c2-bc81-8b084da66ce0@94.182.222.13:932/?encryption=none&amp;host=zula.ir&amp;type=tcp&amp;headerType=http#
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
@@ -660,6 +659,15 @@ vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=
 
 
 
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=fastxv.pages.dev&amp;path=/XV2ray?ed%3…
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=fastxv.pages.dev&amp;path=/XV2ray?ed%3D512&amp;sni=pages.dev&amp;fp=chrome#
+vless://bia--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.express&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#
+vless://join-VPNCUSTOMIZE@www.speedtest.net:8080?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#
+vless://94f51d56-204b-466b-b1d7-d397df9273d3@www.parspack.com:2095?security=none&amp;encryption=none&amp;type=ws&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed%3D1024#
+vless://390559e3-4c68-4703-be4b-112270e3059d@185.146.173.252:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080#
+vless://Telegram-ipV2Ray-dry@www.speedtest.net:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#
+vless://Parsashonam-40@185.146.173.39:8880?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=00e463Dc.beSTVPn-4xi.PAgES.dEv&amp;path=%252FCHANNEL%20:%20@vpnwedbaz%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%20-%20Telegram%20:%20@vpnwedbaz%252F%253Fed%253D2560&amp;sni=00e463Dc.beSTVPn-4xi.PAgES.dEv&amp;fp=chrome#
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=fastxv.pages.dev&amp;path=/XV2ray?ed%3…
 
 vless://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
