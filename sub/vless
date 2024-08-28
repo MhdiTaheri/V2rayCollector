@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-28-Aug-2024 23:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-29-Aug-2024 00:43
 
 
 
@@ -210,6 +210,10 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258?security=none&amp;encry
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:44929?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://5c62a04e-8519-44bc-8cf9-2b883d981c1c@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc11.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://6306f288-a5f5-4886-8e6d-944d1a951cfd@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc10.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:44929?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
+vless://a79f6d15-1a90-4b57-90bf-3164b1d6f239@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc11.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
+vless://dbee8546-0b7e-4b72-b409-48e63fb860ee@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc10.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:44929?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://a79f6d15-1a90-4b57-90bf-3164b1d6f239@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc11.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
