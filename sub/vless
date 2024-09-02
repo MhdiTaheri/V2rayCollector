@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-02-Sep-2024 13:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-02-Sep-2024 14:41
 
 
 
@@ -415,7 +415,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?path=%2FTelegram%4
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#%40V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#%40V2rayNG3
 vless://84dd671e-f3dd-4f01-a60f-ed3fab07191f@spirit.hajsaj.monster:10534?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayaNG3
-
+vless://383dcba5-8489-55d3-9555-2d8873a7df4a@www.speedtest.net:2095?path=join-
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
@@ -627,7 +627,6 @@ vless://TELEGRAM-NUFiLTER@Www.Speedtest.net:2052?path=%2Ftelegram-NUFiLTER%2Ctel
 
 
 
-vless://Telegram-ipV2Ray-how@www.speedtest.net:80?security=none&amp;encryption=none&amp;type=httpupgrade#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://Tel--ZEDMODEON@188.114.98.45:8080?security=none&amp;encryption=none&amp;type=httpupgrade#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://biain--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://SVNTEAM23@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Speed.Site&amp;path=/SVNTEAM,Channel,Telegram,SVNTEAM?ed&amp;sni=speedtest.net&amp;fp=firefox&amp;alpn=h2,http/1.1#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
