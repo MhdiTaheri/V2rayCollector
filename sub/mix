@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-03-Sep-2024 18:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-03-Sep-2024 19:47
 
 
 
@@ -187,6 +187,9 @@ vless://1377372b-3ecf-4300-86fa-511c265a1338@SpeeDTeST.OrG:80?security=none&amp;
 vless://1377372b-3ecf-4300-86fa-511c265a1338@104.25.0.86:8080?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V28.ThEpHp.Ir.#telegram 
 vless://1377372b-3ecf-4300-86fa-511c265a1338@104.25.0.86:8080?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V03.ThEpHp.Ir.#telegram 
 vless://1377372b-3ecf-4300-86fa-511c265a1338@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V09.ThEpHp.Ir.#telegram 
+vless://ac2dd873-c0d1-4cc2-928f-b5d4d7ca0e44@38.180.70.206:8880?type=httpupgrade&amp;path=%2F&amp;host=&amp;security=none#telegram 
+vless://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&amp;security=none#telegram 
+vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@speedtest.net:443?path=%2Ftelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=wqro.ir&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#telegram 
 
 
 vless://280c33b9-1e16-5cba-ac0a-0c7e51228607@172.67.69.236:2095?path=Tel-@ELiV2ry-@ELiV2ry-%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Rubika.ir.joinTelegram.ELiV2ry.rs1.vless.Sitespeedtest.net.&amp;type=ws#
@@ -1150,6 +1153,9 @@ ss://1377372b-3ecf-4300-86fa-511c265a1338@SpeeDTeST.OrG:80?security=none&amp;typ
 ss://1377372b-3ecf-4300-86fa-511c265a1338@104.25.0.86:8080?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V28.ThEpHp.Ir.#telegram 
 ss://1377372b-3ecf-4300-86fa-511c265a1338@104.25.0.86:8080?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V03.ThEpHp.Ir.#telegram 
 ss://1377372b-3ecf-4300-86fa-511c265a1338@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V09.ThEpHp.Ir.#telegram 
+ss://ac2dd873-c0d1-4cc2-928f-b5d4d7ca0e44@38.180.70.206:8880?type=httpupgrade&amp;path=%2F&amp;host=&amp;security=none#telegram 
+ss://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&amp;security=none#telegram 
+ss://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@speedtest.net:443?path=%2Ftelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=wqro.ir&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#telegram 
 ss://eyJhZGQiOiIxMDQuMjYuOC4yMTAiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8xIiwicG9ydCI6IjQ0MyIsImlkIjoiMjA2MjU5ZmQtMDlhZi00NmVlLWVjNmQtNWFjOGE4MjkxZDZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXloZ2l1eWZld2RyZ2YtdG8xMjM0NS54aWFvaGhoLnh5eiIsInRscyI6InRscyIsInBhdGgiOiIvNjYifQ==
 ss://eyJhZGQiOiIxNzIuNjcuMTE2LjQ4IiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm71fMiIsInBvcnQiOiI4MCIsImlkIjoiMjJhMTNhYTItNDg1NC00NGNiLWUwOTAtZWM3MWFiODRiMWZmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid2FwLmhvc3RtamouY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
 ss://eyJhZGQiOiJkZGQ0NzQ4MS0wZDZmLTA4YjktNzIwOS1iMGRkYzBjNWZhNDUub25lcGx1cy5wdWIiLCJ2IjoyLCJwcyI6InVuZGVmaW5lZCB1bmRlZmluZWQgMSIsInBvcnQiOiI4MCIsImlkIjoiNDZjZmNmZTEtZTQ1MC00NTlkLWEzYWItOTQwNjAxMWFiM2ViIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsInRscyI6IiIsInBhdGgiOiIvIn0=
@@ -2031,7 +2037,6 @@ trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram
 trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram 
 trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram 
 trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram 
-trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram 
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
@@ -2048,8 +2053,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@51.44.53.146:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
-trojan://telegram-id-privatevpns@3.11.228.68:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://telegram-id-privatevpns@18.135.132.160:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@18.202.153.45:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@52.17.115.130:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
@@ -2067,6 +2070,7 @@ trojan://telegram-id-privatevpns@16.170.49.242:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@16.16.134.203:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@35.159.144.120:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@35.157.55.129:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
+trojan://telegram-id-privatevpns@51.44.45.133:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 
 
 
