@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-05-Sep-2024 14:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-05-Sep-2024 15:54
 
 
 
@@ -642,9 +642,12 @@ vless://14165b8b-17ee-4c86-808c-9d6afd4f3b69@104.17.249.203:443?security=tls&amp
 
 
 
-vless://1fcccd7f-6fd9-4218-a3c3-8d7aa0911009@Speedtest.net:443?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Ag8.ir&amp;fp=chrome&amp;type=ws&amp;sni=Speedtest.net#%F0%9F%87%A9%F0%9F%87%AA+%40ConfigV2rayNG
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.17.148.22:80?path=%2FTelegram-XV2ry2%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.20.10.10.10.10.ir.xn--g28h.dns-dynamic.net.&amp;type=ws#%F0%9F%91%89%F0%9F%86%94+%40ConfigV2rayNG%F0%9F%9B%9C
+vless://f4f0ed6b-3b3f-42ad-ae22-d96204c06378@speedtestcustom.com:443?path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=melofin.ir&amp;fp=firefox&amp;type=ws&amp;sni=speedtestcustom.com#%40ConfigV2rayNG%F0%9F%87%AB%F0%9F%87%AE
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.26:443?path=%2FIJQMdr64q6DtHwIa%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=8c513cF9.GazaaLam-panEL.PaGeS.Dev&amp;fp=randomized&amp;type=ws&amp;sni=8c513cF9.GaZAALAm-PaneL.Pages.DEV#%F0%9F%86%94%40ConfigV2rayNG
+vless://b203dc7e-52be-4d36-86d8-8dfb86f03cbd@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=splUs.Ir.DigIcYBer.CLIck.&amp;type=httpupgrade#%40ConfigV2rayNG%F0%9F%87%AB%F0%9F%87%AE
 vless://8704dd20-f9e5-48c5-920d-540e5242ef02@ppal03.trey-funk.workers.dev:443?path=%2F1ju7HpGQinZaY1HZ%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=PPAL03.TrEY-Funk.WOrkeRS.Dev&amp;fp=randomized&amp;type=ws&amp;sni=pPAl03.tReY-FuNk.worKers.DEV#%F0%9F%86%94%40ConfigV2rayNG
-vless://Parsashonam-56@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ConfigV2rayNG+%F0%9F%87%A9%F0%9F%87%AA
+vless://66b3cbba-e6ac-485a-8781-976a0415eab8@104.21.8.226:443?path=%2F5vM8iD19sYNPkyHm%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=EseTsECUriTyliCENsE.ZrYTZnBE.WoRkErS.deV&amp;fp=randomized&amp;type=ws&amp;sni=esetSeCurITylicENSe.ZRytZnbE.woRkerS.deV#%F0%9F%86%94%40ConfigV2rayNG
 
 
 vless://f75d6cb5-1598-4d79-a8b4-f6c28e777530@www.parsvds.ir:8080?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.svgspeedtest.net&amp;type=ws#%40Vpnmasi+-+Ws-tg3l4s2e
@@ -1896,9 +1899,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN05Eb1Z6M01lcGtXZVp6NGVzNlQxWHN1SEJ5akIybTR
 
 
 
-ss://1fcccd7f-6fd9-4218-a3c3-8d7aa0911009@Speedtest.net:443?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Ag8.ir&amp;fp=chrome&amp;type=ws&amp;sni=Speedtest.net#%F0%9F%87%A9%F0%9F%87%AA+%40ConfigV2rayNG
+ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.17.148.22:80?path=%2FTelegram-XV2ry2%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.20.10.10.10.10.ir.xn--g28h.dns-dynamic.net.&amp;type=ws#%F0%9F%91%89%F0%9F%86%94+%40ConfigV2rayNG%F0%9F%9B%9C
+ss://f4f0ed6b-3b3f-42ad-ae22-d96204c06378@speedtestcustom.com:443?path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=melofin.ir&amp;fp=firefox&amp;type=ws&amp;sni=speedtestcustom.com#%40ConfigV2rayNG%F0%9F%87%AB%F0%9F%87%AE
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.26:443?path=%2FIJQMdr64q6DtHwIa%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=8c513cF9.GazaaLam-panEL.PaGeS.Dev&amp;fp=randomized&amp;type=ws&amp;sni=8c513cF9.GaZAALAm-PaneL.Pages.DEV#%F0%9F%86%94%40ConfigV2rayNG
+ss://b203dc7e-52be-4d36-86d8-8dfb86f03cbd@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=splUs.Ir.DigIcYBer.CLIck.&amp;type=httpupgrade#%40ConfigV2rayNG%F0%9F%87%AB%F0%9F%87%AE
 ss://8704dd20-f9e5-48c5-920d-540e5242ef02@ppal03.trey-funk.workers.dev:443?path=%2F1ju7HpGQinZaY1HZ%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=PPAL03.TrEY-Funk.WOrkeRS.Dev&amp;fp=randomized&amp;type=ws&amp;sni=pPAl03.tReY-FuNk.worKers.DEV#%F0%9F%86%94%40ConfigV2rayNG
-ss://Parsashonam-56@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ConfigV2rayNG+%F0%9F%87%A9%F0%9F%87%AA
+ss://66b3cbba-e6ac-485a-8781-976a0415eab8@104.21.8.226:443?path=%2F5vM8iD19sYNPkyHm%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=EseTsECUriTyliCENsE.ZrYTZnBE.WoRkErS.deV&amp;fp=randomized&amp;type=ws&amp;sni=esetSeCurITylicENSe.ZRytZnbE.woRkerS.deV#%F0%9F%86%94%40ConfigV2rayNG
 
 
 ss://f75d6cb5-1598-4d79-a8b4-f6c28e777530@www.parsvds.ir:8080?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.svgspeedtest.net&amp;type=ws#%40Vpnmasi+-+Ws-tg3l4s2e
@@ -2091,6 +2097,8 @@ trojan://telegram-id-privatevpns@18.184.226.188:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@15.188.21.18:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@52.47.97.45:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.171.101.67:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@35.177.126.196:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@54.247.70.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 
