@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-11-Sep-2024 21:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-11-Sep-2024 22:40
 
 
 
@@ -856,7 +856,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTkl
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#Poland+OVH
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#France+OVH
 
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90…
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2F3ixeZxIuzmrYVV6J%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=iRaNSofTwAre85985611.PaGes.Dev&amp;fp=randomized&amp;type=ws&amp;sni=iRANSOFTWare85985611.PaGes.dEV#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@162.159.152.2:2053?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=cODe911cometOiraNNsOdsnefhhdkALCoshD.PAGes.dEv&amp;type=ws&amp;sni=Code911ComEtoiRAnnSODsnefHHdKAlCoShD.PaGEs.dEv#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@162.159.152.2:2053?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=cODe911cometOiraNNsOdsnefhhdkALCoshD.PAGes.dEv&amp;fp=360&amp;type=ws&amp;sni=Code911ComEtoiRAnnSODsnefHHdKAlCoShD.PaGEs.dEv#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
@@ -1122,7 +1121,6 @@ ss://TELEGRAM-NUFiLTER@speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NU
 ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@no-vote.realofspeed.com:2048#%F0%9F%A4%A6%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F%D8%B1%D8%A7%DB%8C+%D9%86%D8%AF%D9%87%DB%8C%D8%AF%F0%9F%A4%A6%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F
 ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@[2001:1600:10:100::fb5]:2048#%F0%9F%A4%A6%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F%D8%B1%D8%A7%DB%8C+%D9%86%D8%AF%D9%87%DB%8C%D8%AF%F0%9F%A4%A6%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F
 
-ss://eyJhZGQiOiIxNzIuNjcuMTMxLjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQE5ldHdvcmtfNDQyIiwic2N5IjoiYXV0byIsInNuaSI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://eyJhZGQiOiIxOTguMi4yMTguMTA4IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxNDAwIiwicHMiOiJATmV0d29ya180NDJfIPCfh7rwn4e4IE1DSSDwn5ucIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBOZXR3b3JrXzQ0Ml8g8J+HuvCfh7ggTUNJIPCfm5wgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoibGluamEwNS5od2Nhci5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://eyJhZGQiOiIxNzIuNjcuMTk4LjE4NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieG1pdmlkZW8uY2ZkIiwiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQE5ldHdvcmtfNDQyXyDwn4e68J+HuCBNQ0kg8J+bnDAzIiwic2N5IjoiYXV0byIsInNuaSI6InhtaXZpZGVvLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -1130,7 +1128,6 @@ ss://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Q
 ss://eyJhZGQiOiIxMDQuMjEuMjQuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZGVuYzM2di54dG9vbHRlY2guY2ZkIiwiaWQiOiJiMzIxZmQ1ZC1lNmVjLTQyOTMtYTY0NC0xNjRlMzg4NWY1MmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQE5ldHdvcmtfNDQyXyDwn4+BUkVMQVkiLCJzY3kiOiJhdXRvIiwic25pIjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
-ss://TELEGRAM-NUFiLTER@Speedtest.net:80?security=none&amp;encryption=none&amp;type=ws&amp;host=Awawaw.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://tel--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.express&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://TELEGRAM-NUFiLTER@Speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Anqadsarmas.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://TELEGRAM-NUFiLTER@Speedtest.net:80?security=none&amp;encryption=none&amp;type=ws&amp;host=Dadachibodoberim.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
