@@ -1,11 +1,8 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-11-Sep-2024 10:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-11-Sep-2024 11:46
 
 
 
 
-vless://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&amp;security=none#telegram 
-vless://ac2dd873-c0d1-4cc2-928f-b5d4d7ca0e44@38.180.70.206:8880?type=httpupgrade&amp;path=%2F&amp;host=&amp;security=none#telegram 
-vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@speedtest.net:443?path=%2Ftelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=wqro.ir&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#telegram 
 vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.com#telegram 
 vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.com#telegram 
 vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.com#telegram 
@@ -312,6 +309,25 @@ vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.com#telegram 
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.com#telegram 
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v26.com#telegram 
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.com#telegram 
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v29.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v29.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.com#telegram 
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.com#telegram 
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.com#telegram 
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.com#telegram 
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.com#telegram 
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.com#telegram 
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.com#telegram 
 
 
 vless://6247d8e0-3b38-54e7-ae86-de8bd6c10111@abrha.net:2052?path=/@ELiV2ry-@ELiV2ry-@ELiV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Rubika-xn--JoinTelegram.ELiV2ry.click.abrarvan.ir.cz3.vless.Sitespeedtest.net.&amp;type=ws#@EliV2ray
@@ -1099,9 +1115,6 @@ vmess://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6
 
 
 
-ss://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&amp;security=none#telegram 
-ss://ac2dd873-c0d1-4cc2-928f-b5d4d7ca0e44@38.180.70.206:8880?type=httpupgrade&amp;path=%2F&amp;host=&amp;security=none#telegram 
-ss://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@speedtest.net:443?path=%2Ftelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=wqro.ir&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#telegram 
 ss://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.com#telegram 
 ss://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.com#telegram 
 ss://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.com#telegram 
@@ -1408,6 +1421,25 @@ ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;enc
 ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.com#telegram 
 ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.com#telegram 
 ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v26.com#telegram 
+ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.com#telegram 
+ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v29.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v29.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.com#telegram 
+ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.com#telegram 
+ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.com#telegram 
+ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.com#telegram 
+ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.com#telegram 
+ss://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.com#telegram 
+ss://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.com#telegram 
 ss://eyJhZGQiOiIxMDQuMjYuOC4yMTAiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8xIiwicG9ydCI6IjQ0MyIsImlkIjoiMjA2MjU5ZmQtMDlhZi00NmVlLWVjNmQtNWFjOGE4MjkxZDZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXloZ2l1eWZld2RyZ2YtdG8xMjM0NS54aWFvaGhoLnh5eiIsInRscyI6InRscyIsInBhdGgiOiIvNjYifQ==
 ss://eyJhZGQiOiIxNzIuNjcuMTE2LjQ4IiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm71fMiIsInBvcnQiOiI4MCIsImlkIjoiMjJhMTNhYTItNDg1NC00NGNiLWUwOTAtZWM3MWFiODRiMWZmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid2FwLmhvc3RtamouY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
 ss://eyJhZGQiOiJkZGQ0NzQ4MS0wZDZmLTA4YjktNzIwOS1iMGRkYzBjNWZhNDUub25lcGx1cy5wdWIiLCJ2IjoyLCJwcyI6InVuZGVmaW5lZCB1bmRlZmluZWQgMSIsInBvcnQiOiI4MCIsImlkIjoiNDZjZmNmZTEtZTQ1MC00NTlkLWEzYWItOTQwNjAxMWFiM2ViIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsInRscyI6IiIsInBhdGgiOiIvIn0=
@@ -2324,8 +2356,6 @@ ss://61c4d3ca-7192-4d59-9d6e-f33b7e72129e@tun-1.donyaanime.com:22113?type=tcp&am
 
 trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram 
 trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram 
-trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram 
-trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#telegram 
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
@@ -2342,8 +2372,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@15.237.226.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
-trojan://telegram-id-privatevpns@15.236.22.180:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.135.239.199:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@18.168.68.123:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@99.81.95.144:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
@@ -2360,6 +2388,7 @@ trojan://telegram-id-privatevpns@176.34.118.216:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@52.51.203.129:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
 trojan://telegram-id-privatevpns@16.16.81.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.60.122.171:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@52.29.105.145:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 
 
 
