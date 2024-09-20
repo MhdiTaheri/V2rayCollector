@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-21-Sep-2024 00:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-21-Sep-2024 01:44
 
 
 
@@ -358,6 +358,7 @@ vless://telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2
 vless://telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn  حجمش تموم بشه قطع میشه 
 vless://Telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn
 vless://Telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn  حجمش تموم بشه قطع میشه 
+vless://Telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn  حجمش تموم بشه قطع میشه 
 vless://SvnTeam@mtn.vpnprosec.com:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=Grm.Join-SvnTeam.Online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@198.41.201.125:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=bia-to-channel4.unlimiteddev.shop&amp;type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?path=%2Fmhdshws&amp;security=tls&amp;encryption=none&amp;host=loolu.tech&amp;type=ws&amp;sni=loolu.tech#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
@@ -505,7 +506,7 @@ vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?security=none&amp;
 vless://85cea1c8-4be1-48b9-9534-c0280ef4a1dc@51.75.88.89:22761?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
 vless://c1506e90-c596-4ce2-9645-985f54554850@93.114.98.41:39839?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
 vless://d6831929-2122-490e-93bb-c6f151166791@93.114.98.253:46131?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
-vless://6eb7ffeb-5cc1-48b1-80f7-95dc0e17c066@62.60.173.203:13567?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40V2rayNG3
+vless://17f95334-382f-41ba-92a0-8ef267e4ad92@62.60.173.203:13612?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40V2rayNG3
 
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
@@ -651,8 +652,6 @@ vless://e5bd647a-cab3-41b8-881d-3f2101d65c23@www.speedtest.net:8443?path=%2FTele
 vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@speedtest.net:443?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&amp;security=tls&amp;encryption=none&amp;host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@iranserver.com:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=join-to.unlimiteddev.Community.&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
-vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
@@ -669,6 +668,8 @@ vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&a
 vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 
 vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ge1.v2vml.ga&amp;type=ws&amp;sni=ge1.v2vml.ga#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&amp;encryption=none&amp;seed=OXR9lTl7yj&amp;headerType=dtls&amp;type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
@@ -761,9 +762,6 @@ vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fe
 
 
 
-vless://TELEGRAM-NUFiLTER@Speedtest.net:80?security=none&amp;encryption=none&amp;type=ws&amp;host=Bazamkebidaram.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
-vless://Join--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
-vless://Joinbede--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=donya-e-eqtesad.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://Bia--ZEDMODEON@Www.speedtest.net:8080?security=none&amp;encryption=none&amp;type=httpupgrade#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://Biain--ZEDMODEON@Www.speedtest.net:8080?security=none&amp;encryption=none&amp;type=httpupgrade#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://TELEGRAM-NUFiLTER@Speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Ookbashetokkhobi.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome&amp;alpn=h2,http/1.1#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
@@ -1482,6 +1480,7 @@ ss://telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&a
 ss://telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn  حجمش تموم بشه قطع میشه 
 ss://Telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn
 ss://Telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn  حجمش تموم بشه قطع میشه 
+ss://Telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn  حجمش تموم بشه قطع میشه 
 ss://SvnTeam@mtn.vpnprosec.com:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=Grm.Join-SvnTeam.Online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://07322a02-7d54-495c-9a1f-23ae333eb6c2@198.41.201.125:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=bia-to-channel4.unlimiteddev.shop&amp;type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?path=%2Fmhdshws&amp;security=tls&amp;encryption=none&amp;host=loolu.tech&amp;type=ws&amp;sni=loolu.tech#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
@@ -1665,7 +1664,7 @@ ss://eyJhZGQiOiI1MS43NS44OC44OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijo
 ss://85cea1c8-4be1-48b9-9534-c0280ef4a1dc@51.75.88.89:22761?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
 ss://c1506e90-c596-4ce2-9645-985f54554850@93.114.98.41:39839?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
 ss://d6831929-2122-490e-93bb-c6f151166791@93.114.98.253:46131?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
-ss://6eb7ffeb-5cc1-48b1-80f7-95dc0e17c066@62.60.173.203:13567?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40V2rayNG3
+ss://17f95334-382f-41ba-92a0-8ef267e4ad92@62.60.173.203:13612?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40V2rayNG3
 
 ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
@@ -1883,8 +1882,6 @@ ss://eyJ2IjoiMiIsInBzIjoi5LqM54i35YWN6LS557+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIOi
 ss://eyJ2IjoiMiIsInBzIjoi5LqM54i35YWN6LS557+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIOiKgueCuV8xODMiLCJhZGQiOiIxODguMTE0Ljk2LjEiLCJwb3J0Ijo0NDMsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyJ9
 ss://eyJ2IjoiMiIsInBzIjoi5LqM54i35YWN6LS557+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIOiKgueCuV8xODQiLCJhZGQiOiI1MS43Ny4yMC4xMzIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYS5iYXJhZGloYS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
 ss://eyJ2IjoiMiIsInBzIjoi5LqM54i35YWN6LS557+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIOiKgueCuV8xODUiLCJhZGQiOiIxMDIuNzI0MDY0Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiI4ZjMzZGY5ZS0wMjU1LTQzNDEtYmVhNS05M2NjYzlmNjJmYTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiIxMDIuNzI0MDY0Lnh5eiIsInBhdGgiOiIvb3Fwc3Z3cyIsInRscyI6InRscyJ9
-ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
-ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 ss://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
 ss://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
@@ -1901,6 +1898,8 @@ ss://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;
 ss://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
+ss://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
+ss://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 
 ss://eyJhZGQiOiIxNjUuMjIuMTAxLjQ5IiwiYWlkIjoiMCIsImhvc3QiOiJtLnpvb20udXMiLCJpZCI6IjIwNjBhZjZlLTczYzUtNDA5MC1iMDlhLWJkNDExNDM2NTEzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii93b3JyeWZyZWUiLCJwb3J0IjoiNDQzIiwicHMiOiJ0Lm1lL2t1dG9wcm94efCfh6nwn4eqIiwic25pIjoibS56b29tLnVzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://eyJhZGQiOiIxNjUuMjIuMjUwLjE2OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJlZDk1ZTFhMi04YWExLTQyM2ItY2EyYS02MDU5MTI3YTJkYjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidC5tZS9rdXRvcHJveHnwn4ep8J+HqiIsInNuaSI6Im0uem9vbS51cyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -2111,9 +2110,6 @@ ss://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3
 
 
 
-ss://TELEGRAM-NUFiLTER@Speedtest.net:80?security=none&amp;encryption=none&amp;type=ws&amp;host=Bazamkebidaram.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
-ss://Join--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
-ss://Joinbede--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=donya-e-eqtesad.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://Bia--ZEDMODEON@Www.speedtest.net:8080?security=none&amp;encryption=none&amp;type=httpupgrade#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://Biain--ZEDMODEON@Www.speedtest.net:8080?security=none&amp;encryption=none&amp;type=httpupgrade#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://TELEGRAM-NUFiLTER@Speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Ookbashetokkhobi.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome&amp;alpn=h2,http/1.1#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
