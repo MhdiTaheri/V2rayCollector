@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-21-Sep-2024 02:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-21-Sep-2024 04:28
 
 
 
@@ -507,6 +507,7 @@ vless://85cea1c8-4be1-48b9-9534-c0280ef4a1dc@51.75.88.89:22761?mode=multi&amp;se
 vless://c1506e90-c596-4ce2-9645-985f54554850@93.114.98.41:39839?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
 vless://d6831929-2122-490e-93bb-c6f151166791@93.114.98.253:46131?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
 vless://17f95334-382f-41ba-92a0-8ef267e4ad92@62.60.173.203:13612?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40V2rayNG3
+vless://552d6665-ebe0-4609-838c-9ab7dcd4b2d6@star.ihomayon.site:56580?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40V2rayNG3
 
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
