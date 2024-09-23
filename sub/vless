@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-23-Sep-2024 18:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-23-Sep-2024 19:46
 
 
 
@@ -575,6 +575,9 @@ vless://88b2d70d-196c-4948-942d-3200c52d0541@79.127.70.80:2083?security=none&amp
 vless://78326cbc-e27d-4b44-8781-bc49473ecff4@79.127.70.84:8880?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://7f69c69c-d4ab-44e5-a12a-c0bd48626228@79.127.70.84:8080?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mwa100100m.a2c6ec2a96.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=mwa100100m.a2c6ec2a96.workers.dev#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+vless://DIGIV2RAy@www.speedtest.net:2095?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&amp;security=tls&amp;sni=iSaa1.PAGeS.DeV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=iSAA1.paGEs.DEV&amp;path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?encryption=none&amp;security=tls&amp;sni=JOInMahdIServER-Az7.PaGeS.DEv&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=JoInmaHDiseRveR-Az7.paGES.dEv&amp;path=%2F5MYfsbXPTJZd737O%3Fed%3D2560#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#%40Easy_Free_VPN
 vless://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&amp;security=none&amp;path=%2F#EasyFreeVPN

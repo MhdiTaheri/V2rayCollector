@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-23-Sep-2024 18:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-23-Sep-2024 19:46
 
 
 
@@ -20,8 +20,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@18.132.184.219:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
-trojan://telegram-id-privatevpns@18.132.181.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@54.216.189.90:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@52.208.76.3:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
 trojan://telegram-id-privatevpns@51.20.231.5:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
@@ -38,6 +36,7 @@ trojan://telegram-id-privatevpns@13.53.49.220:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@13.51.34.139:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@18.185.160.130:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@3.79.159.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
+trojan://telegram-id-privatevpns@13.36.82.183:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 
 
 
@@ -52,6 +51,7 @@ trojan://auto@104.20.19.168:2083?path=%2F&amp;security=tls&amp;host=e9464f45.tra
 
 trojan://auto@172.66.44.131:443?security=tls&amp;sni=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;host=e9464f45.trauma-2r4.pages.dev&amp;path=%2F#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 trojan://tg-dns68@162.159.153.192:443?security=tls&amp;sni=vip.putata.eu.org&amp;type=ws&amp;host=vip.putata.eu.org&amp;path=%2F#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&amp;sni=avianrecruit.com&amp;type=ws&amp;host=avianrecruit.com&amp;path=6b777a91#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 
 
 trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#FI-S1-Sweden-Trojan
