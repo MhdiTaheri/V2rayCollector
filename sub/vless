@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-24-Sep-2024 19:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-24-Sep-2024 20:42
 
 
 
@@ -337,6 +337,10 @@ vless://0c63fa2e-1140-4dd9-ad47-2edb18b7b96e@lc55.lebasnoo.ir:8080?path=%2Fserve
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:3a2b::1]:30618?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:fcd7::1]:14733?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://8957ca61-0922-48fd-949f-e96c170eeb1d@lc47.lebasnoo.ir:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://0c63fa2e-1140-4dd9-ad47-2edb18b7…
+vless://1fba084a-2944-438a-9219-9536574568b3@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc57.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
+vless://7b325623-5398-4283-aa08-9a31008585d1@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc58.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:5155::1]:20531?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+vless://TELEGRAM-ServerNett@[2a01:4f8:c013:3a2b::1]:38016?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://1fba084a-2944-438a-9219-9536574568b3@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc57.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://7b325623-5398-4283-aa08-9a31008585d1@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc58.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:5155::1]:20531?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
