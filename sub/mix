@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-25-Sep-2024 23:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-26-Sep-2024 00:43
 
 
 
@@ -349,7 +349,8 @@ vless://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?path=%2Fservern
 vless://e8f27947-b951-47ea-9132-3edae1fdab86@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc57.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:5155::1]:20531?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:3a2b::1]:38016?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-vless://32ced3f5-980a-54a7-89d5-616c2dd9188e@172.64.32.154:2052?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=6.www.abrha.com.xn--joinBede-ELiV2ry.click.abrarvan.ir.at3.vless.sitespeedtest.net.&amp;type=ws#configkade%F0%9F%91%89%40proxystore11
+vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
+vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip4
 
 
 
@@ -751,7 +752,6 @@ vless://58d34a1e-208f-4a2f-b0d3-a0ec705d9549@104.17.147.22:80/?type=ws&amp;encry
 vless://58d34a1e-208f-4a2f-b0d3-a0ec705d9549@104.17.148.22:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#%40Network_442_%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%200011
 
 
-vless://Join--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://TELEGRAM-NUFiLTER@Speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Dastamziredastet.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&amp;sni=Speedtest.net&amp;fp=chrome&amp;alpn=h2,http/1.1#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://Joinin--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 vless://TELEGRAM-NUFiLTER@Speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Aredigehamine187.ir&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome&amp;alpn=h2,http/1.1#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
@@ -1386,8 +1386,6 @@ ss://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?path=%2Fservernett
 ss://e8f27947-b951-47ea-9132-3edae1fdab86@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc57.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:5155::1]:20531?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 ss://TELEGRAM-ServerNett@[2a01:4f8:c013:3a2b::1]:38016?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-ss://32ced3f5-980a-54a7-89d5-616c2dd9188e@172.64.32.154:2052?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=6.www.abrha.com.xn--joinBede-ELiV2ry.click.abrarvan.ir.at3.vless.sitespeedtest.net.&amp;type=ws#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#configkade%F0%9F%91%89%40proxystore11
@@ -1400,6 +1398,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkppTTJGaw==@95.164.35.90:8388#configkade%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@5.226.54.105:40087#configkade%F0%9F%91%89%40proxystore11
 ss://eyJhZGQiOiJbMmExMjo1OTQwOmI4NTY6OjJdIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLy1jb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJwb3J0IjoiODAiLCJwcyI6InByb3h5c3RvcmUxMS1qb2luc2hvLUlwNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://eyJhZGQiOiI4OS4yMi4yMzguMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLy1jb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJwb3J0IjoiODAiLCJwcyI6InByb3h5c3RvcmUxMS1qb2luc2hvLWlwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+ss://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
+ss://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip4
 
 
 
@@ -1919,7 +1919,6 @@ ss://58d34a1e-208f-4a2f-b0d3-a0ec705d9549@104.17.147.22:80/?type=ws&amp;encrypti
 ss://58d34a1e-208f-4a2f-b0d3-a0ec705d9549@104.17.148.22:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#%40Network_442_%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%200011
 
 
-ss://Join--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://TELEGRAM-NUFiLTER@Speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Dastamziredastet.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&amp;sni=Speedtest.net&amp;fp=chrome&amp;alpn=h2,http/1.1#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://Joinin--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
 ss://TELEGRAM-NUFiLTER@Speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Aredigehamine187.ir&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&amp;sni=speedtest.net&amp;fp=chrome&amp;alpn=h2,http/1.1#All net | telegram:@ultrasurf_12 telegram:@ultrasurf_12 telegram:@ultrasurf_12
