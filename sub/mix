@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-27-Sep-2024 17:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-27-Sep-2024 18:43
 vless://c6349b80-e9ea-4a43-f90f-d7f4711ddc85@185.143.233.5:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=yfcycyy.ir&amp;type=ws#qfxywc3qs-Mm
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?path=%2FTelegram-Xv2ry2-q1%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=wwwspeedtestnet.pages.dev&amp;type=ws&amp;sni=Pages.dev#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.184:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=a.ssll.gay&amp;type=ws#%F0%9F%87%AC%F0%9F%87%A7%40networknim
@@ -719,7 +719,6 @@ vless://b3a4b75b-242a-41db-e679-3614fa7646dd@host.the-ashegh.ir:1024?security=re
 
 vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=justFreedomByIMAN.com&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#Freedom
 
-vless://f5a78514-1a94-486e-92a7-3bc9817095a6@172.67.156.27:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=nitriding.appreviewcenter.com&amp;path=%2Fnimws&amp;security=tls&amp;sni=nitriding.appreviewcenter.com#%40Network_442_%20%F0%9F%87%B8%F0%9F%87%AA%20MCI%20%F0%9F%9B%9C%20%2B4
 vless://45f57779-cdac-419b-bf74-08b1fd3413da@www.speedtest.net:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=raphaelmercer.pages.dev&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=raphaelmercer.pages.dev&amp;alpn=h3#%40Network_442_%20%F0%9F%87%B8%F0%9F%87%AA%20MCI%20%F0%9F%9B%9C%20%2B6
 
 
@@ -950,7 +949,6 @@ vmess://eyJhZGQiOiJzZWxsdmlwdnBuLm15aXJhbjEucHciLCJhaWQiOiIwIiwiaG9zdCI6InNuYXBw
 
 
 
-vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJATmV0d29ya180NDJfIPCfh7jwn4eqIE1DSSDwn5ucICszIiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDQuMjEuNzQuMjM5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJATmV0d29ya180NDJfIPCfh7jwn4eqIE1DSSDwn5ucICs1Iiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
@@ -1855,8 +1853,6 @@ ss://b3a4b75b-242a-41db-e679-3614fa7646dd@host.the-ashegh.ir:1024?security=reali
 
 ss://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=justFreedomByIMAN.com&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#Freedom
 
-ss://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJATmV0d29ya180NDJfIPCfh7jwn4eqIE1DSSDwn5ucICszIiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://f5a78514-1a94-486e-92a7-3bc9817095a6@172.67.156.27:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=nitriding.appreviewcenter.com&amp;path=%2Fnimws&amp;security=tls&amp;sni=nitriding.appreviewcenter.com#%40Network_442_%20%F0%9F%87%B8%F0%9F%87%AA%20MCI%20%F0%9F%9B%9C%20%2B4
 ss://eyJhZGQiOiIxMDQuMjEuNzQuMjM5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJATmV0d29ya180NDJfIPCfh7jwn4eqIE1DSSDwn5ucICs1Iiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://45f57779-cdac-419b-bf74-08b1fd3413da@www.speedtest.net:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=raphaelmercer.pages.dev&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=raphaelmercer.pages.dev&amp;alpn=h3#%40Network_442_%20%F0%9F%87%B8%F0%9F%87%AA%20MCI%20%F0%9F%9B%9C%20%2B6
 
@@ -1960,8 +1956,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@15.236.5.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
-trojan://telegram-id-privatevpns@15.188.249.224:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@18.133.214.114:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://telegram-id-privatevpns@3.11.12.126:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@34.251.9.120:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
@@ -1978,6 +1972,8 @@ trojan://telegram-id-privatevpns@34.246.106.160:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@54.228.249.153:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@51.20.233.126:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.48.61.10:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
+trojan://telegram-id-privatevpns@52.58.198.11:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
+trojan://telegram-id-privatevpns@3.69.77.208:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 
 
 
