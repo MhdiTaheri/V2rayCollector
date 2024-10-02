@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-02-Oct-2024 16:51
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-02-Oct-2024 17:42
 vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=e420ceed.aryoo-vpn-friends.pages.dev&amp;type=ws&amp;sni=e420ceed.aryoo-vpn-friends.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=%2FTelegram%40Azarakhsh_Proxy%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=dc1bf227.vf-8co.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=dc1bf227.vf-8co.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FELeNa-TheGeatDictator%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=ChanneL-ID-ELiV2RY.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ChanneL-ID-ELiV2RY.pages.dev#%F0%9F%87%A9%F0%9F%87%AA+%40networknim
@@ -372,6 +372,7 @@ vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=n
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip4
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&amp;path=%2F-configkade%F0%9F%91%89%40proxystore11&amp;host=www.anten.ir&amp;headerType=http&amp;security=none#proxystore11-joinsho-ip4
+vless://6bbdc884-fbc1-41e1-858b-c007fe306812@setup2.bestprime2.top:20125?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -1370,6 +1371,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#con
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#configkade%F0%9F%91%89%40proxystore11
+ss://6bbdc884-fbc1-41e1-858b-c007fe306812@setup2.bestprime2.top:20125?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -1930,6 +1932,7 @@ trojan://telegram-id-privatevpns@35.179.200.13:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@46.51.170.188:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 trojan://telegram-id-privatevpns@99.81.38.82:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.49.36.144:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
+trojan://telegram-id-privatevpns@13.50.60.250:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 
 
 
