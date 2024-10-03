@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-03-Oct-2024 14:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-03-Oct-2024 15:55
 vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=e420ceed.aryoo-vpn-friends.pages.dev&amp;type=ws&amp;sni=e420ceed.aryoo-vpn-friends.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%40networknim
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%40networknim
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=mIDsuMMer-bpb.PAgEs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=midsUMmER-Bpb.pAgES.DEV#%F0%9F%87%BA%F0%9F%87%B8%40networknim
@@ -831,7 +831,6 @@ vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjIxNyIsInYiOjIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9
 
 
 
-vmess://eyJhZGQiOiI4OS4yMi4yMzguMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLy1jb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJwb3J0IjoiODAiLCJwcyI6InByb3h5c3RvcmUxMS1qb2luc2hvLWlwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJbMmExMjo1OTQwOmI4NTY6OjJdIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLy1jb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJwb3J0IjoiODAiLCJwcyI6InByb3h5c3RvcmUxMS1qb2luc2hvLUlwNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJbMjYwNjo0NzAwOjMwMzc6OmFjNDM6ODMxYV0iLCJhaWQiOiIwIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicGFuZWx4dWkucHJveHlzdG9yZTExLnJ1IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY29uZmlna2FkZfCfkYlAcHJveHlzdG9yZTExIiwicG9ydCI6IjQ0MyIsInBzIjoicHJveHlzdG9yZTExLWpvaW5zaG8iLCJzY3kiOiJhdXRvIiwic25pIjoicGFuZWx4dWkucHJveHlzdG9yZTExLnJ1IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIyYTAxOjRmODoxYzFiOjIyMmE6OjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjVlNzRhMmY4LTU1MTYtNDBiZS1iOWQ3LWIzOWE4MGU1NzI2YiIsIm5ldCI6InRjcCIsInBhdGgiOiIvUGpnTzA4dG5mT2FYbjFuUmZFeW5jNkZUIiwicG9ydCI6IjgwIiwicHMiOiJjb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -1359,7 +1358,6 @@ ss://37018107-7bc4-461c-ba6f-e8a1c9e78975@185.146.173.58:8080?path=%2Fservernett
 ss://41a17d90-61ad-4d1d-9d09-a83729795c4e@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc59.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 ss://b56dc46a-6fe6-4096-abdf-186a958b6445@[2a01:4f8:1c1c:9736::1]:36871?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://96d10bdf-0df3-4c95-aa02-abf3414cae64@[2a01:4f8:1c1c:3786::1]:49461?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-ss://eyJhZGQiOiI4OS4yMi4yMzguMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLy1jb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJwb3J0IjoiODAiLCJwcyI6InByb3h5c3RvcmUxMS1qb2luc2hvLWlwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
 ss://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip4
 ss://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
@@ -1374,6 +1372,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://6bbdc884-fbc1-41e1-858b-c007fe306812@setup2.bestprime2.top:20125?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -1930,8 +1929,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@13.49.36.144:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
-trojan://telegram-id-privatevpns@13.50.60.250:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@18.198.205.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@3.122.75.63:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://telegram-id-privatevpns@13.37.31.12:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
@@ -1947,6 +1944,8 @@ trojan://telegram-id-privatevpns@3.69.91.217:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@13.36.124.193:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.38.234.32:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@35.179.80.42:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@18.134.225.91:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@79.125.121.209:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 
