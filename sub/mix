@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-05-Oct-2024 09:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-05-Oct-2024 10:43
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=argodev11222.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ArGodev11222.PaGes.Dev#%F0%9F%87%AC%F0%9F%87%A7%40networknim
 vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vless.sub.amclubs.us.kg&amp;fp=random&amp;type=ws&amp;sni=vless.sub.amclubs.us.kg#%F0%9F%87%AC%F0%9F%87%A7%40networknim
 
@@ -367,7 +367,6 @@ vless://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?path=%2Fservern
 vless://af9c101a-64c3-4678-b588-7fe1fc8fe698@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc61.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1c:3786::1]:49461?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1c:9736::1]:36871?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip4
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&amp;path=%2F-configkade%F0%9F%91%89%40proxystore11&amp;host=www.anten.ir&amp;headerType=http&amp;security=none#proxystore11-joinsho-ip4
@@ -534,7 +533,6 @@ vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
-vless://6e8c19cd-fcc5-48f5-8814-0de53fffd9ae@speedtest.net:443?path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join-vmessprotocol.ir&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%F0%9F%8C%B8+%40vmessprotcol+60%D8%AC%D9%87%D8%AA+%D8%AD%D9%85%D8%A7%DB%8C%D8%AA+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
 vless://6e8c19cd-fcc5-48f5-8814-0de53fffd9ae@speedtest.net:443?path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join-vmessp…
 vless://4cf43ff2-a837-43ef-aa66-529866cbfc94@www.speedtest.net:80?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%20%D8%AC%D9%88%DB%8C%D9%86
 vless://38b01b81-a7e3-4894-ecb1-736da9e32e54@www.speedtest.net:80/?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2017%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
@@ -551,6 +549,7 @@ vless://ec92aacf-32ce-4a75-febc-70200e1d8ce5@www.speedtest.net:80?type=ws&amp;pa
 vless://3af7f037-3b74-43fe-941c-c32c0314d55a@speedtest.net:80?type=ws&amp;path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&amp;host=join-vmessprotocol.ir&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2053%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://f2306000-2a40-4f66-d014-95903be1b86b@www.speedtest.net:80/?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2024%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://bc2f536f-f573-4227-d5c0-683f2d931742@www.speedtest.net:80/?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2026%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://9f1569a8-81a1-47b6-b7f3-bcae92cf43f8@www.speedtest.net:80?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2027%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#%40Easy_Free_VPN
 vless://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&amp;security=none&amp;path=%2F#EasyFreeVPN
@@ -1388,7 +1387,6 @@ ss://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?path=%2Fservernett
 ss://af9c101a-64c3-4678-b588-7fe1fc8fe698@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc61.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1c:3786::1]:49461?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1c:9736::1]:36871?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-ss://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
 ss://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip4
 ss://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
 ss://eyJhZGQiOiJbMmExMjo1OTQwOmI4NTY6OjJdIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLy1jb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJwb3J0IjoiODAiLCJwcyI6InByb3h5c3RvcmUxMS1qb2luc2hvLUlwNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
@@ -1404,6 +1402,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#con
 ss://6bbdc884-fbc1-41e1-858b-c007fe306812@setup2.bestprime2.top:20125?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -1607,7 +1606,6 @@ ss://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5Skl
 ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
-ss://6e8c19cd-fcc5-48f5-8814-0de53fffd9ae@speedtest.net:443?path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join-vmessprotocol.ir&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%F0%9F%8C%B8+%40vmessprotcol+60%D8%AC%D9%87%D8%AA+%D8%AD%D9%85%D8%A7%DB%8C%D8%AA+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
 ss://6e8c19cd-fcc5-48f5-8814-0de53fffd9ae@speedtest.net:443?path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join-vmessp…
 ss://4cf43ff2-a837-43ef-aa66-529866cbfc94@www.speedtest.net:80?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%20%D8%AC%D9%88%DB%8C%D9%86
 ss://38b01b81-a7e3-4894-ecb1-736da9e32e54@www.speedtest.net:80/?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2017%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
@@ -1624,6 +1622,7 @@ ss://ec92aacf-32ce-4a75-febc-70200e1d8ce5@www.speedtest.net:80?type=ws&amp;path=
 ss://3af7f037-3b74-43fe-941c-c32c0314d55a@speedtest.net:80?type=ws&amp;path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&amp;host=join-vmessprotocol.ir&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2053%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 ss://f2306000-2a40-4f66-d014-95903be1b86b@www.speedtest.net:80/?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2024%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 ss://bc2f536f-f573-4227-d5c0-683f2d931742@www.speedtest.net:80/?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2026%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+ss://9f1569a8-81a1-47b6-b7f3-bcae92cf43f8@www.speedtest.net:80?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2027%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 
 ss://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#%40Easy_Free_VPN
 ss://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&amp;security=none&amp;path=%2F#EasyFreeVPN
@@ -1989,8 +1988,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@35.180.147.38:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
-trojan://telegram-id-privatevpns@3.73.201.138:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@35.180.233.187:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.36.43.56:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@52.56.37.244:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
@@ -2007,6 +2004,8 @@ trojan://telegram-id-privatevpns@3.9.167.60:22222?security=tls&amp;alpn=http/1.1
 trojan://telegram-id-privatevpns@52.56.230.18:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@54.76.133.55:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@3.255.9.96:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
+trojan://telegram-id-privatevpns@13.48.180.63:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@16.170.116.206:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 
 
 
