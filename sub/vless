@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-07-Oct-2024 15:56
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-07-Oct-2024 16:52
 
 
 
@@ -366,7 +366,6 @@ vless://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?path=%2Fservern
 vless://af9c101a-64c3-4678-b588-7fe1fc8fe698@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc61.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1c:3786::1]:49461?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1c:9736::1]:36871?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@[2a12:5940:b856::2]:8080?security=none&amp;encryption=none&amp;host=www.anten.ir&amp;headerType=http&amp;type=tcp#proxystore11-joinsho-ip6
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&amp;path=%2F-configkade%F0%9F%91%89%40proxystore11&amp;host=www.anten.ir&amp;headerType=http&amp;security=none#proxystore11-joinsho-ip4
 vless://6bbdc884-fbc1-41e1-858b-c007fe306812@setup2.bestprime2.top:20125?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#configkade%F0%9F%91%89%40proxystore11
 
