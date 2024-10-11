@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-11-Oct-2024 21:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-11-Oct-2024 22:41
 
 
 
@@ -319,10 +319,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
 
 
-ss://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc58.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
-ss://e8f27947-b951-47ea-9132-3edae1fdab86@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc57.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
-ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:5155::1]:20531?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-ss://TELEGRAM-ServerNett@[2a01:4f8:c013:3a2b::1]:38016?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc58.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://e8f27947-b951…
 ss://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc58.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://e8f27947-b951…
 ss://a57ddecb-1922-4e97-ba8e-577147e6e51e@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc59.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
@@ -347,6 +343,7 @@ ss://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservernett
 ss://594eccaa-e41e-4de8-bea3-2f436412f518@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc65.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:4462::1]:28561?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:47784?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+ss://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc64.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2  vless://594eccaa-e41e…
 ss://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc64.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2  vless://594eccaa-e41e…
 ss://eyJhZGQiOiJbMjYwNjo0NzAwOjMwMzc6OmFjNDM6ODMxYV0iLCJhaWQiOiIwIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicGFuZWx4dWkucHJveHlzdG9yZTExLnJ1IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY29uZmlna2FkZfCfkYlAcHJveHlzdG9yZTExIiwicG9ydCI6IjQ0MyIsInBzIjoicHJveHlzdG9yZTExLWpvaW5zaG8iLCJzY3kiOiJhdXRvIiwic25pIjoicGFuZWx4dWkucHJveHlzdG9yZTExLnJ1IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://eyJhZGQiOiIyYTAxOjRmODoxYzFiOjIyMmE6OjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjVlNzRhMmY4LTU1MTYtNDBiZS1iOWQ3LWIzOWE4MGU1NzI2YiIsIm5ldCI6InRjcCIsInBhdGgiOiIvUGpnTzA4dG5mT2FYbjFuUmZFeW5jNkZUIiwicG9ydCI6IjgwIiwicHMiOiJjb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -655,13 +652,6 @@ ss://eyJhZGQiOiJiZXlvbmRkYmMuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Q
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#Japan+Datacamp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eld2NWI1M3hhRTU1ZHVIaEFVV01z@3.90.203.178:37768#Aws+us
 
-ss://a57ddecb-1922-4e97-ba8e-577147e6e51e@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc59.lebasnoo.ir.&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-ss://74a2582e-227c-4adc-af0c-03c73a28b311@172.66.47.147:443?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=CHanNel-iSVvPN.pagEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=PAges.DEV#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=joinmahdiseRver-Az7.pAgES.dev&amp;fp=randomized&amp;type=ws&amp;sni=jOInmAHDiSERVer-AZ7.paGes.dEV#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-ss://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tnetplus-1wc.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=tnetplus-1wc.pages.dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-ss://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=bpb-worker-panel-3jc.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-ss://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://2601b9cc-8853-42a9-9bcb-fbdb2ceda399@79.127.70.81:443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=119f3a0b.chikiy123w.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=119f3a0b.chikiy123w.pages.dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=argodev11222.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ArGodev11222.PaGes.Dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
