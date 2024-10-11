@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-11-Oct-2024 15:55
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-11-Oct-2024 16:49
 
 
 
@@ -310,6 +310,7 @@ vless://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservern
 vless://594eccaa-e41e-4de8-bea3-2f436412f518@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc65.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:4462::1]:28561?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:47784?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+vless://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc64.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2  vless://594eccaa-e41e…
 vless://6bbdc884-fbc1-41e1-858b-c007fe306812@setup2.bestprime2.top:20125?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#configkade%F0%9F%91%89%40proxystore11
 
 
@@ -1292,6 +1293,7 @@ ss://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservernett
 ss://594eccaa-e41e-4de8-bea3-2f436412f518@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc65.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:4462::1]:28561?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:47784?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+ss://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc64.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2  vless://594eccaa-e41e…
 ss://eyJhZGQiOiJbMjYwNjo0NzAwOjMwMzc6OmFjNDM6ODMxYV0iLCJhaWQiOiIwIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicGFuZWx4dWkucHJveHlzdG9yZTExLnJ1IiwiaWQiOiJjMjhmZjk4Zi1iYjcyLTQ4MDAtYjBiNi01ZWFjMTBmZGMyMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY29uZmlna2FkZfCfkYlAcHJveHlzdG9yZTExIiwicG9ydCI6IjQ0MyIsInBzIjoicHJveHlzdG9yZTExLWpvaW5zaG8iLCJzY3kiOiJhdXRvIiwic25pIjoicGFuZWx4dWkucHJveHlzdG9yZTExLnJ1IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://eyJhZGQiOiIyYTAxOjRmODoxYzFiOjIyMmE6OjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjVlNzRhMmY4LTU1MTYtNDBiZS1iOWQ3LWIzOWE4MGU1NzI2YiIsIm5ldCI6InRjcCIsInBhdGgiOiIvUGpnTzA4dG5mT2FYbjFuUmZFeW5jNkZUIiwicG9ydCI6IjgwIiwicHMiOiJjb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#configkade%F0%9F%91%89%40proxystore11
@@ -1910,8 +1912,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://bpb-trojan@172.64.153.235:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;type=ws&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV#%40vmess_vless_v2rayng
 trojan://auto@172.66.44.131:443?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
 trojan://auto@104.18.12.229:2053?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
-trojan://telegram-id-privatevpns@18.196.197.92:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
-trojan://telegram-id-privatevpns@3.78.121.94:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://telegram-id-privatevpns@15.236.251.70:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@13.39.63.108:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@18.135.117.246:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
@@ -1927,6 +1927,8 @@ trojan://telegram-id-privatevpns@13.38.253.125:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@13.43.178.33:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.179.65.8:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@54.74.134.193:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
+trojan://telegram-id-privatevpns@54.155.126.53:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
+trojan://telegram-id-privatevpns@13.48.222.216:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 
 
 
