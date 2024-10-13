@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-13-Oct-2024 07:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-13-Oct-2024 08:43
 
 
 
@@ -656,10 +656,6 @@ ss://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhYzAyNzM
 ss://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzMmFhM2JjZC1iZjE5LTQ3NjYtZmRmZS1hNTUyOTQ3NGE5NDUiLCJuZXQiOiJrY3AiLCJwYXRoIjoiUDZwNXNwSG1xcSIsInBvcnQiOiIyNTM5NiIsInBzIjoiQHYycmF5X2Zvcl9mcmVlICwga2NwIPCfjLkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1nY206WUI5bVU4dzZVRg==@45.131.248.228:13093#@v2ray_for_free+%2C+ss+%F0%9F%8C%B9
 
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#United+Kingdom+OVH
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Switzerland+Datacamp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#India+Digital+Ocean
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#Poland+OVH
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#France+OVH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyeUFCRnpDNjFMalltOUpxNDdSMUF1@18.182.65.136:443#Japan+AWS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#Poland+OVH
@@ -675,6 +671,10 @@ ss://eyJhZGQiOiJiZXlvbmRkYmMuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Q
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#Japan+Datacamp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eld2NWI1M3hhRTU1ZHVIaEFVV01z@3.90.203.178:37768#Aws+us
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKY0Nzblg1ZktBcm9OZ3htV1ZkOVRO@162.221.207.62:443#Canada+eSecureData
+ss://eyJhZGQiOiIxMDQuMjQuNTkuMjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWMuNjc5ODg4Lnh5eiIsImlkIjoiMDlkNTgwNWMtN2EyMi00N2MxLWIxYzMtZjA5MGRmMGE5OGVkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xmbGp2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVbml0ZWQgU3RhdGVzIENvbG9Dcm9zc2luZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYWMuNjc5ODg4Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWDc3Q3AyQ0hLcThKS1RIdXgyeFVp@13.74.65.144:32935#Ireland+Azure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#United+States+Nexril
+ss://eyJhZGQiOiI2Ni4xNzUuMjE3LjEyNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNjYuMTc1LjIxNy4xMjYiLCJpZCI6IjdhZDhkYTBjLWZkYTUtNDE2Yi05ZTcyLTQ3Y2M2ODMxM2ZmZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9iRmhGQVdSRiIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXMgQWthbWFpIiwic2N5IjoiYXV0byIsInNuaSI6IjY2LjE3NS4yMTcuMTI2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 ss://2601b9cc-8853-42a9-9bcb-fbdb2ceda399@79.127.70.81:443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=119f3a0b.chikiy123w.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=119f3a0b.chikiy123w.pages.dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
