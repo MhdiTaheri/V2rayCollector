@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-14-Oct-2024 11:48
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-14-Oct-2024 12:45
 
 
 
@@ -351,6 +351,12 @@ vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls
 vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitT.CoM#telegram 
 vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitT.CoM#telegram 
 
+vless://dacd12ee-d990-499a-bc96-9396c9635ff8@188.245.87.153:2096?path=%2Fresource%2F9876%2Fabcd%2Fef12g3h4i5j6k7l8m9n0opqrs%2F2024%2Fxyz%3Fauth%3Dabcd1234efgh5678ijkl9101mnopqrstu%26session%3Dabc1234def5678ghijkl910mno_pqrst%26checksum%3D1a2b3c4d5e6f7g8h9i0jklmnopqrstuvwx&amp;security=reality&amp;encryption=none&amp;pbk=TS5-zLzFKNxp7JFXjT_uxmcBKWyW2cesU1YsdgRlQTs&amp;fp=chrome&amp;type=http&amp;sni=www.python.org&amp;sid=c7ad7539483029e7#%F0%9F%87%BA%F0%9F%87%B8%40Freakconfig
+vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc64.lebasnoo.ir.&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://a2be521c-8bd0-491b-96c1-9c1fffb34a08@5.75.213.8:2095?security=reality&amp;encryption=none&amp;pbk=SgzllpJZNbdqv4IXgW-tixaJDu1mK5EZTS6dqrQvnEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=EMie2V.Gstatic.COM.coiNEX.com.SARBAZIT.COM&amp;sid=8786b7bb#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@www.speedtest.net:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40ConfigTell&amp;sni=adsl.felafel.org#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Awawaw.net&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
@@ -848,6 +854,11 @@ vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@speedtest.net:443?path=%2FTelegram%
 vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#%F0%9F%87%B3%F0%9F%87%B1+%40Frev2ray
 vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#%F0%9F%87%A9%F0%9F%87%AA+%40Frev2ray
 vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@get-admin-upanel.poqpoq.cfd:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%94%A5+%40Frev2ray
+vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://be7c124d-df8d-4503-9bb2-b64c986342a8@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc64.lebasnoo.ir.&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://a2be521c-8bd0-491b-96c1-9c1fffb34a08@5.75.213.8:2095?security=reality&amp;encryption=none&amp;pbk=SgzllpJZNbdqv4IXgW-tixaJDu1mK5EZTS6dqrQvnEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=EMie2V.Gstatic.COM.coiNEX.com.SARBAZIT.COM&amp;sid=8786b7bb#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@www.speedtest.net:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40ConfigTell&amp;sni=adsl.felafel.org#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Awawaw.net&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
