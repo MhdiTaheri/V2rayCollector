@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-18-Oct-2024 09:49
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-18-Oct-2024 10:43
 
 
 
@@ -349,10 +349,6 @@ vless://3eef6f0a-d63e-4a29-af16-494154a2a4ae@hajlab.ucdavis.edu:80?security=none
 
 
 
-vless://37018107-7bc4-461c-ba6f-e8a1c9e78975@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc60.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
-vless://41a17d90-61ad-4d1d-9d09-a83729795c4e@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc59.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
-vless://b56dc46a-6fe6-4096-abdf-186a958b6445@[2a01:4f8:1c1c:9736::1]:36871?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-vless://96d10bdf-0df3-4c95-aa02-abf3414cae64@[2a01:4f8:1c1c:3786::1]:49461?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://37018107-7bc4-461c-ba6f-e8a1c9e78975@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc60.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2  vless://41a17d90-61ad…
 vless://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc62.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://af9c101a-64c3-4678-b588-7fe1fc8fe698@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc61.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
@@ -613,6 +609,8 @@ vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzh
 
 
 vless://Zm5yAXVkqm/JrbooPTATAHElZufFb7s9kuvT6hu7SVYuH0cy/6A7PMI1Q4yX/UaU4s9gFw5DIvbMYrr17QAPX/h7Zqnr8OOr5PP4KU1d8QUClZtalmLOdv2JTRDGSuH4nXsNerez0wN05T652imT23yLIHQ/zb3aHnKO+GOZSYMohxl4K6ImwZXTj/LQ3JVCZL/bJiio4AEtTorj2pgCVcF3THhw2Cc+Ly6srWePUdTUbGOngsli0n/G44nhu6BLdgBH6tCDXjH6TqhL31lkCeV1ImJCOVvs9GZ8Jl9HjjEpXeXrTM18HXxVcXMNNA4E
+vless://fa728cdb-f350-4bfa-ae48-5c3421e31a05@live.wkrq.com:443?path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed&amp;security=tls&amp;encryption=none&amp;host=UNLIMITEDDEV.zr.ir&amp;fp=firefox&amp;type=ws&amp;sni=live.wkrq.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
+vless://0b63e014-b3d6-4953-9d82-8f0b219557b2@104.17.234.114:443?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;host=UNLIMITEDDEV.unlimiteddev-vpn.com&amp;fp=chrome&amp;type=ws&amp;sni=UNLIMITEDDEV.unlimiteddev-vpn.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://de543079-9ff5-4dce-8b68-97f61685efd7@nodejs.org:443?path=%2FLNGeLLJXXIlSdZMqnuxG&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=hdfy1c1.cpiforpersia.uk&amp;fp=chrome&amp;type=ws&amp;sni=hdfy1c1.cpiforpersia.uk#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=119f3a0b.chikiy123w.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=119f3a0b.chikiy123w.pages.dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=argodev11222.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ArGodev11222.PaGes.Dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
