@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-23-Oct-2024 08:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-23-Oct-2024 09:49
 
 
 
@@ -381,6 +381,10 @@ ss://ef9237fa-eead-42a0-8b12-59babf3fd7a7@185.146.173.58:8080?path=%2Fservernett
 ss://019990b3-2ec5-4d55-96bd-3d8d9959a5e9@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc66.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:7c82::1]:21518?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:4462::1]:43120?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+ss://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
+ss://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc69.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
+ss://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:22503?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
+ss://TELEGRAM-ServerNett@[2a01:4f8:c010:7c82::1]:59493?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 ss://6bbdc884-fbc1-41e1-858b-c007fe306812@setup2.bestprime2.top:20125?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
@@ -886,8 +890,6 @@ ss://TELEGRAM-NUFiLTER@Us2.2sedkfjeuixijd0ew9dvkcxoisiek31.blog:443?mode=gun&amp
 
 ss://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=justFreedomByIMAN.com&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#Freedom
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@77.247.108.24:990#%40Network_442_%20%F0%9F%87%A7%F0%9F%87%BF%20%E2%AD%90%20WIFI%20%E2%AD%90%20%2805%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.166.88.198:2376#%40Network_442_%20%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%AD%90%20WIFI%20%E2%AD%90%20%2806%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%40Network_442_%20%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%AD%90%20WIFI%20%E2%AD%90%20%2807%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#%40Network_442_%20%F0%9F%87%AE%F0%9F%87%B9%E2%AD%90%20WIFI%20%E2%AD%90%20%2808%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#%40Network_442_%20%20%F0%9F%87%A6%F0%9F%87%B1%20%E2%AD%90%20WIFI%20%E2%AD%90%20%2809%29
