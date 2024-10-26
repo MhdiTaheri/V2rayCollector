@@ -1,6 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-26-Oct-2024 17:41
-vless://22e326cd-ebbc-4e1c-9a11-1b1286b86357@81.90.147.182:27964?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8%40networknim
-vless://15b3599b-10d2-47f3-9f27-93e37617c20a@[2a01:4f8:1c1b:25a3::1]:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;sni=gsmarena.com&amp;sid=32d7a82d#%F0%9F%87%A9%F0%9F%87%AA%40networknim
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-26-Oct-2024 18:42
 vless://8a842d53-fe3b-4dd0-a0c8-723213c26fbd@tufts.edu:443?path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=bas-kon-irani.ir&amp;fp=chrome&amp;type=ws&amp;sni=tufts.edu#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.104.238:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram+%40networknim+%F0%9F%87%A9%F0%9F%87%AA
 vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40networknim
@@ -988,10 +986,6 @@ vmess://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6
 
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40networknim
-ss://22e326cd-ebbc-4e1c-9a11-1b1286b86357@81.90.147.182:27964?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8%40networknim
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#%F0%9F%87%BA%F0%9F%87%B8%40networknim
-ss://15b3599b-10d2-47f3-9f27-93e37617c20a@[2a01:4f8:1c1b:25a3::1]:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;sni=gsmarena.com&amp;sid=32d7a82d#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 ss://8a842d53-fe3b-4dd0-a0c8-723213c26fbd@tufts.edu:443?path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=bas-kon-irani.ir&amp;fp=chrome&amp;type=ws&amp;sni=tufts.edu#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.104.238:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram+%40networknim+%F0%9F%87%A9%F0%9F%87%AA
@@ -2003,8 +1997,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://bpb-trojan@172.64.153.235:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;type=ws&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV#%40vmess_vless_v2rayng
 trojan://auto@172.66.44.131:443?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
 trojan://auto@104.18.12.229:2053?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
-trojan://telegram-id-privatevpns@13.48.229.163:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
-trojan://telegram-id-privatevpns@3.72.132.185:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@63.176.40.120:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://telegram-id-privatevpns@13.39.31.96:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@13.37.94.148:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
@@ -2021,6 +2013,8 @@ trojan://telegram-id-privatevpns@54.195.77.155:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@52.211.127.197:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.61.50.240:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@51.20.28.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
+trojan://telegram-id-privatevpns@3.71.245.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
+trojan://telegram-id-privatevpns@3.120.253.26:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 
 
 
