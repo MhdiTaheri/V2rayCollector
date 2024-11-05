@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-05-Nov-2024 16:50
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-05-Nov-2024 17:43
 vless://451788d8-a97e-4bdb-ad7e-62d979cf304a@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 
 
@@ -312,10 +312,6 @@ vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls
 
 
 
-vless://ef9237fa-eead-42a0-8b12-59babf3fd7a7@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc67.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
-vless://019990b3-2ec5-4d55-96bd-3d8d9959a5e9@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc66.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:7c82::1]:21518?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:4462::1]:43120?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc69.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:22503?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
@@ -1413,10 +1409,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
 
 
-ss://ef9237fa-eead-42a0-8b12-59babf3fd7a7@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc67.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
-ss://019990b3-2ec5-4d55-96bd-3d8d9959a5e9@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc66.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:7c82::1]:21518?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:4462::1]:43120?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 ss://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 ss://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc69.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:22503?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
@@ -2156,6 +2148,7 @@ trojan://telegram-id-privatevpns@18.132.174.113:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@54.217.238.115:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 trojan://telegram-id-privatevpns@52.19.223.203:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.49.181.197:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
+trojan://telegram-id-privatevpns@13.51.187.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 
 
 
