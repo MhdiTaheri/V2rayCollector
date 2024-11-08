@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Nov-2024 16:49
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-Nov-2024 17:42
 ss://92e1f3f0-4829-448b-9ca3-6d4eebf2ff2a@[2a01:4f8:1c1b:25a3::1]:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;sni=gsmarena.com&amp;sid=32d7a82d#%F0%9F%87%A9%F0%9F%87%AA%40networknim
 ss://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=dc1bf227.vf-8co.pages.dev&amp;type=ws&amp;sni=dc1bf227.vf-8co.pages.dev#ID%28%40networknim%29
 ss://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=iSAA1.paGEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=iSaa1.PAGeS.DeV#ID%28%40networknim%29
@@ -380,7 +380,6 @@ ss://818442ff-0214-435f-9b40-10d6ab7d4f4d@185.146.173.58:23495?path=%2Fservernet
 ss://TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:50281?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 ss://TELEGRAM-ServerNett@[2a01:4f8:c17:650c::1]:49982?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://e202f6e5-7bf2-4ec8-9c6e-582c3fe80c33@185.146.173.58:39080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc74.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://818442ff-0214…
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ%3D%3D@95.164.35.90:8388#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
@@ -389,6 +388,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 ss://chacha20-ietf-poly1305%3Amps3FwmDjLrWaOVg@series-a2.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.188:8080#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FMQCtFapSEsrolddT%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-WORkER-PanEl-bcR.PAgES.deV#configkade%F0%9F%91%89%40proxystore11
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@time.is:443?path=%2F6gtQ2yeWx97hsYDK%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bPb-woRkEr-PAneL-bcr.paGEs.DeV#configkade%F0%9F%91%89%40proxystore11
 
 
 
