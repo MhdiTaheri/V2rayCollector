@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-12-Nov-2024 23:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-13-Nov-2024 00:42
 
 
 
@@ -794,7 +794,15 @@ vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@104.17.234.114:8443?path=%2FTelegra
 vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#%F0%9F%87%A9%F0%9F%87%AA+%40frev2ray
 vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&amp;fp=randomiz…
 
-
+vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;type=ws&amp;path=/Telegram@Linkvws?ed%3D2560&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;encryption=none#MCI-
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&amp;sni=dash.cloudflare.com&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&amp;sid=f77e5398&amp;type=grpc&amp;encryption=none#WiFi-
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&amp;sni=iSaA1.paGes.DEv&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/Telegram-
+vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;type=ws&amp;path=/Telegram@Linkvws?ed%3D2560&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;encryption=none#MCI-
+vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?security=tls&amp;sni=meti-u9d.pages.dev&amp;fp=chrome&amp;type=ws&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;host=meti-u9d.pages.dev&amp;encryption=none#Awlix_ir
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&amp;sni=iSaa1.PAGeS.DeV&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/BDwnEtVwG7BS0S9f?ed%3D2560&amp;host=iSAA1.paGEs.DEV&amp;encryption=none#Awlix_ir
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&amp;sni=Noshteri.hooplnqpb.ir&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;path=/?ed%3D2048&amp;host=Noshteri.hooplnqpb.ir&amp;encryption=none#Awlix_ir
+vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&amp;sni=ARCane-ROYAL.Pages.DEV&amp;alpn=http/1.1&amp;type=ws&amp;path=/&amp;host=ARCane-ROYAL.Pages.DEV&amp;encryption=none#Awlix_ir
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443?security=tls&amp;sni=mefa.ir&amp;alpn=h2,http/1.1&amp;allowInsecure=1&amp;fp=randomized&amp;type=ws&amp;path=/H?ed%3D2560&amp;host=mefa.ir&amp;encryption=none#Awlix_ir
 
 
 vless://446cf1db-74f9-4f26-91ad-3acb9fc2beb0@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@configforVPN&amp;sni=greenpepper.ir&amp;sid=614214c8#%40ConfigforVPN
@@ -970,7 +978,7 @@ vmess://eyJhZGQiOiJzZWxsdmlwdnBuLm15aXJhbjEucHciLCJhaWQiOiIwIiwiaG9zdCI6InNuYXBw
 vmess://eyJhZGQiOiIxMDQuMjEuMjUuNjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NjQxMTJhNi1jZWViLTQxMjYtYjdlMi01MDljMmEyMDNkMjAiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDg3IiwicHMiOiJAZnJlVjJyYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJuZXRmbGl4dnV1Z2l1ZnlkdXV2Z2d1aWlneWZnaWdpZmhmc3RxdWhvaWh0Znh0dWlob2pvbGhneWZ5dnl2bGtub3V2cmRmZWQyczJzdnloaWoyMmtrZ2lmamZrZmlmb2ZvdGl0aXJydXllNjM0NjdyOHQ4dDh0Z2lnamdqdm52bWZzcmFldzR3NHc1ZTVlN3Q4eTl1OXVob2lob3BqanBrYmJrdm5nbm1jbWNoZnlmZHk2ZGV1eWV5d3Vlb3RvZ2ljaWg3dWhpaGZ5eXlkaGRoZnlkZnlqamhmZGhmeXRlcm1pbjEuZmxvdXV1c3hvb2tvMDA4NS5zaG9wIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
 
-
+vmess://eyJhZGQiOiIxNzIuNjcuMTkwLjk4IiwiYWlkIjoiMSIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQWxsLUBWMnJheV9BbHBoYS0xOSIsInNjeSI6ImF1dG8iLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 
 vmess://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJAQ29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -1360,7 +1368,6 @@ ss://ab8a989e-ccce-4e0d-9aa7-8ae87928858c@185.146.173.58:80?path=%2Fservernett&a
 ss://b69b17b9-4074-4316-9d80-103433d6bfe4@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc73.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 ss://47f9520e-04da-4bc3-89b9-72fb99cc80cf@[2a01:4f8:c17:1cd7::1]:50281?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 ss://16550e5c-5323-4c24-ba2d-fa9b0c4ed51d@[2a01:4f8:c17:650c::1]:49982?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.188:8080#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FMQCtFapSEsrolddT%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-WORkER-PanEl-bcR.PAgES.deV#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@time.is:443?path=%2F6gtQ2yeWx97hsYDK%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bPb-woRkEr-PAneL-bcr.paGEs.DeV#configkade%F0%9F%91%89%40proxystore11
 ss://aes-256-gcm%3AY6R9pAtvxxzmGC@23.157.40.95:5000#configkade%F0%9F%91%89%40proxystore11
@@ -1921,7 +1928,20 @@ ss://d3f0e44b-7aa9-4445-bafc-3546166ceaec@104.17.234.114:8443?path=%2FTelegram%2
 ss://d3f0e44b-7aa9-4445-bafc-3546166ceaec@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#%F0%9F%87%A9%F0%9F%87%AA+%40frev2ray
 ss://d3f0e44b-7aa9-4445-bafc-3546166ceaec@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&amp;fp=randomiz…
 
-
+ss://eyJhZGQiOiIxNzIuNjcuMTkwLjk4IiwiYWlkIjoiMSIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQWxsLUBWMnJheV9BbHBoYS0xOSIsInNjeSI6ImF1dG8iLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;type=ws&amp;path=/Telegram@Linkvws?ed%3D2560&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;encryption=none#MCI-
+ss://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&amp;sni=dash.cloudflare.com&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&amp;sid=f77e5398&amp;type=grpc&amp;encryption=none#WiFi-
+ss://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&amp;sni=iSaA1.paGes.DEv&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/Telegram-
+ss://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;type=ws&amp;path=/Telegram@Linkvws?ed%3D2560&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;encryption=none#MCI-
+ss://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?security=tls&amp;sni=meti-u9d.pages.dev&amp;fp=chrome&amp;type=ws&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;host=meti-u9d.pages.dev&amp;encryption=none#Awlix_ir
+ss://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&amp;sni=iSaa1.PAGeS.DeV&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/BDwnEtVwG7BS0S9f?ed%3D2560&amp;host=iSAA1.paGEs.DEV&amp;encryption=none#Awlix_ir
+ss://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&amp;sni=Noshteri.hooplnqpb.ir&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;path=/?ed%3D2048&amp;host=Noshteri.hooplnqpb.ir&amp;encryption=none#Awlix_ir
+ss://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&amp;sni=ARCane-ROYAL.Pages.DEV&amp;alpn=http/1.1&amp;type=ws&amp;path=/&amp;host=ARCane-ROYAL.Pages.DEV&amp;encryption=none#Awlix_ir
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443?security=tls&amp;sni=mefa.ir&amp;alpn=h2,http/1.1&amp;allowInsecure=1&amp;fp=randomized&amp;type=ws&amp;path=/H?ed%3D2560&amp;host=mefa.ir&amp;encryption=none#Awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#WiFi-
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#WiFi-
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#WiFi-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#AWlix_ir
 
 
 ss://446cf1db-74f9-4f26-91ad-3acb9fc2beb0@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@configforVPN&amp;sni=greenpepper.ir&amp;sid=614214c8#%40ConfigforVPN
@@ -2084,7 +2104,7 @@ trojan://auto@104.20.6.134:443?path=%2F&amp;security=tls&amp;host=e9464f45.traum
 
 
 
-
+trojan://bpb-
 
 
 
