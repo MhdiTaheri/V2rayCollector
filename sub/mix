@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-14-Nov-2024 21:48
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-14-Nov-2024 22:41
 
 
 
@@ -312,12 +312,6 @@ vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls
 
 
 
-vless://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://b178f29c-5765…
-vless://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
-vless://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc69.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:22503?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:7c82::1]:59493?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-vless://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://b178f29c-5765…
 vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@lc71.lebasnoo.ir:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc71.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://9c92dd71-acac-422b-b23e-e764f8cba0de@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc72.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:10011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
@@ -341,6 +335,11 @@ vless://b69b17b9-4074-4316-9d80-103433d6bfe4@185.146.173.58:8080?path=%2Fservern
 vless://47f9520e-04da-4bc3-89b9-72fb99cc80cf@[2a01:4f8:c17:1cd7::1]:50281?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://16550e5c-5323-4c24-ba2d-fa9b0c4ed51d@[2a01:4f8:c17:650c::1]:49982?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://ab8a989e-ccce-4e0d-9aa7-8ae87928858c@185.146.173.58:80?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc74.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://b69b17b9-4074…
+vless://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc77.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2
+vless://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc76.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
+vless://e98933a5-b3b6-4e77-8671-d1828c9d368a@[2a01:4f8:c013:7538::1]:55738?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
+vless://81a2627d-01c6-48d9-ad96-1d3b79c6a955@[2a01:4f8:c17:650c::1]:39219?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+vless://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc77.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2  vless://TELEGRAM-ServerNett@185.146.173.5…
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FXhjgE8gj0V6whv3N%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-WORKeR-pANel-Bcr.pAGES.Dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.2:443?path=%2F9yNikZudtYoJdO4E%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BpB-WORKER-PanEL-bcr.paGEs.dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FtvXfHqmZZxEe9SgL%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bPb-wOrKeR-pANeL-bcr.PaGES.Dev#configkade%F0%9F%91%89%40proxystore11
@@ -1344,12 +1343,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
 
 
-ss://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://b178f29c-5765…
-ss://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
-ss://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc69.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:22503?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:7c82::1]:59493?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-ss://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://b178f29c-5765…
 ss://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@lc71.lebasnoo.ir:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc71.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 ss://9c92dd71-acac-422b-b23e-e764f8cba0de@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc72.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:10011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
@@ -1373,6 +1366,11 @@ ss://b69b17b9-4074-4316-9d80-103433d6bfe4@185.146.173.58:8080?path=%2Fservernett
 ss://47f9520e-04da-4bc3-89b9-72fb99cc80cf@[2a01:4f8:c17:1cd7::1]:50281?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 ss://16550e5c-5323-4c24-ba2d-fa9b0c4ed51d@[2a01:4f8:c17:650c::1]:49982?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://ab8a989e-ccce-4e0d-9aa7-8ae87928858c@185.146.173.58:80?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc74.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://b69b17b9-4074…
+ss://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc77.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2
+ss://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc76.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
+ss://e98933a5-b3b6-4e77-8671-d1828c9d368a@[2a01:4f8:c013:7538::1]:55738?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
+ss://81a2627d-01c6-48d9-ad96-1d3b79c6a955@[2a01:4f8:c17:650c::1]:39219?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+ss://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc77.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2  vless://TELEGRAM-ServerNett@185.146.173.5…
 ss://aes-256-gcm%3AXKFKl2rULjIp74@23.157.40.95:8008#configkade%F0%9F%91%89%40proxystore11
 ss://aes-256-gcm%3AkDWvXYZoTBcGkC4@23.157.40.95:8881#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3ABog0ELmMM9DSxDdQ@157.175.3.7:443#configkade%F0%9F%91%89%40proxystore11
@@ -2006,7 +2004,6 @@ trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&amp
 trojan://bpb-trojan@172.64.153.235:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;type=ws&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV#%40vmess_vless_v2rayng
 trojan://auto@172.66.44.131:443?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
 trojan://auto@104.18.12.229:2053?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
-trojan://telegram-id-privatevpns@13.48.184.250:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.50.210.255:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@63.176.143.134:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@18.194.64.14:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
@@ -2023,6 +2020,7 @@ trojan://telegram-id-privatevpns@18.159.136.197:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@51.44.143.21:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@13.36.217.42:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@18.132.57.252:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
+trojan://telegram-id-privatevpns@51.24.49.230:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 
 
 
