@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-17-Nov-2024 14:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-17-Nov-2024 15:54
 
 
 
@@ -506,10 +506,6 @@ vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
-vless://9a95177b-78de-49c4-9c89-e76655eb3b09@bwdraper.faculty.ucdavis.edu:443?type=ws&amp;host=dubleostore.io&amp;path=/?ed%3D1024&amp;security=tls&amp;fp=firefox&amp;sni=bwdraper.faculty.ucdavis.edu#%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%E3%80%8F%7C%20V2rayprotocol%20
-vless://9a95177b-78de-49c4-9c89-e76655eb3b09@bwdraper.faculty.ucdavis.edu:443?type=ws&amp;host=cloudshop.majidhp.ir&amp;path=/?ed%3D1024&amp;security=tls&amp;fp=chrome&amp;sni=bwdraper.faculty.ucdavis.edu#%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%E3%80%8F%7C%20%20@Vmessprotocol
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.171:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=late-tooth.granzinhannah.workers.dev&amp;type=ws#%F0%9F%94%92++%F0%9F%87%B8%F0%9F%87%AC+SG-%40V2RAYPROTOCOL
-vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram.%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;type=ws&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#%F0%9F%94%92+V2rayProtocol+%F0%9F%87%A8%F0%9F%87%AD+CH
 vless://1b4465e9-24d4-46d0-867e-b5621c4d635f@198.244.147.21:31251?security=none&amp;encryption=none&amp;host=khabarfarsi.com&amp;headerType=http&amp;type=tcp#%F0%9F%94%92+%40VmessProtocol+%F0%9F%87%AC%F0%9F%87%A7
 vless://468d811a-8540-4517-9779-0f542b5150d2@104.21.59.145:443?path=%2Fje0xBlZdnSJJ7NFf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=ppAl03.LucieN-isAaK.wOrkers.dev&amp;fp=randomized&amp;type=ws&amp;sni=PPal03.luCIEN-isAak.WOrkeRS.dEV#%F0%9F%94%92+%40VmessProtocol
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.7.36:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=lj.ylks.us.kg&amp;type=ws&amp;sni=lj.ylks.us.kg#%F0%9F%94%92+%40VmessProtocol
@@ -529,6 +525,10 @@ vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.197.174:1623?security=reali
 vless://7e6c5fae-62fe-4ed0-a4b2-64d4170c556b@188.245.197.174:1622?security=reality&amp;encryption=none&amp;pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;sid=3a622700e73c6642#%F0%9F%94%92+VL-TCP-RLT+%F0%9F%87%A9%F0%9F%87%AA+DE-%40VmessProtocol
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.197.174:1617?security=reality&amp;encryption=none&amp;pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=wwww.refersion.com&amp;sid=3a622700e73c6642#%F0%9F%94%92+-RLT+%F0%9F%87%A9%F0%9F%87%AA+DE-%40VmessProtocol
 vless://661ea549-3367-4c37-b307-253cfe8d2ee6@129.146.128.183:18443?security=reality&amp;encryption=none&amp;pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=www.tesla.com&amp;sid=e6658462#%F0%9F%94%92+VL-TCP-RLT+%F0%9F%87%BA%F0%9F%87%B8+US-%40VmessProtocol
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.213:2052?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=late-tooth.granzinhannah.workers.dev&amp;type=ws#%F0%9F%94%92+%40VmessProtocol+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.148:443?path=%2FeEhGG7CNQ2HTbmMU%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=little-fog-5666.netmousavi.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=lITtlE-FOg-5666.NEtMoUSaVi.WorKErS.Dev#%F0%9F%94%92+%40VmessProtocol+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@108.162.195.159:443?path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=purlitefastest.pages.dev&amp;type=ws&amp;sni=purlitefastest.pages.dev#%F0%9F%94%92+%40VmessProtocol+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.213:2052?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&amp;security=none&amp;enc…
 
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#%40Easy_Free_VPN
 vless://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&amp;security=none&amp;path=%2F#EasyFreeVPN
@@ -736,6 +736,7 @@ vless://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=no
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=gisheh7.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#
 vless://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=gisheh7.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#
 
 vless://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 vless://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
@@ -1356,7 +1357,6 @@ ss://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=non
 ss://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc76.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
 ss://e98933a5-b3b6-4e77-8671-d1828c9d368a@[2a01:4f8:c013:7538::1]:55738?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://81a2627d-01c6-48d9-ad96-1d3b79c6a955@[2a01:4f8:c17:650c::1]:39219?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-ss://aes-256-gcm%3AkDWvXYZoTBcGkC4@23.157.40.95:8881#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3ABog0ELmMM9DSxDdQ@157.175.3.7:443#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FXhjgE8gj0V6whv3N%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-WORKeR-pANel-Bcr.pAGES.Dev#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.2:443?path=%2F9yNikZudtYoJdO4E%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BpB-WORKER-PanEL-bcr.paGEs.dev#configkade%F0%9F%91%89%40proxystore11
@@ -1368,6 +1368,8 @@ ss://chacha20-ietf-poly1305%3AW74XFALLLuw6m5IA@series-a1.samanehha.co:443#config
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3Au17T3BvpYaaiuW2c@series-a2-mec.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3Amps3FwmDjLrWaOVg@13.43.175.21:443#configkade%F0%9F%91%89%40proxystore11
+ss://chacha20-ietf-poly1305%3AW74XFALLLuw6m5IA@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
+ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -1567,10 +1569,6 @@ ss://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048
 ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
-ss://9a95177b-78de-49c4-9c89-e76655eb3b09@bwdraper.faculty.ucdavis.edu:443?type=ws&amp;host=dubleostore.io&amp;path=/?ed%3D1024&amp;security=tls&amp;fp=firefox&amp;sni=bwdraper.faculty.ucdavis.edu#%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%E3%80%8F%7C%20V2rayprotocol%20
-ss://9a95177b-78de-49c4-9c89-e76655eb3b09@bwdraper.faculty.ucdavis.edu:443?type=ws&amp;host=cloudshop.majidhp.ir&amp;path=/?ed%3D1024&amp;security=tls&amp;fp=chrome&amp;sni=bwdraper.faculty.ucdavis.edu#%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%E3%80%8F%7C%20%20@Vmessprotocol
-ss://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.171:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=late-tooth.granzinhannah.workers.dev&amp;type=ws#%F0%9F%94%92++%F0%9F%87%B8%F0%9F%87%AC+SG-%40V2RAYPROTOCOL
-ss://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram.%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;type=ws&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#%F0%9F%94%92+V2rayProtocol+%F0%9F%87%A8%F0%9F%87%AD+CH
 ss://1b4465e9-24d4-46d0-867e-b5621c4d635f@198.244.147.21:31251?security=none&amp;encryption=none&amp;host=khabarfarsi.com&amp;headerType=http&amp;type=tcp#%F0%9F%94%92+%40VmessProtocol+%F0%9F%87%AC%F0%9F%87%A7
 ss://468d811a-8540-4517-9779-0f542b5150d2@104.21.59.145:443?path=%2Fje0xBlZdnSJJ7NFf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=ppAl03.LucieN-isAaK.wOrkers.dev&amp;fp=randomized&amp;type=ws&amp;sni=PPal03.luCIEN-isAak.WOrkeRS.dEV#%F0%9F%94%92+%40VmessProtocol
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.7.36:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=lj.ylks.us.kg&amp;type=ws&amp;sni=lj.ylks.us.kg#%F0%9F%94%92+%40VmessProtocol
@@ -1590,6 +1588,10 @@ ss://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.197.174:1623?security=reality&
 ss://7e6c5fae-62fe-4ed0-a4b2-64d4170c556b@188.245.197.174:1622?security=reality&amp;encryption=none&amp;pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;sid=3a622700e73c6642#%F0%9F%94%92+VL-TCP-RLT+%F0%9F%87%A9%F0%9F%87%AA+DE-%40VmessProtocol
 ss://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.197.174:1617?security=reality&amp;encryption=none&amp;pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=wwww.refersion.com&amp;sid=3a622700e73c6642#%F0%9F%94%92+-RLT+%F0%9F%87%A9%F0%9F%87%AA+DE-%40VmessProtocol
 ss://661ea549-3367-4c37-b307-253cfe8d2ee6@129.146.128.183:18443?security=reality&amp;encryption=none&amp;pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=www.tesla.com&amp;sid=e6658462#%F0%9F%94%92+VL-TCP-RLT+%F0%9F%87%BA%F0%9F%87%B8+US-%40VmessProtocol
+ss://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.213:2052?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=late-tooth.granzinhannah.workers.dev&amp;type=ws#%F0%9F%94%92+%40VmessProtocol+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.148:443?path=%2FeEhGG7CNQ2HTbmMU%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=little-fog-5666.netmousavi.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=lITtlE-FOg-5666.NEtMoUSaVi.WorKErS.Dev#%F0%9F%94%92+%40VmessProtocol+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+ss://50b7fc84-85b4-4043-b1f7-6477c9017a44@108.162.195.159:443?path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=purlitefastest.pages.dev&amp;type=ws&amp;sni=purlitefastest.pages.dev#%F0%9F%94%92+%40VmessProtocol+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+ss://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.213:2052?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&amp;security=none&amp;enc…
 
 ss://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#%40Easy_Free_VPN
 ss://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&amp;security=none&amp;path=%2F#EasyFreeVPN
@@ -1856,6 +1858,7 @@ ss://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&
 ss://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=gisheh7.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#
 ss://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
+ss://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=gisheh7.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#
 
 ss://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 ss://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
@@ -1966,8 +1969,6 @@ trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&amp
 trojan://bpb-trojan@172.64.153.235:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;type=ws&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV#%40vmess_vless_v2rayng
 trojan://auto@172.66.44.131:443?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
 trojan://auto@104.18.12.229:2053?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
-trojan://telegram-id-privatevpns@35.179.1.58:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
-trojan://telegram-id-privatevpns@63.35.245.241:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 trojan://telegram-id-privatevpns@99.81.119.28:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.50.29.76:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.51.214.189:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
@@ -1986,6 +1987,8 @@ trojan://telegram-id-privatevpns@63.176.7.250:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@35.181.202.187:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@52.47.136.76:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@51.24.27.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@51.24.40.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@52.213.156.96:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 
