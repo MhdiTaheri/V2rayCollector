@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Nov-2024 12:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Nov-2024 13:45
 vless://f20f66d6-fb65-4d19-9b71-381426933445@ru.nimcllub-net26.site:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.nimcllub-net26.site#Russian
 
 
@@ -741,7 +741,6 @@ vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fe
 
 
 
-vless://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://Joining--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.express&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2052&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://Join--ZEDMODEON@connectcarolina.sites.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapptrip.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=connectcarolina.sites.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://tell--ZEDMODEON@live.skornorth.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=okala.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&amp;sni=live.skornorth.com&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
@@ -798,6 +797,9 @@ vless://af48cafa-d65a-4023-91f2-b3da04e0aaad@104.17.234.128:443?path=/Telegram,V
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za#
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.18.165.38:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&amp;fp=randomized&amp;type=ws&amp;sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#
+vless://5cf043d9-f752-4c05-be56-1570ade52ac6@104.18.165.38:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#
+vless://5cf043d9-f752-4c05-be56-1570ade52ac6@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&amp;fp=randomized&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#
+vless://5cf043d9-f752-4c05-be56-1570ade52ac6@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#
 vless://5cf043d9-f752-4c05-be56-1570ade52ac6@104.18.165.38:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#
 vless://5cf043d9-f752-4c05-be56-1570ade52ac6@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&amp;fp=randomized&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#
 
@@ -1385,6 +1387,7 @@ ss://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=non
 ss://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc76.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
 ss://e98933a5-b3b6-4e77-8671-d1828c9d368a@[2a01:4f8:c013:7538::1]:55738?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://81a2627d-01c6-48d9-ad96-1d3b79c6a955@[2a01:4f8:c17:650c::1]:39219?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+ss://chacha20-ietf-poly1305%3ABog0ELmMM9DSxDdQ@157.175.3.7:443#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FXhjgE8gj0V6whv3N%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-WORKeR-pANel-Bcr.pAGES.Dev#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.2:443?path=%2F9yNikZudtYoJdO4E%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BpB-WORKER-PanEL-bcr.paGEs.dev#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FtvXfHqmZZxEe9SgL%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bPb-wOrKeR-pANeL-bcr.PaGES.Dev#configkade%F0%9F%91%89%40proxystore11
@@ -1901,7 +1904,6 @@ ss://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3
 
 
 
-ss://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://Joining--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.express&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2052&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://Join--ZEDMODEON@connectcarolina.sites.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapptrip.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=connectcarolina.sites.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://tell--ZEDMODEON@live.skornorth.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=okala.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&amp;sni=live.skornorth.com&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
@@ -1959,6 +1961,9 @@ ss://af48cafa-d65a-4023-91f2-b3da04e0aaad@104.17.234.128:443?path=/Telegram,VPNC
 ss://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za#
 ss://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.18.165.38:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#
 ss://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&amp;fp=randomized&amp;type=ws&amp;sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#
+ss://5cf043d9-f752-4c05-be56-1570ade52ac6@104.18.165.38:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#
+ss://5cf043d9-f752-4c05-be56-1570ade52ac6@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&amp;fp=randomized&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#
+ss://5cf043d9-f752-4c05-be56-1570ade52ac6@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#
 ss://5cf043d9-f752-4c05-be56-1570ade52ac6@104.18.165.38:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#
 ss://5cf043d9-f752-4c05-be56-1570ade52ac6@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&amp;fp=randomized&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#
 
@@ -2024,8 +2029,6 @@ trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&amp
 trojan://bpb-trojan@172.64.153.235:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;type=ws&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV#%40vmess_vless_v2rayng
 trojan://auto@172.66.44.131:443?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
 trojan://auto@104.18.12.229:2053?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40vmess_vless_v2rayng
-trojan://telegram-id-privatevpns@63.176.7.250:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@35.181.202.187:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@52.47.136.76:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@51.24.27.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@51.24.40.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
@@ -2044,6 +2047,8 @@ trojan://telegram-id-privatevpns@54.195.84.98:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@13.51.140.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@51.21.141.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@63.176.225.69:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@63.176.127.189:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@15.188.189.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 
 
 
