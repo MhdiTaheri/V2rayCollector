@@ -1,5 +1,6 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Nov-2024 21:49
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-18-Nov-2024 22:41
 vless://f20f66d6-fb65-4d19-9b71-381426933445@ru.nimcllub-net26.site:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.nimcllub-net26.site#Russian
+vless://fdbab4b5-0230-45f8-b40f-9c2708110252@de.musicbaaz.ir:49685?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-19-nov
 
 
 
@@ -818,7 +819,8 @@ vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&amp;s
 vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&amp;sni=Noshteri.hooplnqpb.ir&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;path=/?ed%3D2048&amp;host=Noshteri.hooplnqpb.ir&amp;encryption=none#Awlix_ir
 vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&amp;sni=ARCane-ROYAL.Pages.DEV&amp;alpn=http/1.1&amp;type=ws&amp;path=/&amp;host=ARCane-ROYAL.Pages.DEV&amp;encryption=none#Awlix_ir
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443?security=tls&amp;sni=mefa.ir&amp;alpn=h2,http/1.1&amp;allowInsecure=1&amp;fp=randomized&amp;type=ws&amp;path=/H?ed%3D2560&amp;host=mefa.ir&amp;encryption=none#Awlix_ir
-
+vless://7c16288e-c1f1-439a-8648-bd4d3d1f7be4@191.96.94.206:2096?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM%2C%40TeL4GraM#%40V2rayNGVPN
+vless://67f11d31-9957-4058-e35c-fe91ca038dca@104.21.44.116:8080?path=%2FTELEGRAM-%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=shOp.GkalAbar.Ir.&amp;type=ws#%40V2rayNGVPN
 
 vless://446cf1db-74f9-4f26-91ad-3acb9fc2beb0@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@configforVPN&amp;sni=greenpepper.ir&amp;sid=614214c8#%40ConfigforVPN
 vless://a63caad0-3d94-4fa7-956d-439524c6cdf5@cloud.configforvpn.fun:2096?path=%2Fmm&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
