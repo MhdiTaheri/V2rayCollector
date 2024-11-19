@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-19-Nov-2024 14:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-19-Nov-2024 15:56
 
 
 
@@ -20,8 +20,6 @@ trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&amp
 
 
 
-trojan://telegram-id-privatevpns@52.56.65.201:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
-trojan://telegram-id-privatevpns@18.202.153.239:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 trojan://telegram-id-privatevpns@34.253.96.3:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.51.138.135:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.50.229.219:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
@@ -40,6 +38,8 @@ trojan://telegram-id-privatevpns@3.78.81.124:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@15.237.102.69:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@35.181.125.244:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@52.56.101.96:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@35.179.241.199:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@34.240.231.167:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 
@@ -111,10 +111,7 @@ trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&amp;alpn=http
 
 
 
-trojan://auto@162.159.128.233:8443?path=%2FTelegram-proxy_mtm%2F%3Fed%3D2048&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%F0%9F%97%BFConfigV2RayNG
-trojan://auto@104.20.21.78:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&amp;security=tls&amp;host=b96ef9ae.trojanfree-76s.pages.dev&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%97%BFConfigV2RayNG
-trojan://auto@104.25.254.4:2087?path=%2Ftrojanfree-76s.pages.dev&amp;security=tls&amp;host=trojanfree-76s.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=trojanfree-76s.pages.dev#%F0%9F%97%BFConfigV2RayNG
-trojan://ComYEI7fQv@51.68.215.55:2087?path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&amp;security=tls&amp;alpn=http%2F1.1&amp;host=uk-04.allhubb.info&amp;fp=chrome&amp;type=ws&amp;sni=uk-04.allhubb.info#%F0%9F%97%BFConfigV2RayNG
+
 
 
 
