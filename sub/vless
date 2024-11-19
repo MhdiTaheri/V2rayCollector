@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-19-Nov-2024 18:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-19-Nov-2024 19:47
 vless://f20f66d6-fb65-4d19-9b71-381426933445@ru.nimcllub-net26.site:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.nimcllub-net26.site#Russian
 vless://fdbab4b5-0230-45f8-b40f-9c2708110252@de.musicbaaz.ir:49685?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-19-nov
 
@@ -315,7 +315,6 @@ vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@speedtest.net:80?host=JoinBede-ELiV2ray.ai&amp;type=ws#
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
-vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@lc71.lebasnoo.ir:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc71.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2  vless://9c92dd71-acac…
 vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@lc71.lebasnoo.ir:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc71.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://9c92dd71-acac-422b-b23e-e764f8cba0de@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc72.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:c79::1]:10011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
@@ -348,6 +347,7 @@ vless://95e61e3a-e02b-46b8-845c-2c452aece039@185.146.173.58:8080?path=%2Fservern
 vless://b434211b-45aa-4b11-a142-77e4fb08d772@185.146.173.58:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=lc76.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
 vless://ed086428-528e-4376-a125-8aa9c7a2710b@[2a01:4f8:c013:7538::1]:55738?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://68ac5200-7fe0-4338-8201-6f18a451e905@[2a01:4f8:c17:650c::1]:39219?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+vless://95e61e3a-e02b-46b8-845c-2c452aece039@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc77.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2  vless://b434211b-45aa-4b11…
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FXhjgE8gj0V6whv3N%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-WORKeR-pANel-Bcr.pAGES.Dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.2:443?path=%2F9yNikZudtYoJdO4E%2FdGltZS5pcw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BpB-WORKER-PanEL-bcr.paGEs.dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FtvXfHqmZZxEe9SgL%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bPb-wOrKeR-pANeL-bcr.PaGES.Dev#configkade%F0%9F%91%89%40proxystore11
@@ -509,10 +509,6 @@ vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
-vless://1b4465e9-24d4-46d0-867e-b5621c4d635f@198.244.147.21:31251?security=none&amp;encryption=none&amp;host=khabarfarsi.com&amp;headerType=http&amp;type=tcp#%F0%9F%94%92+%40VmessProtocol+%F0%9F%87%AC%F0%9F%87%A7
-vless://468d811a-8540-4517-9779-0f542b5150d2@104.21.59.145:443?path=%2Fje0xBlZdnSJJ7NFf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=ppAl03.LucieN-isAaK.wOrkers.dev&amp;fp=randomized&amp;type=ws&amp;sni=PPal03.luCIEN-isAak.WOrkeRS.dEV#%F0%9F%94%92+%40VmessProtocol
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.7.36:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=lj.ylks.us.kg&amp;type=ws&amp;sni=lj.ylks.us.kg#%F0%9F%94%92+%40VmessProtocol
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.193.71:443?path=%2Fis6f6vJQr5DFH2J5%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=pPAL03.bRAEDeN-bODE.wOrKErs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=ppal03.brAedEN-boDE.WoRkERs.deV#%F0%9F%94%92+%40VmessProtocol
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=1v2.diginoshops10.ir#%F0%9F%94%92%40VmessProtocol%E2%AD%95%EF%B8%8F+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://f2dc17f5-3113-4a40-8c51-55fe0e2c7f75@104.25.182.54:443?path=%2F4ztBxup4VkbcJFlQ%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=PUrcOWFAst.pAGeS.dEv&amp;fp=randomized&amp;type=ws&amp;sni=purCOwfaSt.PAgES.DEv#%F0%9F%94%92%40VmessProtocol%E2%AD%95%EF%B8%8F+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://e1272d7a-507d-4b39-bd7d-453f7c194214@104.26.6.119:443?path=%2FVLESS%2Fuk-full.privateip.net&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=yelan.lastronin.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=yelubdu0vdouvdan.lastronin.cloudns.org#%F0%9F%94%92%40VmessProtocol%E2%AD%95%EF%B8%8F+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
@@ -535,6 +531,8 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.213:2052?path=%2F%40AZAR
 vless://e4e4aafa-c1c6-45a6-9044-e83b2eb3c073@104.17.148.22:2082?path=%2FFarsRoid.COM.FtP.debIan.orG.wordpress.orG%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=panel2.SEYYEDmtmodidandansax.bloG.&amp;type=httpupgrade#%F0%9F%93%A1+%40VmessProtocol+%E2%AD%95%EF%B8%8F
 vless://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?path=%2F4cbba020.mobilesignal.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=4cbba020.fastpurnet3.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=4cbba020.fastpurnet3.pages.dev#%F0%9F%93%A1+%40VmessProtocol+%E2%AD%95%EF%B8%8F
 vless://e4e4aafa-c1c6-45a6-9044-e83b2eb3c073@104.17.148.22:2082?path=%2FFarsRoid.COM.FtP.debIan.orG.wordpress.orG%3Fed%3D1024&amp;security=none&amp;encryp…
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mahdiv2.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=mahdiv2.pages.dev#%40VmessProtocol+%F0%9F%9B%B8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.146.51:443?path=%2Fmmac8pItU74FCW7s%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Ppal03.dIxie-LEDNEr-SR.wOrkeRs.dev&amp;fp=randomized&amp;type=ws&amp;sni=pPAL03.DIxie-ledNEr-SR.WORKERS.DeV#%40VmessProtocol+%F0%9F%9B%B8
 
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&amp;encryption=none&amp;pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.speedtest.net#%40Easy_Free_VPN
 vless://9285ccc5-fe57-4c84-9291-17e7050e0c4c@free.sabettrade.shop:46748?type=ws&amp;security=none&amp;path=%2F#EasyFreeVPN
