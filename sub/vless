@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-23-Nov-2024 17:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-23-Nov-2024 18:42
 vless://ce4ed91b-9e91-4ac9-aa77-802cc48e5bb2@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-20-nov
 vless://9f70018f-a963-4cc0-a98c-7992683312a5@datasets.new:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=vu.ir&amp;fp=firefox&amp;type=ws&amp;sni=datasets.new#fastly12-cedeknow
 
@@ -316,10 +316,6 @@ vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;a
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@speedtest.net:80?host=JoinBede-ELiV2ray.ai&amp;type=ws#
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
 vless://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#
-vless://e202f6e5-7bf2-4ec8-9c6e-582c3fe80c33@185.146.173.58:39080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc74.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
-vless://818442ff-0214-435f-9b40-10d6ab7d4f4d@185.146.173.58:23495?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc73.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:50281?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:650c::1]:49982?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://e202f6e5-7bf2-4ec8-9c6e-582c3fe80c33@185.146.173.58:39080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc74.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1  vless://818442ff-0214…
 vless://ab8a989e-ccce-4e0d-9aa7-8ae87928858c@185.146.173.58:80?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc74.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://b69b17b9-4074-4316-9d80-103433d6bfe4@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc73.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
@@ -352,6 +348,11 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c17:650c::1]:46044?security=none&amp;encry
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:7538::1]:44635?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://1a97f78b-aaec-4ca4-9c97-16b0d7e631d6@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc81.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1  vless://26757718-95ee-406d…
 vless://1a97f78b-aaec-4ca4-9c97-16b0d7e631d6@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc81.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1  vless://26757718-95ee-406d…
+vless://1a97f78b-aaec-4ca4-9c97-16b0d7e631d6@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc81.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1  vless://26757718-95ee-406d…
+vless://86cb8be9-3e73-404e-b8c0-d3b0ee180c0a@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc80.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2
+vless://5e5ed4b8-f4d1-4d65-af54-b90dafd3f31b@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc81.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:650c::1]:46044?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
+vless://TELEGRAM-ServerNett@[2a01:4f8:c013:7538::1]:44635?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FR1f5GLtyM8Ep9zAi%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-wORKer-PANel-BcR.PaGES.dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrDPuR1EwhR8hX%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BPb-worKer-pANEL-BcR.paGES.DEv#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.js:443?path=%2FRHxQDpvcfA8JxbcI%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=Bpb-WORkeR-PaNEL-BCr.paGeS.Dev#configkade%F0%9F%91%89%40proxystore11
