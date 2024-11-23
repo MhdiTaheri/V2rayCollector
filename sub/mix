@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-23-Nov-2024 07:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-23-Nov-2024 08:43
 vless://fdbab4b5-0230-45f8-b40f-9c2708110252@de.musicbaaz.ir:49685?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-19-nov
 vless://ce4ed91b-9e91-4ac9-aa77-802cc48e5bb2@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-20-nov
 
@@ -315,6 +315,7 @@ vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@speedtest.net:80?host=JoinBede-ELiV2ray.ai&amp;type=ws#
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
+vless://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#
 vless://e202f6e5-7bf2-4ec8-9c6e-582c3fe80c33@185.146.173.58:39080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc74.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://818442ff-0214-435f-9b40-10d6ab7d4f4d@185.146.173.58:23495?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc73.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:50281?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
@@ -1318,6 +1319,7 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%
 ss://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
 ss://b2e07c41-c240-5bf3-b904-dc40852c780e@speedtest.net:80?host=JoinBede-ELiV2ray.ai&amp;type=ws#
 ss://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
+ss://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#
 ss://e202f6e5-7bf2-4ec8-9c6e-582c3fe80c33@185.146.173.58:39080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc74.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
 ss://818442ff-0214-435f-9b40-10d6ab7d4f4d@185.146.173.58:23495?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc73.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:50281?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
