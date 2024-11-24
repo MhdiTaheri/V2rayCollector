@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-24-Nov-2024 15:55
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-24-Nov-2024 16:50
 vless://ce4ed91b-9e91-4ac9-aa77-802cc48e5bb2@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-20-nov
 vless://9f70018f-a963-4cc0-a98c-7992683312a5@datasets.new:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=vu.ir&amp;fp=firefox&amp;type=ws&amp;sni=datasets.new#fastly12-cedeknow
 
@@ -312,7 +312,6 @@ vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:80?security=none
 vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitTNeW.NeT#telegram 
 
 
-vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
 vless://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#
 vless://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#
 vless://83c6f82f-e619-53c5-950a-908532a2a64f@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=elena-eliv2ray.co&amp;fp=qq&amp;type=ws&amp;sni=ELena-Eliv2RaY.co#
@@ -353,7 +352,6 @@ vless://86cb8be9-3e73-404e-b8c0-d3b0ee180c0a@185.146.173.58:8080?path=%2Fservern
 vless://5e5ed4b8-f4d1-4d65-af54-b90dafd3f31b@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc81.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:650c::1]:46044?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:7538::1]:44635?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FR1f5GLtyM8Ep9zAi%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-wORKer-PANel-BcR.PaGES.dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrDPuR1EwhR8hX%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BPb-worKer-pANEL-BcR.paGES.DEv#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.js:443?path=%2FRHxQDpvcfA8JxbcI%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=Bpb-WORkeR-PaNEL-BCr.paGeS.Dev#configkade%F0%9F%91%89%40proxystore11
 
@@ -381,6 +379,7 @@ vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram
 vless://fa7fdad1-6207-4687-a91a-8f33ac6607ef@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3arazekar.net&amp;type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 vless://8442cec0-51b9-4b7a-9d72-ae8a1621314a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl5.ir&amp;type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 vless://f1597f6e-e6ab-42f5-a153-7b958522358a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3arazekar.net&amp;type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
+vless://6d497885-c02c-4af3-99dd-8668bbd462a9@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl5.ir&amp;type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 
 
 vless://3fecfaf1-02c1-436d-83b2-d43ddd82fd59@ergwork.web.unc.edu:443?path=%2Ftelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sobip.ir&amp;type=ws&amp;sni=ergwork.web.unc.edu#%D8%B3%D8%A8%D8%AD%D8%A7%D9%86--Germany+vip+%F0%9F%87%A9%F0%9F%87%AA+Telgram%3A+%40Sobi_vpn
@@ -745,6 +744,8 @@ vless://295e1a39-2330-4974-b0e6-13e090de9310@151.101.2.216:80?path=%2Ftelegram-N
 vless://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dachibodoberim.net&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws6
 vless://817e6b23-9d4a-4436-af70-b19620377020@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3araekar.net&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws9
 vless://8442cec0-51b9-4b7a-9d72-ae8a1621314a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl5.ir&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws10
+vless://6d497885-c02c-4af3-99dd-8668bbd462a9@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl5.ir&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws3
+vless://cbf90e43-a743-433c-9658-9266addebab3@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl4.ir&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws4
 
 
 vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=justFreedomByIMAN.com&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#Freedom
@@ -1379,7 +1380,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS52YXJ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_4
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
 
-ss://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&amp;allowInsecure=1&amp;host=joinbede-eliv2ray.ai&amp;fp=randomized&amp;type=ws&amp;sni=JOinBede-ELiv2RaY.Ai#
 ss://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#
 ss://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#
 ss://83c6f82f-e619-53c5-950a-908532a2a64f@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=elena-eliv2ray.co&amp;fp=qq&amp;type=ws&amp;sni=ELena-Eliv2RaY.co#
@@ -1420,7 +1420,6 @@ ss://86cb8be9-3e73-404e-b8c0-d3b0ee180c0a@185.146.173.58:8080?path=%2Fservernett
 ss://5e5ed4b8-f4d1-4d65-af54-b90dafd3f31b@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc81.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
 ss://TELEGRAM-ServerNett@[2a01:4f8:c17:650c::1]:46044?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 ss://TELEGRAM-ServerNett@[2a01:4f8:c013:7538::1]:44635?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FR1f5GLtyM8Ep9zAi%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-wORKer-PANel-BcR.PaGES.dev#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrDPuR1EwhR8hX%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BPb-worKer-pANEL-BcR.paGES.DEv#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@time.js:443?path=%2FRHxQDpvcfA8JxbcI%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel-bcr.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=Bpb-WORkeR-PaNEL-BCr.paGeS.Dev#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3AW74XFALLLuw6m5IA@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
@@ -1435,6 +1434,7 @@ ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.192:8080#configka
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.192:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#configkade%F0%9F%91%89%40proxystore11  @proxystore11  ری‌اکشن‌فراموش‌نشه
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -1462,6 +1462,7 @@ ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NU
 ss://fa7fdad1-6207-4687-a91a-8f33ac6607ef@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3arazekar.net&amp;type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 ss://8442cec0-51b9-4b7a-9d72-ae8a1621314a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl5.ir&amp;type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 ss://f1597f6e-e6ab-42f5-a153-7b958522358a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3arazekar.net&amp;type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
+ss://6d497885-c02c-4af3-99dd-8668bbd462a9@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl5.ir&amp;type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 
 
 ss://3fecfaf1-02c1-436d-83b2-d43ddd82fd59@ergwork.web.unc.edu:443?path=%2Ftelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sobip.ir&amp;type=ws&amp;sni=ergwork.web.unc.edu#%D8%B3%D8%A8%D8%AD%D8%A7%D9%86--Germany+vip+%F0%9F%87%A9%F0%9F%87%AA+Telgram%3A+%40Sobi_vpn
@@ -1968,6 +1969,8 @@ ss://295e1a39-2330-4974-b0e6-13e090de9310@151.101.2.216:80?path=%2Ftelegram-NUFi
 ss://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dachibodoberim.net&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws6
 ss://817e6b23-9d4a-4436-af70-b19620377020@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3araekar.net&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws9
 ss://8442cec0-51b9-4b7a-9d72-ae8a1621314a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl5.ir&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws10
+ss://6d497885-c02c-4af3-99dd-8668bbd462a9@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl5.ir&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws3
+ss://cbf90e43-a743-433c-9658-9266addebab3@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl4.ir&amp;type=ws#%40Vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws4
 
 
 ss://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=justFreedomByIMAN.com&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#Freedom
@@ -2111,8 +2114,6 @@ trojan://bpb-trojan@104.17.102.149:2053?path=%2FtrlBYH5QQYGYnWgP5T%3Fed%3D2560&a
 
 
 
-trojan://telegram-id-privatevpns@63.35.99.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
-trojan://telegram-id-privatevpns@13.61.102.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@16.170.67.252:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@63.176.182.62:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@3.125.56.135:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
@@ -2131,6 +2132,8 @@ trojan://telegram-id-privatevpns@13.37.166.62:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@13.42.222.182:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.176.69.2:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@176.34.189.35:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
+trojan://telegram-id-privatevpns@52.30.54.77:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
+trojan://telegram-id-privatevpns@13.48.188.137:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 
 
 
