@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-27-Nov-2024 00:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-27-Nov-2024 01:43
 vless://9f70018f-a963-4cc0-a98c-7992683312a5@datasets.new:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=vu.ir&amp;fp=firefox&amp;type=ws&amp;sni=datasets.new#fastly12-cedeknow
 vless://10588874-19e4-452f-81b0-0aa65eefc8bf@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-25-nov
 vless://e075a587-febe-4a99-b952-ae511a177513@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-26-nov
@@ -926,7 +926,8 @@ vmess://eyJwcyI6IueUteaKpemikemBkyBodHRwczovLzE4MDguZnJlZS5ocl9DTl83MCIsImFkZCI6
 
 
 
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
 
 
 
@@ -1730,8 +1731,11 @@ ss://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;
 
 
 
-
-
+ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
+ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#%F0%9F%92%9C%20%40PewezaVPN%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ@portal.blueyenia.org:40087#%F0%9F%92%9C%20%40PewezaVPN%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN05Eb1Z6M01lcGtXZVp6NGVzNlQxWHN1SEJ5akIybTRDVUJZZVdpZzZ3anhxejVBeVpaVUF0SDd4UEtEY2I4QVllSzNnYzlBUzRCTjRwTWJQRTZGTGVISDdTaWRCVjE@mx2.drawnrisha.one:55988#%F0%9F%92%9C%20%40PewezaVPN%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 
 
 
@@ -2084,7 +2088,14 @@ trojan://xjN4xcuPGg@a.522226.xyz:45101?security=tls&amp;headerType=none&amp;type
 
 
 
-
+trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S916)
+trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S970)
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S969)
+trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S856)
+trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S259)
+trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S460)
+trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 
 
 
