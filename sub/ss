@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-27-Nov-2024 04:36
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-27-Nov-2024 06:27
 ss://9f70018f-a963-4cc0-a98c-7992683312a5@datasets.new:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=vu.ir&amp;fp=firefox&amp;type=ws&amp;sni=datasets.new#fastly12-cedeknow
 ss://10588874-19e4-452f-81b0-0aa65eefc8bf@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-25-nov
 ss://e075a587-febe-4a99-b952-ae511a177513@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-26-nov
@@ -677,12 +677,6 @@ ss://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhYzAyNzM
 ss://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzMmFhM2JjZC1iZjE5LTQ3NjYtZmRmZS1hNTUyOTQ3NGE5NDUiLCJuZXQiOiJrY3AiLCJwYXRoIjoiUDZwNXNwSG1xcSIsInBvcnQiOiIyNTM5NiIsInBzIjoiQHYycmF5X2Zvcl9mcmVlICwga2NwIPCfjLkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1nY206WUI5bVU4dzZVRg==@45.131.248.228:13093#@v2ray_for_free+%2C+ss+%F0%9F%8C%B9
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.130:443#United+States+Datacamp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc%3D@205.134.180.139:443#United+States+AIN
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#United+Kingdom+M247
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZFdaOVF2RmxiT09HcmVNb0UzQnE4@159.65.129.128:18814#Singapore+Digital+Ocean
-ss://eyJhZGQiOiI1LjM0LjE3Ni4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGU1NWNlNDAtOWY4ZS00MTdkLWY4YWUtYWE2YWY5N2E3MDk3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NzYxNCIsInBzIjoiU2luZ2Fwb3JlIEdyZWVuIEZsb2lkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://021a2e9a-b280-477f-b72f-96d8a01ebd02@165.232.166.238:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.zoom.us#Singapore+Digital+Ocean
 ss://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.13:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=juzibaipiao.5112233.xyz&amp;type=ws&amp;sni=juzibaipiao.5112233.xyz#Cloudflare+Relayed
 ss://YWVzLTI1Ni1nY206UEpwbzRQV3hzTC9xYVZsUWVPczBOeUdSWDhhNkd6SVMySjl4Z0dpKzF2TT0%3D@128.199.245.230:8443#Singapore+Digital+Ocean
 ss://eyJhZGQiOiIxNDMuOTIuNDIuNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjY0MGMxMDc3LWQxMGItNDIyNS1hOWZiLWQzZTljM2NlN2EwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI5MDIiLCJwcyI6IlNpbmdhcG9yZSBDVEciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -691,6 +685,12 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.243:443#United+States+Datacamp
 ss://eyJhZGQiOiIxNzIuNjcuMTU2LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2x3ZWlkZi5zYnMiLCJpZCI6Ijc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVbml0ZWQgU3RhdGVzIEFrYW1haSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc%3D@205.134.180.139:443#United+States+AIN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada+Cogent
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko%3D@159.65.149.72:51348#India%20Digital%20Ocean
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbUZsTURKaA%3D%3D@95.164.4.238:8388#Brazil%20Stark
+ss://eyJhZGQiOiJiZXlvbmRkc3ouY2ZkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZXlvbmRkc3ouY2ZkIiwiaWQiOiI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiRnJhbmNlIEZyZWVsYiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+ss://eyJhZGQiOiIxMDMuMTU5LjIwNi4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMmU1MTFiMC03ZGVmLTRlMWItZDIzOC02Y2I1MzkxYjJlM2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjMxOTQ1IiwicHMiOiJUYWl3YW4gRW1hZ2luZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.105:443#United%20States%20GTHost
 ss://Zm5yAXVkqm/JrbooPTATAHElZufFb7s9kuvT6hu7SVYuH0cy/6A7PMI1Q4yX/UaU4s9gFw5DIvbMYrr17QAPX/h7Zqnr8OOr5PP4KU1d8QUClZtalmLOdv2JTRDGSuH4nXsNerez0wN05T652imT23yLIHQ/zb3aHnKO+GOZSYMohxl4K6ImwZXTj/LQ3JVCZL/bJiio4AEtTorj2pgCVcF3THhw2Cc+Ly6srWePUdTUbGOngsli0n/G44nhu6BLdgBH6tCDXjH6TqhL31lkCeV1ImJCOVvs9GZ8Jl9HjjEpXeXrTM18HXxVcXMNNA4E
 ss://12ef8934-8a18-49de-a2de-dafc1d79e6c4@speedtest.net:443?path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snapp.com&amp;type=ws&amp;sni=speedtest.net#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?path=%2FtmlO9TqxlsNgBI70%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=6b700e9b.bpb-worker-panel-9r9.pages.dev&amp;type=ws&amp;sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
@@ -890,7 +890,6 @@ ss://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@speedtest.net:443?path=%2Fws%40%3Fed%3
 
 
 
-ss://Join--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=gisheh7.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://tell--ZEDMODEON@mylisecharmel.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=gamefa.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=mylisecharmel.com&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 ss://tell--ZEDMODEON@live.skornorth.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=mahex.com&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&amp;sni=live.skornorth.com&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
