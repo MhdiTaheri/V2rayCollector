@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-27-Nov-2024 19:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-27-Nov-2024 20:43
 vless://9f70018f-a963-4cc0-a98c-7992683312a5@datasets.new:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=vu.ir&amp;fp=firefox&amp;type=ws&amp;sni=datasets.new#fastly12-cedeknow
 vless://10588874-19e4-452f-81b0-0aa65eefc8bf@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-25-nov
 vless://e075a587-febe-4a99-b952-ae511a177513@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-26-nov
@@ -316,7 +316,6 @@ vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:80?security=none
 vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitTNeW.NeT#telegram 
 
 
-vless://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&amp;allowInsecure=1&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#
 vless://83c6f82f-e619-53c5-950a-908532a2a64f@199.232.7.29:443?security=tls&amp;allowInsecure=1&amp;host=elena-eliv2ray.co&amp;fp=qq&amp;type=ws&amp;sni=ELena-Eliv2RaY.co#
 vless://fe2f9fd4-7ef5-4235-88c3-85f1f90a868f@199.232.7.29:443?path=%2FVLESS&amp;security=tls&amp;allowInsecure=1&amp;encryption=none&amp;host=eliv2-elena.ir&amp;fp=qq&amp;type=ws&amp;sni=ELiv2-ELEnA.ir#S1+@ELiV2RAY
 vless://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc77.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2
@@ -351,6 +350,7 @@ vless://e5f0a1d3-a236-43b5-9b43-36265e73f1fe@185.146.173.58:8080?path=%2Fservern
 vless://9bb724c7-1435-4d91-a0f4-08c995e76762@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc82.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:38971?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
 vless://TELEGRAM-ServerNett@[2a01:4f9:c010:a8b3::1]:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+vless://e5f0a1d3-a236-43b5-9b43-36265e73f1fe@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc83.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2  vless://9bb724c7-1435-4d91…
 
 
 
@@ -834,7 +834,10 @@ vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fc
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
-
+vless://7ebe434e-1dcd-4dee-a739-23a2a6025755@199.232.5.153:443?path=%2FH%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=sums.ac.ir&amp;fp=randomized&amp;type=ws&amp;sni=sums.ac.ir#%F0%9F%92%B8%40inikotesla
+vless://7ebe434e-1dcd-4dee-a739-23a2a6025755@199.232.6.38:443?path=%2FH%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=sums.ac.ir&amp;fp=randomized&amp;type=ws&amp;sni=sums.ac.ir#%F0%9F%92%B8%40inikotesla
+vless://7ebe434e-1dcd-4dee-a739-23a2a6025755@[2a04:4e42:31ca:1b4b:c2f1:58:4227:a068]:443?path=%2FH%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=sums.ac.ir&amp;fp=randomized&amp;type=ws&amp;sni=sums.ac.ir#%F0%9F%92%B8%40inikotesla
+vless://7ebe434e-1dcd-4dee-a739-23a2a6025755@[2a04:4e42:37c0:616e:b214:30f8:3aa0:d0c3]:443?path=%2FH%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=sums.ac.ir&amp;fp=randomized&amp;type=ws&amp;sni=sums.ac.ir#%F0%9F%92%B8%40inikotesla
 
 
 
