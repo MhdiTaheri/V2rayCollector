@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-02-Dec-2024 13:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-02-Dec-2024 14:42
 
 
 
@@ -20,6 +20,7 @@ trojan://bpb-trojan@104.17.102.149:2053?path=%2FtrlBYH5QQYGYnWgP5T%3Fed%3D2560&a
 
 
 
+trojan://telegram-id-privatevpns@54.229.116.157:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.50.54.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.53.120.129:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@18.157.204.123:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
@@ -35,6 +36,8 @@ trojan://telegram-id-privatevpns@13.53.223.92:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@3.76.177.253:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@3.69.128.242:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@52.47.154.110:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
+trojan://telegram-id-privatevpns@13.39.213.79:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://telegram-id-privatevpns@3.10.10.23:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 
 
 
@@ -111,7 +114,6 @@ trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&amp;alpn=http
 
 
 
-trojan://VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VP…
 trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za#VPNCUSTOMIZE (ALL)
 trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.n…
 trojan://Channel-VPNCUSTOMIZE@104.17.234.12:443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za#VPNCUSTOMIZE (ALL)
