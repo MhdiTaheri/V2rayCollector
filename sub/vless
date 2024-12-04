@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-04-Dec-2024 22:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-04-Dec-2024 23:45
 vless://3e0a14f1-caf1-4cbb-a0fc-c9e7597fc19c@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-30-nov
 vless://8b08ddea-a401-412e-bbae-1d641cd1d32d@wiz.musicbaaz.ir:26352?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=wiz.musicbaaz.ir#Jet-Ca-airdrop-jadiid-03-dec
 
@@ -326,7 +326,6 @@ vless://5ab44197-b3dd-42d4-95da-61b5a9965b5e@hajlab.ucdavis.edu:443?security=tls
 
 
 
-vless://1a97f78b-aaec-4ca4-9c97-16b0d7e631d6@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc81.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1  vless://26757718-95ee-406d…
 vless://86cb8be9-3e73-404e-b8c0-d3b0ee180c0a@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc80.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+2
 vless://5e5ed4b8-f4d1-4d65-af54-b90dafd3f31b@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc81.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:650c::1]:46044?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
@@ -615,8 +614,6 @@ vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@pro.fontawesome.com:2083?path=%2FUo
 vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@fastmtn.akbari.top.akbaru.ir:2083?mode=gun&amp;security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=EMa87NDtZ_IsnOFKYZAGKz6288Fuu2IKep_dGbK0i…
 vless://f56e4463-f71a-4ab6-8074-534d2b1439c2@speedtest.net:80?path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=snapp.com&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
@@ -634,6 +631,8 @@ vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&a
 vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA…
 vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
 vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 
 
 
