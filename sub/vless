@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-07-Dec-2024 19:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-07-Dec-2024 20:41
 vless://3e0a14f1-caf1-4cbb-a0fc-c9e7597fc19c@de.musicbaaz.ir:49685/?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=de.musicbaaz.ir#jet-de-airdrop-jadiid-30-nov
 vless://8b08ddea-a401-412e-bbae-1d641cd1d32d@wiz.musicbaaz.ir:26352?type=tcp&amp;path=%2F&amp;host=tc.donya-e-eqtesad.com&amp;headerType=http&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=wiz.musicbaaz.ir#Jet-Ca-airdrop-jadiid-03-dec
 
@@ -286,6 +286,9 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2284::1]:54769?security=none&amp;encr
 vless://cea06199-e51d-4a53-b7c8-195b75ab3f1d@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc86.lebasnoo.ir.&amp;type=ws#%40SERVERNETT%20MTN%201  vless://c0403ace-a4c3…
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:685b::1]:58554?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20ALL%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2284::1]:41369?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20ALL%202
+vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2284::1]:41369?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20ALL%201
+vless://TELEGRAM-ServerNett@[2a01:4f8:c013:685b::1]:58554?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20ALL%202
+vless://TELEGRAM-ServerNett@[2a01:4f8:c012:cceb::1]:47001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20ALL%203
 
 
 
@@ -449,9 +452,8 @@ vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@154.211.8.12:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2087&amp;security=tls&amp;encryption=none&amp;host=nicorobin.eula.cloudns.org&amp;type=ws&amp;sni=nicorobin.eula.cloudns.org#%40V2rayNG3
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=sB-1u6.Pages.DEV&amp;type=ws&amp;sni=sB-1u6.Pages.DEV#%40V2rayNG3
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.204.84:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;host=download-93w.pages.dev&amp;type=ws&amp;sni=pages.dev#%40V2rayNG3
-vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=Falcunargo.net&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#%40V2rayNG3
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=uni.fi&amp;type=ws#%40V2rayNG3
-vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=aksnmaioas.pages.dev&amp;type=ws&amp;sni=aksnmaioas.pages.dev#%40V2rayNG3
+vless://dab8ab46-5071-4d95-ac9b-bb469d6599fc@128.140.35.236:50713?security=reality&amp;encryption=none&amp;pbk=03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=nobitex.ir&amp;sid=88417bc4#%40V2rayNG3
+vless://5b3bbba7-828a-4246-bb58-6c1b509383d6@128.140.35.236:30788?security=none&amp;encryption=none&amp;host=filimo.com&amp;headerType=http&amp;type=tcp#%40V2rayNG3
 
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
