@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-13-Dec-2024 08:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-13-Dec-2024 09:50
 vless://3bfa9b24-6e07-4587-a1cd-5a228acbf124@85.235.205.144:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=blog.cloudflare.com#%28%40networknim%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?path=%2Fyoulingkaishi&amp;security=tls&amp;encryption=none&amp;host=vbbb.ylks2024.us.kg&amp;type=ws&amp;sni=vbbb.ylks2024.us.kg#%28%40networknim%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
@@ -753,7 +753,6 @@ vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoibW9pLmlyIiwiaWQi
 vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhYzAyNzM2Mi1jOTg4LTQ2NzAtZjc4Zi0wMjFiNWJlNmY0ZTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjU5MTAyIiwicHMiOiJAdjJyYXlfZm9yX2ZyZWUgLCB3cyDwn4y5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzMmFhM2JjZC1iZjE5LTQ3NjYtZmRmZS1hNTUyOTQ3NGE5NDUiLCJuZXQiOiJrY3AiLCJwYXRoIjoiUDZwNXNwSG1xcSIsInBvcnQiOiIyNTM5NiIsInBzIjoiQHYycmF5X2Zvcl9mcmVlICwga2NwIPCfjLkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiIxNzIuNjcuMTU2LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2x3ZWlkZi5zYnMiLCJpZCI6Ijc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVbml0ZWQgU3RhdGVzIEFrYW1haSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJiZXlvbmRkc3ouY2ZkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZXlvbmRkc3ouY2ZkIiwiaWQiOiI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiRnJhbmNlIEZyZWVsYiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMDMuMTU5LjIwNi4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMmU1MTFiMC03ZGVmLTRlMWItZDIzOC02Y2I1MzkxYjJlM2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjMxOTQ1IiwicHMiOiJUYWl3YW4gRW1hZ2luZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
@@ -1410,8 +1409,6 @@ ss://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhYzAyNzM
 ss://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzMmFhM2JjZC1iZjE5LTQ3NjYtZmRmZS1hNTUyOTQ3NGE5NDUiLCJuZXQiOiJrY3AiLCJwYXRoIjoiUDZwNXNwSG1xcSIsInBvcnQiOiIyNTM5NiIsInBzIjoiQHYycmF5X2Zvcl9mcmVlICwga2NwIPCfjLkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1nY206WUI5bVU4dzZVRg==@45.131.248.228:13093#@v2ray_for_free+%2C+ss+%F0%9F%8C%B9
 
-ss://eyJhZGQiOiIxNzIuNjcuMTU2LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2x3ZWlkZi5zYnMiLCJpZCI6Ijc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVbml0ZWQgU3RhdGVzIEFrYW1haSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc%3D@205.134.180.139:443#United+States+AIN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada+Cogent
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko%3D@159.65.149.72:51348#India%20Digital%20Ocean
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbUZsTURKaA%3D%3D@95.164.4.238:8388#Brazil%20Stark
@@ -1428,6 +1425,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#United%20Kingdom%20Datacamp
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#United%20Kingdom%20M247
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTB0SjAyWFdwNUFzZGVNQmdzWlh4@54.251.126.150:443#Singapore+AWS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNFlvR0FqVFBCVko2UnYydlNLMW1r@3.27.194.148:443#Australia+AWS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTDJTbldxR2lXdVY4T3BXcUZaMHZK@52.195.175.184:443#Japan+AWS
 ss://Zm5yAXVkqm/JrbooPTATAHElZufFb7s9kuvT6hu7SVYuH0cy/6A7PMI1Q4yX/UaU4s9gFw5DIvbMYrr17QAPX/h7Zqnr8OOr5PP4KU1d8QUClZtalmLOdv2JTRDGSuH4nXsNerez0wN05T652imT23yLIHQ/zb3aHnKO+GOZSYMohxl4K6ImwZXTj/LQ3JVCZL/bJiio4AEtTorj2pgCVcF3THhw2Cc+Ly6srWePUdTUbGOngsli0n/G44nhu6BLdgBH6tCDXjH6TqhL31lkCeV1ImJCOVvs9GZ8Jl9HjjEpXeXrTM18HXxVcXMNNA4E
 ss://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@fastmtn.akbari.top.akbaru.ir:2083?mode=gun&amp;security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=EMa87NDtZ_IsnOFKYZAGKz6288Fuu2IKep_dGbK0i…
 ss://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@fastmtn.akbari.top.akbaru.ir:2083?mode=gun&amp;security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=EMa87NDtZ_IsnOFKYZAGKz6288Fuu2IKep_dGbK0iV4&amp;fp=chrome&amp;type=grpc&amp;serviceName=UoD8QOdaABE459lOQlsS&amp;sni=www.un.org&amp;sid=5263e31933d3451c#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree+MTN
