@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-20-Dec-2024 14:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-20-Dec-2024 15:54
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -317,7 +317,6 @@ vless://7ea66ed4-9508-437c-a1cd-5fc87d077a36@185.146.173.58:8080?path=%2F&amp;se
 vless://e1af982a-8fcd-4ba0-ba12-af880a127953@185.146.173.58:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cvvec.severnett.cfd.&amp;type=ws#%40SERVERNETT%20MTN%201
 vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
-vless://baeb79f7-b0b6-4b85-a876-c4b47f45d07b@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#configkade%F0%9F%91%89%40proxystore11  @proxystore11 
 vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#configkade%F0%9F%91%89%40proxystore11
 
 
@@ -565,7 +564,7 @@ vless://7874e36a-9345-48a3-9ba5-91e90936b77e@hajlab.ucdavis.edu:443?path=%2F@XvP
 vless://095d5a8e-1718-4016-9609-e37d7e953727@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-8wlu8qs0
 vless://47537de9-804f-4f29-8f7b-ac61052c006e@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-k1a5plp7
 
-
+vless://54eedbbb-b8cb-45ac-b89b-a39df0a52790@hajlab.ucdavis.edu:443?path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE%3Fed%3D2560&amp;allowInsecure=1&amp;security=tls&amp;host=JoinBede--VPNCUSTOMIZE.io&amp;fp=randomized&amp;type=ws&amp;sni=hajlab.ucdavis.edu#All-@VPNCUSTOMIZE
 
 vless://641e0e8f-9503-44f9-ba8c-6288fe409cb9@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehran2.Org&amp;type=ws#%40vpn_proxy_custom
 vless://d5e4bac0-3777-5c82-8482-0784f5a7f79c@fishlab.ucdavis.edu:443?path=%2Fvless%3Fed%3D443&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=speedtest.net.ftp.debian.org.1.2.3.a.s.z.rrrrrrr.net.speedtest.net.razxkl.ir&amp;fp=randomized&amp;type=ws&amp;sni=fishlab.ucdavis.edu#%F0%9F%87%B3%F0%9F%87%B4+%40vpn_proxy_custom
@@ -1192,11 +1191,11 @@ ss://7ea66ed4-9508-437c-a1cd-5fc87d077a36@185.146.173.58:8080?path=%2F&amp;secur
 ss://e1af982a-8fcd-4ba0-ba12-af880a127953@185.146.173.58:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cvvec.severnett.cfd.&amp;type=ws#%40SERVERNETT%20MTN%201
 ss://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 ss://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
-ss://baeb79f7-b0b6-4b85-a876-c4b47f45d07b@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#configkade%F0%9F%91%89%40proxystore11  @proxystore11 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://eyJhZGQiOiJkZTAxLnRpa3Rva2Nsb3VkLnVzLmtnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZTAxLnRpa3Rva2Nsb3VkLnVzLmtnIiwiaWQiOiJhNzZjMTMwMC02NWEyLTRlM2QtYTZjZC04OWNiOTAyNDE5ZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGUwMSIsInBvcnQiOiI0NDMiLCJwcyI6ImNvbmZpZ2thZGXwn5GJQHByb3h5c3RvcmUxMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJkZTAxLnRpa3Rva2Nsb3VkLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://156ffa16-9b2f-499b-aa5b-52d95c7a15de@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk%3D@45.158.59.74:58060#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 
 
@@ -1545,7 +1544,7 @@ ss://7874e36a-9345-48a3-9ba5-91e90936b77e@hajlab.ucdavis.edu:443?path=%2F@XvProx
 ss://095d5a8e-1718-4016-9609-e37d7e953727@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-8wlu8qs0
 ss://47537de9-804f-4f29-8f7b-ac61052c006e@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-k1a5plp7
 
-
+ss://54eedbbb-b8cb-45ac-b89b-a39df0a52790@hajlab.ucdavis.edu:443?path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE%3Fed%3D2560&amp;allowInsecure=1&amp;security=tls&amp;host=JoinBede--VPNCUSTOMIZE.io&amp;fp=randomized&amp;type=ws&amp;sni=hajlab.ucdavis.edu#All-@VPNCUSTOMIZE
 
 ss://641e0e8f-9503-44f9-ba8c-6288fe409cb9@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehran2.Org&amp;type=ws#%40vpn_proxy_custom
 ss://d5e4bac0-3777-5c82-8482-0784f5a7f79c@fishlab.ucdavis.edu:443?path=%2Fvless%3Fed%3D443&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=speedtest.net.ftp.debian.org.1.2.3.a.s.z.rrrrrrr.net.speedtest.net.razxkl.ir&amp;fp=randomized&amp;type=ws&amp;sni=fishlab.ucdavis.edu#%F0%9F%87%B3%F0%9F%87%B4+%40vpn_proxy_custom
@@ -1650,8 +1649,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:5
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#WiFi-
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#WiFi-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#AWlix_ir
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%40GiveVPN
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.169:443#%40V2rayNGVPN
+
 
 ss://446cf1db-74f9-4f26-91ad-3acb9fc2beb0@best.configforvpn.fun:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@configforVPN&amp;sni=greenpepper.ir&amp;sid=614214c8#%40ConfigforVPN
 ss://a63caad0-3d94-4fa7-956d-439524c6cdf5@cloud.configforvpn.fun:2096?path=%2Fmm&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
@@ -1696,8 +1694,6 @@ trojan://4732adfa16c6450bbef87264e41332db@104.17.147.22:443?path=6b777a91%23%40a
 
 
 
-trojan://telegram-id-privatevpns@15.237.77.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
-trojan://telegram-id-privatevpns@13.39.212.195:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@35.177.5.195:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.176.239.206:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@54.171.107.200:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
@@ -1716,6 +1712,8 @@ trojan://telegram-id-privatevpns@35.156.168.28:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@13.36.142.59:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.39.146.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@35.177.251.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@35.177.79.12:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@54.75.205.131:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 
@@ -1814,8 +1812,7 @@ trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&amp;alpn=http
 
 
 trojan://bpb-
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1630?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=desource1.game.mzsourcenode.info#%40GiveVPN
-trojan://telegram-id-privatevpns@51.21.147.126:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%40GiveVPN
+
 
 
 
