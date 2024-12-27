@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-27-Dec-2024 14:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-27-Dec-2024 15:54
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -362,10 +362,6 @@ vless://cb549aa7-7b19-42ad-9968-2cffd7ed8c89@hajlab.ucdavis.edu:80?security=none
 
 
 
-vless://7ea66ed4-9508-437c-a1cd-5fc87d077a36@185.146.173.58:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=jo.severnett.cfd.&amp;type=ws#%40SERVERNETT%20MTN%202
-vless://e1af982a-8fcd-4ba0-ba12-af880a127953@185.146.173.58:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cvvec.severnett.cfd.&amp;type=ws#%40SERVERNETT%20MTN%201
-vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
-vless://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://848deb13-b86c-45fa-8108-e13c8dff0fa9@138.199.145.191:54443?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20MTN%201
 vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
@@ -1300,10 +1296,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
 
 
-ss://7ea66ed4-9508-437c-a1cd-5fc87d077a36@185.146.173.58:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=jo.severnett.cfd.&amp;type=ws#%40SERVERNETT%20MTN%202
-ss://e1af982a-8fcd-4ba0-ba12-af880a127953@185.146.173.58:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cvvec.severnett.cfd.&amp;type=ws#%40SERVERNETT%20MTN%201
-ss://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
-ss://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 ss://848deb13-b86c-45fa-8108-e13c8dff0fa9@138.199.145.191:54443?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20MTN%201
 ss://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 ss://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
@@ -1855,6 +1847,8 @@ trojan://telegram-id-privatevpns@52.29.127.19:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@13.36.181.149:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@15.188.234.37:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.168.97.20:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@18.134.101.136:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@34.249.11.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 
