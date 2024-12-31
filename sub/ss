@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-31-Dec-2024 22:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-31-Dec-2024 23:44
 ss://5a9e72d1-8e1e-4713-d907-f2a5b95f9aa6@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2828%29
 ss://5a9e72d1-8e1e-4713-d907-f2a5b95f9aa6@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2828%29
 
@@ -390,9 +390,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
 
 
-ss://TELEGRAM-ServerNett@[2a01:4f8:c012:4243::1]:24213?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
-ss://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:18577?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 ss://TELEGRAM-ServerNett@[2a01:4f8:c012:4243::1]:24213?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203  vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:18577?sec…
 ss://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:30546?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:29628?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
@@ -411,6 +408,7 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encrypt
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
+ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#configkade%F0%9F%91%89%40proxystore11
@@ -473,38 +471,6 @@ ss://32dbe23a-852e-44a8-9dc2-80188643f550@151.101.194.133:443?path=/telegram-@So
 
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#%40V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40V2rayNG3
-ss://YWVzLTI1Ni1nY206Q0gxVU5URFlwbi9pQUg4TzFkTW12L0hzOGM0NlBVOUdYbkhyR3l0NFNXMD0=@188.245.82.165:80#%40V2rayNG3
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#%40V2rayNG3
-ss://eyJhZGQiOiIxODguMjQ1LjgyLjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxYmRjMWI4Zi0wYTIwLTRkYzgtOGY3My1lMDA4ZjY0ZGE2NWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODYiLCJwcyI6IkBWMnJheU5HMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://eyJhZGQiOiIxODguMTE0Ljk2LjIyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwzLnBsb3QuY9GG0LXQvdCw0YDQuNC5LuWKh+aDhdCz0L7Qu9C+0LIw0YDQtdC3LmZpcjNicmFuZC7nhb3li5XogIXov73pgJDpm7fmgaku0L/QvtCz0L7QvdC10LfQsHDQtdC50L0ud29ua2FjYXBpdGFuby5idXp6LiIsImlkIjoiOWFjOTQ3YWEtZGU4Ni00MWMzLTlhNjAtNGMwNjFjN2M5NWYwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://DIGIV2raY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&amp;type=ws#%40V2rayNG3
-ss://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=vip1-romax-tiktok.hsjsak.ir&amp;fp=random&amp;type=ws&amp;sni=vip1-romax-tiktok.hsjsak.ir#%40V2rayNG3
-ss://Telegram-ipV2Ray-vaq@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&amp;type=ws#%40V2rayNG3
-ss://MdVpnSec@www.parsvds.ir:80?path=MDVPNSEC%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=MDvpnsec-mdVPNSEC-MDvpnsec.joinTELEGRAM.net.&amp;type=ws#%40V2rayNG3
-ss://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fraud.chase&amp;type=ws#%40V2rayNG3
-ss://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&amp;type=ws#%40V2rayNG3
-ss://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=%2Fparadise&amp;security=tls&amp;encryption=none&amp;host=iyjil.cfonni.info&amp;type=ws&amp;sni=iyjil.cfonni.info#%40V2rayNG3
-ss://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&amp;type=ws#%40V2rayNG3
-ss://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=%2FDSDaswd22%2111*fdfm55247.COM.&amp;security=none&amp;encryption=none&amp;host=NOxdB1.BisTaiR.orG&amp;type=ws#%40V2rayNG3
-ss://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&amp;type=ws#%40V2rayNG3
-ss://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&amp;type=ws#%40V2rayNG3
-ss://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fraud.chase&amp;type=ws#%40V2rayNG3
-ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=%2FT%2CE%2CL%2CE%2CG%2CR%2CA%2CM%2CX%2CV%2C2%2CR%2CA%2CY%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.salf101.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&amp;type=ws#%40V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173:35333#%40V2rayNG3
-ss://eyJhZGQiOiIxNjIuMTU5LjEyOS4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3R4di5wYWdlcy5kZXYiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9mMiIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheU5HMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXN0eHYucGFnZXMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=%2Fspeedtest.net%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=h17.Xn--gmq282ekfhyys3gs.Com.&amp;type=httpupgrade#%40V2rayNG3
-ss://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@www.speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&amp;type=httpupgrade#%40V2rayNG3
-ss://34208027-101c-4e79-a0e3-87f62ef214e6@172.66.46.220:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=MoRtEzA865.paGES.DEV&amp;type=ws&amp;sni=MoRtEzA865.paGES.DEV#%40V2rayNG3
-ss://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=VFIvE-teLeGram.PAGEs.Dev&amp;type=ws&amp;sni=VFIvE-teLeGram.PAGEs.Dev#%40V2rayNG3
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#%40V2rayNG3
-ss://846b82d2-6f31-4458-bf59-5d67f9934e58@104.21.19.124:8880?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=splUs.Ir.DigIcYBer.CLIck.&amp;type=httpupgrade#%40V2rayNG3
-ss://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=de4ecf6b.isvphp-4g8.pages.dev#%40V2rayNG3
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=80acf9Da.EhSaN-PAnEL.PAGES.dEv&amp;type=ws&amp;sni=80acf9Da.EhSaN-PAnEL.PAGES.dEv#%40V2rayNG3
-ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#%40V2rayNG3
-ss://6a13aa20-f011-4474-8da0-e7228b11aff2@85.192.56.170:43856?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=zula.ir#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173:35333#%40V2rayNG3
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#%40V2rayNG3
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2375#%40V2rayNG3
@@ -588,6 +554,20 @@ ss://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?path=%2FRsAMasAPMX5yb
 ss://0bf64a11-649e-49e8-8caa-6feb8e13773d@64.225.94.56:5959?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40V2rayNG3
 ss://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@70.34.222.150:443?path=%2Fwspath&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=xraypsiphon.sassanidempire.com&amp;fp=chrome&amp;type=ws&amp;sni=xraypsiphon.sassanidempire.com#%40V2rayNG3
 ss://5d2e9d3b-adfd-4056-935b-e9c86acfaec1@45.67.32.147:37665?security=reality&amp;encryption=none&amp;pbk=fcjBIZcvVsr1Gy-iZbIko-0Ey5icPtmXIxY3sd4UEFw&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=psv4.vkuseraudio.net&amp;sid=9168#%40V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%40V2rayNG3
+ss://eyJhZGQiOiIxNTEuMTAxLjIuMTY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhbWQuYWwiLCJpZCI6ImJlYjdkMDk4LTQ4YmEtNGJlOC1hNDdhLTc1OGJmM2M0NzBiOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://eyJhZGQiOiJ3d3cuYWV0di5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFtZC5hbCIsImlkIjoiYmViN2QwOTgtNDhiYS00YmU4LWE0N2EtNzU4YmYzYzQ3MGI4IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheU5HMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+ss://5d2e9d3b-adfd-4056-935b-e9c86acfaec1@45.67.32.147:37665?security=reality&amp;encryption=none&amp;pbk=fcjBIZcvVsr1Gy-iZbIko-0Ey5icPtmXIxY3sd4UEFw&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=psv4.vkuseraudio.net&amp;sid=9168#%40V2rayNG3
+ss://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
+ss://b427ed05-cc5f-4f88-ab96-f04a6e30300b@tuea.vact.ir:2083?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#%40V2rayNG3
+ss://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;sni=147135010103.sec19org.com#%40V2rayNG3
+ss://9f177110-4a05-4a53-aced-f529dd9583ec@65.109.216.171:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 ss://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-
@@ -832,8 +812,6 @@ ss://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6ImNjMi4xODA4LnNpdGUiLCJ
 ss://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6ImNjMi4xODA4LnNpdGUiLCJpZCI6ImQzZDhiNzgxLWYzMGQtNDkwMi04ZWIwLTU4YjFjYTkzNmJlYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9oZ3FxdndzIiwicG9ydCI6IjMwMDAyIiwicHMiOiJjbG91ZDItNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYzIuMTgwOC5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6Im9iZGlpLmNmZCIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiIzMDAwMiIsInBzIjoi8J+HsPCfh7cgS1I+5Yqg5ou/5aSnIOWkmuS8puWkmiIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6ImNjMi4xODA4LnNpdGUiLCJpZCI6ImQzZDhiNzgxLWYzMGQtNDkwMi04ZWIwLTU4YjFjYTkzNmJlYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9oZ3FxdndzIiwicG9ydCI6IjMwMDAyIiwicHMiOiJjbG91ZDItNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYzIuMTgwOC5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
-ss://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA…
@@ -847,6 +825,7 @@ ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;
 ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.hichinago.ir.&amp;type=httpupgrade#%40Digiv2ray-2%F0%9F%87%A9%F0%9F%87%AA
 ss://b1f58d90-e65f-4566-91f3-1b96e9a68612@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#@Digiv2ray
 ss://b1f58d90-e65f-4566-91f3-1b96e9a68613@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#@Digiv2ray
+ss://b1f58d90-e65f-4566-91f3-1b96e9a68614@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#@Digiv2ray
 
 
 
