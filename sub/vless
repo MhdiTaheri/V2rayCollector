@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-01-Jan-2025 12:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-01-Jan-2025 13:44
 vless://5a9e72d1-8e1e-4713-d907-f2a5b95f9aa6@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2828%29
 vless://5a9e72d1-8e1e-4713-d907-f2a5b95f9aa6@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2828%29
 
@@ -353,7 +353,6 @@ vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls
 
 
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:30546?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202  vless://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:29628?sec…
 vless://12ebd58f-eeb6-4180-8223-809ba54567c1@ser1.servernettt.ir:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20Mtn%201
 vless://04c34012-b18d-4d35-a736-b5048e6cde33@ser1.servernettt.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40SERVERNETT%20Mtn%202
 vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
@@ -371,6 +370,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 
 
 
