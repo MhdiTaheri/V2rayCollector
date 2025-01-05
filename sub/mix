@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-05-Jan-2025 14:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-05-Jan-2025 15:53
 vless://80fd800a-f398-436f-d6d5-e32a4f484768@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2829%29
 vless://fcdea945-f87c-4b34-9241-a33adc22af97@netflow.yoooka.lol:10750?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=m-net.speedtestcustom.com&amp;headerType=http&amp;fp=chrome&amp;type=tcp&amp;sni=netflow.yoooka.lol#CryptxProNet-mosfix
 vless://f5fd3e5f-17d8-4e66-ac13-8a2c2a380c10@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40Piazshekan%2832%29
@@ -240,9 +240,7 @@ vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;secu
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;authority=&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=hvxoo.metahkh.com#%40V2rayNG3
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;sni=147135010103.sec19org.com#%40V2rayNG3
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;authority=&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=hvxoo.metahkh.com#%40V2rayNG3
-vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&amp;sni=zamimm.e59b57f84c.workers.dev&amp;type=ws&amp;host=zamimm.e59b57f84c.workers.dev&amp;path=%2F%3Fed%3D2560&amp;fp=randomized#
-vless://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?security=tls&amp;sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&amp;type=ws&amp;host=FalCUnaRGO.E9744be7D6.woRKERs.Dev&amp;path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048#
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.188.49.9:1212?security=reality&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;type=tcp&amp;fp=chrome&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7#
+
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
@@ -552,7 +550,7 @@ vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFjOGUyNmZlLTgxNTAtNGI2MC1hZTY0LTgyZmM3N2ViYTJjZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA2OSIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5NC4xMzEuOTcuMTI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRkMTE1NGIxLWQ1ZmEtNWU1Mi1hMTA4LTc1ZTU2OGM0YWQwNiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI4ODgwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI5NS4xNjQuMTAuMTE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEwMDg5YTU1LTI2YzAtNTIxNC05NTZiLWFjYWYzNDQ3MTE5YiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI4ODgwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ3d3cuenVsYS5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJnZXJtYW4yMDI1LmhhbWVkcGV5dmFzaS53b3JrZXJzLmRldiIsImlkIjoiOTA3MmQzMzktMzg4NS00ZmUxLWIwYmMtMjlmYTc1MDU0MTBlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2ZpeGVkZmxvYXRpLmNmZC9saW5rd3NkIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6pIYW1lZHA3MfCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6Imdlcm1hbjIwMjUuaGFtZWRwZXl2YXNpLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
 
 
 
@@ -1033,10 +1031,7 @@ ss://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;securit
 ss://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;authority=&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=hvxoo.metahkh.com#%40V2rayNG3
 ss://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;sni=147135010103.sec19org.com#%40V2rayNG3
 ss://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;authority=&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=hvxoo.metahkh.com#%40V2rayNG3
-ss://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&amp;sni=zamimm.e59b57f84c.workers.dev&amp;type=ws&amp;host=zamimm.e59b57f84c.workers.dev&amp;path=%2F%3Fed%3D2560&amp;fp=randomized#
-ss://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?security=tls&amp;sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&amp;type=ws&amp;host=FalCUnaRGO.E9744be7D6.woRKERs.Dev&amp;path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048#
-ss://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.188.49.9:1212?security=reality&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;type=tcp&amp;fp=chrome&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7#
-ss://eyJhZGQiOiJ3d3cuenVsYS5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJnZXJtYW4yMDI1LmhhbWVkcGV5dmFzaS53b3JrZXJzLmRldiIsImlkIjoiOTA3MmQzMzktMzg4NS00ZmUxLWIwYmMtMjlmYTc1MDU0MTBlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2ZpeGVkZmxvYXRpLmNmZC9saW5rd3NkIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6pIYW1lZHA3MfCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6Imdlcm1hbjIwMjUuaGFtZWRwZXl2YXNpLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
 ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 
 
@@ -1392,8 +1387,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@34.242.67.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
-trojan://telegram-id-privatevpns@34.249.240.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@16.171.105.47:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.49.147.7:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@52.59.79.198:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
@@ -1411,6 +1404,8 @@ trojan://telegram-id-privatevpns@63.176.111.42:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@15.237.168.157:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@15.188.226.71:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.170.179.230:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@13.43.174.47:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@63.32.120.6:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 
