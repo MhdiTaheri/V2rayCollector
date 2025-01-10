@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-10-Jan-2025 17:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-10-Jan-2025 18:43
 vless://b2705a86-7b78-4f59-9205-3a16062b8018@tunnel-pro.yoooka.lol:45908?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=m-net.speedtestcustom.com&amp;headerType=http&amp;fp=chrome&amp;type=tcp&amp;sni=tunnel-pro.yoooka.lol#vip-nim
 vless://18758238-2625-2730-3689-f157ae275ad4@spain-01.ab-841.ip-ddns.com:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=wrcgbsu.qwapples.com#%40networknim
 vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40networknim
@@ -255,7 +255,6 @@ vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h5.ghalikermaniz.info:443?path=%2F
 
 
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
@@ -270,6 +269,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:37417?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:24893?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:57258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:40286?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
+vless://TELEGRAM-ServerNett@91.107.137.98:24893?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 
 
 
@@ -1177,7 +1177,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig72.usecharg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig73.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig72.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
 
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
@@ -1192,6 +1191,7 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:37417?security=none&amp;encrypt
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:24893?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:57258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:40286?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
+ss://TELEGRAM-ServerNett@91.107.137.98:24893?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
@@ -1803,8 +1803,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@18.185.168.138:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
-trojan://telegram-id-privatevpns@13.37.89.120:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@35.181.213.216:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@3.10.62.249:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://telegram-id-privatevpns@18.171.111.235:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
@@ -1822,6 +1820,8 @@ trojan://telegram-id-privatevpns@18.203.49.103:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@52.51.78.54:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.49.211.220:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@51.21.5.124:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
+trojan://telegram-id-privatevpns@3.126.77.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
+trojan://telegram-id-privatevpns@3.125.58.42:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 
 
 
