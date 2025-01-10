@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-10-Jan-2025 12:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-10-Jan-2025 13:45
 vless://b2705a86-7b78-4f59-9205-3a16062b8018@tunnel-pro.yoooka.lol:45908?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=m-net.speedtestcustom.com&amp;headerType=http&amp;fp=chrome&amp;type=tcp&amp;sni=tunnel-pro.yoooka.lol#vip-nim
 vless://18758238-2625-2730-3689-f157ae275ad4@spain-01.ab-841.ip-ddns.com:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=wrcgbsu.qwapples.com#%40networknim
 vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40networknim
@@ -13,16 +13,10 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?path=%2F%3Fd%3D256
 vless://7d55225d-028a-4893-ece2-c121bbaa3142@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#vip
 vless://8b319636-5286-4fd3-800b-7dc8d7ccd945@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#vip
 vless://b2705a86-7b78-4f59-9205-3a16062b8018@tunnel-pro.yoooka.lol:45908?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=m-net.speedtestcustom.com&amp;headerType=http&amp;fp=chrome&amp;type=tcp&amp;sni=tunnel-pro.yoooka.lol#vip-nim
+vless://aeb84b67-3b57-4f61-949e-3db252ce58c9@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#vip
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
 
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.208.248.251:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.237.195.144:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.91.202.45:1212?security=reality&amp;encryption=none&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=a4844ba7#telegram
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@34.220.77.243:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@54.152.89.150:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@54.175.202.1:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@54.226.20.228:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@13.58.38.91:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.144.21.8:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.15.214.23:1212?security=reality&amp;encryption=none&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=a4844ba7#telegram
@@ -228,6 +222,27 @@ vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h2.ghalikermaniz.info:443?path=%2F
 vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h3.ghalikermaniz.info:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=4h3.ghalikermaniz.info&amp;type=ws#telegram
 vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h4.ghalikermaniz.info:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=4h4.ghalikermaniz.info&amp;type=ws#telegram
 vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h5.ghalikermaniz.info:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=4h5.ghalikermaniz.info&amp;type=ws#telegram
+vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@159.69.206.4:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=159.69.206.4&amp;type=ws#telegram
+vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=168.119.101.219&amp;type=ws#telegram
+vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@188.245.247.73:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=188.245.247.73&amp;type=ws#telegram
+vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@65.108.87.97:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=65.108.87.97&amp;type=ws#telegram
+vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@95.216.137.32:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=95.216.137.32&amp;type=ws#telegram
+vless://0dd0eb4d-3e36-44e5-aafe-4b819ae6f3f9@hajlab.ucdavis.edu:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.feadlenetworkv2sa.net&amp;type=ws#telegram
+vless://95089f63-c732-4594-bfcb-c8180bd09a1c@195.201.38.127:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=195.201.38.127&amp;type=ws#telegram
+vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.108.55.177:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=65.108.55.177&amp;type=ws#telegram
+vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.109.238.202:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=65.109.238.202&amp;type=ws#telegram
+vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.21.149.150:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=65.21.149.150&amp;type=ws#telegram
+vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.21.153.186:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=65.21.153.186&amp;type=ws#telegram
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@100.26.1.219:1212?security=reality&amp;encryption=none&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=a4844ba7#telegram
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@136.18.139.137:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@150.222.40.138:1212?security=reality&amp;encryption=none&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=a4844ba7#telegram
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.34.14.102:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.143.22.4:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.145.108.44:1212?security=reality&amp;encryption=none&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=a4844ba7#telegram
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h1.ghalikermaniz.info:443?path=%2F&amp;security=&amp;encryption=none&amp;host=4h1.ghalikermaniz.info&amp;type=ws#telegram
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h2.ghalikermaniz.info:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=4h2.ghalikermaniz.info&amp;type=ws#telegram
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h3.ghalikermaniz.info:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=4h3.ghalikermaniz.info&amp;type=ws#telegram
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@4h4.ghalikermaniz.info:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=4h4.ghalikermaniz.info&amp;type=ws#telegram
 
 
 
@@ -269,6 +284,7 @@ vless://08c951be-8425-42fa-98e9-154a20eb61f9@fishlab.ucdavis.edu:443?path=%2Ftel
 vless://80d90262-da2c-42de-addf-b645698faf92@fishlab.ucdavis.edu:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Dorzadim.filtero.neT&amp;type=ws#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://913af369-de79-43b2-b251-c28ddabc6815@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=6.fidsxss2x.iR&amp;fp=chrome&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://Telegram%40v2rayng_vpnn@49.12.106.37:55822?security=reality&amp;encryption=none&amp;pbk=swrGFiH1GGLp80EgD_iDAuyb701VeVirfXCbI_5cinw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mmd.10.isovpn.shop#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
+vless://Telegram%40v2rayng_vpnn@49.12.106.37:55822?security=reality&amp;encryption=none&amp;pbk=swrGFiH1GGLp80EgD_iDAuyb701VeVirfXCbI_5cinw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mmd.10.isovpn.shop#%40v2rayng_vpnn%20%28%20%D…
 vless://Telegram%40v2rayng_vpnn@49.12.106.37:55822?security=reality&amp;encryption=none&amp;pbk=swrGFiH1GGLp80EgD_iDAuyb701VeVirfXCbI_5cinw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mmd.10.isovpn.shop#%40v2rayng_vpnn%20%28%20%D…
 
 
@@ -371,17 +387,6 @@ vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;secu
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;authority=&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=hvxoo.metahkh.com#%40V2rayNG3
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;sni=147135010103.sec19org.com#%40V2rayNG3
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;authority=&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=hvxoo.metahkh.com#%40V2rayNG3
-vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#https://t.me/ShadowsocksM
-vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#https://t.me/ShadowsocksM
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68612@Speedtest.net:80?path=/
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68613@Speedtest.net:80?path=/
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68614@Speedtest.net:80?path=/
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68615@Speedtest.net:80?path=/
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68616@Speedtest.net:80?path=/
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68617@Speedtest.net:80?path=/
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68618@Speedtest.net:80?path=/
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68619@Speedtest.net:80?path=/
-vless://user@s26.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#https://t.me/ShadowsocksM
 vless://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#https://t.me/ShadowsocksM
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
