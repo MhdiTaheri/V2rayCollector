@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-11-Jan-2025 16:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-11-Jan-2025 17:41
 vless://18758238-2625-2730-3689-f157ae275ad4@spain-01.ab-841.ip-ddns.com:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=wrcgbsu.qwapples.com#%40networknim
 vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40networknim
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.224.58.74:1212?security=reality&amp;encryption=none&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=a4844ba7#%40networknim
@@ -305,10 +305,27 @@ vless://c9734e42-ac3f-4b26-8334-282561cdfbd7@hajlab.ucdavis.edu:443?security=tls
 vless://c9734e42-ac3f-4b26-8334-282561cdfbd7@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
 vless://c9734e42-ac3f-4b26-8334-282561cdfbd7@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
 vless://c9734e42-ac3f-4b26-8334-282561cdfbd7@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
+vless://4577a3f7-bbed-49cc-9ec1-a7d280566c35@angelina.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=lyftbd.isfshzist.com&amp;type=ws&amp;alpn=http/1.1&amp;host=lyftbd.isfshzist.com&amp;path=/wss#telegram
+vless://5e375697-0cf2-4eef-82c9-2c440f957229@angelina.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=vvh3bu.isfshzist.com&amp;type=ws&amp;alpn=http/1.1&amp;host=vvh3bu.isfshzist.com&amp;path=/wss#telegram
+vless://6c70ceff-b7f7-44c5-814f-1194a1e5b6bd@hajlab.ucdavis.edu:443?security=tls&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&amp;sni=hajlab.ucdavis.edu&amp;fp=chrome#telegram
+vless://6c70ceff-b7f7-44c5-814f-1194a1e5b6bd@hajlab.ucdavis.edu:443?security=tls&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net&amp;sni=hajlab.ucdavis.edu&amp;fp=chrome#telegram
+vless://6c70ceff-b7f7-44c5-814f-1194a1e5b6bd@hajlab.ucdavis.edu:443?security=tls&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.feadlenetworkv2sa.net&amp;sni=hajlab.ucdavis.edu&amp;fp=chrome#telegram
+vless://6c70ceff-b7f7-44c5-814f-1194a1e5b6bd@hajlab.ucdavis.edu:443?security=tls&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.feadlenetworkv2sb.net&amp;sni=hajlab.ucdavis.edu&amp;fp=chrome#telegram
+vless://6c70ceff-b7f7-44c5-814f-1194a1e5b6bd@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net#telegram
+vless://6c70ceff-b7f7-44c5-814f-1194a1e5b6bd@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net#telegram
+vless://6c70ceff-b7f7-44c5-814f-1194a1e5b6bd@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.feadlenetworkv2sb.net#telegram
+vless://6c70ceff-b7f7-44c5-814f-1194a1e5b6bd@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.feadlenetworkv2sb.net#telegram
+vless://73e6c9d9-6980-4b7c-80d8-02569752afad@jermaine.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=77wpji.snaptrip.store&amp;type=ws&amp;alpn=http/1.1&amp;host=77wpji.snaptrip.store&amp;path=/wss#telegram
+vless://8406a635-6c85-4121-90a7-4d106ff04df5@angelina.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=yend74.testsnew.com&amp;type=ws&amp;alpn=http/1.1&amp;host=yend74.testsnew.com&amp;path=/wss#telegram
+vless://bb02a893-d720-4071-b700-7084b7878d31@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
+vless://bb02a893-d720-4071-b700-7084b7878d31@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
+vless://bb02a893-d720-4071-b700-7084b7878d31@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
+vless://bb02a893-d720-4071-b700-7084b7878d31@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
+vless://bb02a893-d720-4071-b700-7084b7878d31@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
+vless://bb02a893-d720-4071-b700-7084b7878d31@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
 
 
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:40286?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:57258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
@@ -323,6 +340,7 @@ vless://TELEGRAM-ServerNett@91.107.137.98:24893?security=none&amp;encryption=non
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?mode=auto&amp;path=%2F4ca8471c&amp;security=reality&amp;encryption=none&amp;pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=yahoo.com&amp;sid=1b7d7614d14c#configkade%F0%9F%91%89%40proxystore11
 
 
@@ -687,7 +705,6 @@ vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTE
 
 
 
-vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=karafarini.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=ndmo.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=karafarini.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=sabteahval.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
@@ -702,6 +719,7 @@ vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption
 vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=karafarini.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=sabteahval.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=sabteahval.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
+vless://telll--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=sabteahval.ir&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
 
 vless://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 vless://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
