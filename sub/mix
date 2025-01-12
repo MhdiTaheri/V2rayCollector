@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-12-Jan-2025 09:48
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-12-Jan-2025 10:41
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#%28%40networknim%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?path=%2F%3Fd%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#%28%40networknim%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://7d55225d-028a-4893-ece2-c121bbaa3142@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#vip
@@ -335,7 +335,6 @@ vless://cf8ff343-ac6c-4307-9d27-a6ba9038564d@angelina.ns.cloudflare.com:443?encr
 
 
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:57258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:24893?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:57258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:40286?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
@@ -349,6 +348,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?mode=auto&amp;path=%2F4ca8471c&amp;security=reality&amp;encryption=none&amp;pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=yahoo.com&amp;sid=1b7d7614d14c#configkade%F0%9F%91%89%40proxystore11
 
 
@@ -1363,7 +1363,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig74.usecharg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig77.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig76.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
 
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:57258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:24893?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:57258?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:40286?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
@@ -1377,7 +1376,7 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encrypt
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#configkade%F0%9F%91%89%40proxystore11
+ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
@@ -1388,6 +1387,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#configkade%F0%9F%91%89%40proxystore11
 ss://eyJhZGQiOiJjaW5uYW1vbi5wYXJzaWZhc3Q3OC5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJjaW5uYW1vbi5wYXJzaWZhc3Q3OC5pciIsImlkIjoiZjZlN2JlNzUtY2I5MC00NTgzLWE0MTUtODQyMmU0YTM4YWViIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpamE0Wm53c0JpWnA3dnFMNnVjd05ZRHpiZWtGNSIsInBvcnQiOiI0NDMiLCJwcyI6ImNvbmZpZ2thZGXwn5GJQHByb3h5c3RvcmUxMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjaW5uYW1vbi5wYXJzaWZhc3Q3OC5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?mode=auto&amp;path=%2F4ca8471c&amp;security=reality&amp;encryption=none&amp;pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=yahoo.com&amp;sid=1b7d7614d14c#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -2000,8 +2000,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@3.127.132.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@18.158.143.206:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@13.37.199.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@51.44.129.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@35.178.140.121:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
@@ -2018,6 +2016,8 @@ trojan://telegram-id-privatevpns@13.41.18.8:22222?security=tls&amp;alpn=http/1.1
 trojan://telegram-id-privatevpns@3.9.199.198:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@46.137.81.117:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@54.73.96.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
+trojan://telegram-id-privatevpns@13.50.218.233:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@13.50.80.145:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 
 
 
@@ -2027,18 +2027,6 @@ trojan://bpb-trojan@104.18.34.21:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhb
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&amp;headerType=none&amp;type=tcp#%40V2rayNG3
 trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&amp;security=tls&amp;alpn=h3&amp;host=bpb-hd.aaronchin.xyz&amp;fp=randomized&amp;type=ws&amp;sni=bpb-hd.aaronchin.xyz#%40V2rayNG3
-trojan://user@s5.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s5.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s6.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s6.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s7.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s7.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s8.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s8.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s9.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s9.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s10.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s10.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s11.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s11.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s12.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s12.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s13.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s13.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s14.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s14.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s15.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s15.mynameismahsa.info#https://t.me/ShadowsocksM
-trojan://user@s16.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s16.mynameismahsa.info#https://t.me/ShadowsocksM
 trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#https://t.me/ShadowsocksM
 trojan://user@s2.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s2.mynameismahsa.info#https://t.me/ShadowsocksM
 trojan://user@s3.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s3.mynameismahsa.info#https://t.me/ShadowsocksM
