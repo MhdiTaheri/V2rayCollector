@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-13-Jan-2025 17:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-13-Jan-2025 18:45
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#%28%40networknim%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?path=%2F%3Fd%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#%28%40networknim%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://7d55225d-028a-4893-ece2-c121bbaa3142@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#vip
@@ -431,14 +431,6 @@ vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;secu
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;authority=&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=hvxoo.metahkh.com#%40V2rayNG3
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;sni=147135010103.sec19org.com#%40V2rayNG3
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;authority=&amp;fp=random&amp;type=grpc&amp;serviceName=grpc&amp;sni=hvxoo.metahkh.com#%40V2rayNG3
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-vless://V2RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=V2RAXX.ir&amp;type=ws#https://t.me/ShadowsocksM
-vless://V2RAXX---
-vless://30289f13-0ea2-44bd-b084-2e04f29df3f0@www.speedtest.net:2096?path=%2FTel%3A%40NT_Safe&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=jesipinkman.gorgali.space&amp;fp=chrome&amp;type=ws&amp;sni=jesipinkman.gorgali.space#https://t.me/ShadowsocksM
-vless://f21ef1b5-9501-48bb-8252-09b78b999913@barbari.yusefkhare.sbs:19670?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#https://t.me/ShadowsocksM
 vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?mode=auto&amp;path=%2F4ca8471c&amp;security=reality&amp;encryption=none&amp;pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=yahoo.com&amp;sid=1b7d7614d14c#https://t.me/ShadowsocksM
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:40286?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:37417?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
