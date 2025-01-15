@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-15-Jan-2025 14:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-15-Jan-2025 15:55
 
 
 
@@ -37,6 +37,8 @@ trojan://telegram-id-privatevpns@3.66.68.142:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@13.36.124.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 trojan://telegram-id-privatevpns@51.44.34.170:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@3.11.16.133:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
+trojan://telegram-id-privatevpns@35.179.244.150:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
+trojan://telegram-id-privatevpns@54.155.75.111:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 
 
 
@@ -138,7 +140,8 @@ trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&amp;alpn=http/1
 
 
 
-
+trojan://fdd37849-e66c-464d-8b1c-56a1a16e05bf@hwhk.goudan.world:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=hwhk.goudan.world#%40VmessProtocol
+trojan://fdd37849-e66c-464d-8b1c-56a1a16e05bf@hwhk.goudan.world:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=hwhk.goudan.world#%40VmessProtocol vless://2dcb48d2-a32a-5a42-a076-9392cacdbfd1@live.skornorth.com:443?security=tls&amp;encryption=none&amp;host=0…
 
 
 trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#FI-S1-Sweden-Trojan
