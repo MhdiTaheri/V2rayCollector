@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-16-Jan-2025 10:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-16-Jan-2025 11:47
 vless://b2705a86-7b78-4f59-9205-3a16062b8018@tunnel-pro.yoooka.lol:45908?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=m-net.speedtestcustom.com&amp;headerType=http&amp;fp=chrome&amp;type=tcp&amp;sni=tunnel-pro.yoooka.lol#vip-nim
 vless://b2705a86-7b78-4f59-9205-3a16062b8018@tunnel-pro.yoooka.lol:45908?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=m-net.speedtestcustom.com&amp;headerType=http&amp;fp=chrome&amp;type=tcp&amp;sni=tunnel-pro.yoooka.lol#vip-nim
 
@@ -538,6 +538,7 @@ vless://user@s26.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&am
 
 
 vless://Zm5yAXVkqm/JrbooPTATAHElZufFb7s9kuvT6hu7SVYuH0cy/6A7PMI1Q4yX/UaU4s9gFw5DIvbMYrr17QAPX/h7Zqnr8OOr5PP4KU1d8QUClZtalmLOdv2JTRDGSuH4nXsNerez0wN05T652imT23yLIHQ/zb3aHnKO+GOZSYMohxl4K6ImwZXTj/LQ3JVCZL/bJiio4AEtTorj2pgCVcF3THhw2Cc+Ly6srWePUdTUbGOngsli0n/G44nhu6BLdgBH6tCDXjH6TqhL31lkCeV1ImJCOVvs9GZ8Jl9HjjEpXeXrTM18HXxVcXMNNA4E
+vless://9a7f0c6e-cb73-4baf-ad31-ac5f9af851c3@37.152.191.159:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://de146b2a-98ba-4ef9-acf1-5c7d0655731b@151.101.194.133:80?path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=snappfood.com&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://de146b2a-98ba-4ef9-acf1-5c7d0655731b@151.101.194.133:80?path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join-…
 vless://528b1201-8b21-5bc2-bbce-5863731a4ac9@speedtest.net:80?security=none&amp;encryption=none&amp;host=MO-SI-V2.COM&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
@@ -1667,6 +1668,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#Switzerland%20Datacam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko%3D@159.65.149.72:51348#India%20Digital%20Ocean
 ss://eyJhZGQiOiIxMDQuMTcuMjIxLjI0OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2h1bmNodWFuLmtlaml4aWFvcWk2NjYuc3RvcmUiLCJpZCI6ImU2NTQzMzE5LTA1NzQtNDJhYy1iNzc4LTFjNDMyNWQ2MjZmNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlNpbmdhcG9yZSBPcmFjbGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://Zm5yAXVkqm/JrbooPTATAHElZufFb7s9kuvT6hu7SVYuH0cy/6A7PMI1Q4yX/UaU4s9gFw5DIvbMYrr17QAPX/h7Zqnr8OOr5PP4KU1d8QUClZtalmLOdv2JTRDGSuH4nXsNerez0wN05T652imT23yLIHQ/zb3aHnKO+GOZSYMohxl4K6ImwZXTj/LQ3JVCZL/bJiio4AEtTorj2pgCVcF3THhw2Cc+Ly6srWePUdTUbGOngsli0n/G44nhu6BLdgBH6tCDXjH6TqhL31lkCeV1ImJCOVvs9GZ8Jl9HjjEpXeXrTM18HXxVcXMNNA4E
+ss://9a7f0c6e-cb73-4baf-ad31-ac5f9af851c3@37.152.191.159:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://de146b2a-98ba-4ef9-acf1-5c7d0655731b@151.101.194.133:80?path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=snappfood.com&amp;type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 ss://de146b2a-98ba-4ef9-acf1-5c7d0655731b@151.101.194.133:80?path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join-…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQN1BxUXBueWhzbnpLTnJt@admin.c3.havij.co:443#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
@@ -1933,8 +1935,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@13.36.124.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
-trojan://telegram-id-privatevpns@51.44.34.170:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@3.11.16.133:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.179.244.150:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@54.155.75.111:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
@@ -1951,6 +1951,7 @@ trojan://telegram-id-privatevpns@54.154.236.88:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@34.240.31.104:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
 trojan://telegram-id-privatevpns@13.61.123.168:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.61.204.46:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@18.158.178.139:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 
 
 
