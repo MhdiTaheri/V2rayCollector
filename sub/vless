@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-21-Jan-2025 05:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-21-Jan-2025 06:46
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -386,15 +386,6 @@ vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=%2F%3Fed%3D204
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40V2rayNG3
 vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=%2Fvless%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;type=ws#%40V2rayNG3
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F%23Telegram%40V2ray_Alpha&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=magdl.ir&amp;fp=chrome&amp;type=ws&amp;sni=anchor.fm#%40V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?type=grpc#https://t.me/ShadowsocksM
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.124.56:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#https://t.me/ShadowsocksM
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@193.123.60.160:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mmdserver.us.kg&amp;type=ws&amp;sni=mmdserver.us.kg#https://t.me/ShadowsocksM
-vless://0183c3a4-7fb9-41c9-a8f2-3c032a6ad721@150.241.102.95:10799/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;fp=random&amp;security=reality&amp;pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&amp;sid=330602658f0ade#https://t.me/ShadowsocksM
-vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&amp;serviceName=/
-vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&amp;serviceName=/
-vless://27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&amp;path=/vless%23@Evay_vpn----
-vless://27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&amp;path=/vless%23@Evay_vpn----
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=12.irfrn23sn.net&amp;fp=chrome&amp;type=ws&amp;sni=mio.splashthat.com#https://t.me/ShadowsocksM
 vless://0497bdee-91e1-4cf3-845a-7ae584da04fd@217.69.8.35:8080?type=ws&amp;security=none&amp;path=%2F#https://t.me/ShadowsocksM
 vless://27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&amp;path=/vless%23@Evay_vpn----
 vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&amp;serviceName=/
