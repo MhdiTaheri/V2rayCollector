@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-22-Jan-2025 09:49
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-22-Jan-2025 10:42
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -304,13 +304,6 @@ vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=%2F%3Fed%3D204
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40V2rayNG3
 vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=%2Fvless%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;type=ws#%40V2rayNG3
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F%23Telegram%40V2ray_Alpha&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=magdl.ir&amp;fp=chrome&amp;type=ws&amp;sni=anchor.fm#%40V2rayNG3
-vless://1fce677c-3283-43c6-89a9-ac7e442ce663@amin.4en1.net:1777?security=reality&amp;sni=globalsign.com&amp;fp=chrome&amp;pbk=jkJpzKFOelmStHPCJNnzmoFzAIBn0AQM3UUmKC1TWm4&amp;spx=/&amp;type=grpc&amp;serviceName=/
-vless://6ecb19c0-70c6-489e-b8e9-69f88ec9ffb4@151.101.0.223:80?security=&amp;type=ws&amp;path=/
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?security=&amp;type=grpc&amp;encryption=none#https://t.me/ShadowsocksM
-vless://8d5c2ad9-3880-4ff8-bb8b-ba9e2f386078@104.17.148.22:443?security=tls&amp;sni=saxony.scriptboy.ir&amp;alpn=h2,http/1.1&amp;allowInsecure=1&amp;fp=chrome&amp;type=ws&amp;path=/8d5c2ad9-3880-4ff8-bb8b-ba9e2f386078&amp;host=saxony.scriptboy.ir&amp;encryption=none#https://t.me/ShadowsocksM
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.206.186:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig-ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;encryption=none#https://t.me/ShadowsocksM
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.212.225.59:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig-ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;encryption=none#https://t.me/ShadowsocksM
-vless://1981c20c-f7fe-4458-ed6d-febcdc1284ee@tify-binex-join.espikernajafi.ir:6666?security=&amp;type=grpc&amp;serviceName=/
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@media.sanaiegh.ir:443?security=tls&amp;sni=media.sanaiegh.ir&amp;alpn=h2&amp;type=xhttp&amp;encryption=none#https://t.me/ShadowsocksM
 vless://cd2ca5d5-fe23-44fb-8cf1-bb68e00e7cd4@151.101.130.133:443?security=tls&amp;sni=www.sunshinecity.co.jp&amp;fp=firefox&amp;type=ws&amp;path=/---
 vless://c650b795-aa5b-49d4-9cec-4c3c7ba6c31f@172.66.213.38:443?security=tls&amp;sni=mansdhuuidjcn.vip202030.com.tr&amp;alpn=h3&amp;fp=chrome&amp;type=xhttp&amp;encryption=none#https://t.me/ShadowsocksM
