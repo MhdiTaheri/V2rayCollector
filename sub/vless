@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-25-Jan-2025 23:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-26-Jan-2025 00:41
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -258,8 +258,8 @@ vless://8576f337-f79c-4367-bf48-27626e412c3b@fishlab.ucdavis.edu:443?path=%2F%40
 vless://d6143486-36c8-445b-b2b5-f3d389298f72@44.222.237.59:8080?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=yXtksaZJPAeCdqGkd9OzsufzBj9uGEOTOP4Dm9003GU&amp;host=api.openai.com&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=api.openai.com&amp;sid=721e34c7#%40Freakconfig%20%F0%9F%87%BA%F0%9F%87%B8
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%AE
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%B7
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
@@ -668,6 +668,7 @@ vless://8576f337-f79c-4367-bf48-27626e412c3b@fishlab.ucdavis.edu:443?path=%2F%40
 vless://d6143486-36c8-445b-b2b5-f3d389298f72@44.222.237.59:8080?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=yXtksaZJPAeCdqGkd9OzsufzBj9uGEOTOP4Dm9003GU&amp;host=api.openai.com&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=api.openai.com&amp;sid=721e34c7#%40Freakconfig%20%F0%9F%87%BA%F0%9F%87%B8
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%AE
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%B7
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig
 vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;type=ws&amp;path=/Telegram@Linkvws?ed%3D2560&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;encryption=none#MCI-
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&amp;sni=dash.cloudflare.com&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&amp;sid=f77e5398&amp;type=grpc&amp;encryption=none#WiFi-
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&amp;sni=iSaA1.paGes.DEv&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/Telegram-
