@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-25-Jan-2025 22:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-25-Jan-2025 23:42
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -259,7 +259,6 @@ vless://d6143486-36c8-445b-b2b5-f3d389298f72@44.222.237.59:8080?mode=auto&amp;pa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%AE
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%B7
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%204
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
@@ -274,6 +273,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:49978?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:30562?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 
 
 
