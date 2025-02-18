@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-18-Feb-2025 16:50
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-18-Feb-2025 17:43
 
 
 
@@ -20,7 +20,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@3.69.70.181:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@52.29.112.39:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://telegram-id-privatevpns@52.47.197.216:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@35.181.115.148:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
@@ -38,41 +37,75 @@ trojan://telegram-id-privatevpns@18.171.119.84:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@54.75.230.73:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 trojan://telegram-id-privatevpns@3.251.100.230:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@51.20.13.202:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
+trojan://telegram-id-privatevpns@16.16.230.199:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 
 
 
 
 
 
-trojan://telegram-id-privatevpns@13.36.141.155:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://telegram-id-directvpn@18.169.40.227:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://telegram-id-privatevpns@54.217.200.220:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://65086441068973800@tops-lobster.shiner427.skin:443?security=tls&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://631ee965-9b74-4b70-b7c9-6794da1f8d73@185.234.66.155:443?security=tls&amp;sni=tr1.safecdn.site&amp;type=grpc&amp;serviceName=grpc#https://t.me/ShadowsocksM
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&amp;sni=yourjobnavigator.online&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://Aimer@95.216.143.166:443?security=tls&amp;sni=ngepy.ambercc.filegear-sg.me&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?security=tls&amp;sni=hezijiasuqi.com&amp;allowInsecure=1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://5JN1hOUWww@tabnak.twn24.ir:443?security=tls&amp;fp=random&amp;type=grpc&amp;serviceName=/42262/mehdi#https://t.me/ShadowsocksM
-trojan://telegram-id-v2rayvpnchannel@3.11.35.127:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://Aimer@195.246.110.37:443?security=tls&amp;sni=agepq.ambercc.filegear-sg.me&amp;type=ws&amp;path=/&amp;host=agepq.ambercc.filegear-sg.mehttp/1.1#https://t.me/ShadowsocksM
-trojan://telegram-id-v2rayvpnchannel@51.20.220.133:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://Pooria@104.17.148.22:443?security=tls&amp;sni=301.pOORiAm.ir&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/trPyOrWMfkHd15oxiI?ed%3D1520&amp;host=301.pooriam.ir#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@16.16.23.33:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@35.156.44.64:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@3.69.70.181:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@63.176.184.253:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@52.29.112.39:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@35.181.220.130:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@52.47.197.216:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@35.181.162.220:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@35.181.115.148:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@34.247.25.48:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@18.193.97.92:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@35.181.197.222:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@13.43.77.153:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@18.171.119.84:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@54.75.230.73:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@3.251.100.230:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@13.61.160.33:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@13.48.253.133:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@13.60.149.22:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&amp;sni=trj.rollingnext.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@51.21.147.187:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@63.177.209.12:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@13.61.199.13:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&amp;sni=trj.rollingnext.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
 trojan://3778399737045327872@35.77.146.185:443?security=tls&amp;allowInsecure=1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://Aimer@121.180.184.145:50000?security=tls&amp;sni=ngepy.ambercc.filegear-sg.me&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://telegram-id-privatevpns@13.37.157.163:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@www.tiktok.com.jp3.viefast.net:443?security=tls&amp;sni=kdlsupport.zendesk.com&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://c1f4cf20-494f-407e-8181-629ab03e2139@104.21.69.44:443?security=tls&amp;sni=se1.safecdn.site&amp;type=ws&amp;path=/by-AB_841#https://t.me/ShadowsocksM
-trojan://Aimer@156.229.164.158:10443?security=tls&amp;sni=ngepz.ambercc.filegear-sg.me&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://telegram-id-privatevpns@3.11.246.170:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://TUFfeTYV56@esna.twn24.ir:2096?security=tls&amp;sni=esna.twn24.ir&amp;alpn=h3,h2,http/1.1&amp;fp=chrome&amp;type=httpupgrade&amp;path=/?ed%3D2048&amp;host=esna.twn24.ir#https://t.me/ShadowsocksM
-trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?security=tls&amp;sni=uk2.safecdn.site&amp;type=grpc&amp;serviceName=grpc#https://t.me/ShadowsocksM
-trojan://8d31967e-7af4-4ead-bf99-32b810dab193@138.124.183.89:443?security=tls&amp;sni=us1.safecdn.site&amp;type=grpc&amp;serviceName=grpc#https://t.me/ShadowsocksM
-trojan://X22ZAo5vGF@esna.twn24.ir:443?security=tls&amp;fp=random&amp;type=httpupgrade&amp;path=/36822/?ed%3D2048&amp;host=esna.twn24.ir#https://t.me/ShadowsocksM
-trojan://3747000103274291200@oriented-pug.adder289.quest:443?security=tls&amp;sni=oriented-pug.adder289.quest&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://3774827088566296576@deciding-mantis.treefrog761.one:443?security=tls&amp;fp=chrome&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@www.tiktok.com.jp1.viefast.net:443?security=tls&amp;sni=kdlsupport.zendesk.com&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://telegram-id-directvpn@34.249.202.69:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
-trojan://telegram-id-privatevpns@18.184.108.34:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@13.53.146.138:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://cbabaca-caba-acba-cadb-bcaaabacbbcc@127.0.0.1:2080?security=tls&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@15.236.171.64:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&amp;sni=trj.rollingnext.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&amp;sni=trj.rollingnext.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://3767107462583558144@5.189.203.50:443?security=tls&amp;sni=modest-bulldog.goat627.mom&amp;fp=chrome&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&amp;sni=trj.rollingnext.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&amp;sni=trj.rollingnext.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://3747000103274291200@awaited-chicken.adder289.quest:443?security=tls&amp;sni=awaited-chicken.adder289.quest&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://3747000103274291200@trusting-titmouse.adder289.quest:443?security=tls&amp;sni=trusting-titmouse.adder289.quest&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://3747000103274291200@better-crappie.treefrog761.one:443?security=tls&amp;sni=better-crappie.treefrog761.one&amp;fp=chrome&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@18.159.177.132:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@16.170.188.28:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@13.50.24.150:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@13.61.191.86:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@51.21.209.95:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@13.39.173.69:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@18.134.103.43:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@18.215.119.90:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@36.228.251.135:20071?security=tls&amp;sni=taobao.phantasy.life&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@63.177.176.68:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@15.236.237.133:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@13.39.142.10:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@13.42.143.34:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@3.15.123.113:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@52.54.22.38:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@51.21.78.54:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@13.51.83.249:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@3.78.234.74:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@35.179.189.32:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@3.10.219.29:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@52.16.182.238:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@54.75.151.22:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
+trojan://telegram-id-privatevpns@52.212.181.80:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#https://t.me/ShadowsocksM
 
 
 
