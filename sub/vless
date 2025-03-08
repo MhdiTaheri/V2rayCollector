@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-08-Mar-2025 08:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-08-Mar-2025 09:45
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -322,6 +322,14 @@ vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.33.239.100:1009?type=tcp&amp;sec
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.202.186.79:1009?type=tcp&amp;security=none#telegram 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638770130853678412.vienna-dire-xaad.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638770130853681372.vienna-dire-xaad.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram 
+vless://62dd77d5-87fa-412d-85ba-4e4b618e7221@chloe.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=1zc1sy.gamvpn.com&amp;type=ws&amp;alpn=http/1.1&amp;host=1zc1sy.gamvpn.com&amp;path=/wss#telegram 
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@52.12.72.155:8443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=zula.ir&amp;fp=chrome&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;sid=#telegram 
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@54.184.70.188:8443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=zula.ir&amp;fp=chrome&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;sid=#telegram 
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.202.186.79:1009?type=tcp&amp;security=none#telegram 
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@98.81.10.244:1009?type=tcp&amp;security=none#telegram 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638770176450100016.lisbon-dire-xaad.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638770176450108257.lisbon-dire-xaad.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram 
+vless://e0cda170-0a57-4e51-87fc-6783b3abf96a@harlan.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=jrf2pe.alligator27.com&amp;type=ws&amp;alpn=http/1.1&amp;host=jrf2pe.alligator27.com&amp;path=/wss#telegram 
 
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS18.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@FreakconfigZ18.usecharge.ir:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Freakconfig%20%F0%9F%87%AB%F0%9F%87%B73
