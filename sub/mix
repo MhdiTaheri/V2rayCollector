@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-12-Mar-2025 13:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-12-Mar-2025 14:42
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -385,8 +385,6 @@ vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.212.204.79:1009?type=tcp&amp;sec
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.221.231.207:1009?type=tcp&amp;security=none#telegram 
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.166.87.52:1009?type=tcp&amp;security=none#telegram 
 
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS22.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS23.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS24.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS25.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS26.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
@@ -401,6 +399,8 @@ vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS34.usecharge.ir:443?sec
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS35.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS36.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfig-1.usecharge.ir:443?mode=packet-up&amp;path=%2F%40ln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%80%A2%20%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@freakconfigm.plantgreen.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20%40FreakConfig
+vless://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfigs1.plantgreen.ir:443?mode=packet-up&amp;path=%2F%40ln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%80%A2%20%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15182?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
@@ -772,8 +772,6 @@ vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@WWW.SPEEDTEST.NET:2086?path=%2FTele
 vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=xnsjsbsh-skcbdk.arashcamera.ir&amp;type=ws#%D8%AC%D9%88%D8%AC%D9%87+%D8%B3%D8%AE%D8%A7%D8%B1%DB%8C+%40freV2rayNG
 vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=holland.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&amp;type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG
 
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS22.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS23.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS24.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS25.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS26.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
@@ -788,6 +786,8 @@ vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS34.usecharge.ir:443?sec
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS35.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS36.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfig-1.usecharge.ir:443?mode=packet-up&amp;path=%2F%40ln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%80%A2%20%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@freakconfigm.plantgreen.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20%40FreakConfig
+vless://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfigs1.plantgreen.ir:443?mode=packet-up&amp;path=%2F%40ln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%80%A2%20%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&amp;sni=gozargah.validbv7996.ir&amp;fp=random&amp;type=ws&amp;path=/?ed%3D2560&amp;host=gozargah.validbv7996.ir&amp;encryption=none#@awlix_ir
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&amp;sni=gozargah.validbv7996.ir&amp;fp=random&amp;type=ws&amp;path=/?ed%3D2560&amp;host=gozargah.validbv7996.ir&amp;encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?security=&amp;type=grpc&amp;encryption=none#@awlix_ir
@@ -1590,8 +1590,6 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjExMC4xLjUxOjgwOTA=#%F0%9F%87%BA%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS52YXJ6ZXNoMzYwLmNvOjQ0Mw==#%F0%9F%87%A7%F0%9F%87%AD_BH_%E5%B7%B4%E6%9E%97_2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_4
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
-ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS22.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
-ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS23.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS24.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS25.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS26.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
@@ -1606,6 +1604,8 @@ ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS34.usecharge.ir:443?securi
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS35.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS36.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfig-1.usecharge.ir:443?mode=packet-up&amp;path=%2F%40ln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%80%A2%20%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@freakconfigm.plantgreen.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20%40FreakConfig
+ss://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfigs1.plantgreen.ir:443?mode=packet-up&amp;path=%2F%40ln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%80%A2%20%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15182?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
@@ -1621,12 +1621,12 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:31899?security=none&amp;encrypt
 ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15182?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#configkade%F0%9F%91%89%40proxystore11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#configkade%F0%9F%91%89%40proxystore11
 ss://YWVzLTI1Ni1nY206TnZTOE40VmY4cUFHUFNDTA%3D%3D@80.92.204.106:9046#configkade%F0%9F%91%89%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -2208,8 +2208,6 @@ ss://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@WWW.SPEEDTEST.NET:2086?path=%2FTelegra
 ss://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=xnsjsbsh-skcbdk.arashcamera.ir&amp;type=ws#%D8%AC%D9%88%D8%AC%D9%87+%D8%B3%D8%AE%D8%A7%D8%B1%DB%8C+%40freV2rayNG
 ss://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=holland.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&amp;type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG
 
-ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS22.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
-ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS23.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS24.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS25.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS26.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
@@ -2224,6 +2222,8 @@ ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS34.usecharge.ir:443?securi
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS35.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS36.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfig-1.usecharge.ir:443?mode=packet-up&amp;path=%2F%40ln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%80%A2%20%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@freakconfigm.plantgreen.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20%40FreakConfig
+ss://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfigs1.plantgreen.ir:443?mode=packet-up&amp;path=%2F%40ln2ray&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%80%A2%20%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.214.212.139:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.218.228.243:443#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#@awlix_ir
@@ -2341,8 +2341,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@54.154.249.205:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
-trojan://telegram-id-privatevpns@54.195.94.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@16.16.32.66:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@16.171.121.47:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@18.185.142.102:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
@@ -2358,6 +2356,8 @@ trojan://telegram-id-privatevpns@16.171.157.178:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@35.158.149.82:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@3.65.81.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@15.188.7.114:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
+trojan://telegram-id-privatevpns@13.36.148.9:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://telegram-id-privatevpns@18.168.68.7:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 
 
 
