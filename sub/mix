@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-19-Mar-2025 13:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-19-Mar-2025 14:42
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -313,6 +313,7 @@ vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?security=tls&amp;sni=oo
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.218.233.214:1009?type=tcp&amp;security=none#telegram 
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.220.151.127:1009?type=tcp&amp;security=none#telegram 
 
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS32.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS33.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS34.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS35.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
@@ -618,7 +619,6 @@ vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTE
 
 
 
-vless://ZEDMODEON--joinZEDMODEON@45.144.51.195:35036?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://ZEDMODEON--joinZEDMODEO…
 vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35036?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35036?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
@@ -635,6 +635,7 @@ vless://a261bb8d-7c28-4a38-ad6a-0e1b1949aec4@45.144.51.195:35036?mode=gun&amp;se
 vless://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
+vless://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
@@ -675,6 +676,7 @@ vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@WWW.SPEEDTEST.NET:2086?path=%2FTele
 vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=xnsjsbsh-skcbdk.arashcamera.ir&amp;type=ws#%D8%AC%D9%88%D8%AC%D9%87+%D8%B3%D8%AE%D8%A7%D8%B1%DB%8C+%40freV2rayNG
 vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=holland.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&amp;type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG
 
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS32.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS33.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS34.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS35.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
@@ -1323,6 +1325,7 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjExMC4xLjUxOjgwOTA=#%F0%9F%87%BA%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS52YXJ6ZXNoMzYwLmNvOjQ0Mw==#%F0%9F%87%A7%F0%9F%87%AD_BH_%E5%B7%B4%E6%9E%97_2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_4
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
+ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS32.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS33.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS34.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS35.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
@@ -2292,7 +2295,6 @@ ss://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2
 
 
 
-ss://ZEDMODEON--joinZEDMODEON@45.144.51.195:35036?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 ss://ZEDMODEON--joinZEDMODEO…
 ss://ZEDMODEON--ZEDMODEON@45.144.51.195:35036?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 ss://ZEDMODEON--ZEDMODEON@45.144.51.195:35036?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
@@ -2309,6 +2311,7 @@ ss://a261bb8d-7c28-4a38-ad6a-0e1b1949aec4@45.144.51.195:35036?mode=gun&amp;secur
 ss://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 ss://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 ss://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
+ss://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 ss://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 ss://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 ss://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
@@ -2350,6 +2353,7 @@ ss://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@WWW.SPEEDTEST.NET:2086?path=%2FTelegra
 ss://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=xnsjsbsh-skcbdk.arashcamera.ir&amp;type=ws#%D8%AC%D9%88%D8%AC%D9%87+%D8%B3%D8%AE%D8%A7%D8%B1%DB%8C+%40freV2rayNG
 ss://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=holland.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&amp;type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG
 
+ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS32.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS33.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS34.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
 ss://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS35.usecharge.ir:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mods.lnmarketplace.net#%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%20%40Freakconfig
@@ -2501,8 +2505,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@46.137.65.134:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
-trojan://telegram-id-privatevpns@54.228.199.58:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.48.81.193:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@16.16.10.249:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@63.176.124.197:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
@@ -2518,6 +2520,8 @@ trojan://telegram-id-privatevpns@51.20.233.15:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@3.123.117.245:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@3.77.136.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@51.44.31.130:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
+trojan://telegram-id-privatevpns@51.44.107.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://telegram-id-privatevpns@3.11.30.131:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 
 
 
