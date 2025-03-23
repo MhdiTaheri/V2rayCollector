@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-23-Mar-2025 22:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-23-Mar-2025 23:44
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -204,8 +204,6 @@ vless://b78fb3f5-e6a9-4e00-859f-3a886b19b394@mw2.niassa.ir:443?security=reality&
 vless://251b627e-857c-45c2-a90e-4de581f84b07@242232454.web-manage.com.tr:1521?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://16206e3f-18fe-421b-a5ef-606976e1e736@65.109.184.112:7642?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15650?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15182?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:31899?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:51773?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
@@ -215,6 +213,8 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15182?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:51773?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:31899?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15182?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
+vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@188.245.95.151:1520?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40SERVERNETT%20%201
+vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40SERVERNETT%20%202
 vless://d11859ff-fb2f-4204-a44e-f673ea709ca5@ipv6.proxystore11.news:443?mode=gun&amp;security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&amp;fp=chrome&amp;type=grpc&amp;serviceName=L6ocyVFZGNHz4gxKwgJ&amp;sni=www.afp.com&amp;sid=b5f32071b5f64f#1404%E2%9D%A4%EF%B8%8F
 vless://b0b6a34e-0c93-457c-abc8-99c0ab3afdb4@cname.proxystore11.news:443?mode=auto&amp;path=%2FAZFlrd5mM4sTe3tLTdYD&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=cdn1.proxystore11.news&amp;fp=chrome&amp;type=xhttp&amp;sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
 
@@ -498,7 +498,6 @@ vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTE
 
 
 
-vless://ZEDMODEON--joinZEDMODEON@217.61.20.228:55475?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://a3cd212e-65d4-4a20-b7be-64eebcef07c9@54.37.1.47:22724?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://a3cd212e-65d4-4a20-b7be-64eebcef07c9@54.37.1.47:22724?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 vless://5267a387-313f-4b36-a35a-4283ea111200@141.95.106.53:40813?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
