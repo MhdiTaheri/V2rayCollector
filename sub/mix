@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-24-Mar-2025 22:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-24-Mar-2025 23:44
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -187,6 +187,7 @@ vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@188.245.95.151:1520?security=none&a
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40SERVERNETT%20%202
 vless://d11859ff-fb2f-4204-a44e-f673ea709ca5@ipv6.proxystore11.news:443?mode=gun&amp;security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&amp;fp=chrome&amp;type=grpc&amp;serviceName=L6ocyVFZGNHz4gxKwgJ&amp;sni=www.afp.com&amp;sid=b5f32071b5f64f#1404%E2%9D%A4%EF%B8%8F
 vless://b0b6a34e-0c93-457c-abc8-99c0ab3afdb4@cname.proxystore11.news:443?mode=auto&amp;path=%2FAZFlrd5mM4sTe3tLTdYD&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=cdn1.proxystore11.news&amp;fp=chrome&amp;type=xhttp&amp;sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
+vless://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@cname.proxystore11.news:443?mode=auto&amp;path=%2FAZFlrd5mM4sTe3tLTdYD&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=cdn1.proxystore11.news&amp;fp=chrome&amp;type=xhttp&amp;sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -1022,6 +1023,7 @@ ss://eyJhZGQiOiJjbmFtZS5wcm94eXN0b3JlMTEubmV3cyIsImFpZCI6IjAiLCJhbHBuIjoiaDIiLCJ
 ss://b0b6a34e-0c93-457c-abc8-99c0ab3afdb4@cname.proxystore11.news:443?mode=auto&amp;path=%2FAZFlrd5mM4sTe3tLTdYD&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=cdn1.proxystore11.news&amp;fp=chrome&amp;type=xhttp&amp;sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
 ss://eyJhZGQiOiJjbmFtZS5wcm94eXN0b3JlMTEubmV3cyIsImFpZCI6IjAiLCJhbHBuIjoiaDMiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJjZG4xLnByb3h5c3RvcmUxMS5uZXdzIiwiaWQiOiJiMGI2YTM0ZS0wYzkzLTQ1N2MtYWJjOC05OWMwYWIzYWZkYjQiLCJuZXQiOiJ4aHR0cCIsInBhdGgiOiIvTHJqVTQxN1RXQnRLQ21NNHNUZTN0TFRkWUQiLCJwb3J0IjoiNDQzIiwicHMiOiJjb25maWdrYWRl8J+RiUBwcm94eXN0b3JlMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiY2RuMS5wcm94eXN0b3JlMTEubmV3cyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#configkade%F0%9F%91%89%40proxystore11
+ss://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@cname.proxystore11.news:443?mode=auto&amp;path=%2FAZFlrd5mM4sTe3tLTdYD&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=cdn1.proxystore11.news&amp;fp=chrome&amp;type=xhttp&amp;sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
 
 
 
@@ -1700,9 +1702,6 @@ trojan://telegram-id-privatevpns@13.50.188.15:22222?security=tls&amp;alpn=http%2
 
 
 
-trojan://telegram-id-privatevpns@13.49.39.150:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
-trojan://telegram-id-privatevpns@63.176.218.1:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
-trojan://telegram-id-privatevpns@3.73.6.39:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
 trojan://telegram-id-privatevpns@13.36.127.58:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@13.39.228.64:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@13.41.16.175:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
@@ -1718,6 +1717,8 @@ trojan://telegram-id-privatevpns@13.36.79.206:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@52.47.45.10:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://telegram-id-privatevpns@35.177.17.49:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://telegram-id-privatevpns@35.177.129.51:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
+trojan://telegram-id-privatevpns@54.195.170.13:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
+trojan://telegram-id-privatevpns@3.255.12.20:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
 
 
 
