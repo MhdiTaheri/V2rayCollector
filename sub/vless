@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-25-Apr-2025 06:33
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-25-Apr-2025 07:48
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -341,6 +341,24 @@ vless://d8b42cd5-a149-4356-9e61-30ad83662600@18.191.248.223:443?type=tcp&amp;sec
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@18.218.127.33:443?type=tcp&amp;security=none#telegram 
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@3.21.232.84:443?type=tcp&amp;security=none#telegram 
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@3.8.95.242:443?type=tcp&amp;security=none#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.156.187:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.169.225:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.89.149.20:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.221.91:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.159.129:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.111.243:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.184.173:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.215.21:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#telegram 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.67.12:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#telegram 
+vless://6654b6e4-8bb6-45a0-9a6d-ccc1e6f2fa67@tgju.org:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=enchANTINg-InjURy.oneEaT.cO.&amp;type=ws#telegram 
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:2096?encryption=none&amp;security=tls&amp;sni=RwQfYqAh14.tRaViQo.oRg&amp;type=ws&amp;alpn=h3h2&amp;host=RwQfYqAh14.tRaViQo.oRg&amp;path=/#telegram 
+vless://9e890a1c-9d35-4c6d-9fb3-222a6cc947f6@cloudgetservice.mcloudservice.site:443?type=ws&amp;encryption=none&amp;security=tls&amp;host=maXNetviPAP-us182.mAxneTsERViCEs.ONLinE&amp;path=/linkws?ed=2560&amp;sni=maXNetviPAP-us182.mAxneTsERViCEs.ONLinE#telegram 
+vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@www.speedtest.net:2053?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=app13.appdatanew2025g.lat&amp;fp=chrome&amp;type=ws&amp;sni=app13.appdatanew2025g.lat#telegram 
+vless://c9619867-f4a0-4f2c-a358-3d22db64dabc@abby.ns.cloudflare.com:443?path=%2Fwss&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=fari25.clodmolt3.com&amp;fp=chrome&amp;type=ws&amp;sni=fari25.clodmolt3.com#telegram 
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@18.189.141.177:443?type=tcp&amp;security=none#telegram 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811379163543512.bandar-shledrc-acau.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh34v7.ndomforvtr.shop:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram 
+vless://f9de2387-6edc-4f2b-b226-55dc2074dd62@tgju.org:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=CoolHeadeD-oPportunITY.OnEEAT.CO.&amp;type=ws#telegram 
 
 vless://5f6ff057-f685-4625-9ca0-b5828ccb2384@[0:0:0:0:0:ffff:9de6:644d]:2001?security=none&amp;seed=ec9e6ebd-2661-4a66-b83f-5ea98d58aef9&amp;encryption=none&amp;headerType=utp&amp;type=kcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://f3f48bd1-5f3c-47ce-bd04-3a9a2ccb51b8@FreakConfig.fastly80-3.hosting-ip.com:80?path=%2FjoinMTMVPN%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=mt.acvs.ir&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
