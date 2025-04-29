@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-29-Apr-2025 13:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-29-Apr-2025 14:43
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -341,6 +341,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&amp;secu
 vless://15f858a5-3b51-4fe1-a66b-39871f86cc3f@23.88.62.209:2089?security=reality&amp;encryption=none&amp;pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&amp;host=%2FTELEGRAM----%40MARAMBASHI----%40MARAMBASHI&amp;headerType=none&amp;fp=chrome&amp;spx=%2FJOIN_BEDE_CHANEL%40MARAMBASHI&amp;type=tcp&amp;sni=refersion.com&amp;sid=e3c5c005cae07eb8#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%202
@@ -1560,6 +1561,7 @@ ss://15f858a5-3b51-4fe1-a66b-39871f86cc3f@23.88.62.209:2089?security=reality&amp
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 
+ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%201
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%202
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%201
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%202
@@ -2399,7 +2401,6 @@ trojan://telegram-id-directvpn@56.228.39.94:22222?security=tls&amp;alpn=http%2F1
 
 
 
-trojan://telegram-id-privatevpns@63.177.205.118:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.68.13.148:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@51.44.93.221:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@35.181.250.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
@@ -2419,6 +2420,7 @@ trojan://telegram-id-privatevpns@35.181.213.0:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@13.43.40.160:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.203.219.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.181.111.2:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@35.176.132.196:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
 
 
 
