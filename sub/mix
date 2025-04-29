@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-29-Apr-2025 14:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-29-Apr-2025 16:00
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -355,7 +355,6 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2  همراه اول و بعضی از ایرانسلا
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
-vless://123dcf44-5cea-4076-896c-137ae3fc214b@cname.proxystore11.news:2087?path=%2Fprx11&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=panel.proxystore11.news&amp;fp=chrome&amp;type=ws&amp;sni=panel.proxystore11.news#prx11
 vless://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#MyAwesomeConfig
 vless://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?path=%2Fprx11&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=panel.proxystore11.news&amp;fp=chrome&amp;type=ws&amp;sni=panel.proxystore11.news#prx11-cdn-ws%7Cprx11
 vless://ffff9fa0-a8b5-4230-8f08-c139f9d08ffc@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#%F0%9F%8F%B3%EF%B8%8F+prx11+%F0%9F%8C%88%F0%9F%8C%BA%F0%9F%92%A5
@@ -370,6 +369,7 @@ vless://2ed5065e-e9cd-4602-bcc6-d863505bf44a@cname.proxystore11.news:8443?type=g
 vless://2ed5065e-e9cd-4602-bcc6-d863505bf44a@cname.proxystore11.news:8443?type=grpc&amp;serviceName=panel.proxystore11.news&amp;au…
 vless://02d94abd-9c13-4d62-8d2b-c5481884b4db@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#%F0%9F%87%A8%F0%9F%87%A6+prx11+%F0%9F%8E%88%F0%9F%92%96%E2%9C%A8
 vless://02d94abd-9c13-4d62-8d2b-c5481884b4db@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.n…
+vless://2d243e76-01c2-47c8-b700-0fe0964d8ef3@cname.proxystore11.news:8443?mode=multi&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=panel.proxystore11.news&amp;sni=panel.proxystore11.news#%F0%9F%87%A8%F0%9F%87%A6+prx11+%F0%9F%8C%88%F0%9F%8E%89%F0%9F%8C%BA
 
 
 
@@ -1575,7 +1575,6 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encrypt
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2  همراه اول و بعضی از ایرانسلا
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett1
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
-ss://123dcf44-5cea-4076-896c-137ae3fc214b@cname.proxystore11.news:2087?path=%2Fprx11&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=panel.proxystore11.news&amp;fp=chrome&amp;type=ws&amp;sni=panel.proxystore11.news#prx11
 ss://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#MyAwesomeConfig
 ss://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?path=%2Fprx11&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=panel.proxystore11.news&amp;fp=chrome&amp;type=ws&amp;sni=panel.proxystore11.news#prx11-cdn-ws%7Cprx11
 ss://ffff9fa0-a8b5-4230-8f08-c139f9d08ffc@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#%F0%9F%8F%B3%EF%B8%8F+prx11+%F0%9F%8C%88%F0%9F%8C%BA%F0%9F%92%A5
@@ -1590,6 +1589,7 @@ ss://2ed5065e-e9cd-4602-bcc6-d863505bf44a@cname.proxystore11.news:8443?type=grpc
 ss://2ed5065e-e9cd-4602-bcc6-d863505bf44a@cname.proxystore11.news:8443?type=grpc&amp;serviceName=panel.proxystore11.news&amp;au…
 ss://02d94abd-9c13-4d62-8d2b-c5481884b4db@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#%F0%9F%87%A8%F0%9F%87%A6+prx11+%F0%9F%8E%88%F0%9F%92%96%E2%9C%A8
 ss://02d94abd-9c13-4d62-8d2b-c5481884b4db@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.n…
+ss://2d243e76-01c2-47c8-b700-0fe0964d8ef3@cname.proxystore11.news:8443?mode=multi&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=panel.proxystore11.news&amp;sni=panel.proxystore11.news#%F0%9F%87%A8%F0%9F%87%A6+prx11+%F0%9F%8C%88%F0%9F%8E%89%F0%9F%8C%BA
 
 
 
@@ -2401,7 +2401,6 @@ trojan://telegram-id-directvpn@56.228.39.94:22222?security=tls&amp;alpn=http%2F1
 
 
 
-trojan://telegram-id-privatevpns@3.68.13.148:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@51.44.93.221:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@35.181.250.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@18.171.86.163:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
@@ -2421,6 +2420,7 @@ trojan://telegram-id-privatevpns@13.43.40.160:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@18.203.219.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.181.111.2:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@35.176.132.196:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S105)
+trojan://telegram-id-privatevpns@18.132.79.94:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
 
 
 
