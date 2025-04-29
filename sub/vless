@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-29-Apr-2025 23:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-30-Apr-2025 00:44
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -353,7 +353,6 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:36496?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:31579?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
-vless://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#MyAwesomeConfig
 vless://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?path=%2Fprx11&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=panel.proxystore11.news&amp;fp=chrome&amp;type=ws&amp;sni=panel.proxystore11.news#prx11-cdn-ws%7Cprx11
 vless://ffff9fa0-a8b5-4230-8f08-c139f9d08ffc@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#%F0%9F%8F%B3%EF%B8%8F+prx11+%F0%9F%8C%88%F0%9F%8C%BA%F0%9F%92%A5
 vless://0b2ed97a-7e08-48b5-828f-8f4d5274fd51@172.232.49.22:443?security=reality&amp;encryption=none&amp;pbk=mWAgFr9f7XHpYw5zk7LiYhPasyOhK-vAlqlf7iepL3I&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=test.salamrhbr.website&amp;sid=b2c46782098658#%F0%9F%87%AB%F0%9F%87%B7+prx11+%F0%9F%92%A5%F0%9F%8E%89%F0%9F%8C%88
@@ -775,6 +774,7 @@ vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTE
 
 
 
+vless://b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://f65fbb82-aae9-453a-a04f-ba09f36d1656@194.182.79.49:15450?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://53525369-63e2-4cff-8c85-09cd64f4cd25@194.182.79.108:50513?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
