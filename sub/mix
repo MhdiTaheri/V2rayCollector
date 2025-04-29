@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-29-Apr-2025 22:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-29-Apr-2025 23:47
 
 
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?path=/MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss7x.iR&amp;type=ws#%40MSV2RAY+%F0%9F%87%A9%F0%9F%87%AA+ws
@@ -341,8 +341,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&amp;secu
 
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%202
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%201
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:31086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:47766?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:47766?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett  همراه اول و بعضی از ایرانسلا
@@ -353,6 +351,8 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2  همراه اول و بعضی از ایرانسلا
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:36496?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:31579?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 vless://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#MyAwesomeConfig
 vless://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?path=%2Fprx11&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=panel.proxystore11.news&amp;fp=chrome&amp;type=ws&amp;sni=panel.proxystore11.news#prx11-cdn-ws%7Cprx11
 vless://ffff9fa0-a8b5-4230-8f08-c139f9d08ffc@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#%F0%9F%8F%B3%EF%B8%8F+prx11+%F0%9F%8C%88%F0%9F%8C%BA%F0%9F%92%A5
@@ -775,9 +775,6 @@ vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTE
 
 
 
-vless://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
-vless://b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
-vless://b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://f65fbb82-aae9-453a-a04f-ba09f36d1656@194.182.79.49:15450?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://53525369-63e2-4cff-8c85-09cd64f4cd25@194.182.79.108:50513?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
@@ -789,6 +786,7 @@ vless://62d8756d-6f8b-4ddb-96fc-a97e001642b8@194.182.79.108:50513?mode=gun&amp;s
 vless://bb76e4c5-1508-4f64-be2a-2e404c1595e3@167.99.46.243:19506?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://9df596dc-cfda-4ca1-8f29-cdb9e0b1f4b2@194.182.79.11:33900?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#l%20%F0%9F%87%A8%F0%9F%87%BF
 vless://9806a178-3232-4366-8368-6bbefeab18d9@194.182.79.158:23721?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
+vless://0070dec0-2ed6-4fd4-a904-b56d27153b74@194.182.79.158:23721?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%BF
 
 vless://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 vless://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
@@ -1563,8 +1561,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0
 
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%201
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%202
-ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%201
-ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20%202
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:31086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:47766?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:47766?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett  همراه اول و بعضی از ایرانسلا
@@ -1575,6 +1571,8 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encrypt
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2  همراه اول و بعضی از ایرانسلا
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett1
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
+ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:36496?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
+ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:31579?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 ss://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#MyAwesomeConfig
 ss://c0313f79-308d-4f72-9552-0a63bc89caf7@cname.proxystore11.news:2087?path=%2Fprx11&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=panel.proxystore11.news&amp;fp=chrome&amp;type=ws&amp;sni=panel.proxystore11.news#prx11-cdn-ws%7Cprx11
 ss://ffff9fa0-a8b5-4230-8f08-c139f9d08ffc@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=panel.proxystore11.news&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=panel.proxystore11.news#%F0%9F%8F%B3%EF%B8%8F+prx11+%F0%9F%8C%88%F0%9F%8C%BA%F0%9F%92%A5
@@ -2160,9 +2158,6 @@ ss://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2
 
 
 
-ss://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
-ss://b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
-ss://b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 ss://b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 ss://f65fbb82-aae9-453a-a04f-ba09f36d1656@194.182.79.49:15450?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 ss://53525369-63e2-4cff-8c85-09cd64f4cd25@194.182.79.108:50513?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
@@ -2174,6 +2169,7 @@ ss://62d8756d-6f8b-4ddb-96fc-a97e001642b8@194.182.79.108:50513?mode=gun&amp;secu
 ss://bb76e4c5-1508-4f64-be2a-2e404c1595e3@167.99.46.243:19506?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 ss://9df596dc-cfda-4ca1-8f29-cdb9e0b1f4b2@194.182.79.11:33900?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#l%20%F0%9F%87%A8%F0%9F%87%BF
 ss://9806a178-3232-4366-8368-6bbefeab18d9@194.182.79.158:23721?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
+ss://0070dec0-2ed6-4fd4-a904-b56d27153b74@194.182.79.158:23721?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%BF
 
 ss://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 ss://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
@@ -2399,7 +2395,6 @@ trojan://telegram-id-directvpn@56.228.39.94:22222?security=tls&amp;alpn=http%2F1
 
 
 
-trojan://telegram-id-privatevpns@13.51.141.15:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 trojan://telegram-id-privatevpns@13.51.11.214:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@3.77.141.155:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@18.195.6.32:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
@@ -2419,6 +2414,7 @@ trojan://telegram-id-privatevpns@16.170.30.154:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@51.21.207.157:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
 trojan://telegram-id-privatevpns@54.93.204.39:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.37.10.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@52.47.131.158:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 
 
 
