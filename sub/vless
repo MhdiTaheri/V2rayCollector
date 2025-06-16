@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-16-Jun-2025 12:48
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-16-Jun-2025 13:47
 
 vless://0a339f8e-fca7-4d86-a302-3e92e5332274@abtun.f-sub.com:5969?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#Iran%20%2B
 vless://0a339f8e-fca7-4d86-a302-3e92e5332274@vip-82.f-sub.cfd:5969?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#Iran%20%2B%20%282%29
@@ -24,7 +24,6 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=st
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=kavir.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=kavir.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=kavir.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=kavir.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 
-vless://Server-nett@62.60.221.201:43496?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40ServerNett%20Channel
@@ -64,7 +63,13 @@ vless://fc6395b9-8060-41b2-82f1-a55419093fe9@usa-join.outline-vpn.fun:443?mode=g
 
 
 
-
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=hozori.ir&amp;fp=randomized&amp;type=ws&amp;sni=hOZori.iR#IRAN%201%20%28%40Outline_Vpn%29
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;fp=randomized&amp;type=ws&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#IRAN%202%20%28%40Outline_Vpn%29
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=hozori.ir&amp;fp=randomized&amp;type=ws&amp;sni=hOZori.iR#IRAN%203%20%28%40Outline_Vpn%29
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=Wv2NhB0hVh.SoLiJoNiTo.CoM&amp;type=ws&amp;sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#IRAN%205%20%28%40Outline_Vpn%29
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=Wv2NhB0hVh.SoLiJoNiTo.CoM&amp;type=ws&amp;sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#IRAN%205%20%28%40Outline_Vpn%29
+vless://7d05d766-4f45-455e-b789-70253ec34b8f@104.21.69.44:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah12.ai351.com&amp;fp=chrome&amp;type=ws&amp;sni=ah12.ai351.com#IRAN%208%20%28%40Outline_Vpn%29
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&amp;encryption=none&amp;pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#IRAN%2010%20%28%40Outline_Vpn%29
 
 
 vless://979e4105-7b3a-4ce9-9fdf-992687869d1e@138.197.13.193:443?security=reality&amp;encryption=none&amp;pbk=xxBt4wWYurbjkEOZ1N4T1lOH9enyJ1GHdAynjdsw0hQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=zula.ir&amp;sid=7d5b4f2ce8bbef8b#%40V2rayNG3
