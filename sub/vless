@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-18-Jun-2025 14:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-18-Jun-2025 16:01
 
 
 
@@ -63,6 +63,9 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443?path=%2F&amp;secu
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=Wv2NhB0hVh.SoLiJoNiTo.CoM&amp;type=ws&amp;sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#IRAN%205%20%28%40Outline_Vpn%29
 vless://7d05d766-4f45-455e-b789-70253ec34b8f@104.21.69.44:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah12.ai351.com&amp;fp=chrome&amp;type=ws&amp;sni=ah12.ai351.com#IRAN%208%20%28%40Outline_Vpn%29
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&amp;encryption=none&amp;pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#IRAN%2010%20%28%40Outline_Vpn%29
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws#IRAN%2010%20%28%40Outline_Vpn%29%20Free
+vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.17.104.45:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=lot.sosant.dpdns.org&amp;type=ws#IRAN%2012%20%28%40Outline_Vpn%29%20Free
+vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=lot.sosant.dpdns.org&amp;type=ws#IRAN%2014%20%28%40Outline_Vpn%29%20Free
 
 
 vless://979e4105-7b3a-4ce9-9fdf-992687869d1e@138.197.13.193:443?security=reality&amp;encryption=none&amp;pbk=xxBt4wWYurbjkEOZ1N4T1lOH9enyJ1GHdAynjdsw0hQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=zula.ir&amp;sid=7d5b4f2ce8bbef8b#%40V2rayNG3
@@ -206,12 +209,11 @@ vless://293dbd19-eaec-43f0-dcde-2944af021dd4@cdn.learniran.xyz:8880?path=%2Ftele
 
 
 
-vless://9d1431ab-5434-4b6f-9205-15073cffb3b4@213.176.121.53:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
-vless://742a8c7b-6c96-418c-8d0f-c8f49ff7d257@sun3.webbaz.pw:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://24278215-ac03-4420-9f6e-3bfb73bd1362@c.ag.irnservers.top:37584?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=tannaz.juveitaly.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=tannaz.juveitaly.dpdns.org#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=tannaz.juveitaly.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=tannaz.juveitaly.dpdns.org#All%20net%20%7C%20telegram%3A%40…
 vless://2fc23c7e-e143-49b3-87ad-5aa6a5641a48@140.248.125.9:80?mode=auto&amp;path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=biantoZedmodeonyour-name.global.ssl.fastly.net&amp;type=xhttp#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
+vless://5a507104-1cb4-4cd3-ab7e-3b10d400016e@140.248.125.12:80?mode=auto&amp;path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=zedmodeon1.global.ssl.fastly.net&amp;type=xhttp#All%20net%20%7C%20telegram%3A%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12%20%40ultrasurf_12
+vless://5a507104-1cb4-4cd3-ab7e-3b10d400016e@140.248.125.12:80?mode=auto&amp;path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON…
 
 vless://0c70e45e-2019-4fbc-9ed0-b8f4eb5c276f@all.mdvpnsec.cfd:443?type=ws&amp;path=%2F=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#All | @ghalagyann
 vless://300350fe-9d0f-4cb8-9681-d1fc9a2e40d2@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#All | @ghalagyann
@@ -305,8 +307,6 @@ vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?security=&amp;
 vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none#@awlix_i
 
 
-vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN
-vless://92669584-6357-4c04-88da-60c1b1ea953d@ips.configforvpn.fun:8080?path=%2Fh&amp;security=none&amp;encryption=none&amp;host=best.configforvpn.fun&amp;type=ws#%40ConfigforVPN
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
