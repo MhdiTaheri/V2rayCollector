@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-07-Jul-2025 18:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-07-Jul-2025 19:50
 
 
 
@@ -106,6 +106,28 @@ ss://e114a125-f523-41e3-b758-79a686f5395c@104.16.198.192:8080?path=%2F%3Fed%3D20
 ss://57ac40b6-c9cd-4d4f-935c-545b65d8df39@91.99.236.78:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#telegram 
 ss://4478ddfb-03c7-4b55-b894-5ffb8061b8b0@45.79.180.113:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#telegram 
 ss://4d91916f-a7fd-419b-8b90-640bb8d1b9f9@188.114.97.1:443?path=/hdGrwMixBIpEea8I/MTguMTcwLjc3LjE0OA==?ed%3D2560&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;host=myphotomoments.ir&amp;fp=randomized&amp;type=ws&amp;sni=MypHOtomoments.iR#telegram 
+ss://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.8.156:443?security=tls&amp;sni=yx.yushan.dpdns.org&amp;type=ws&amp;host=yx.yushan.dpdns.org&amp;path=%2F%3Fed%3D2560&amp;fp=random#telegram 
+ss://b25c9401-2854-49da-86f0-fe0f06ad256a@91.99.170.29:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#telegram 
+ss://c997eaff-4bab-4fff-92e5-8e14dc248dc4@www.speedtest.net:443?type=ws&amp;encryption=none&amp;security=tls&amp;host=mAxNEtVIP-cLGERvIP146.MaxneTcloUdSerViCE.Com&amp;path=/linkws?ed=2560&amp;sni=mAxNEtVIP-cLGERvIP146.MaxneTcloUdSerViCE.Com#telegram 
+ss://fd7ef777-55be-43fe-8462-ea0cd549be5a@104.18.26.90:2096?encryption=none&amp;security=tls&amp;sni=638874931195359438.kish-prx-dnraaaf.info&amp;type=ws&amp;alpn=h3h2&amp;host=638874931195359438.kish-prx-dnraaaf.info&amp;path=/rlogcews#telegram 
+ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.205.166:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#telegram 
+ss://f61f3543-5321-4a74-adfc-d716e23d1b57@fun.120v.ac:2059?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#telegram 
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.187.235:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#telegram 
+ss://52c68cd9-5e34-4cd5-8345-e3746c5fd703@208.83.237.169:443?type=xhttp&amp;path=%2Frfgthj&amp;host=&amp;mode=stream-one&amp;security=none#telegram 
+ss://d35de3c2-6a41-496e-a4e1-b36bda1a8cac@137.220.61.251:443?type=xhttp&amp;path=%2Fhyui&amp;host=&amp;mode=stream-one&amp;security=none#telegram 
+ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.107.209.113:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#telegram 
+ss://7b2fac0c-3b65-4253-8247-266cbff3dde5@188.245.101.3:443?security=&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#telegram 
+ss://306e217d-e75e-45b2-8a78-da78f13e3e2d@207.246.97.154:443?type=xhttp&amp;path=%2Frfghj&amp;host=&amp;mode=stream-one&amp;security=none#telegram 
+ss://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&amp;path=%2Ftas&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=akbar.tas-bazi.com&amp;fp=firefox&amp;type=xhttp&amp;sni=akbar.tas-bazi.com#telegram 
+ss://8657fada-f21d-422b-9a2d-3c47d93c11bd@91.99.227.239:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#telegram 
+ss://eyJhZGQiOiI5MS45OS4xODcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTM4MmQ3MmYtNjUwOS00ZDE2LWFhZTctYzY3MTIxYzczNmRjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NjE5OSIsInBzIjogInRlbGVncmFtIOKaoe+4jyBEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjq8gRGFpbHlWMnJ5IiwiYWRkIjoid3d3Lm1ldGVyLm5ldCIsInBvcnQiOjIwODMsImlkIjoiYzIwOGUwYWUtNmY2ZC00NzQ1LTk5ZGEtNDRhNDQ3NDRjNTMwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYmxhemUtZ2VyLTI0OC5ibGF6ZWNsb3VkbWFpbi5zaXRlIiwicGF0aCI6IlwvbGlua3dzcnQ/ZWQ9MjU2MCIsInRscyI6InRscyJ9
+ss://4bf96dd2-f451-4938-8fa4-1a2251290920@216.128.147.21:443?type=xhttp&amp;path=%2F7uj65&amp;host=&amp;mode=stream-one&amp;security=none#telegram 
+ss://a689e172-6e61-4773-adfb-8fa7665e4556@91.99.194.113:443?security=&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#telegram 
+ss://eff43056-c514-4cf3-ba74-5f2402638098@89.144.145.194:33806?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=www.speedtest.netتعداد#telegram 
+ss://5c0f9677-f305-4d2f-b000-0f40f173b3fe@104.16.198.192:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ArtfuL-Noise.onEeat.Co.&amp;type=ws#telegram 
+ss://4ee5e660-17c3-4bd9-a314-8a9efe7d3250@104.16.198.192:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=inTENTIonal-DecisION.SpOrTLanD.cOMpANY.&amp;type=ws#telegram 
+ss://bf0a7d83-7dfa-4eb8-a671-350c4dcff4cc@104.16.198.192:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=culTiVAtEd-PoST.oNEEAt.CO.&amp;type=ws#telegram 
 ss://eyJhZGQiOiIxMDQuMjYuOC4yMTAiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8xIiwicG9ydCI6IjQ0MyIsImlkIjoiMjA2MjU5ZmQtMDlhZi00NmVlLWVjNmQtNWFjOGE4MjkxZDZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXloZ2l1eWZld2RyZ2YtdG8xMjM0NS54aWFvaGhoLnh5eiIsInRscyI6InRscyIsInBhdGgiOiIvNjYifQ==
 ss://eyJhZGQiOiIxNzIuNjcuMTE2LjQ4IiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm71fMiIsInBvcnQiOiI4MCIsImlkIjoiMjJhMTNhYTItNDg1NC00NGNiLWUwOTAtZWM3MWFiODRiMWZmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid2FwLmhvc3RtamouY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
 ss://eyJhZGQiOiJkZGQ0NzQ4MS0wZDZmLTA4YjktNzIwOS1iMGRkYzBjNWZhNDUub25lcGx1cy5wdWIiLCJ2IjoyLCJwcyI6InVuZGVmaW5lZCB1bmRlZmluZWQgMSIsInBvcnQiOiI4MCIsImlkIjoiNDZjZmNmZTEtZTQ1MC00NTlkLWEzYWItOTQwNjAxMWFiM2ViIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsInRscyI6IiIsInBhdGgiOiIvIn0=
@@ -156,6 +178,7 @@ ss://f5df91f5-01df-4316-8613-e392df98c607@cname.proxystore11.news:2087?type=ws&a
 ss://f5df91f5-01df-4316-8613-e392df98c607@cname.proxystore11.news:2087?type=ws&amp;path=%2Fprx11&amp;host=prx11.proxystore11.news&amp;s…
 ss://eyJhZGQiOiJnZXJtYW55LXNvbHV0aW9uLmJuaXdyaW5nLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGl2YXJjZG4uY29tIiwiaWQiOiIzNDc0ZWJhOS02ZjQ2LTQxNGMtYTk0Zi1iZjI3OTI4YTY0YTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNzk3NyIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IHByeDExIFx1ZDgzZFx1ZGQyNVx1ZDgzY1x1ZGYzYVx1ZDgzY1x1ZGYwOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://eyJhZGQiOiJnZXJtYW55LXNvbHV0aW9uLmJuaXdyaW5nLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGl2YXJjZG4uY29…
+ss://aaf7709c-4f6a-45d4-8c79-e9917dfca010@Irancloud.okamii.ir:2095?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F+prx11+%F0%9F%92%96%F0%9F%8C%9F%F0%9F%94%A5
 
 
 
@@ -719,7 +742,8 @@ ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&am
 ss://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
 ss://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29nLnNoYWhpbm5ldC5zaG9wIiwiaWQiOiI5NjU4ODkxMi0zYmNiLTQ5MWMtOGNlMy03YTk2NWJiZWMwN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
+ss://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=sib.sibzamini.dpdns.org&amp;path=%2F%3Fed%3D2560%2F#Telegram%3A%20%40inikotesla
+ss://913a8cd8-11ab-4d16-a6f7-c7b88d7a592e@91.99.194.113:10195/?encryption=none&amp;flow=&amp;host=exo.ir&amp;type=tcp&amp;headerType=http#Telegram%3A%20%40inikotesla
 
 
 ss://b41d5ac0-ed33-47cd-84c5-406471554f5d@ir-1.parsroute.net:15015?type=tcp&amp;security=none#%F0%9F%87%A9%F0%9F%87%AA-ParsRoute-500G%22FREE
