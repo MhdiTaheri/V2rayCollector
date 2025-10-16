@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-17-Oct-2025 00:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-17-Oct-2025 01:42
 
 
 vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&amp;host=http-fast-de-speedtest.xqfactor.ir.&amp;path=/MsV2ray?ed%3D80&amp;security=none#%F0%9F%87%A9%F0%9F%87%AA%7C%20All%20-%20@MsV2ray
@@ -213,20 +213,6 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.171.77.120:443?encryption=none&a
 vless://f7b76ca0-b403-4dd1-e8a8-4a22937340d3@159.65.120.74:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#telegram 
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#telegram 
 
-vless://2988936d-3c33-4572-900c-40df2c63faa0@nl.horizongatex.org:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=nl.horizongatex.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058862147.stockholm-prx-dnraacm.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=book.smnsoft.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@45.15.170.183:443?security=reality&amp;encryption=none&amp;pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mirror.yandex.ru&amp;sid=916a#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
-vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://b70eccf5-3624-4145-9ed1-ef7f422b5ec6@bebe1wfmee07.dxdx5.com:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=qlO2u5XFcovPRx2OYUzPo5apnzKOyoaJo2kQSikkpnQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=Tel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAY&amp;sni=tgju.org&amp;sid=0e33#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?security=reality&amp;encryption=none&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.company-target.com#%F0%9F%87%AE%F0%9F%87%B9%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&amp;security=&amp;encryption=none&amp;fp=chrome&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
@@ -303,6 +289,12 @@ vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&amp;path=%2F&amp;sec
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058862147.stockholm-prx-dnraacm.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938161486112816.warsaw-prx-dnraacl.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462896164.neyshabur-prx-dnraacr.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://join--ELiV2RAY@crocodilesrver.ir:8443?type=tcp&amp;encryption=none&amp;security=reality&amp;pbk=7BoCcBCb-cYVcE_3z3qcF-ZzOlezFqR-NkwkecMC6A8&amp;fp=chrome&amp;sni=google.com&amp;sid=930fb8b1d8aac565&amp;spx=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY%3Fed%3D2560#
 vless://jjoin-ELiV2RAY@crocodilesrver.ir:8443?type=tcp&amp;encryption=none&amp;security=reality&amp;pbk=7BoCcBCb-cYVcE_3z3qcF-ZzOlezFqR-NkwkecMC6A8&amp;fp=chrome&amp;sni=google.com&amp;sid=930fb8b1d8aac565&amp;spx=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY%3Fed%3D2560#
 vless://jjoin-ELiV2RAY@crocodilesrver.ir:8443?type=tcp&amp;encryption=none&amp;security=reality&amp;pbk=7BoCcBCb-cYVcE_3z3qcF-ZzOlezFqR-NkwkecMC6A8&amp;fp=chrome&amp;sni=google.…
@@ -687,6 +679,7 @@ vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&a
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&amp;encryption=none&amp;pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&amp;host=%C3%97http&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=46ef6b9bc8#Latvia%20RU%20VDS
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443?security=reality&amp;encryption=none&amp;pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&amp;headerType=none&amp;fp=chrome&amp;spx=%2F%40sinavm&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sto.eu-ffast.com&amp;sid=50#Sweden%20Alexhost
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430524.neyshabur-drc-tusacaf.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#Lithuania%20WorkTitans
+vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;type=ws#Japan%20Pq%20hosting%20plus
 vless://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?security=reality&amp;encryption=none&amp;pbk=RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU&amp;host=divarcdn.com&amp;headerType=http&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=ec01ceda#1
 vless://4de73a98-0f31-4d2c-b845-fcb7a2bbe9bb@134.209.205.173:4000?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=WvWpvjm0ynTr6YCICH5TmTEKicAq0JNGEZDWZvApgRM&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=zula.ir&amp;sid=d9ed58fe#2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#3
@@ -835,7 +828,6 @@ vless://Parsashonam-Bot-7@104.17.147.22:8080?type=ws&amp;path=%2FParsashonam-Par
 
 
 
-vless://2d0c13f6-5b99-4ed8-9f88-3a6972f85e9f@141.227.168.52:33288?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All%20net%20telegram%3A%40ultrasurf_12
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=wd.pdri.blog&amp;fp=firefox&amp;type=ws&amp;sni=wd.pdri.blog#All%20net%20telegram%3A%40ultrasurf_12
 vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#All%20net%20telegram%3A%40ultrasurf_12
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#All%20net%20telegram%3A%40ultrasurf_12
@@ -873,20 +865,6 @@ vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@abdzgg.teemazad.com:37062?security=
 vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?path=%2Flogin%2Fazaronline.com%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=mehrab.mojtabajeab.ir#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-vless://2988936d-3c33-4572-900c-40df2c63faa0@nl.horizongatex.org:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=nl.horizongatex.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058862147.stockholm-prx-dnraacm.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=book.smnsoft.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@45.15.170.183:443?security=reality&amp;encryption=none&amp;pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mirror.yandex.ru&amp;sid=916a#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
-vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://b70eccf5-3624-4145-9ed1-ef7f422b5ec6@bebe1wfmee07.dxdx5.com:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=qlO2u5XFcovPRx2OYUzPo5apnzKOyoaJo2kQSikkpnQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=Tel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAY&amp;sni=tgju.org&amp;sid=0e33#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?security=reality&amp;encryption=none&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.company-target.com#%F0%9F%87%AE%F0%9F%87%B9%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&amp;security=&amp;encryption=none&amp;fp=chrome&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
@@ -963,6 +941,12 @@ vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&amp;path=%2F&amp;sec
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058862147.stockholm-prx-dnraacm.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938161486112816.warsaw-prx-dnraacl.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462896164.neyshabur-prx-dnraacr.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.151:443?security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;fp=chrome&amp;type=ws&amp;path=/?ed%3D2560&amp;host=a.xn--i-sx6a60i.us.kg&amp;encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?security=&amp;sni=a.mifeng.us.kg&amp;type=ws&amp;path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed%3D2048&amp;host=a.mifeng.us.kg&amp;encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;path=/?ed%3D2560&amp;host=a.xn--i-sx6a60i.us.kg&amp;encryption=none#@awlix_ir
