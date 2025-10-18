@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-18-Oct-2025 06:54
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-18-Oct-2025 07:47
 
 
 vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&amp;host=http-fast-de-speedtest.xqfactor.ir.&amp;path=/MsV2ray?ed%3D80&amp;security=none#%F0%9F%87%A9%F0%9F%87%AA%7C%20All%20-%20@MsV2ray
@@ -202,6 +202,20 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.67.225.188:25670?encryption=none&
 vless://466446e5-8e84-4672-8670-efc9cafcd2cc@best.cdniran.info:443?security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;sni=q1.darkshoping.com#telegram 
 vless://9d650d7b-61ac-4b3f-b017-a937236c448c@91.99.226.71:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#telegram 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.132.17.249:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#telegram 
+vless://466446e5-8e84-4672-8670-efc9cafcd2cc@best.cdniran.info:443?security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;sni=q1.darkshoping.com#telegram 
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.71.10.184:25670?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#telegram 
+vless://9d650d7b-61ac-4b3f-b017-a937236c448c@91.99.226.71:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#telegram 
+vless://8a8eee2b-a5f2-4f43-a66a-f46649e9541f@142.202.51.35:443?encryption=none&amp;security=reality&amp;sni=www.google.co.uk&amp;fp=safari&amp;pbk=nQjemEh2i4EeKyukY5kFHMDLtjsRnFTec-qGfh3nf08&amp;sid=c8eec2c5f6b20b5f&amp;type=grpc&amp;serviceName=c1518673d0f038121d2ad60b#telegram 
+vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#telegram 
+vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&amp;security=tls&amp;sni=condor.zulair.site&amp;fp=chrome&amp;alpn=h3,h2&amp;type=ws&amp;path=/&amp;host=condor.zulair.site#telegram 
+vless://47134234-9a13-4a90-a75a-826f922497f6@138.199.159.218:443?type=ws&amp;encryption=none&amp;security=&amp;host=138.199.159.218&amp;path=/linkws?ed=2560&amp;sni=#telegram 
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.70.127.112:25670?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#telegram 
+vless://16e23caa-070c-4c95-915e-7f8cf19159e4@134.122.70.230:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#telegram 
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.43.87.163:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#telegram 
+vless://eeab2e9e-bdf6-4490-b941-2235ee077aab@104.16.53.11:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=CerebrAL-fish.ONeEaT.Co.&amp;type=ws#telegram 
+vless://14bd17f3-98e8-4677-a9bf-05f33b5d08fa@38.54.32.166:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=www.paypal.com&amp;pbk=G1PSmMPJBmcOHfGR9ZKOoTWLKdo2k2ykliRlL-sb6UU&amp;fp=chrome#telegram 
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.132.40.174:443?encryption=none&amp;security=reality&amp;sni=store.steampowered.com&amp;fp=chrome&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;sid=f5&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;spx=%2F#telegram 
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.215.183.123:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#telegram 
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=%40MARAMBASHI%20%F0%9F%98%8D%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
