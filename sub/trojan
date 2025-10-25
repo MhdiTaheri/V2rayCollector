@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-25-Oct-2025 02:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-25-Oct-2025 04:37
 
 
 
@@ -45,14 +45,10 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp
 
 
 
-trojan://amclubs@103.160.204.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;host=tran.amclubstest.nyc.mn&amp;type=ws&amp;sni=tran.amclubstest.nyc.mn#@V2rayNG3
-trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x2swe-ovh.devefun.net#@V2rayNG3
-trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x1ch-ovh.devefun.net#@V2rayNG3
-trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x1es-ovh.devefun.net#@V2rayNG3
-trojan://eG92F3gh09@51.15.86.181:1935?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=x1ams-scaleway.devefun.net#@V2rayNG3
-trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x1fr-ovh.devefun.net#@V2rayNG3
-trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&amp;security=none&amp;host=redfree8-p1.pooriashop.ir&amp;type=ws#@V2rayNG3
-trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&amp;security=none&amp;host=redfree8-p1.pooriashop.ir&amp;type=ws#@V2rayNG3
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus01.weyaf9sdoh2h.space#@V2rayNG3
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#@V2rayNG3
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus02.weyaf9sdoh2h.space#@V2rayNG3
+trojan://VPmCIAvcdW@167.235.143.230:30000?type=tcp&amp;security=none#@V2rayNG3
 
 
 
@@ -79,16 +75,13 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?security=tls&amp;hea
 
 
 
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%AA%9E85%40ConfigV2RayNG
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus01.weyaf9sdoh2h.space#%E2%8F%B068%40ConfigV2RayNG
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;fp=firefox&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%E2%99%A8%EF%B8%8F61%40ConfigV2RayNG
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus03.weyaf9sdoh2h.space#%E2%8F%B066%40ConfigV2RayNG
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus05.weyaf9sdoh2h.space#%E2%8F%B063%40ConfigV2RayNG
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus04.weyaf9sdoh2h.space#%E2%8F%B065%40ConfigV2RayNG
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus02.weyaf9sdoh2h.space#%E2%8F%B064%40ConfigV2RayNG
 trojan://3BLPOJr3OY@pl.scpnb.top:50191?security=reality&amp;pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&amp;fp=chrome&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=2e#%F0%9F%8D%AA37%40ConfigV2RayNG
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus05.weyaf9sdoh2h.space#%E2%8F%B063%40ConfigV2RayNG
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=glowingpickle.bananatornado.click#%E2%9C%85%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-trojan://D%2BelR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=fluxfloss.click#%E2%9B%B0%EF%B8%8F59%40ConfigV2RayNG
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus04.weyaf9sdoh2h.space#%E2%8F%B065%40ConfigV2RayNG
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus03.weyaf9sdoh2h.space#%E2%8F%B066%40ConfigV2RayNG
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;fp=firefox&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%E2%99%A8%EF%B8%8F61%40ConfigV2RayNG
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%AA%9E85%40ConfigV2RayNG
 
 
 
