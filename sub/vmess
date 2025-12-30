@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-30-Dec-2025 08:05
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-30-Dec-2025 08:50
 
 
 
@@ -130,10 +130,12 @@ vmess://eyJhZGQiOiI5MS45OS4xNTAuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiI1MS43OS42OS4yMDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWY0ZGM3OTktZmEwZC00N2EwLTk0NmItOGFkMGVmNTYyMDk1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NTAiLCJwcyI6IkBWMnJheU5HMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDMuOTcuMjAzLjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidC5tZS92MkxpbmUiLCJpZCI6IjllMGU4M2NhLTBmYmMtNDRiMS04MDI0LTBlYjhmOTQxNDE1NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2NXNrZzJsOCIsCiAgImFkZCI6ICI3Ny40Mi43Ny42NiIsCiAgInBvcnQiOiA0MDEwMCwKICAiaWQiOiAiNzNmZWVlZDYtOWE0MC00NWIwLWEyNmQtODQ3NzBmNWYwNWZkIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
-vmess://9855f1f0-a800-40d4-8b38-c7d3eb79302d@94.131.108.36:443?type=ws&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM1
-vmess://e6395c20-4571-4b34-d6b1-55a5d36e49ea@hgtrojan.zabc.net:2083?security=tls&amp;sni=hgtrojan.zabc.net&amp;type=ws&amp;host=hgtrojan.zabc.net&amp;path=/e6395c20&amp;packetEncoding=xudp#https://t.me/ShadowsocksM86
-vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?packetEncoding=xudp#https://t.me/ShadowsocksM90
-vmess://d24c499b-3b25-441e-9c6e-b12421a91041@66.253.7.178:20521?type=ws&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM98
+vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?packetEncoding=xudp#https://t.me/ShadowsocksM209
+vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?packetEncoding=xudp#https://t.me/ShadowsocksM211
+vmess://1f2daf43-ff90-4df9-9276-dfb8486d72bc@n1761214915.mv7wh.tech:443?security=tls&amp;sni=n1761214915.mv7wh.tech&amp;type=ws&amp;host=n1761214915.mv7wh.tech&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM215
+vmess://372c1939-299d-4946-9633-5ffa971f8b67@n1761214911.74qxv.top:443?security=tls&amp;sni=n1761214911.74qxv.top&amp;type=ws&amp;host=n1761214911.74qxv.top&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM218
+vmess://372c1939-299d-4946-9633-5ffa971f8b67@n1761214911.74qxv.top:443?security=tls&amp;sni=n1761214911.74qxv.top&amp;type=ws&amp;host=n1761214911.74qxv.top&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM220
+vmess://1f2daf43-ff90-4df9-9276-dfb8486d72bc@n1761214915.mv7wh.tech:443?security=tls&amp;sni=n1761214915.mv7wh.tech&amp;type=ws&amp;host=n1761214915.mv7wh.tech&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM221
 
 vmess://eyJhZGQiOiI2Mi42MC4xNzUuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiNWVmM2ZhOGUtNzE3ZC00NDI2LWFhMDYtYTE5MGM4NGEwZmQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MCIsInBzIjoiQHYycmF5YW4g8J+YmPCfmIoiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
