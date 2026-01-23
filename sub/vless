@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-23-Jan-2026 08:08
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-23-Jan-2026 08:53
 
 
 vless://e48b0bd4-8ddb-4901-9244-9bfca2d65d75@104.18.32.47:2053?encryption=none&amp;security=tls&amp;sni=Khamenei.FastCon.Store&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=Khamenei.FastCon.Store&amp;path=%2FMsV2ray#@MsV2ray
@@ -688,8 +688,8 @@ vless://6b0ba493-98ac-4436-9b27-af65318c1fe1@104.17.148.22:8880?path=%2F&amp;sec
 vless://38557b1f-49e9-4a33-990d-8209e69ef2be@cdn.turbooserver.com:80?mode=packet-up&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=data.server-abr.net&amp;type=xhttp#ConfigV2RayNG%E2%9A%AA%EF%B8%8F
 vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?path=%2FeyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=khamenei.dpdns.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=KhAmeneI.DPdNs.OrG#Telegram%20%3A%20%40ConfigV2RayNG%F0%9F%94%B5
 vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=digikalaa.dpdns.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=DiGIkALaA.dpdns.ORG#ConfigV2RayNG
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?mode=stream-one&amp;path=%2Fstatue&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=statue.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=statue.lnmarketplace.net#ConfigV2RayNG
 
-vless://4ad217a5-5a96-4095-a96c-837ffc73f97c@vpn.zorixvpn.site:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#Hamrah%20aval
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&amp;encryption=none&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=api.avito.ru#VPN_PROXY_CUSTOM%20%F0%9F%8F%B4
 vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=blueivy.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=blueivy.qzz.io#VPN_PROXY_CUSTOM
 vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=%2Fhsdgsws&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=sunseet.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sunseet.info#VPN_PROXY_CUSTOM%20%E2%9C%8C%EF%B8%8F%F0%9F%A9%B8%F0%9F%96%A4
@@ -704,7 +704,6 @@ vless://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?path=%2F34.42.77.60%3D
 
 
 
-vless://4ad217a5-5a96-4095-a96c-837ffc73f97c@vpn.zorixvpn.site:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#Hamrah%20aval
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&amp;encryption=none&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=api.avito.ru#VPN_PROXY_CUSTOM%20%F0%9F%8F%B4
 vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=blueivy.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=blueivy.qzz.io#VPN_PROXY_CUSTOM
 vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=%2Fhsdgsws&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=sunseet.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sunseet.info#VPN_PROXY_CUSTOM%20%E2%9C%8C%EF%B8%8F%F0%9F%A9%B8%F0%9F%96%A4
