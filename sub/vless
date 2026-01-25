@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-25-Jan-2026 19:50
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-25-Jan-2026 20:44
 
 
 
@@ -423,7 +423,18 @@ vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?path=%2F&amp;sec
 vless://2ad04efa-d18a-442b-875f-48d12e11d822@u1.mizulina.top:22231?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=u1.mizulina.top#ConfigV2RayNG
 vless://bfe612f0-af7e-48e1-a529-86d76aa20dde@cdn.asreabi.ir:80?security=none&amp;encryption=none&amp;host=zarebin.ir&amp;headerType=http&amp;type=tcp#
 vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?path=%2F&amp;security=none&amp;encryption=none&amp;host=turkey.raynomusic.ir&amp;type=ws#
+vless://25b127c8-8f6c-43f1-968a-9464b7893b09@stk.nightwolf.shop:16986?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ConfigV2RayNG
+vless://815f6bf3-b44d-4e8e-837e-d9d5e5b897dd@ipt.spancloud.sbs:8880?security=&amp;encryption=none&amp;host=asksdnsjcsn.hide-abr.com.tr.&amp;type=httpupgrade#ConfigV2RayNG
+vless://383e671c-a11d-457d-89f7-830915f005b3@79.133.46.135:443?security=reality&amp;encryption=none&amp;pbk=lGVndU0oZ1Lt9A8dzfXizaMkkmkHlwhRkDcUbTBpc0Q&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=9693a7#ConfigV2RayNG
+vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@site.systemgamingirani.ir:2053?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=host.my-iranparspack.ir#ConfigV2RayNG
+vless://161aa738-9f4a-4874-a3fd-6ba39c3662ec@fit.ari-s.sbs:8443?security=reality&amp;encryption=none&amp;pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=82cada35130f1ef2#ConfigV2RayNG
+vless://2c3972af-8611-49c5-ba30-9ab440980c55@ee2vip.vnet215.xyz:25016?security=none&amp;encryption=none&amp;host=zara.com&amp;headerType=http&amp;type=tcp#ConfigV2RayNG%F0%9F%87%AA%F0%9F%87%AA
+vless://a1c459eb-888c-46f1-815f-a88330167418@mza2.lizardshop.org:4545?security=&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#ConfigV2RayNG
+vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@ndt.fasti.win:443?security=reality&amp;encryption=none&amp;pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ndt.fasti.win&amp;sid=992f3294e2336744#ConfigV2RayNG
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@78.159.131.23:443?security=reality&amp;encryption=none&amp;pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=al.cdn.stun.su&amp;sid=b0207954e822d0e4#ConfigV2RayNG
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&amp;encryption=none&amp;pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com#ConfigV2RayNG
 
+vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=8j3f7HD37h.PaGES.dEV#VPN_PROXY_CUSTOM%20%E2%9C%8C%EF%B8%8F%F0%9F%A9%B8%F0%9F%96%A4
 vless://f2aa0f74-e70c-4811-b2b2-2ced9a11adce@8.6.112.0:443?path=%2F193.23.197.183%3D443&amp;security=tls&amp;encryption=none&amp;host=vermilion.qzz.io&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=vermilion.qzz.io#%40vpn_proxy_custom
 vless://b4481397-d602-45d4-8d99-1fc4939d65d4@8.6.112.0:443?path=%2F142.132.140.130%3D447&amp;security=tls&amp;encryption=none&amp;host=cranberry.qzz.io&amp;allowinsecure=0&amp;type=ws&amp;sni=cranberry.qzz.io#%40Vpn_proxy_custom
 vless://b4481397-d602-45d4-8d99-1fc4939d65d4@hell-tawana.lookanet.codes:443?path=%2F142.132.140.130%3D447&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cranberry.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=cranberry.qzz.io#%40Vpn_proxy_custom
@@ -434,6 +445,7 @@ vless://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?path=%2F34.42.77.60%3D
 
 
 
+vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=8j3f7HD37h.PaGES.dEV#VPN_PROXY_CUSTOM%20%E2%9C%8C%EF%B8%8F%F0%9F%A9%B8%F0%9F%96%A4
 vless://f2aa0f74-e70c-4811-b2b2-2ced9a11adce@8.6.112.0:443?path=%2F193.23.197.183%3D443&amp;security=tls&amp;encryption=none&amp;host=vermilion.qzz.io&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=vermilion.qzz.io#%40vpn_proxy_custom
 vless://b4481397-d602-45d4-8d99-1fc4939d65d4@8.6.112.0:443?path=%2F142.132.140.130%3D447&amp;security=tls&amp;encryption=none&amp;host=cranberry.qzz.io&amp;allowinsecure=0&amp;type=ws&amp;sni=cranberry.qzz.io#%40Vpn_proxy_custom
 vless://b4481397-d602-45d4-8d99-1fc4939d65d4@hell-tawana.lookanet.codes:443?path=%2F142.132.140.130%3D447&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cranberry.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=cranberry.qzz.io#%40Vpn_proxy_custom
