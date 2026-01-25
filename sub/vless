@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-25-Jan-2026 13:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-25-Jan-2026 14:44
 
 
 
@@ -61,6 +61,7 @@ vless://e8cba8f5-b824-4f56-8d91-9164fac200ce@spb.jojack.ru:443?security=reality&
 vless://a7f8ffc5-d78d-42b4-8ebb-4d995d577182@chatgpt.com:443?type=ws&amp;encryption=none&amp;path=%2Fprx11&amp;host=&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;sni=panel.proxystore11.shop#tbsl76fy
 vless://0cfb93a5-a707-4538-b298-756ee3ae3695@pl.spirako.com:443?security=reality&amp;encryption=none&amp;pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=website.com#%F0%9F%87%B5%F0%9F%87%B1vless-PL%40proxystore11
 vless://8a56d7cc-e76b-48b0-a706-398f1019e3c9@5bra.solonettochka.ru:443?security=reality&amp;encryption=none&amp;pbk=4Nl2QYNNS6Cl_b0PJJ07mLRjc_ABly6FtFLuCtDMo3w&amp;headerType=none&amp;fp=chrome&amp;spx=%2FJAAkHjZyNngtw9G&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.google.com&amp;sid=c1#%F0%9F%87%AC%F0%9F%87%A7vless-GB-%40proxystore11
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.227.226:8880?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-CH-irancell-proxystore11
 
 
 
