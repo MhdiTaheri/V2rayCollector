@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-18-Feb-2026 21:22
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-18-Feb-2026 22:15
 
 
 
@@ -208,11 +208,6 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=%2F&amp;secur
 
 
 
-vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&amp;security=tls&amp;encryption=none&amp;host=diprox.pages.dev&amp;type=ws&amp;sni=DiprOX.pages.DEV#%F0%9F%87%AE%F0%9F%87%B7%20IR%2030%20%40Outline_Vpn
-vless://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality&amp;encryption=none&amp;pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.samsung.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%2032%20%40Outline_Vpn
-vless://0b2056cb-234b-4120-8835-d116b74a72ca@chatgpt.com:2087?path=%2F&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=netvitrin.tickyou.ir&amp;fp=chrome&amp;type=ws&amp;sni=netvitrin.tickyou.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%2033%20%40Outline_Vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh30v5.carwashipdir.shop#%F0%9F%87%AE%F0%9F%87%B7%20IR%2034%20%40Outline_Vpn
-vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%2035%20%40Outline_Vpn
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=dev.twistsparrow.xyz&amp;type=ws&amp;sni=dev.twistsparrow.xyz#%F0%9F%87%AE%F0%9F%87%B7%20IR%2036%20%40Outline_Vpn
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%87%AE%F0%9F%87%B7%20IR%2037%20%40Outline_Vpn
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%87%AE%F0%9F%87%B7%20IR%2038%20%40Outline_Vpn
@@ -295,6 +290,11 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.7
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.91:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=1&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2058%20%40Outline_Vpn
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=1&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2059%20%40Outline_Vpn
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=0&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2060%20%40Outline_Vpn
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%9B%A1%20V%2061%20%40Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2062%20%40Outline_Vpn
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%9B%A1%20V%2063%20%40Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2064%20%40Outline_Vpn
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%9B%A1%20V%2065%20%40Outline_Vpn
 
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@V2rayNG3
@@ -1380,12 +1380,6 @@ ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=%2F&amp;security
 
 
 
-ss://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&amp;security=tls&amp;encryption=none&amp;host=diprox.pages.dev&amp;type=ws&amp;sni=DiprOX.pages.DEV#%F0%9F%87%AE%F0%9F%87%B7%20IR%2030%20%40Outline_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#%F0%9F%87%AE%F0%9F%87%B7%20IR%2031%20%40Outline_Vpn
-ss://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality&amp;encryption=none&amp;pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.samsung.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%2032%20%40Outline_Vpn
-ss://0b2056cb-234b-4120-8835-d116b74a72ca@chatgpt.com:2087?path=%2F&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=netvitrin.tickyou.ir&amp;fp=chrome&amp;type=ws&amp;sni=netvitrin.tickyou.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%2033%20%40Outline_Vpn
-ss://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh30v5.carwashipdir.shop#%F0%9F%87%AE%F0%9F%87%B7%20IR%2034%20%40Outline_Vpn
-ss://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%2035%20%40Outline_Vpn
 ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=dev.twistsparrow.xyz&amp;type=ws&amp;sni=dev.twistsparrow.xyz#%F0%9F%87%AE%F0%9F%87%B7%20IR%2036%20%40Outline_Vpn
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%87%AE%F0%9F%87%B7%20IR%2037%20%40Outline_Vpn
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%87%AE%F0%9F%87%B7%20IR%2038%20%40Outline_Vpn
@@ -1478,6 +1472,11 @@ ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.1
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.91:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=1&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2058%20%40Outline_Vpn
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=1&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2059%20%40Outline_Vpn
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=0&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2060%20%40Outline_Vpn
+ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%9B%A1%20V%2061%20%40Outline_Vpn
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2062%20%40Outline_Vpn
+ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%9B%A1%20V%2063%20%40Outline_Vpn
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2064%20%40Outline_Vpn
+ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%9B%A1%20V%2065%20%40Outline_Vpn
 
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@V2rayNG3
@@ -2433,7 +2432,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;inse
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
-trojan://telegram-id-privatevpns@13.37.141.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.224.29.65:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.126.3.58:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@18.158.73.0:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
@@ -2445,6 +2443,7 @@ trojan://telegram-id-privatevpns@35.180.167.247:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@35.181.219.11:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.124.221.203:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.183.53.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@15.237.153.245:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 
 
 trojan://humanity@www.creationlong.org:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.creationlong.org#%F0%9F%87%AE%F0%9F%87%B7%20IR%2044%20%40Outline_Vpn
