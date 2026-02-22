@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-23-Feb-2026 00:49
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-23-Feb-2026 01:49
 
 
 
@@ -496,6 +496,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg%3D%3D@45.9.75.37:8000#https://t.me/ConfigX2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.250.133:443#https://t.me/ConfigX2ray
 ss://8451143f-2778-4c9e-f669-391bae9dadbb@193.58.119.134:443?type=tcp&amp;encryption=none&amp;path=%2F&amp;host=google.com&amp;headerType=http&amp;security=none#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%E2%80%8E%40Confixio%20%F0%9F%94%B44
+ss://95a90af3-5729-4308-9465-8147cc97621f@146.190.227.252:42855?security=tls&amp;type=tcp&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;encryption=none#NetAccount
+ss://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?security=reality&amp;type=tcp&amp;sni=retn.net&amp;fp=chrome&amp;flow=xtls-rprx-vision&amp;sid=6b374e33af12fd1e&amp;pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&amp;encryption=none#NetAccount
+ss://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&amp;encryption=none&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;flow=xtls-rprx-vision&amp;sni=devblogs.microsoft.com#NetAccount
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjM1OjgwODA=#NetAccount
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%40Easy_Free_VPN
