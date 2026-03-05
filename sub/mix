@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-05-Mar-2026 10:13
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-05-Mar-2026 11:08
 
 
 vless://134df9e6-f224-4373-9439-a5ecea0fd9f7@vip.xqfire.ir:911?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=Telewebion.com#Test
@@ -509,14 +509,6 @@ vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80?security=none&amp;
 
 
 
-vless://5a038d4c-914d-4ab7-8ed0-c5d5b927dd32@Yas3.mizsky.org:27892?security=&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#%40filembad
-vless://13b63262-5da7-41d2-a943-27d4deed897b@212.80.21.220:10200?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40filembad
-vless://84306d25-e61b-4f21-b55e-67ab6699060f@130.185.73.92:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40filembad
-vless://c3f6cc06-cc1a-4ab4-d7f8-a3c90b832dc4@185.173.129.127:102?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40filembad
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40filembad
-vless://13b63262-5da7-41d2-a943-27d4deed897b@212.80.21.220:10200?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40filembad
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&amp;encryption=none&amp;pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.push.apple.com&amp;sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20vless-SE
-vless://95be7de0-2394-47b8-aa2c-27773d61807f@nl.crunch-crunch.com:443?security=reality&amp;encryption=none&amp;pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nl.crunch-crunch.com&amp;sid=ea1058117be12087#%F0%9F%87%B3%F0%9F%87%B1%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp;encryption=none&amp;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=2001#%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-27
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=%2Fdb10240eb751d6ab&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dabaius2.sylu.net&amp;type=ws&amp;allowInsecure=0&amp;sni=dabaius2.sylu.net#%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11996
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&amp;encryption=none&amp;pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=69a2#%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-11
@@ -1802,18 +1794,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#%F0%9F
 
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
-ss://5a038d4c-914d-4ab7-8ed0-c5d5b927dd32@Yas3.mizsky.org:27892?security=&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#%40filembad
-ss://13b63262-5da7-41d2-a943-27d4deed897b@212.80.21.220:10200?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40filembad
-ss://84306d25-e61b-4f21-b55e-67ab6699060f@130.185.73.92:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40filembad
-ss://c3f6cc06-cc1a-4ab4-d7f8-a3c90b832dc4@185.173.129.127:102?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40filembad
-ss://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40filembad
-ss://13b63262-5da7-41d2-a943-27d4deed897b@212.80.21.220:10200?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40filembad
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%BA%F0%9F%87%B8%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20ss-US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#%F0%9F%87%A7%F0%9F%87%AC%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20ss-BG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM@124.217.247.205:51348#%F0%9F%87%B2%F0%9F%87%BE%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20ss-MY
-ss://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&amp;encryption=none&amp;pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.push.apple.com&amp;sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20vless-SE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRHQ4Y0cxVExnNHVCMG5VTU9BdQ@91.107.144.0:1080#%F0%9F%87%A9%F0%9F%87%AA%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20ss-DE
-ss://95be7de0-2394-47b8-aa2c-27773d61807f@nl.crunch-crunch.com:443?security=reality&amp;encryption=none&amp;pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nl.crunch-crunch.com&amp;sid=ea1058117be12087#%F0%9F%87%B3%F0%9F%87%B1%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C
 ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp;encryption=none&amp;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=2001#%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-27
 ss://eyJhZGQiOiI0Ny4yNDUuNDIuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsImlkIjoiNGYyM2ViN2MtZWYyZi00M2IwLTkwZGQtZjJiOGE3NTk1NGE1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn5KcVEVM4pePQEtJQV9ORVTwn5KcXSDwn4ev8J+HtSBKUC00NTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=%2Fdb10240eb751d6ab&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dabaius2.sylu.net&amp;type=ws&amp;allowInsecure=0&amp;sni=dabaius2.sylu.net#%5B%F0%9F%92%9CTEL%E2%97%8F%40KIA_NET%F0%9F%92%9C%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11996
