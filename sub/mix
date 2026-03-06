@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-06-Mar-2026 12:01
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-06-Mar-2026 13:03
 
 
 vless://134df9e6-f224-4373-9439-a5ecea0fd9f7@vip.xqfire.ir:911?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=Telewebion.com#Test
@@ -487,7 +487,6 @@ vless://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?
 
 
 
-vless://0251d33b-1d39-7fd6-0839-3fbab84db355@lord.socialxxmedia.pro:440?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp&amp;sni=lord.socialxxmedia.pro#%F0%9F%91%91ConfigV2RayNG%20%F0%9F%8C%90%F0%9F%8E%88
 vless://456ad5c1-ac34-4e50-87d8-faec61ce462c@a1-gfawbcx.maxriser.ir:8082?security=&amp;encryption=none&amp;host=bama.ir&amp;headerType=http&amp;type=tcp#%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%0A%40ConfigV2RayNG
 vless://910e3778-bbee-492b-a1e5-5f9c1cfe4194@85.133.250.87:41679?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%0A%40ConfigV2RayNG
 vless://d83ca435-1c51-4395-94ee-454770a1ac98@emergency2.layer-ziro.ir:2002?security=&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%0A%40ConfigV2RayNG
@@ -614,6 +613,12 @@ vless://eef39638-45eb-47c1-ba53-708eea36210c@haji.arezoni1.ir:666?security=none&
 vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG
 vless://dd533b73-8369-44f0-b51c-95bd2a2fed92@81.12.34.209:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG
 vless://0c5f4380-272d-46dc-94c4-77f3b05046f7@94.183.172.46:29297?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG
+vless://ca255199-e960-4df8-b574-ba66a6b33b32@gamix.ncop.ir:4421?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO1
+vless://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO2
+vless://ff236795-8582-1faa-9209-d9ea7e577b1e@lord.socialxxmedia.pro:440?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO3
+vless://b083b539-a43a-44d1-a7dd-f90f94b9cfc6@connected5.starpo5.ir:8080?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO4
+vless://f59cb954-d3b1-4075-aafb-b1ebfad2833c@titan.socialxxmedia.pro:1937?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO5
+vless://e8f8d7d6-8c21-4499-b6b4-2bc9972fff72@melli.tehransnr.com:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ConfigV2RayNG
 
 
 
@@ -896,7 +901,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUt
 
 
 
-vmess://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWI4YWY5YzctYTllNS00YTMyLTk5ZGQtYWMzMTBhODJkNDNhIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDE0IiwicHMiOiJAQ29uZmlnVjJSYXlORyAgfCDYqtmE2q/Ysdin2YXZhdmI2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ1ay5hcmFiaWVzLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0YWRiNTc4Mi0xOTVlLTQxNGQtOTJjMy03NThmNmEyNmVjOTgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MDIiLCJwcyI6ItmI2LXZhCDYtNiv24wg2KjbjNinINqp2KfZhtin2YTZhdmI2YZcbkBDb25maWdWMlJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJubDEuaXJhbmlzaG9wcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI5NjI1ODg4ZS1lZmJjLThlNjUtMjYyYy1kYmZhODU4OTI0YjAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6ItmI2LXZhCDYtNiv24wg2KjbjNinINqp2KfZhtin2YTZhdmI2YZcbkBDb25maWdWMlJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJkZS52aXBuZXR0LnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmZhc3QuY29tIiwiaWQiOiJhNDY5ODYwMi04MmEwLTQ5NzUtYWFiOC05NTY3ODM2NzZlYjgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg3IiwicHMiOiLZiNi12YQg2LTYr9uMINio24zYpyDaqdin2YbYp9mE2YXZiNmGXG5AQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
@@ -1760,8 +1764,6 @@ ss://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?sec
 
 
 
-ss://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWI4YWY5YzctYTllNS00YTMyLTk5ZGQtYWMzMTBhODJkNDNhIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDE0IiwicHMiOiJAQ29uZmlnVjJSYXlORyAgfCDYqtmE2q/Ysdin2YXZhdmI2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://0251d33b-1d39-7fd6-0839-3fbab84db355@lord.socialxxmedia.pro:440?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp&amp;sni=lord.socialxxmedia.pro#%F0%9F%91%91ConfigV2RayNG%20%F0%9F%8C%90%F0%9F%8E%88
 ss://456ad5c1-ac34-4e50-87d8-faec61ce462c@a1-gfawbcx.maxriser.ir:8082?security=&amp;encryption=none&amp;host=bama.ir&amp;headerType=http&amp;type=tcp#%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%0A%40ConfigV2RayNG
 ss://910e3778-bbee-492b-a1e5-5f9c1cfe4194@85.133.250.87:41679?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%0A%40ConfigV2RayNG
 ss://d83ca435-1c51-4395-94ee-454770a1ac98@emergency2.layer-ziro.ir:2002?security=&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%0A%40ConfigV2RayNG
@@ -1905,6 +1907,12 @@ ss://eef39638-45eb-47c1-ba53-708eea36210c@haji.arezoni1.ir:666?security=none&amp
 ss://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG
 ss://dd533b73-8369-44f0-b51c-95bd2a2fed92@81.12.34.209:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG
 ss://0c5f4380-272d-46dc-94c4-77f3b05046f7@94.183.172.46:29297?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG
+ss://ca255199-e960-4df8-b574-ba66a6b33b32@gamix.ncop.ir:4421?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO1
+ss://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO2
+ss://ff236795-8582-1faa-9209-d9ea7e577b1e@lord.socialxxmedia.pro:440?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO3
+ss://b083b539-a43a-44d1-a7dd-f90f94b9cfc6@connected5.starpo5.ir:8080?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO4
+ss://f59cb954-d3b1-4075-aafb-b1ebfad2833c@titan.socialxxmedia.pro:1937?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2BO5
+ss://e8f8d7d6-8c21-4499-b6b4-2bc9972fff72@melli.tehransnr.com:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ConfigV2RayNG
 
 
 
