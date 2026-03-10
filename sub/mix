@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-10-Mar-2026 14:04
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-10-Mar-2026 14:58
 
 
 
@@ -502,11 +502,6 @@ vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80?security=none&amp;
 
 
 
-vless://cc2c5e42-1693-4d54-8e03-afbaf88ca93f@94.183.241.82:1000?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40vmess_iran
-vless://07d8f3e0-6093-4887-940d-3c729e84b552@file900.fineartsnet.com:900?security=&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#%40vmess_iran
-vless://8be7dccf-5521-462d-9048-b11725e2d907@dl.iranifarmoon.ir:33553?encryption=none&amp;headerType=http&amp;host=&amp;path=%2F&amp;security=none&amp;type=tcp#%40vmess_iran
-vless://79592b57-605b-49a8-8786-ced7525d985b@de-2-tun.irantehrankhabar.fun:8081?security=&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%40vmess_iran
-vless://94b0206c-9117-4f47-b702-749ac3d5763d@www.aparatgame.online:3006?security=&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#%40vmess_iran
 vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@israel.youtuber-vps.com:443?security=reality&amp;encryption=none&amp;pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=israel.youtuber-vps.com&amp;sid=b95d09fc94955ba4#%40vmess_iran
 vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@poland.youtuber-vps.com:443?security=reality&amp;encryption=none&amp;pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=poland.youtuber-vps.com&amp;sid=b95d09fc94955ba4#%40vmess_iran
 vless://b31c46fe-25db-4109-ab46-3f1343bd752b@airman-defense.oblivionspark.com:5874?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vmess_iran
@@ -515,6 +510,7 @@ vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=
 vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@neth15.youtuber-vps.com:443?security=reality&amp;encryption=none&amp;pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=neth15.youtuber-vps.com&amp;sid=b95d09fc94955ba4#%40vmess_iran
 vless://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?security=&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@vmess_iran 
 vless://6ee2c6e0-e4cf-4ff3-be5b-2d26c56779c4@2.188.241.144:29332?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;headerType=none#
+vless://47da4ff9-ae0c-47cc-8b6c-f72ca16649d3@us.dianalux.ir:8080?path=%2F%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=fast.com&amp;type=ws#%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%20%F0%9F%87%BA%F0%9F%87%B8%20-%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D9%87%D8%A7%DB%8C%DB%8C%20%DA%A9%D9%87%20%D8%B1%D9%88%DB%8C%20%D8%A7%D9%84%D9%85%D8%A7%D9%86%20%D8%A8%D8%A7%D8%B2%20%D9%86%D9%85%DB%8C%D8%B4%D9%86
 
 
 
@@ -1925,11 +1921,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#%F0%9F
 
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
-ss://cc2c5e42-1693-4d54-8e03-afbaf88ca93f@94.183.241.82:1000?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40vmess_iran
-ss://07d8f3e0-6093-4887-940d-3c729e84b552@file900.fineartsnet.com:900?security=&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#%40vmess_iran
-ss://8be7dccf-5521-462d-9048-b11725e2d907@dl.iranifarmoon.ir:33553?encryption=none&amp;headerType=http&amp;host=&amp;path=%2F&amp;security=none&amp;type=tcp#%40vmess_iran
-ss://79592b57-605b-49a8-8786-ced7525d985b@de-2-tun.irantehrankhabar.fun:8081?security=&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%40vmess_iran
-ss://94b0206c-9117-4f47-b702-749ac3d5763d@www.aparatgame.online:3006?security=&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#%40vmess_iran
 ss://20a70054-8d93-4c8c-b8f0-d1113f431daf@israel.youtuber-vps.com:443?security=reality&amp;encryption=none&amp;pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=israel.youtuber-vps.com&amp;sid=b95d09fc94955ba4#%40vmess_iran
 ss://20a70054-8d93-4c8c-b8f0-d1113f431daf@poland.youtuber-vps.com:443?security=reality&amp;encryption=none&amp;pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=poland.youtuber-vps.com&amp;sid=b95d09fc94955ba4#%40vmess_iran
 ss://b31c46fe-25db-4109-ab46-3f1343bd752b@airman-defense.oblivionspark.com:5874?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vmess_iran
@@ -1938,6 +1929,7 @@ ss://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=non
 ss://20a70054-8d93-4c8c-b8f0-d1113f431daf@neth15.youtuber-vps.com:443?security=reality&amp;encryption=none&amp;pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=neth15.youtuber-vps.com&amp;sid=b95d09fc94955ba4#%40vmess_iran
 ss://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?security=&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@vmess_iran 
 ss://6ee2c6e0-e4cf-4ff3-be5b-2d26c56779c4@2.188.241.144:29332?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;headerType=none#
+ss://47da4ff9-ae0c-47cc-8b6c-f72ca16649d3@us.dianalux.ir:8080?path=%2F%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=fast.com&amp;type=ws#%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%20%F0%9F%87%BA%F0%9F%87%B8%20-%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D9%87%D8%A7%DB%8C%DB%8C%20%DA%A9%D9%87%20%D8%B1%D9%88%DB%8C%20%D8%A7%D9%84%D9%85%D8%A7%D9%86%20%D8%A8%D8%A7%D8%B2%20%D9%86%D9%85%DB%8C%D8%B4%D9%86
 
 
 
@@ -2522,7 +2514,7 @@ trojan://telegram-id-privatevpns@63.176.182.62:22222?allowInsecure=0&amp;sni=tro
 
 
 
-trojan://Nova-Proxy@141.101.113.223:8443?path=%2F%3Fed&amp;security=tls&amp;host=small-morning-2668.drusavm.workers.dev&amp;type=ws&amp;sni=small-morning-2668.drusavm.workers.dev#%40vmess_iran
+
 
 
 
