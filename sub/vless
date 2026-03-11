@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-11-Mar-2026 09:14
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-11-Mar-2026 10:14
 
 
 
@@ -503,7 +503,6 @@ vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80?security=none&amp;
 
 
 
-vless://24d52939-f34b-4bf5-9390-ad4b003e3c2c@94.184.24.14:1043?security=&amp;encryption=none&amp;host=gharar.ir%2Cigap.net%2Cskyroom.online&amp;headerType=http&amp;type=tcp#
 vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@ae2.suio.me:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=ae2.suio.me#%40vmess_iran
 vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=arz.radargame.site&amp;path=/XIXVPN?ed=2560#%40vmess_iran
 vless://d3bd917a-cd7c-85c9-caa5-557cc2a5cd82@photon.unlimiteds.site:660?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp&amp;path=/XIXVPN?ed=2560#%40vmess_iran
