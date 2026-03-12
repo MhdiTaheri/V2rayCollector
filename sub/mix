@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-12-Mar-2026 13:07
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-12-Mar-2026 14:04
 
 
 
@@ -498,6 +498,8 @@ vless://48e34ce2-6489-e199-49a9-27604258d29e@pro.vpsino.com:20960?security=none&
 vless://48e34ce2-6489-e199-49a9-27604258d29e@pro.vpsino.com:20920?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%5B%F0%9F%87%AE%F0%9F%87%B7%5D%F0%9F%AA%B8Tel%E2%9A%A1%EF%B8%8F%20%40vmess_iran%20%E2%9A%A1%EF%B8%8F
 vless://97fca2a8-1f53-44cd-8753-2d3d261c88ac@46.38.150.38:22560?security=none&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#%5B%F0%9F%87%AE%F0%9F%87%B7%5D%F0%9F%AA%B8Tel%E2%9A%A1%EF%B8%8F%20%40vmess_iran%20%E2%9A%A1%EF%B8%8F
 vless://8bcc90ea-7627-4797-b83e-71fafb9ec770@194.37.80.234:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dl.vtnet.ir&amp;type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%F0%9F%AA%B8Tel%E2%9A%A1%EF%B8%8F%20%40vmess_iran%20%E2%9A%A1%EF%B8%8F
+vless://b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6@52.195.208.63:14564?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=mci.ir&amp;sni=www.apple.com&amp;sid=9e569fc87f8d54#@vmess_iran
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#@vmess_iran
 
 
 
@@ -1909,6 +1911,8 @@ ss://48e34ce2-6489-e199-49a9-27604258d29e@pro.vpsino.com:20920?security=none&amp
 ss://97fca2a8-1f53-44cd-8753-2d3d261c88ac@46.38.150.38:22560?security=none&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#%5B%F0%9F%87%AE%F0%9F%87%B7%5D%F0%9F%AA%B8Tel%E2%9A%A1%EF%B8%8F%20%40vmess_iran%20%E2%9A%A1%EF%B8%8F
 ss://8bcc90ea-7627-4797-b83e-71fafb9ec770@194.37.80.234:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dl.vtnet.ir&amp;type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%F0%9F%AA%B8Tel%E2%9A%A1%EF%B8%8F%20%40vmess_iran%20%E2%9A%A1%EF%B8%8F
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06c2p3L1V5UmdibmkrV3hpU29HTGUrSVpnU0NQOTZGVnpIb0I3L1dCd2FXMD1AOTUuMjE2LjIzOC4yNDk6MzczMzc=#@vmess_iran
+ss://b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6@52.195.208.63:14564?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=mci.ir&amp;sni=www.apple.com&amp;sid=9e569fc87f8d54#@vmess_iran
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#@vmess_iran
 
 
 
@@ -2407,7 +2411,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
-trojan://telegram-id-privatevpns@13.36.46.152:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.79.165.50:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.37.140.33:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@63.176.126.9:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
@@ -2426,6 +2429,7 @@ trojan://telegram-id-privatevpns@13.36.100.6:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@52.28.114.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.39.53.66:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@3.127.99.68:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@13.36.204.100:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;host=www.calmlunch.com&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%9B%A1%20V%2045%20%40Outline_Vpn
