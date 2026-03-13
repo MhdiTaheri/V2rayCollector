@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-13-Mar-2026 23:59
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-14-Mar-2026 00:58
 
 
 
@@ -491,6 +491,14 @@ vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?path=%2F&amp;secur
 vless://b2d5d0d8-1c29-11f1-9350-92000723b4ab@dlc-new1.persianpinggame.com:5101?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;host=filmnet.ir&amp;path=/&amp;headerType=http#%40EscapNet
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=nl4.maxriser.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=nl4.maxriser.ir#
 vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=Ws2.beepn.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Ws2.beepn.info#@unlimiteddev
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@198.41.209.88:8080?path=%2Fec4l307nur5g&amp;encryption=none&amp;type=ws&amp;host=index.arcane509.workers.dev&amp;fp=chrome&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol#%40filembad
+vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&amp;type=ws&amp;host=britain.xydcqd.workers.dev&amp;path=/@WireXnet?ed=2048&amp;security=none#%40filembad
+vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.148.22:443?path=/eyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19?ed=2560&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=010.electrocellco-cf-010.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#%40filembad
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082/?type=ws&amp;encryption=none&amp;flow=&amp;host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&amp;path=%2F%3Fed%3D2560#%40filembad
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.16.250.22:443?encryption=none&amp;security=tls&amp;sni=lively-brook-c471.nedena3319.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=lively-brook-c471.nedena3319.workers.dev&amp;path=/?ed%3D2048&amp;packetEncoding=xudp#%40filembad
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.96.3:443?encryption=none&amp;security=tls&amp;sni=labeller.neonime83.workers.dev&amp;allowInsecure=true&amp;type=ws&amp;host=labeller.neonime83.workers.dev&amp;path=/&amp;packetEncoding=xudp#%40filembad
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.185.26:443?encryption=none&amp;security=tls&amp;sni=lively-brook-c471.nedena3319.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=lively-brook-c471.nedena3319.workers.dev&amp;path=/?ed%3D2048&amp;packetEncoding=xudp#%40filembad
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=labeller.neonime83.workers.dev&amp;allowInsecure=true&amp;type=ws&amp;host=labeller.neonime83.workers.dev&amp;path=/&amp;packetEncoding=xudp#%40filembad
 
 
 

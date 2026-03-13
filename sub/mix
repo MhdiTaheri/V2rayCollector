@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-13-Mar-2026 23:59
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-14-Mar-2026 00:58
 
 
 
@@ -491,6 +491,14 @@ vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?path=%2F&amp;secur
 vless://b2d5d0d8-1c29-11f1-9350-92000723b4ab@dlc-new1.persianpinggame.com:5101?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;host=filmnet.ir&amp;path=/&amp;headerType=http#%40EscapNet
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=nl4.maxriser.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=nl4.maxriser.ir#
 vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=Ws2.beepn.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Ws2.beepn.info#@unlimiteddev
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@198.41.209.88:8080?path=%2Fec4l307nur5g&amp;encryption=none&amp;type=ws&amp;host=index.arcane509.workers.dev&amp;fp=chrome&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol#%40filembad
+vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&amp;type=ws&amp;host=britain.xydcqd.workers.dev&amp;path=/@WireXnet?ed=2048&amp;security=none#%40filembad
+vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.148.22:443?path=/eyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19?ed=2560&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=010.electrocellco-cf-010.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#%40filembad
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082/?type=ws&amp;encryption=none&amp;flow=&amp;host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&amp;path=%2F%3Fed%3D2560#%40filembad
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.16.250.22:443?encryption=none&amp;security=tls&amp;sni=lively-brook-c471.nedena3319.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=lively-brook-c471.nedena3319.workers.dev&amp;path=/?ed%3D2048&amp;packetEncoding=xudp#%40filembad
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.96.3:443?encryption=none&amp;security=tls&amp;sni=labeller.neonime83.workers.dev&amp;allowInsecure=true&amp;type=ws&amp;host=labeller.neonime83.workers.dev&amp;path=/&amp;packetEncoding=xudp#%40filembad
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.185.26:443?encryption=none&amp;security=tls&amp;sni=lively-brook-c471.nedena3319.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=lively-brook-c471.nedena3319.workers.dev&amp;path=/?ed%3D2048&amp;packetEncoding=xudp#%40filembad
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=labeller.neonime83.workers.dev&amp;allowInsecure=true&amp;type=ws&amp;host=labeller.neonime83.workers.dev&amp;path=/&amp;packetEncoding=xudp#%40filembad
 
 
 
@@ -969,6 +977,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9LT7wn4e68J+HuF9VU1/nvo7lm70i
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
 vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQEtJQV9ORVQg2obZhtmE4oCM2KrZhNqv2LHZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOiI4MCIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
 
@@ -1208,12 +1217,6 @@ ss://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:2244
 ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&amp;encryption=none&amp;pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=jp.cdn.stun.su&amp;sid=f189d91760bb6663#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#%F0%9F%87%A8%F0%9F%87%B4%40FreakConfig
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06d3hhMlBLYkYwLzFVclJpQm9lV056YUxWRnEzNjZIRzc1SVlTK0ZqVTdPYz0%3D@95.216.238.249:37337#%40SERVERNETT1
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06c2p3L1V5UmdibmkrV3hpU29HTGUrSVpnU0NQOTZGVnpIb0I3L1dCd2FXMD0%3D@95.216.238.249:37337#%40SERVERNETT2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%40SERVERNETT3
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NkNzbStBbHhkTWI3Q3YrVUZFcHNkZmdQcnJQMm5WaTFBT09QMmJWOGdiST0%3D@31.58.220.156:442#%40SERVERNETT4
-ss://YWVzLTI1Ni1nY20677%2B9Xg%3D%3D@13.39.53.66:22224#%40SERVERNETT5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%40SERVERNETT6
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06d3hhMlBLYkYwLzFVclJpQm9lV056YUxWRnEzNjZIRzc1SVlTK0ZqVTdPYz0%3D@95.216.238.249:37337#%40SERVERNETT1  ss://MjAyMi1ibGFrZTMtYWVzLTI1N…
 ss://a4b53348-294d-43be-8549-93055291de3f@46.225.61.97:8080?path=%2Fws&amp;security=none&amp;encryption=none&amp;host=v.iampedi7.live&amp;type=ws#%40SERVERNETT1
 ss://1218c022-dca8-49e5-b7d4-a04f3023db81@89.185.81.169:443?security=reality&amp;encryption=none&amp;pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stats.vk-portal.net&amp;sid=4e249e62#%40SERVERNETT2
@@ -1861,6 +1864,15 @@ ss://b2d5d0d8-1c29-11f1-9350-92000723b4ab@dlc-new1.persianpinggame.com:5101?secu
 ss://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQEtJQV9ORVQg2obZhtmE4oCM2KrZhNqv2LHZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=nl4.maxriser.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=nl4.maxriser.ir#
 ss://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=Ws2.beepn.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Ws2.beepn.info#@unlimiteddev
+ss://ef23616d-8a9d-4b22-b2f5-9bda864de179@198.41.209.88:8080?path=%2Fec4l307nur5g&amp;encryption=none&amp;type=ws&amp;host=index.arcane509.workers.dev&amp;fp=chrome&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol#%40filembad
+ss://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&amp;type=ws&amp;host=britain.xydcqd.workers.dev&amp;path=/@WireXnet?ed=2048&amp;security=none#%40filembad
+ss://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.148.22:443?path=/eyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19?ed=2560&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=010.electrocellco-cf-010.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#%40filembad
+ss://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082/?type=ws&amp;encryption=none&amp;flow=&amp;host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&amp;path=%2F%3Fed%3D2560#%40filembad
+ss://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.16.250.22:443?encryption=none&amp;security=tls&amp;sni=lively-brook-c471.nedena3319.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=lively-brook-c471.nedena3319.workers.dev&amp;path=/?ed%3D2048&amp;packetEncoding=xudp#%40filembad
+ss://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.96.3:443?encryption=none&amp;security=tls&amp;sni=labeller.neonime83.workers.dev&amp;allowInsecure=true&amp;type=ws&amp;host=labeller.neonime83.workers.dev&amp;path=/&amp;packetEncoding=xudp#%40filembad
+ss://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOiI4MCIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.185.26:443?encryption=none&amp;security=tls&amp;sni=lively-brook-c471.nedena3319.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=lively-brook-c471.nedena3319.workers.dev&amp;path=/?ed%3D2048&amp;packetEncoding=xudp#%40filembad
+ss://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=labeller.neonime83.workers.dev&amp;allowInsecure=true&amp;type=ws&amp;host=labeller.neonime83.workers.dev&amp;path=/&amp;packetEncoding=xudp#%40filembad
 
 
 
@@ -2413,7 +2425,8 @@ trojan://telegram-id-privatevpns@63.176.182.62:22222?allowInsecure=0&amp;sni=tro
 
 
 
-
+trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?security=tls&amp;sni=028.eLECtRocEllco-Cf-028.worKErS.dev&amp;fp=chrome&amp;alpn=http%2F1.1&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=028.electrocellco-cf-028.workers.dev&amp;path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%40filembad
+trojan://freedom@irancell.buzzmuzzpanel.online:443?security=tls&amp;sni=047.eleCTROCelLco-Cf-047.woRkers.DEV&amp;fp=chrome&amp;alpn=http%2F1.1&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=047.electrocellco-cf-047.workers.dev&amp;path=%2FeyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%40filembad
 
 
 
