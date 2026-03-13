@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-13-Mar-2026 12:04
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-13-Mar-2026 13:05
 
 
 
@@ -486,6 +486,9 @@ vless://b6f3beb0-40f6-46c3-a49e-971ca04e7647@oaOxo6gKNrf8.hosted-in.p7d.ir:2052?
 vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=app-core-02.secoxi.site&amp;type=ws&amp;allowInsecure=0&amp;sni=uiuyoyw.secoxi.site#%5B%F0%9F%87%A8%F0%9F%87%A6%5D%40KIA_NET%20%DA%86%D9%86%D9%84%E2%80%8C%D8%AA%D9%84%DA%AF%D8%B1%D9%85
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=nl4.maxriser.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=nl4.maxriser.ir#
 vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=Ws2.beepn.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Ws2.beepn.info#@unlimiteddev
+vless://5fdc186d-f881-4fc4-9346-1f3d8fae9339@F2.HaMrAhCoNf.Ir:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=p2-core-02.secoxi.site&amp;fp=chrome&amp;type=ws&amp;sni=uktkq.secoxi.site#%40EscapNet
+vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=ajor.hellpresso.ir#%40EscapNet
+vless://b2d5d0d8-1c29-11f1-9350-92000723b4ab@dlc-new1.persianpinggame.com:5101?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;host=filmnet.ir&amp;path=/&amp;headerType=http#%40EscapNet
 
 
 
