@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-19-Mar-2026 00:00
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-19-Mar-2026 01:00
 
 
 
@@ -95,11 +95,7 @@ vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=realit
 vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:22443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=8453e5fd9af927#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&amp;encryption=none&amp;pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=jp.cdn.stun.su&amp;sid=f189d91760bb6663#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 
-vless://a4b53348-294d-43be-8549-93055291de3f@46.225.61.97:8080?path=%2Fws&amp;security=none&amp;encryption=none&amp;host=v.iampedi7.live&amp;type=ws#%40SERVERNETT1
-vless://1218c022-dca8-49e5-b7d4-a04f3023db81@89.185.81.169:443?security=reality&amp;encryption=none&amp;pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stats.vk-portal.net&amp;sid=4e249e62#%40SERVERNETT2
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?security=reality&amp;encryption=none&amp;pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fr.denditop.site&amp;sid=9c2378562188c3cb#%40SERVERNETT3
-vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?security=reality&amp;encryption=none&amp;pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=9edc548e1e284d84#%40SERVERNETT4
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@nlcdn7.suio.me:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=nlcdn7.suio.me#%40SERVERNETT5
+
 
 
 
