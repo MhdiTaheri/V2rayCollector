@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-21-Mar-2026 01:53
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-21-Mar-2026 02:54
 
 
 
@@ -452,12 +452,6 @@ vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80?security=none&amp;
 
 
 
-vless://544aa173-d4ef-4ba7-8e40-4d54cc5e61b9@46.34.163.42:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=now8tingcore.global.ssl.fastly.net&amp;type=xhttp#%40filembad
-vless://578d7696-fe6e-421e-afcc-5ad3d30b8658@sv.letknow.shop:1001?security=none&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%40filembad
-vless://1eb7abea-0cde-48cc-851c-4ae602db5737@185.206.92.110:52478?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40filembad
-vless://b8814f55-90db-4856-9458-eb7dee4446ca@91.192.160.135:28/?type=tcp&amp;security=none#%40filembad
-vless://c060fd7b-99fc-0f00-9823-fbcd3326c537@[::ffff:5eb8:1a6f]:58396?security=none&amp;encryption=none&amp;host=arvancloud.ir&amp;headerType=http&amp;type=tcp#%40filembad
-vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?type=tcp&amp;encryption=none&amp;path=%2F&amp;headerType=http&amp;security=none#%40filembad
 vless://4cbd1d70-1341-4e23-b2d5-64254318c783@file4.farsgame.sbs:55004?path=%2F&amp;security=none&amp;encryption=none&amp;host=rubika.ir&amp;type=ws#%40netroovpn12%D8%AD%D8%AA%D9%85%D8%A7%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%F0%9F%94%A5%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5
 vless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40netroovpn12%D8%AD%D8%AA%D9%85%D8%A7%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%F0%9F%94%A5%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5
 vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=none&amp;encryption=none&amp;host=skyroom.online%2C%20igap.net%2C%20gharar.ir&amp;headerType=http&amp;type=tcp#%40netroovpn12%D8%AD%D8%AA%D9%85%D8%A7%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%F0%9F%94%A5%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5
@@ -1788,12 +1782,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#%F0%9F
 
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
-ss://544aa173-d4ef-4ba7-8e40-4d54cc5e61b9@46.34.163.42:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=now8tingcore.global.ssl.fastly.net&amp;type=xhttp#%40filembad
-ss://578d7696-fe6e-421e-afcc-5ad3d30b8658@sv.letknow.shop:1001?security=none&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%40filembad
-ss://1eb7abea-0cde-48cc-851c-4ae602db5737@185.206.92.110:52478?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40filembad
-ss://b8814f55-90db-4856-9458-eb7dee4446ca@91.192.160.135:28/?type=tcp&amp;security=none#%40filembad
-ss://c060fd7b-99fc-0f00-9823-fbcd3326c537@[::ffff:5eb8:1a6f]:58396?security=none&amp;encryption=none&amp;host=arvancloud.ir&amp;headerType=http&amp;type=tcp#%40filembad
-ss://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?type=tcp&amp;encryption=none&amp;path=%2F&amp;headerType=http&amp;security=none#%40filembad
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09OkFTTWtDdy9TTUE4TXpaSzh0djV2Tnc9PQ@142.171.65.106:8388#@Hiddify_Nexttt 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#@Hiddify_Nexttt 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#@Hiddify_Nexttt 
