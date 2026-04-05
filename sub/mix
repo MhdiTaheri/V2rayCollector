@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-05-Apr-2026 23:57
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-06-Apr-2026 00:57
 
 
 
@@ -603,6 +603,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?allowInsecure=
 vless://595db874-accd-4e0c-be21-f90b43c6c56c@null.bache-molavi.sbs:34915?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@ultrasurf_12
 vless://443fd8ea-3cfd-4286-a4e2-91276e41fe51@45.148.117.94:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=yZh74kxd_k5PvamyrFDIS_rYRLUhy5xpc4v1lU_Gdk0&amp;security=reality&amp;sid=f085548164eba3de&amp;sni=yandex.ru&amp;type=tcp#@ultrasurf_12
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=//%3Fed%3D2048&amp;amp%3Bsecurity=tls&amp;amp%3Bencryption=none&amp;amp%3Balpn=h2%2Chttp/1.1&amp;amp%3Bhost=TESt-TEsT-TEST-TEsT.pAGes.dEV&amp;amp%3Bfp=randomized&amp;amp%3Btype=ws&amp;amp%3Bsni=test-teSt-tEsT-teSt.pagES.DEv#@ultrasurf_12
+vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&amp;encryption=none&amp;pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=6ba85179e30d4fc2#@ultrasurf_12
+vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&amp;encryption=none&amp;pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=6ba85179e30d4fc2#@ultrasurf_12…
 
 vless://4898e947-7364-40fc-bc6d-969c74afc72a@shhproxy.varzesh3-cnd.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=gmV2raybo.shhproxyfree.com&amp;type=ws&amp;sni=gmV2raybo.shhproxyfree.com#@vpn_kanfik
 vless://18cabd6b-c83d-4063-a478-3cd7a2a82e34@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#@vpn_kanfik
@@ -1661,6 +1663,8 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?allowInsecure=1&a
 ss://595db874-accd-4e0c-be21-f90b43c6c56c@null.bache-molavi.sbs:34915?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@ultrasurf_12
 ss://443fd8ea-3cfd-4286-a4e2-91276e41fe51@45.148.117.94:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=yZh74kxd_k5PvamyrFDIS_rYRLUhy5xpc4v1lU_Gdk0&amp;security=reality&amp;sid=f085548164eba3de&amp;sni=yandex.ru&amp;type=tcp#@ultrasurf_12
 ss://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=//%3Fed%3D2048&amp;amp%3Bsecurity=tls&amp;amp%3Bencryption=none&amp;amp%3Balpn=h2%2Chttp/1.1&amp;amp%3Bhost=TESt-TEsT-TEST-TEsT.pAGes.dEV&amp;amp%3Bfp=randomized&amp;amp%3Btype=ws&amp;amp%3Bsni=test-teSt-tEsT-teSt.pagES.DEv#@ultrasurf_12
+ss://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&amp;encryption=none&amp;pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=6ba85179e30d4fc2#@ultrasurf_12
+ss://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&amp;encryption=none&amp;pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=6ba85179e30d4fc2#@ultrasurf_12…
 
 ss://4898e947-7364-40fc-bc6d-969c74afc72a@shhproxy.varzesh3-cnd.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=gmV2raybo.shhproxyfree.com&amp;type=ws&amp;sni=gmV2raybo.shhproxyfree.com#@vpn_kanfik
 ss://18cabd6b-c83d-4063-a478-3cd7a2a82e34@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#@vpn_kanfik
