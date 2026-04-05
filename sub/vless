@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-06-Apr-2026 00:57
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-06-Apr-2026 01:55
 
 
 
@@ -319,7 +319,7 @@ vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fkhamnei.kosnanatfilterchi.eu.org&amp;type=ws#%40v2rayan
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
 
-
+vless://5921e091-fd96-473e-ed51-626e6b61f089@3.127.218.176:443?encryption=none&amp;type=tcp&amp;headerType=none&amp;security=none#%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8F
 
 vless://56e626c8-6396-4f81-a20f-3a84bc71164a@fox3.wizard2shop.org:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=xiz30.wizard2shop.org&amp;fp=360&amp;type=ws&amp;allowInsecure=0&amp;sni=xiz30.wizard2shop.org#%40Easy_Free_VPN
 vless://vpn_connects@clfconnect.pishipishi.pro:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=hamon.hamimelectronic.ir&amp;type=ws#%40Easy_Free_VPN
@@ -369,6 +369,10 @@ vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none
 
 
 
+vless://14db8096-7800-4cb8-bb52-1856e3b65785@snt1.shahramv1.site:443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;sni=snt1.shahramv1.site#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.56.163:22224?path=%2Ftelegram-channel-vlessconfig&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=trojan.burgerip.co.uk#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@199.241.138.38:25631?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ylnhh.cc.cd&amp;type=ws&amp;allowInsecure=0&amp;sni=ylnhh.cc.cd#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
+vless://15fc3678-bb1e-4c72-8ff7-2d477f1b8434@emg6.saipasamandemg6.sbs:2006?security=&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B4%D9%85%20%204%C3%97%F0%9F%9A%A8
 vless://3898b276-c444-4d61-a563-7e69fc389026@viptun2.persianv2.ir:2096?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;headerType=none#saministamm
 vless://49bc99e9-305a-4045-a609-a258e8b2b76d@outbounde.iran-mehrbu.ir:16446?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40saministamm%20%7C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF 
 vless://3898b276-c444-4d61-a563-7e69fc389026@viptun2.persianv2.ir:2096?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;headerType=none#iranazadn 
@@ -596,7 +600,6 @@ vless://52057620-80b4-4727-a677-ca7f87359c64@185.173.107.159:443?security=&amp;e
 
 
 
-vless://ac3bf636-88d4-4ac4-9d83-693720ebae1b@185.226.93.7:38655?type=ws&amp;encryption=none&amp;path=%2F&amp;host=new.sordo.store&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;sni=new.sordo.store#@ultrasurf_12
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@78.158.166.180:2096?path=%2Fapi%2Fv1%2Firc&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=vod.ensf.top&amp;type=ws&amp;allowInsecure=0&amp;sni=vod.ensf.top#ultrasurf_12
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?allowInsecure=1&amp;encryption=none&amp;host=sni.111000.v6.navy&amp;security=tls&amp;sni=sni.111000.v6.navy&amp;type=ws#@ultrasurf_12
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?allowInsecure=1&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;type=ws#@ultrasurf_12
