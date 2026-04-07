@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-07-Apr-2026 13:34
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-07-Apr-2026 15:20
 
 
 
@@ -158,10 +158,6 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security
 
 
 
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=dev.twistsparrow.xyz#%F0%9F%9B%A1%20V%2041%20%40Outline_Vpn
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=hetz.x-smm.com&amp;type=ws&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2042%20%40Outline_Vpn
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&amp;security=tls&amp;encryption=none&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2043%20%40Outline_Vpn
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=dev.twistsparrow.xyz&amp;fp=chrome&amp;type=ws&amp;sni=dev.twistsparrow.xyz#%F0%9F%9B%A1%20V%2044%20%40Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2046%20%40Outline_Vpn
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nasnet-5712964102-direct.sharghdaily.co#%F0%9F%9B%A1%20V%2047%20%40Outline_Vpn
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&amp;security=reality&amp;encryption=none&amp;pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&amp;fp=chrome&amp;type=xhttp&amp;sni=vk.com&amp;sid=938f14cf6757a249#%F0%9F%9B%A1%20V%2048%20%40Outline_Vpn
@@ -1142,10 +1138,6 @@ ss://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=no
 
 
 
-ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=dev.twistsparrow.xyz#%F0%9F%9B%A1%20V%2041%20%40Outline_Vpn
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=hetz.x-smm.com&amp;type=ws&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2042%20%40Outline_Vpn
-ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&amp;security=tls&amp;encryption=none&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2043%20%40Outline_Vpn
-ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=dev.twistsparrow.xyz&amp;fp=chrome&amp;type=ws&amp;sni=dev.twistsparrow.xyz#%F0%9F%9B%A1%20V%2044%20%40Outline_Vpn
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2046%20%40Outline_Vpn
 ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nasnet-5712964102-direct.sharghdaily.co#%F0%9F%9B%A1%20V%2047%20%40Outline_Vpn
 ss://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&amp;security=reality&amp;encryption=none&amp;pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&amp;fp=chrome&amp;type=xhttp&amp;sni=vk.com&amp;sid=938f14cf6757a249#%F0%9F%9B%A1%20V%2048%20%40Outline_Vpn
@@ -1871,7 +1863,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
-trojan://telegram-id-privatevpns@63.183.109.175:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.38.154.88:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@18.193.170.62:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.36.185.49:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
@@ -1891,9 +1882,10 @@ trojan://telegram-id-privatevpns@15.224.29.219:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@18.157.121.169:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.38.177.145:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@3.121.164.51:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@13.36.197.1:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 
 
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;host=www.calmlunch.com&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%9B%A1%20V%2045%20%40Outline_Vpn
+
 
 
 trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&amp;security=none#@V2rayNG3
