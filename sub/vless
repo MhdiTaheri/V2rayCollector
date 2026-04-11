@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-11-Apr-2026 03:00
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-11-Apr-2026 05:21
 
 
 
@@ -357,9 +357,7 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&amp;secu
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;type=ws&amp;sni=cr7.traneh.dpdns.org#ALI
 
 
-vless://725495fc-61fc-4c68-bf27-54bb4459d37d@162.159.152.4:8443?type=ws&amp;encryption=none&amp;path=%2Fapi%3Fed%3D2560&amp;host=streamchat.ikoochi.ir&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;allowInsecure=1&amp;sni=streamchat.ikoochi.ir.#for-members
-vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&amp;encryption=none&amp;path=%2Fapi%3Fed%3D2560&amp;host=streamchat.ikoochi.ir&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;allowInsecure=1&amp;sni=streamchat.ikoochi.ir.#for-members
-vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=Myket.ir#%40digiv2ray-50GB
+
 
 
 
