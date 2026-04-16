@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-16-Apr-2026 14:28
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-16-Apr-2026 15:29
 
 
 
@@ -405,8 +405,6 @@ ss://vpn_connects@clfconnect.pishipishi.pro:8880?path=%2F&amp;security=none&amp;
 ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Easy_Free_VPN
 ss://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=norton-vip.cfd&amp;type=httpupgrade#%40Easy_Free_VPN
 
-ss://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&amp;security=tls&amp;encryption=none&amp;echfq=none&amp;host=2026.hhhhh.eu.org&amp;allowinsecure=1&amp;type=ws&amp;sni=2026.hhhhh.eu.org#%60%40V2RAY_VMESS_free
-ss://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A744...&amp;security=tls&amp;encryption=none&amp;echfq=none&amp;host=2026.hhhhh.eu.org&amp;allowinsecure=1&amp;type=ws&amp;sni=2026.hhhhh.eu.org#%40V2RAY_VMESS_free
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;echfq=none&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.111000.indevs.in#%40V2RAY_VMESS_free
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;echfq=none&amp;host=sni.jpmj.dev&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.jpmj.dev#%40V2RAY_VMESS_free
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;echfq=none&amp;host=sni.jpmj.dev&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.jpmj.dev#%40V2RAY_VMESS_free
@@ -939,6 +937,7 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F&amp;security=t
 ss://3a6b6256-5a3d-4331-9126-c4db16dd67dc@8.6.112.0:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cfcf.metipoxbozorg.shop&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cfcf.metipoxbozorg.shop#@UnNurmal
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#@UnNurmal
 ss://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=kamalnet.pages.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=kamalnet.pages.dev#@UnNurmal
+ss://5bcfacea-d69c-4e38-9007-80871db80567@185.143.233.235:80?security=none&amp;encryption=none&amp;host=vixon.portab.org&amp;type=ws#%40V2RAYENGLISH
 
 ss://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 ss://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJAQ29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
