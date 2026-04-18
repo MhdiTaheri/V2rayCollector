@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-18-Apr-2026 18:13
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-18-Apr-2026 19:03
 
 
 
@@ -556,16 +556,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224
 
 
 
-ss://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;allowInsecure=0&amp;sni=y6-3cj.PAgES.DEV#@ultrasurf_12
-ss://517eced5-4087-4a4b-bde0-9cf94fe31e0f@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&amp;security=none&amp;encryption=none&amp;host=live-azd1102.telewebion.ir&amp;type=ws#@ultrasurf_12
-ss://89d90963-e99a-4ed1-b5c5-f656e6ed5044@185.143.234.235:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=vixon.portab.org&amp;type=ws#@ultrasurf_12
-ss://6847c9af-9ed8-4f01-8da6-7e2aaacae676@login.rayanserv.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@ultrasurf_12
 ss://7eeeb196-0018-4e77-8bb4-34aca534930d@8.6.112.0:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=dl.wolfpro.fun&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=dl.wolfpro.fun#%40@ultrasurf_12
 ss://616db6a6-24b8-4d1f-8234-72bfb44fac80@94.101.179.129:27216?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ultrasurf_12
 ss://1dbd2d7d-65db-4cc3-b12b-657a34864dc4@v5.game2dns.xyz:576?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ultrasurf_12-%D8%AA%D9%88%E2%80%8C%D9%86%D9%BE%D8%B3%D8%AA%D8%B1%E2%80%8C%D8%A8%D8%B2%D9%86%DB%8C%D8%AF
 ss://43457127-ee2f-439f-bfd0-54c515043804@sub.starfast.site:443?security=none&amp;encryption=none&amp;host=www.filimo.com&amp;headerType=http&amp;type=tcp#%40ultrasurf_12
 ss://a177f318-1769-41c5-861a-25ffd5adcc51@rfiksma.top:10355?encryption=none&amp;type=tcp#%ultrasurf_12
 ss://af4213f4-e6ab-4d03-b6ee-3ab6fc3c85bc@185.143.233.5:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fgraphql%3Fed%3D30&amp;host=dl3nc.smartnetworktools.ir&amp;sni=dl3nc.smartnetworktools.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;allowInsecure=1#https://t.me/ultrasurf_12
+ss://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=api.frest.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=api.frest.ir#@ultrasurf_12
+ss://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hio-awx.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=hio-awx.pages.dev#@ultrasurf_12
+ss://a01daac7-1e65-4645-854d-b47d226f6b08@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;allowInsecure=0&amp;sni=y6-3cj.PAgES.DEV#@ultrasurf_12
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#@ultrasurf_12
+ss://3a6b6256-5a3d-4331-9126-c4db16dd67dc@8.6.112.0:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cfcf.metipoxbozorg.shop&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cfcf.metipoxbozorg.shop#@ultrasurf_12
 
 ss://4898e947-7364-40fc-bc6d-969c74afc72a@shhproxy.varzesh3-cnd.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=gmV2raybo.shhproxyfree.com&amp;type=ws&amp;sni=gmV2raybo.shhproxyfree.com#@vpn_kanfik
 ss://18cabd6b-c83d-4063-a478-3cd7a2a82e34@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#@vpn_kanfik
@@ -716,9 +717,6 @@ ss://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:2244
 ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&amp;encryption=none&amp;pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=jp.cdn.stun.su&amp;sid=f189d91760bb6663#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#%F0%9F%87%A8%F0%9F%87%B4%40FreakConfig
 
-ss://c27cf658-8ea9-436b-9c9d-cb2866563cba@arvancloud.ir:80?path=%40TunizoNET&amp;security=none&amp;encryption=none&amp;host=dom.amirenzohost.ir&amp;type=ws#%40V2rayNG_Cafe
-ss://adc273e9-ea91-4835-acac-ea6e4b27aa34@arvancloud.ir:80?path=%40TunizoNET&amp;security=none&amp;encryption=none&amp;host=dom.amirenzohost.ir&amp;type=ws#%40V2rayNG_Cafe
-ss://616db6a6-24b8-4d1f-8234-72bfb44fac80@94.101.179.129:27216?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayNG_Cafe
 ss://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=hio-awx.pages.dev&amp;type=ws&amp;sni=hio-awx.pages.dev#%40vasl_bashim
 ss://c2bf8051-3fce-4e16-b10c-ca15176136b5@fuckrc.enhanzy.com:443?encryption=none&amp;type=tcp#@vasl_bashim
 ss://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=api.frest.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=api.frest.ir#@UnNurmal
@@ -746,6 +744,11 @@ ss://d5ac69a7-d886-4efd-85cc-39ec67363e94@luna.5on.ir:8880?path=%2F&amp;security
 ss://42b0eed5-d850-4b13-a4e8-0f8a093cbed4@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&amp;security=none&amp;encryption=none&amp;host=live-azd1102.telewebion.ir&amp;type=ws#@UnNurmal
 ss://14aeee66-501d-4f93-811b-9e2732dbe00f@telegram.nexoraservre1.top:48563?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@UnNurmal
 ss://14aeee66-501d-4f93-811b-9e2732dbe00f@telegram.nexoraservre1.top:48563?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40UnNurmal
+ss://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=api.frest.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=api.frest.ir#@UnNurmal
+ss://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hio-awx.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=hio-awx.pages.dev#@UnNurmal
+ss://a01daac7-1e65-4645-854d-b47d226f6b08@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;allowInsecure=0&amp;sni=y6-3cj.PAgES.DEV#@UnNurmal
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#@UnNurmal
+ss://3a6b6256-5a3d-4331-9126-c4db16dd67dc@8.6.112.0:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cfcf.metipoxbozorg.shop&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cfcf.metipoxbozorg.shop#@UnNurmal
 
 ss://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 ss://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJAQ29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
