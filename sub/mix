@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-18-Apr-2026 09:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-18-Apr-2026 11:27
 
 
 
@@ -432,7 +432,6 @@ vless://db487de4-7e8f-4b3b-b5e8-1e7337ea7954@172.64.152.23:443?type=ws&amp;encry
 
 
 
-vless://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=api.frest.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=api.frest.ir#%40ultrasurf_12
 vless://89d90963-e99a-4ed1-b5c5-f656e6ed5044@185.143.234.235:80?security=none&amp;encryption=none&amp;type=ws&amp;host=vixon.portab.org&amp;path=/#@ultrasurf_12
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;allowInsecure=0&amp;sni=y6-3cj.PAgES.DEV#@ultrasurf_12
 vless://517eced5-4087-4a4b-bde0-9cf94fe31e0f@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&amp;security=none&amp;encryption=none&amp;host=live-azd1102.telewebion.ir&amp;type=ws#@ultrasurf_12
@@ -1312,7 +1311,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224
 
 
 
-ss://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=api.frest.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=api.frest.ir#%40ultrasurf_12
 ss://89d90963-e99a-4ed1-b5c5-f656e6ed5044@185.143.234.235:80?security=none&amp;encryption=none&amp;type=ws&amp;host=vixon.portab.org&amp;path=/#@ultrasurf_12
 ss://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;allowInsecure=0&amp;sni=y6-3cj.PAgES.DEV#@ultrasurf_12
 ss://517eced5-4087-4a4b-bde0-9cf94fe31e0f@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&amp;security=none&amp;encryption=none&amp;host=live-azd1102.telewebion.ir&amp;type=ws#@ultrasurf_12
@@ -1555,7 +1553,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
-trojan://telegram-id-privatevpns@3.73.216.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@15.236.148.165:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.36.75.13:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@63.184.25.161:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
@@ -1575,6 +1572,7 @@ trojan://telegram-id-privatevpns@15.237.5.194:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@15.188.2.109:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.123.49.45:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.236.63.145:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@3.65.185.26:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&amp;security=tls&amp;insecure=1&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;allowInsecure=1&amp;sni=Koma-YT.PAGeS.Dev#%40FreeLand8%20%E2%AD%90Test
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096…
 
