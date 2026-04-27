@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-27-Apr-2026 15:50
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-27-Apr-2026 20:47
 
 
 
@@ -320,6 +320,8 @@ vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=%2F%3Fed
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;echfq=none&amp;host=sni.jpmj.dev&amp;allowinsecure=1&amp;type=ws&amp;sni=sni.jpmj.dev#%40V2RAY_VMESS_free
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&amp;security=tls&amp;encryption=none&amp;echfq=none&amp;host=y6-3cj.PAgES.DEV&amp;allowinsecure=0&amp;type=ws&amp;sni=y6-3cj.PAgES.DEV#%40V2RAY_VMESS_free
+vless://2dd4275d-562b-4ec5-951c-2ba1702d94b0@react.dev:443?mode=auto&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;echfq=none&amp;host=vercel-xhttp-pi-neon.vercel.app&amp;allowinsecure=0&amp;type=xhttp&amp;sni=react.dev#%40V2RAY_VMESS_free
+vless://2dd4275d-562b-4ec5-951c-2ba1702d94b0@react.dev:443?mode=auto&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;echfq=none&amp;host=vercel-xhttp-pi-neon.vercel.app&amp;allowinsecure=0&amp;type=xhttp&amp;sni=react.dev…
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws# 
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws# 
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws# 
@@ -415,6 +417,7 @@ vless://3cf4a468-5196-4bba-8238-abe8f7ec8652@cdn1.jigaartala.shop:26764?type=tcp
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.5.134:80?encryption=none&amp;type=ws&amp;path=%2F&amp;host=vip.yaml7.ggff.net#Join ➣ @ultrasurf_12
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=vip.az99x.info&amp;type=ws#Join ➣ @ultrasurf_12
 vless://850255c0-8444-4b92-bf3f-01cde9f52fab@office.weai.ir:443?security=reality&amp;encryption=none&amp;pbk=065ekp_uJftu5-HVe7NziOIS7ajpv0dylhsJK6ylzRE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=git.revi.voto&amp;sid=ffe4b45f7e2f0778#%F0%9F%8D%81%40ultrasurf_12
+vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=iranfuture.musicritmic.ir&amp;type=ws#
 
 vless://4898e947-7364-40fc-bc6d-969c74afc72a@shhproxy.varzesh3-cnd.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=gmV2raybo.shhproxyfree.com&amp;type=ws&amp;sni=gmV2raybo.shhproxyfree.com#@vpn_kanfik
 vless://18cabd6b-c83d-4063-a478-3cd7a2a82e34@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#@vpn_kanfik
