@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-May-2026 18:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-May-2026 20:38
 
 
 
@@ -507,6 +507,7 @@ vless://4dc49cca-8756-4444-9f68-3c3156473fd0@vipsrv5x.speshialservice.com:8080?s
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vasl_bashim
 vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;host=sr.novatechsapr.ir&amp;type=ws#KurdConfing
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=javid-2.toraniq.ir&amp;type=ws#KurdConfing
+vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&amp;security=none&amp;encryption=none&amp;host=ryzo.px-ir.ir&amp;type=ws#@vasl_bashim
 
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
