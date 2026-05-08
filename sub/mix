@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-May-2026 06:04
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-08-May-2026 08:56
 
 
 
@@ -135,6 +135,7 @@ vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&am
 
 
 vless://d9e3ba92-6429-45aa-9383-bc8cece5bea7@javid.purples.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=javid-2.toraniq.ir&amp;type=ws#Tarkibi4%20%7C%20%40FreeLand8
+vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Tarkibi8%20%7C%20%40FreeLand8
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=hetz.x-smm.com&amp;type=ws&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2051%20%40Outline_Vpn
 vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=%2Fhttpupgrade26070&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=rahgozar.italiantourism.net&amp;type=httpupgrade&amp;sni=rahgozar.italiantourism.net.#%F0%9F%9B%A1%20V%2052%20%40Outline_Vpn
@@ -890,6 +891,8 @@ ss://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;e
 
 
 ss://d9e3ba92-6429-45aa-9383-bc8cece5bea7@javid.purples.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=javid-2.toraniq.ir&amp;type=ws#Tarkibi4%20%7C%20%40FreeLand8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#Tarkibi5%20%7C%20%40FreeLand8
+ss://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Tarkibi8%20%7C%20%40FreeLand8
 
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=hetz.x-smm.com&amp;type=ws&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2051%20%40Outline_Vpn
 ss://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=%2Fhttpupgrade26070&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=rahgozar.italiantourism.net&amp;type=httpupgrade&amp;sni=rahgozar.italiantourism.net.#%F0%9F%9B%A1%20V%2052%20%40Outline_Vpn
