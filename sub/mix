@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-11-May-2026 10:04
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-11-May-2026 14:03
 
 
 
@@ -103,8 +103,6 @@ vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&am
 
 
 
-vless://d55d61bf-5fb9-4020-b67c-45776a807b8b@185.143.233.5:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=cd2.sesrsa.com&amp;type=ws#Tarkibi9%20%7C%20%40FreeLand8
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=javid-2.toraniq.ir&amp;type=ws#Tarkibi10%20%7C%20%40FreeLand8
 vless://d3c7de84-54d6-4460-8acc-ffc63b023e5f@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Tarkibi12%20%7C%20%40FreeLand8
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=hetz.x-smm.com&amp;type=ws&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2051%20%40Outline_Vpn
@@ -434,6 +432,8 @@ vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&a
 vless://172325e2-326d-422d-9e30-6035efeac4c9@Cia.parsincharm.ir:2052?type=ws&amp;encryption=none&amp;path=&amp;host=besy.storyhost.ir&amp;security=none#@UnNurmal
 vless://7208f7a9-95d9-40c4-ab55-211681c14332@SnaPp.ir:2082?security=none&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=Mamad.mobilesubasa.com#@UnNurmal
 vless://a2b89010-b65a-492c-a0a6-5cec15ae5a24@eco.gymplusplus.com:2052?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#@UnNurmal
+vless://d3c7de84-54d6-4460-8acc-ffc63b023e5f@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAYENGLISH
+vless://4e3f6a5b-acd3-4566-8349-bc71602b99bb@vpnxvpn.nazincup.ir:8080?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=vpnxvpn.nazincup.ir&amp;path=/api#@vasl_bashim
 
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
@@ -582,7 +582,7 @@ vmess://eyJhZGQiOiIxOTUuMTgyLjM4LjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
-
+vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6InQubWUvdmFzbF9iYXNoaW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJAQ29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1Iiwi…
@@ -756,9 +756,8 @@ ss://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;e
 
 
 
-ss://d55d61bf-5fb9-4020-b67c-45776a807b8b@185.143.233.5:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=cd2.sesrsa.com&amp;type=ws#Tarkibi9%20%7C%20%40FreeLand8
-ss://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=javid-2.toraniq.ir&amp;type=ws#Tarkibi10%20%7C%20%40FreeLand8
 ss://d3c7de84-54d6-4460-8acc-ffc63b023e5f@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Tarkibi12%20%7C%20%40FreeLand8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#Tarkibi13%20%7C%20%40FreeLand8
 
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=hetz.x-smm.com&amp;type=ws&amp;sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2051%20%40Outline_Vpn
 ss://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=%2Fhttpupgrade26070&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=rahgozar.italiantourism.net&amp;type=httpupgrade&amp;sni=rahgozar.italiantourism.net.#%F0%9F%9B%A1%20V%2052%20%40Outline_Vpn
@@ -1158,6 +1157,9 @@ ss://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&amp;
 ss://172325e2-326d-422d-9e30-6035efeac4c9@Cia.parsincharm.ir:2052?type=ws&amp;encryption=none&amp;path=&amp;host=besy.storyhost.ir&amp;security=none#@UnNurmal
 ss://7208f7a9-95d9-40c4-ab55-211681c14332@SnaPp.ir:2082?security=none&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=Mamad.mobilesubasa.com#@UnNurmal
 ss://a2b89010-b65a-492c-a0a6-5cec15ae5a24@eco.gymplusplus.com:2052?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#@UnNurmal
+ss://d3c7de84-54d6-4460-8acc-ffc63b023e5f@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAYENGLISH
+ss://4e3f6a5b-acd3-4566-8349-bc71602b99bb@vpnxvpn.nazincup.ir:8080?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=vpnxvpn.nazincup.ir&amp;path=/api#@vasl_bashim
+ss://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6InQubWUvdmFzbF9iYXNoaW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 ss://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 ss://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJAQ29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
