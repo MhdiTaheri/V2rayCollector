@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-12-May-2026 17:39
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-12-May-2026 20:35
 
 
 
@@ -373,6 +373,7 @@ vless://a864c0ea-a2ab-4328-b1f8-e094f6b1be29@37.202.246.113:443?security=none&am
 vless://acd7d454-c55b-4568-a720-6b6b65c61ce6@s2.tehranionliine.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40ultrasurf_12 
 vless://3728fc28-910c-4a9c-888c-c08c3e2f4a06@snapp.ir:2052?encryption=none&amp;type=ws&amp;path=%2Freq2&amp;host=snapp1.gptpersian.ir#ultrasurf_12
 vless://telegram-dickiriptorbot@13.249.2.122:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=dbw9jfe94rh28.cloudfront.net&amp;type=ws&amp;allowInsecure=1&amp;sni=3.173.21.63#ultrasurf_12
+vless://08cd588d-8923-40fb-8216-c5a112a259b9@www.varzesh3.com:2095?path=%2Fchat%3Fed%3D128&amp;security=&amp;encryption=none&amp;host=dl2.mizbanertebatfarda.ir&amp;type=ws#ultrasurf_12
 
 vless://4898e947-7364-40fc-bc6d-969c74afc72a@shhproxy.varzesh3-cnd.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=gmV2raybo.shhproxyfree.com&amp;type=ws&amp;sni=gmV2raybo.shhproxyfree.com#@vpn_kanfik
 vless://18cabd6b-c83d-4063-a478-3cd7a2a82e34@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#@vpn_kanfik
@@ -465,9 +466,6 @@ vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=realit
 vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:22443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=8453e5fd9af927#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&amp;encryption=none&amp;pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=jp.cdn.stun.su&amp;sid=f189d91760bb6663#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 
-vless://a469bf88-8f4c-4b39-81c8-736acb3e1a39@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=biawban.yeksancloud.ir&amp;type=ws#%40V2rayTun0
-vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?path=%2Fvoip&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=pishparda.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=isna.ir#%40V2rayTun0
-vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2rayTun0
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=sni.jpmj.dev&amp;sni=sni.jpmj.dev&amp;allowInsecure=1#t.me/vasl_bashim
 vless://36623934-3936-4030-b332-633533653363@185.143.233.167:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&amp;security=none&amp;encryption=none&amp;host=dl.tgmovie.bond&amp;type=ws#t.me%2Fvasl_bashim
 vless://ce0539de-480a-4aa2-9fe1-49d1dd257753@net.vbgroup.site:993?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=1&amp;sni=server.evanxxmedia.top#t.me%2Fvasl_bashim
