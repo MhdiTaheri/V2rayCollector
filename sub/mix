@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-14-May-2026 09:49
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-14-May-2026 12:59
 
 
 
@@ -336,7 +336,7 @@ vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none
 
 
 
-vless://40e1b62b-6245-4ec0-b57d-6dc4190db762@185.143.234.235:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=io.binping.lol&amp;type=ws#
+
 
 
 
@@ -365,7 +365,6 @@ vless://1a83df32-42f2-4395-97bb-1fb91822c630@185.143.233.5:443?security=tls&amp;
 
 
 
-vless://3728fc28-910c-4a9c-888c-c08c3e2f4a06@snapp.ir:2052?encryption=none&amp;type=ws&amp;path=%2Freq2&amp;host=snapp1.gptpersian.ir#ultrasurf_12
 vless://telegram-dickiriptorbot@13.249.2.122:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=dbw9jfe94rh28.cloudfront.net&amp;type=ws&amp;allowInsecure=1&amp;sni=3.173.21.63#ultrasurf_12
 vless://08cd588d-8923-40fb-8216-c5a112a259b9@www.varzesh3.com:2095?path=%2Fchat%3Fed%3D128&amp;security=&amp;encryption=none&amp;host=dl2.mizbanertebatfarda.ir&amp;type=ws#ultrasurf_12
 vless://6e22a266-25c0-4c8d-ac43-f24891262b07@ultranecctestusa.fqservershop.com:51395?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40@ultrasurf_12
@@ -1069,7 +1068,6 @@ ss://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none&am
 
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
-ss://40e1b62b-6245-4ec0-b57d-6dc4190db762@185.143.234.235:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=io.binping.lol&amp;type=ws#
 ss://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMjU0NzIxYTktNTczOS00YmFmLWIzNWQtOWJjOTUwZTM0NmRiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS9kaXJlY3QiLCJwb3J0IjoiNDQzIiwicHMiOiJAc2FtaW5pc3RhbW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://eyJhZGQiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0IjoiaS1sb3ZlLWlyYW4uYW1sYWtheXVuaS5pciIsImlkIjoiYTBiNThkNTUtYjI5Yi03YzBlLWQ3NzQtM2ZlMDRmYzM3NWQ4IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiP2VkXHUwMDNkMjA1MyIsInBvcnQiOiIyMDUzIiwicHMiOiJAc2FtaW5pc3RhbW0iLCJzY3kiOiJhdXRvIiwic25pIjoiaS1sb3ZlLWlyYW4uYW1sYWtheXVuaS5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
@@ -1107,7 +1105,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224
 
 
 
-ss://3728fc28-910c-4a9c-888c-c08c3e2f4a06@snapp.ir:2052?encryption=none&amp;type=ws&amp;path=%2Freq2&amp;host=snapp1.gptpersian.ir#ultrasurf_12
 ss://telegram-dickiriptorbot@13.249.2.122:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=dbw9jfe94rh28.cloudfront.net&amp;type=ws&amp;allowInsecure=1&amp;sni=3.173.21.63#ultrasurf_12
 ss://08cd588d-8923-40fb-8216-c5a112a259b9@www.varzesh3.com:2095?path=%2Fchat%3Fed%3D128&amp;security=&amp;encryption=none&amp;host=dl2.mizbanertebatfarda.ir&amp;type=ws#ultrasurf_12
 ss://6e22a266-25c0-4c8d-ac43-f24891262b07@ultranecctestusa.fqservershop.com:51395?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40@ultrasurf_12
@@ -1271,7 +1268,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;inse
 
 
 
-trojan://telegram-id-privatevpns@52.58.203.172:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.224.89.79:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@63.180.116.50:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@51.44.92.102:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
@@ -1291,6 +1287,7 @@ trojan://telegram-id-privatevpns@13.37.117.168:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@13.37.198.44:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.122.87.69:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@35.180.13.11:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@3.71.124.112:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 
 
 
