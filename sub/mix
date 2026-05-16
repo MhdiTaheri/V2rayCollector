@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-16-May-2026 15:23
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-16-May-2026 16:41
 
 
 
@@ -26,7 +26,6 @@ vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:2
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&amp;encryption=none&amp;pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=jp.cdn.stun.su&amp;sid=f189d91760bb6663#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 
 
-vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=pa1.ghostantaniehh.ir&amp;type=ws#Telegram%20%7C%20%40proxystore11
 vless://406e983f-22b9-4cb2-ab19-7b3968be0f07@starlink.tino2020.com:443?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=1&amp;sni=starlink.tino2020.com#%F0%9F%87%A6%F0%9F%87%B9%20%20%7C%20%40proxystore11
 
 
@@ -611,7 +610,6 @@ ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&am
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#%F0%9F%87%A8%F0%9F%87%B4%40FreakConfig
 
 
-ss://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=pa1.ghostantaniehh.ir&amp;type=ws#Telegram%20%7C%20%40proxystore11
 ss://eyJhZGQiOiJ3d3cuYXJ2YW5jbG91ZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFudXJheS5oZWx4eC5pciIsImlkIjoiZjRmZjc3N2UtOWFkYi00M2Y4LTg0ZGEtNTg2NmYxNTBlZTg2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL25ld3NlcnZlciIsInBvcnQiOiIyMDgyIiwicHMiOiJnOHE4MjAwOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://406e983f-22b9-4cb2-ab19-7b3968be0f07@starlink.tino2020.com:443?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=1&amp;sni=starlink.tino2020.com#%F0%9F%87%A6%F0%9F%87%B9%20%20%7C%20%40proxystore11
 
@@ -1073,7 +1071,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;inse
 
 
 
-trojan://telegram-id-privatevpns@13.38.154.94:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.36.109.123:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@52.47.169.8:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@63.183.64.228:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
@@ -1093,6 +1090,7 @@ trojan://telegram-id-privatevpns@13.38.241.41:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@15.237.55.229:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@63.183.179.231:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@15.236.127.239:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@15.188.181.239:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 
 
 
