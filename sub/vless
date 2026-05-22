@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-22-May-2026 11:09
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-22-May-2026 14:15
 
 
 
@@ -344,6 +344,7 @@ vless://f2695176-33bd-494c-98d0-3393951d313a@snapp.ir:80?path=%2F&amp;security=n
 vless://822419f5-7449-42f1-85c3-c5364a0d4017@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 vless://3e015dbc-8792-4271-9fae-461caa85cb8f@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 vless://d18dfc36-bcde-4b25-a6c9-60ab6dca5d30@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&amp;type=ws&amp;path=%2F%3Fed%3D2560&amp;host=sv-1.jservices.ir#%40vasl_bashim
 
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
