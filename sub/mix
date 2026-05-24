@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-24-May-2026 19:33
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-24-May-2026 21:25
 
 
 
@@ -333,6 +333,10 @@ vless://f14330d9-4c80-4e28-8cbd-d581af153d79@snapp.ir:80?path=%2F&amp;security=n
 vless://6fb70abc-5c1e-4827-9034-3ea2edf4724b@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&amp;type=ws&amp;path=%2F#%40vasl_bashim
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#https://t.me/vasl_bashim
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?encryption=none&amp;type=ws&amp;path=%2F#%40vasl_bashim
+vless://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=weed2.torkonlineshop.ir&amp;type=ws#%40vasl_bashim
+vless://ba5b5ba4-d951-4d73-91be-2775a7e3705a@panel.shahriareiran.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=down.speedtell.ir&amp;type=ws#%40vasl_bashim
 
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
@@ -925,6 +929,10 @@ ss://f14330d9-4c80-4e28-8cbd-d581af153d79@snapp.ir:80?path=%2F&amp;security=none
 ss://6fb70abc-5c1e-4827-9034-3ea2edf4724b@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=derakhshan.molvliafor.ir&amp;type=ws#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 ss://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 ss://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&amp;type=ws&amp;path=%2F#%40vasl_bashim
+ss://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#https://t.me/vasl_bashim
+ss://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?encryption=none&amp;type=ws&amp;path=%2F#%40vasl_bashim
+ss://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=weed2.torkonlineshop.ir&amp;type=ws#%40vasl_bashim
+ss://ba5b5ba4-d951-4d73-91be-2775a7e3705a@panel.shahriareiran.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=down.speedtell.ir&amp;type=ws#%40vasl_bashim
 
 ss://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 ss://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJAQ29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -962,7 +970,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@15.237.38.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@35.156.35.32:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@52.47.138.221:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@51.102.92.172:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
@@ -982,6 +989,7 @@ trojan://telegram-id-privatevpns@13.37.60.29:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@3.65.4.209:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.179.19.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@35.159.190.54:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@18.157.122.11:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#Pro%2011%20%40Outline_Vpn
@@ -1050,7 +1058,7 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chr
 
 
 
-
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.calmloud.com&amp;fp=ios&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%40vasl_bashim
 
 
 
