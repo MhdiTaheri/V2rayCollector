@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-25-May-2026 20:34
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-25-May-2026 22:52
 
 
 
@@ -145,6 +145,7 @@ trojan://humanity@2.144.19.97:40443?path=%2Fassignment&amp;security=tls&amp;inse
 
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%40V2rayTun0
 trojan://humanity@188.114.96.4:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;alpn=http%2F1.1&amp;allowInsecure=1#@UnNurmal
+trojan://humanity@104.20.42.250:443?security=tls&amp;type=ws&amp;host=www.calmloud.com&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;fp=ios&amp;allowInsecure=1#t.me/vasl_bashim
 
 
 
