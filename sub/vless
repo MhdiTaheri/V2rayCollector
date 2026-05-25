@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-25-May-2026 18:14
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-25-May-2026 20:34
 
 
 
@@ -42,11 +42,6 @@ vless://a0893888-24f3-4395-a7c8-007ba45dd168@abr.superip.ir:80?path=%2FAPI%2Fsup
 vless://a0893888-24f3-4395-a7c8-007ba45dd168@abr.superip.ir:8080?path=%2FAPI%2Fsuperip&amp;security=none&amp;encryption=none&amp;host=library.phill-up.ir&amp;type=ws#Tarkibi18%20%7C%20%40FreeLand8
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Tarkibi19%20%7C%20%40FreeLand8
 
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2086%20%40Outline_Vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2087%20%40Outline_Vpn
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=Pulavpn11.afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2088%20%40Outline_Vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.jpmj.dev#%F0%9F%9B%A1%20V%2089%20%40Outline_Vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2090%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=%2F138.2.5.136%3D443&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2091%20%40Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2092%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.0.108:443?path=%2F5.223.47.32%3D443&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2093%20%40Outline_Vpn
@@ -109,6 +104,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.191:2096?path=Telegram%25F0
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.26.1.83:443?path=%2Fshop%2Fprograms%2Fpicturefp%3Dchrome&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=pagescm.freen10.cc.cd&amp;type=ws&amp;allowInsecure=0&amp;sni=pagescm.freen10.cc.cd#Pro%2028%20%40Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#Pro%2029%20%40Outline_Vpn
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@8.6.112.0:2053?security=tls&amp;encryption=none&amp;insecure=1&amp;host=qyi.fqjd663.ggff.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=qyi.fqjd663.ggff.net#Pro%2030%20%40Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#Pro%2033%20%40Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#Pro%2034%20%40Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.138:2096?security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#Pro%2035%20%40Outline_Vpn
 
 
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#@V2rayNG3
@@ -350,10 +348,6 @@ vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?path=%2Flogin%2F
 
 
 
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#https://t.me/vasl_bashim
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?encryption=none&amp;type=ws&amp;path=%2F#%40vasl_bashim
-vless://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=weed2.torkonlineshop.ir&amp;type=ws#%40vasl_bashim
-vless://ba5b5ba4-d951-4d73-91be-2775a7e3705a@panel.shahriareiran.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=down.speedtell.ir&amp;type=ws#%40vasl_bashim
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#٪40vasl_bashim
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#https://t.me/UnNurmal
 vless://df3d1819-1fc2-40e4-b968-25b5ca5ec604@snapp.ir:80?encryption=none&amp;type=ws&amp;path=%2Fgraphql%3Fed%3D2560&amp;host=ss11.limitless-cloud.ir#%40vasl_bashim
