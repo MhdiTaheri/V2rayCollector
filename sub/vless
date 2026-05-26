@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-27-May-2026 00:22
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-27-May-2026 01:47
 
 
 
@@ -38,15 +38,11 @@ vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 
+vless://e5fe3a99-8fb5-4475-a45c-4966575088e2@ip1.hsrdnr.ir:8880?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=shad.hsrdnr.ir&amp;path=%2F%3Fed%3D2080#%D9%85%D9%88%D9%82%D8%AA
 
 
 
 
-
-vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=80bab3a2.gon-7ye.pages.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=80bab3a2.gon-7ye.pages.dev#%F0%9F%9B%A1%20V%2096%20%40Outline_Vpn
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=%2F156.244.1.250%3D8443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2097%20%40Outline_Vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#%F0%9F%9B%A1%20V%2098%20%40Outline_Vpn
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;flow=xtls-rprx-vision&amp;sni=nasnet-5712964102-direct.sharghdaily.co#%F0%9F%9B%A1%20V%2099%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=joinProxyVPN11.afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20102%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Pulavpn11.afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20103%20%40Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%20104%20%40Outline_Vpn
@@ -107,6 +103,10 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&am
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.dynv6.net#Pro%2037%20%40Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?path=Telegram%40WangCai2%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.my111000.tech&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.my111000.tech#Pro%2039%20%40Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#Pro%2040%20%40Outline_Vpn
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.152.120:443?path=%2Fcode%2Fdl&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=pagescm.freen29.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=pagescm.freen29.cc.cd#Pro%2041%20%40Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#Pro%2042%20%40Outline_Vpn
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.129.33:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=3-2ll.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=3-2ll.pages.dev#Pro%2044%20%40Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#Pro%2045%20%40Outline_Vpn
 
 
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#@V2rayNG3
