@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-29-May-2026 17:25
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-29-May-2026 21:00
 
 
 
@@ -20,9 +20,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@13.37.186.112:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@63.182.182.4:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://telegram-id-privatevpns@15.188.223.48:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.236.143.142:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.122.176.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.237.158.158:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
@@ -38,6 +35,8 @@ trojan://telegram-id-privatevpns@63.180.99.32:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@63.179.214.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@51.44.104.68:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.236.251.51:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@63.185.71.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@63.185.3.163:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://%3AU%5D2hAN7Y%5BKa0Eb_@www.speedtest.net:8443?type=ws&amp;security=tls&amp;path=%2Ftre6QQRE1ue6YL7k30%2FNzIuMTMuMTIyLjEzNw&amp;host=TEst-63W.PaGEs.deV&amp;sni=TEst-63W.PaGEs.deV&amp;allowInsecure=1#AllNets @FreeLand8
 trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.app-cloud.ir#%40Freeland8%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 
@@ -90,7 +89,6 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chr
 
 
 
-trojan://UnNurmal@45.130.125.76:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.app-cloud.ir#TELGRAM%3A%40ConfigV2RayNG
 trojan://masirsefid@104.16.80.73:443?mode=auto&amp;path=%2Fmkolsjdeds&amp;security=tls&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=vps.smamin.com&amp;type=xhttp&amp;allowInsecure=0&amp;sni=vps.smamin.com#TELGRAM%3A%40ConfigV2RayNG
 trojan://humanity@104.16.7.70:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#ConfigV2RayNG
@@ -156,7 +154,6 @@ trojan://Mitivpn@208.103.161.1:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alp
 
 
 
-trojan://humanity@45.130.125.69:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;allowInsecure=1#
 trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.app-cloud.ir#@sogoandfuckyourlove
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;allowinsecure=0&amp;type=ws&amp;sni=www.multiplydose.com#@sogoandfuckyourlove
 
