@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-29-May-2026 02:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-29-May-2026 06:13
 
 
 
@@ -295,6 +295,8 @@ ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@216.24.57.6:443?path=%2F168.138.171.70
 ss://InternetAzadRobot@151.101.1.57:80?mode=auto&amp;path=%2Flogin&amp;security=none&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=shangulin.global.ssl.fastly.net&amp;type=xhttp#@v2rayng3
 ss://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.lezzatzone.ir#@v2rayng3
 ss://99c8e30f-b39f-4917-b8cb-33265bf2976a@45.130.125.76:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=7d3.sisshark.win&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=7d3.sisshark.win#@v2rayng3
+ss://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=jp.aniua.qzz.io&amp;type=ws&amp;sni=jp.aniua.qzz.io#%40v2rayng3
+ss://04ac1574-583b-408b-a18f-259b62410ee3@199.232.57.91:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=FIjjI.gloBal.sSl.faStly.NeT.&amp;type=ws#%40v2rayng3
 ss://arshiacomplus@104.17.121.71:2053?path=%2FDarlisCore&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=nm.acp.us.ci&amp;fp=firefox&amp;type=ws&amp;allowInsecure=1&amp;sni=nm.acp.us.ci#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://bbc7e59f-8b78-40f0-9fbb-0e8df1095ba4@138.124.29.1:17625?security=reality&amp;encryption=none&amp;pbk=T2ASLlp8Nxcn55_yyuISpHGfzX5sVtC-byKy5_3JTVQ&amp;headerType=none&amp;fp=chrome&amp;spx=%2FXXTrqYkqZCmRX7e&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;sid=4efdc8168ee70972#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA
 ss://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;allowInsecure=1&amp;flow=xtls-rprx-vision&amp;sni=sub.sbrf-cdn342.ru#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
