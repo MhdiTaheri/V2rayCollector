@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-03-Jun-2026 09:30
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-03-Jun-2026 14:40
 
 
 
@@ -7,6 +7,7 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tc
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=edu.ruangguru.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=edu.ruangguru.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 
 
@@ -20,9 +21,6 @@ trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tks
 
 
 
-trojan://telegram-id-privatevpns@13.39.205.209:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@52.47.172.108:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@63.185.9.141:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@3.67.118.188:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.39.178.176:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.39.178.176:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
@@ -34,7 +32,11 @@ trojan://telegram-id-privatevpns@3.73.163.13:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@63.185.173.123:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.36.49.197:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@35.181.10.177:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@3.126.110.8:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@63.185.188.232:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@13.39.41.250:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://humanity@45.130.125.76:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#.7.%20%40FreeLand8
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%40FreeLand8%20%F0%9F%91%80%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;insecure=0&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;allowInsecure=0&amp;sni=Koma-YT.PAGeS.Dev#Pro%2022%20%40Outline_Vpn
 trojan://8r%3C%5B9%27l6hAO%238ZQi@212.34.146.229:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;insecure=0&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;allowInsecure=0&amp;sni=Koma-YT.PAGeS.Dev#Pro%2024%20%40Outline_Vpn
@@ -101,7 +103,6 @@ trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&amp
 
 
 
-trojan://mitivpn@188.114.97.6:443?allowInsecure=1&amp;host=dash.linkman1.ir&amp;path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&amp;sni=dash.linkman1.ir&amp;type=ws#@Network_442_%20S12
 trojan://mitivpn@188.114.97.6:443?allowInsecure=1&amp;host=dash.linkman1.ir&amp;path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&amp;sni=dash.linkman1.ir&amp;type=ws#@Network_442_%20%F0%9F%87%BA%F0%9F%87%B2%20S15
 trojan://humanity@104.18.12.149:443?allowInsecure=1&amp;host=www.multiplydose.com&amp;path=%2Fassignment&amp;sni=www.multiplydose.com&amp;type=ws#@Network_442_%20S17
 trojan://humanity@141.193.213.11:443?host=www.calmloud.com&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;type=ws#@Network_442_%20S18
@@ -114,6 +115,7 @@ trojan://humanity@188.114.97.6:443?host=www.ignitelimit.com&amp;path=%2Fassignme
 
 
 
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=edu.ruangguru.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=edu.ruangguru.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=edu.ruangguru.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=edu.ruangguru.com.cyylr.eu.cc#@sogoandfuckyourlove
