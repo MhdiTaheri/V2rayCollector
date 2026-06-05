@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-05-Jun-2026 20:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-05-Jun-2026 23:17
 
 
 
@@ -26,7 +26,6 @@ trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;ins
 
 
 
-trojan://telegram-id-privatevpns@52.29.147.115:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.236.220.28:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.224.86.154:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@63.176.37.226:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
@@ -42,6 +41,7 @@ trojan://telegram-id-privatevpns@15.236.106.253:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@35.181.79.217:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.69.202.177:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.181.210.240:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@52.47.107.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%40FreeLand8%20%F0%9F%91%80%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#Pro%2043%20%40Outline_Vpn
@@ -136,10 +136,6 @@ trojan://Config0plus@104.16.75.127:443?path=%2Fid-tksi&amp;security=tls&amp;inse
 trojan://Config0plus@104.16.75.127:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=api24-normal.tiktokv.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88%40FreakConfig
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%F0%9F%87%AA%F0%9F%87%B8%40FreakConfig
 
-trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=172.235.63.252#@meliproxyy
-trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp#@meliproxyy
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#@meliproxyy
-trojan://d84665c37878196ecf983cf6910e3b44@43.207.82.19:31351?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.nintendogames.net#
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=yazhou10.dynu.net#
 trojan://%43%6f%6e%66%69%67%30%70%6c%75%73@45.130.125.0:443?path=%2Fid-tksi&amp;security=tls&amp;host=api24-normal.tiktokv.com.cyylr.eu.cc&amp;allowinsecure=0&amp;type=ws&amp;sni=api24-normal.tiktokv.com.cyylr.eu.cc#@meliproxyy
 
