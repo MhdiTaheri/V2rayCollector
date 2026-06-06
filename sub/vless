@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-06-Jun-2026 06:09
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-06-Jun-2026 09:55
 
 
 
@@ -95,7 +95,8 @@ vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 
-
+vless://e5fe3a99-8fb5-4475-a45c-4966575088e2@ip1.hsrdnr.ir:8880?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=shad.hsrdnr.ir&amp;path=%2F%3Fed%3D2080#%D9%85%D9%88%D9%82%D8%AA
+vless://6a8d7e9c-cc55-4816-80aa-e7cdfebc96b9@31.43.179.0:8880?type=httpupgrade&amp;path=%2F%3Fed%3D2080&amp;host=shad.hsrdnr.ir&amp;security=none#%D9%85%D9%88%D9%82%D8%AA2
 
 
 vless://b0e1b204-31b5-40df-b800-169ada16fdb9@sibilgg.opik.net:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40FreeLand8%20%F0%9F%91%80%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
@@ -441,6 +442,11 @@ vless://Telegram-Parsashonam-12@45.130.125.160:443?mode=auto&amp;path=%2Fp4r34m&
 vless://Telegram-Parsashonam-12@104.16.75.127:443?mode=auto&amp;path=%2Fp4r34m&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=p4r34m.hendevaneh.sbs&amp;type=xhttp&amp;allowInsecure=0&amp;sni=p4r34m.hendevaneh.sbs#%40ConfigV2RayNG
 vless://Telegram-Parsashonam-12@188.114.97.6:443?mode=auto&amp;path=%2Fp4r34m&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=p4r34m.hendevaneh.sbs&amp;type=xhttp&amp;allowInsecure=0&amp;sni=p4r34m.hendevaneh.sbs#%40ConfigV2RayNG
 vless://Telegram-Parsashonam-12@27.50.48.49:443?mode=auto&amp;path=%2Fp4r34m&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=p4r34m.hendevaneh.sbs&amp;type=xhttp&amp;allowInsecure=0&amp;sni=p4r34m.hendevaneh.sbs#%40ConfigV2RayNG
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ConfigV2RayNG
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM%3A%40ConfigV2RayNG
+vless://97de1f85-5f2c-4446-8507-b437125623a2@62.60.245.10:443?security=reality&amp;encryption=none&amp;pbk=mNPCrTF4rKb_SRmOH-9-IBs5ihK6Pn4SH29iZtKmiX0&amp;host=www.cloudflare.com&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.cloudflare.com&amp;sid=abcd1234#%40ConfigV2RayNG
+vless://97de1f85-5f2c-4446-8507-b437125623a2@62.60.245.10:443?security=reality&amp;encryption=none&amp;pbk=mNPCrTF4rKb_SRmOH-9-IBs5ihK6Pn4SH29iZtKmiX0&amp;host=www.apple.com&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.apple.com&amp;sid=abcd1234#%40ConfigV2RayNG
+vless://97de1f85-5f2c-4446-8507-b437125623a2@62.60.245.10:443?security=reality&amp;encryption=none&amp;pbk=mNPCrTF4rKb_SRmOH-9-IBs5ihK6Pn4SH29iZtKmiX0&amp;host=cdn.jsdelivr.net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=cdn.jsdelivr.net&amp;sid=abcd1234#TELEGRAM%3A%40ConfigV2RayNG
 
 
 
