@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-09-Jun-2026 03:31
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-09-Jun-2026 08:30
 
 
 
@@ -36,6 +36,7 @@ trojan://Masir_Sefid@195.15.253.91:2053?security=reality&amp;pbk=w0XepGv1Hk0gBh1
 trojan://Masir_Sefid@195.15.253.91:1040?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FaRBYGa427aKKE16&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://Masir_Sefid@195.15.253.91:443?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzyKRb3NaP9Ee0j4&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=6ced01fc4aa417#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://Masir_Sefid@195.15.253.91:2083?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FChZzHJgLH1mdM6A&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
+trojan://SoftNetConnect@213.165.45.14:443?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=ec166292d30c9301#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 
 
 
@@ -122,11 +123,6 @@ trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;inse
 
 
 
-trojan://45c47cfa-67da-47e0-b20b-5efa674e6a9b@104.16.75.127:443?path=%2Fus-gllc&amp;security=tls&amp;insecure=0&amp;host=unnes.ac.id.r3xxe.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=unnes.ac.id.r3xxe.eu.cc#%F0%9F%A4%B9%20%40ConfigV2RayNG
-trojan://YZSfMMqKIC@188.114.97.6:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;insecure=0&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=dd.aananas.ir.#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
-trojan://WHM-RoLgbDj1qY1f1kNNkqYYFwos-JE7@p1.zerolost.shop:443?security=reality&amp;pbk=blSaUMI9GEDc8ZgDuzftsdQzxN6OLYmQxvmiyqvg00g&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=www.google.com&amp;sid=0ac4a2720661a38d#TELEGRAM%3A%40ConfigV2RayNG
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%A5%87%20%40ConfigV2RayNG
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#%F0%9F%83%8F%20%40ConfigV2RayNG
 trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=de.e-mitivpn.global.ssl.b5r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=mitivpn.dAsh.ss.ssadsczdx.globcal.ssl.fastly.net.b5r.ir#TELEGRAM%3A%40ConfigV2RayNG
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#TELEGRAM%3A%40ConfigV2RayNG
 trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@185.18.250.252:443?path=%2Fau-mt&amp;security=tls&amp;insecure=0&amp;host=unnes.ac.id.r3xxe.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=unnes.ac.id.r3xxe.eu.cc#%F0%9F%94%9411%40ConfigV2RayNG
@@ -140,6 +136,16 @@ trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@104.16.72.70:443?path=%2Fau-mt&amp
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#%F0%9F%A4%B9%20%40ConfigV2RayNG
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%94%9479%40ConfigV2RayNG
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40ConfigV2RayNG
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
+trojan://humanity@212.183.88.136:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%95%8A%EF%B8%8F%40ConfigV2RayNG%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%202
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%8C%9F%20%40ConfigV2RayNG
+trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#TELEGRAM%3A%40ConfigV2RayNG
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%8E%A0%20%40ConfigV2RayNG
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%E2%9C%A8%20%40ConfigV2RayNG
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#%F0%9F%8E%A2%20%40ConfigV2RayNG
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%F0%9F%8F%8E%EF%B8%8F%20%40ConfigV2RayNG
+trojan://SoftNetConnect@213.165.45.14:443?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=ec166292d30c9301#%F0%9F%94%B5%20ConfigV2RayNG
 
 
 
@@ -192,6 +198,7 @@ trojan://Masir_Sefid@195.15.253.91:2053?security=reality&amp;pbk=w0XepGv1Hk0gBh1
 trojan://Masir_Sefid@195.15.253.91:1040?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FaRBYGa427aKKE16&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://Masir_Sefid@195.15.253.91:443?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzyKRb3NaP9Ee0j4&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=6ced01fc4aa417#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://Masir_Sefid@195.15.253.91:2083?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FChZzHJgLH1mdM6A&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
+trojan://SoftNetConnect@213.165.45.14:443?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=ec166292d30c9301#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 
 trojan://Sg11afdb3c058cf8211956@ip1.hostparsa.ir:443?mode=auto&amp;path=%2Fdownload&amp;security=tls&amp;alpn=h2,http/1.1&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&amp;host=x2-dpim9mztudx78ieloo1t.parsiclouds.ir&amp;fp=chrome&amp;allowinsecure=0&amp;type=xhttp&amp;sni=x2-dpim9mztudx78ieloo1t.parsiclouds.ir#
 trojan://humanity@141.193.213.21:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmloud.com&amp;sni=www.calmloud.com&amp;alpn=http%2F1.1&amp;allowInsecure=0#@meliproxyy
