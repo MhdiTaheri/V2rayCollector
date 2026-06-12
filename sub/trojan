@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-12-Jun-2026 06:29
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-12-Jun-2026 10:56
 
 
 
@@ -29,6 +29,8 @@ trojan://Masir_Sefid@83.228.225.220:443?security=reality&amp;pbk=w0XepGv1Hk0gBh1
 trojan://Masir_Sefid@83.228.225.220:1040?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FaRBYGa427aKKE16&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://Masir_Sefid@83.228.225.220:2053?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FW8svbYrFok2DfFx&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=20b301df70#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://Masir_Sefid@83.228.225.220:2083?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FChZzHJgLH1mdM6A&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
+trojan://Masir_Sefid@37.156.45.168:2083?security=reality&amp;pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzhH6xrLTx7oS2Yl&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=d2f7#%F0%9F%87%A8%F0%9F%87%B3%20%40FreakConfig
+trojan://Masir_Sefid@37.156.45.168:443?security=reality&amp;pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&amp;headerType=none&amp;fp=chrome&amp;spx=%2FFQDh1KA6NaPaGpV&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=d67d2e36#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 
 
 
@@ -41,7 +43,6 @@ trojan://Masir_Sefid@83.228.225.220:2083?security=reality&amp;pbk=w0XepGv1Hk0gBh
 
 
 
-trojan://telegram-id-privatevpns@13.37.43.57:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@52.47.70.99:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@52.59.53.96:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@52.57.0.56:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
@@ -55,6 +56,7 @@ trojan://telegram-id-privatevpns@18.192.188.251:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@18.198.224.239:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@51.44.149.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@52.47.178.252:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@3.78.191.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 
 
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=cdn.linkman1.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=cdn.linkman1.ir#Free%2064%20%40Outline_Vpn
@@ -115,15 +117,6 @@ trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;inse
 
 
 
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40ConfigV2RayNG
-trojan://humanity@212.183.88.136:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%95%8A%EF%B8%8F%40ConfigV2RayNG%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%202
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#TELEGRAM%3A%40ConfigV2RayNG
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0#%F0%9F%AA%AC56%40ConfigV2RayNG
-trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#TELEGRAM%3A%40ConfigV2RayNG
-trojan://humanity@198.62.62.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%8E%80%20%40ConfigV2RayNG
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%F0%9F%8F%8E%EF%B8%8F%20%40ConfigV2RayNG
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0#TELEGRAM%3A%40ConfigV2RayNG
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%8E%A0%20%40ConfigV2RayNG
 trojan://humanity@104.18.152.97:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%AA%AC94%40ConfigV2RayNG
 trojan://humanity@104.16.174.117:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%AA%AC95%40ConfigV2RayNG
 trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#TELEGRAM%3A%40ConfigV2RayNG
@@ -184,6 +177,8 @@ trojan://Masir_Sefid@83.228.225.220:443?security=reality&amp;pbk=w0XepGv1Hk0gBh1
 trojan://Masir_Sefid@83.228.225.220:1040?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FaRBYGa427aKKE16&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://Masir_Sefid@83.228.225.220:2053?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FW8svbYrFok2DfFx&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=20b301df70#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 trojan://Masir_Sefid@83.228.225.220:2083?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FChZzHJgLH1mdM6A&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
+trojan://Masir_Sefid@37.156.45.168:2083?security=reality&amp;pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzhH6xrLTx7oS2Yl&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=d2f7#%F0%9F%87%A8%F0%9F%87%B3%20%40FreakConfig
+trojan://Masir_Sefid@37.156.45.168:443?security=reality&amp;pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&amp;headerType=none&amp;fp=chrome&amp;spx=%2FFQDh1KA6NaPaGpV&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=d67d2e36#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
 
 trojan://mitivpn@188.114.97.6:443?type=ws&amp;security=tls&amp;path=https%3A%2F%2Fchatgpt.com&amp;host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&amp;sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site&amp;alpn=http%2F1.1&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40VPNir404%E2%9A%A1%EF%B8%8F
 trojan://mitivpn@188.114.97.6:443?type=ws&amp;security=tls&amp;path=%2Fed%3Dmitivpn&amp;host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&amp;sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#%40VPNir404%20-%20Speed1%F0%9F%94%A5
