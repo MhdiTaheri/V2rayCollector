@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-16-Jun-2026 03:56
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-16-Jun-2026 09:59
 
 
 
@@ -7,7 +7,6 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tc
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&amp;security=tls&amp;insecure=0&amp;host=uk1.bw8848.org&amp;type=ws&amp;allowInsecure=0&amp;sni=uk1.bw8848.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 trojan://humanity@45.130.125.158:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=www.ignitelimit.com&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%A8%40FreakConfig
@@ -105,12 +104,6 @@ trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;inse
 
 
 
-trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#ConfigV2RayNG
-trojan://humanity@104.19.229.21:443?path=assignment&amp;security=tls&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#ConfigV2RayNG
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#ConfigV2RayNG
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#ConfigV2RayNG
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#ConfigV2RayNG
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#ConfigV2RayNG
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%F0%9F%94%B0%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 trojan://mitivpn@216.24.57.246:443?path=%2Findex.php%2Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=gamingdll.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=gamingdll.ir#%F0%9F%94%B5%20ConfigV2RayNG
 trojan://mitivpn@216.24.57.13:443?path=%2Findex.html%2Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=gamingdll.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=gamingdll.ir#%F0%9F%94%B5%20ConfigV2RayNG
@@ -122,6 +115,13 @@ trojan://SoftNetConnect@130.185.121.229:443?mode=auto&amp;path=%2F&amp;security=
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=de-1.hysteria.ltd#%E2%8F%B07%40ConfigV2RayNG
 trojan://SoftNetConnect@130.185.121.229:42549?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.speedtest.net#%40ConfigV2RayNG
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6ConfigV2RayNG
+trojan://humanity@45.130.125.158:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=www.ignitelimit.com&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%9B%A9%EF%B8%8F%20%40ConfigV2RayNG
+trojan://humanity@104.18.152.97:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#TELEGRAM%3A%40ConfigV2RayNG
+trojan://humanity@104.16.71.213:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=ch-2.bexum.fun#%E2%8F%B082%40ConfigV2RayNG
+trojan://humanity@45.130.125.96:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#TELEGRAM%3A%40ConfigV2RayNG
+trojan://SoftNetConnect@130.185.121.229:2087?mode=gun&amp;security=reality&amp;authority=185.204.169.129&amp;pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=www.yahoo.com&amp;sid=96a17085678b#%E2%9A%A1%20%40ConfigV2RayNG
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=de-1.hysteria.ltd#%F0%9F%8E%88%20%40ConfigV2RayNG
 
 
 
@@ -145,7 +145,6 @@ trojan://humanity@188.114.96.3:443?path=%2Fassignment&amp;security=tls&amp;insec
 
 
 
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&amp;security=tls&amp;insecure=0&amp;host=uk1.bw8848.org&amp;type=ws&amp;allowInsecure=0&amp;sni=uk1.bw8848.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 trojan://humanity@45.130.125.158:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=www.ignitelimit.com&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%A8%40FreakConfig
