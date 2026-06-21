@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-21-Jun-2026 02:32
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-21-Jun-2026 07:04
 
 
 
@@ -723,6 +723,24 @@ vless://SoonTeam@104.27.194.143:8880?mode=auto&amp;path=%2F%40SoonTeam&amp;secur
 vless://b6e7849c-7dea-46f5-97bd-0dca85e53b42@snapp.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;host=star.nopm.ir&amp;type=ws#%E2%9A%A1%20%40ConfigV2RayNG
 vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?security=reality&amp;encryption=none&amp;pbk=a-GLfBU_yhZcBKPODh1zl-Ypj-jm4nYN_fkHBhMGAGs&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=d56f#%F0%9F%8C%8A43%40ConfigV2RayNG
 vless://ddf3b0be-a335-492d-a768-49a303832e7c@snapp.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;host=star.nopm.ir&amp;type=ws#%F0%9F%A5%87%20%40ConfigV2RayNG
+vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#TELEGRAM%3A%40ConfigV2RayNG
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.44:8443?security=reality&amp;encryption=none&amp;pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=ea10cd5686751ec5#ConfigV2RayNG
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&amp;encryption=none&amp;pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.samsung.com&amp;sid=05fdaa8a05be46a9#ConfigV2RayNG
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.44:8443?security=reality&amp;encryption=none&amp;pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=ea10cd5686751ec5#TELEGRAM%3A%40ConfigV2RayNG
+vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=bazaryabab.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=1&amp;sni=default.ssl.fastly.net#%F0%9F%95%8A%EF%B8%8F%40ConfigV2RayNG%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%F0%9F%95%8A%EF%B8%8F
+vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=yahoo.com&amp;sid=3f5684#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@fin.oplatasite.ru:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;allowInsecure=0&amp;sni=vpn.oplatasite.ru#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.224.161:2083?security=reality&amp;encryption=none&amp;pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;sid=4e590fdc#%40ConfigV2RayNG%20%285%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%29
+vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#TELEGRAM%3A%40ConfigV2RayNG
+vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ez-78f74e.mhdiglbi.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ez-78f74e.mhdiglbi.workers.dev#TELEGRAM%3A%40ConfigV2RayNG
+vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ez-78f74e.mhdiglbi.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ez-78f74e.mhdiglbi.workers.dev#TELEGRAM%3A%40ConfigV2RayNG
+vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ez-78f74e.mhdiglbi.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ez-78f74e.mhdiglbi.workers.dev#TELEGRAM%3A%40ConfigV2RayNG
+vless://10ef8172-724e-4ccb-a1d7-4a1f1ecd33d0@am.uwqerzh90.workers.dev:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=am.uwqerzh90.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=am.uwqerzh90.workers.dev#TELEGRAM%3A%40ConfigV2RayNG
+vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ez-78f74e.mhdiglbi.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ez-78f74e.mhdiglbi.workers.dev#TELEGRAM%3A%40ConfigV2RayNG
+vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ez-78f74e.mhdiglbi.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ez-78f74e.mhdiglbi.workers.dev#TELEGRAM%3A%40ConfigV2RayNG
+vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ez-78f74e.mhdiglbi.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ez-78f74e.mhdiglbi.workers.dev#TELEGRAM%3A%40ConfigV2RayNG
+vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?security=reality&amp;encryption=none&amp;pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdn8-03.yahoo.com&amp;sid=c7e42004e5f024be#ConfigV2RayNG
+vless://db707e06-2711-4517-9c48-6409e4608c4f@xn-ip1.dbssl.ir:443?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=us.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=us.dbssl.ir#TELEGRAM%3A%40ConfigV2RayNG
 
 
 

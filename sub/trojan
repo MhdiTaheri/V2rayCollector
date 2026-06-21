@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-21-Jun-2026 02:32
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-21-Jun-2026 07:04
 
 
 
@@ -118,6 +118,11 @@ trojan://R6am5csvuv6rXxURXiDSPg@178.63.244.11:8443?security=none&amp;headerType=
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%F0%9F%94%B0%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 trojan://MiTiVPN@151.101.1.194:443?path=%2Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=mitivpn-s2.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=1&amp;sni=global.fastly.com#%F0%9F%8C%8A31%40ConfigV2RayNG
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=mitivpn-s2.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=global.fastly.com#TELEGRAM%3A%40ConfigV2RayNG
+trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=mitivpn-77.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=default.ssl.fastly.net#TELEGRAM%3A%40ConfigV2RayNG
+trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=mitivpn-6.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=global.fastly.com#TELEGRAM%3A%40ConfigV2RayNG
+trojan://SoftNetConnect@83.228.224.161:2087?security=reality&amp;authority=185.204.169.129&amp;pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=www.yahoo.com&amp;sid=96a17085678b#%40ConfigV2RayNG%20%283%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%29
+trojan://SoftNetConnect@83.228.224.161:42549?security=tls&amp;alpn=h2%2Chttp%2F1.1%2Ch3&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.speedtest.net#%40ConfigV2RayNG%20%284%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%29
+trojan://SoftNetConnect@83.228.224.161:8443?security=reality&amp;pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=play.google.com&amp;sid=c7#%40ConfigV2RayNG%20%28%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%29
 
 
 
