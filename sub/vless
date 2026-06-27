@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-27-Jun-2026 13:30
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-27-Jun-2026 15:10
 
 
 
@@ -96,6 +96,9 @@ vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.193:8443?mode=auto&amp;p
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.194:8443?mode=auto&amp;path=%2F%3Fed&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=vo.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?security=reality&amp;encryption=none&amp;pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.icloud.com&amp;sid=450d60a09ffb65#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=api.aramonlineshop.ir&amp;type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://06347f8b-44b2-40b5-b498-e7eaabcff088@167.82.101.251:443?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=FINIM.global.ssl.fastly.net&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+vless://9e86f6fa-a1f0-43b9-80ab-4b2ec4c3b91a@test.iraniannimdown.ir:8443?security=tls&amp;encryption=none&amp;insecure=1&amp;host=test.iraniannimdown.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=test.iraniannimdown.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?path=%2Ffp%3Drandomized&amp;security=none&amp;encryption=none&amp;host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 vless://49242061-8eb8-48b6-8aec-bb185263f7d5@104.16.247.45:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=game.proxystore11.qzz.io&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=game.proxystore11.qzz.io#Nova-u24gvp
@@ -928,6 +931,9 @@ vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.193:8443?mode=auto&amp;p
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.194:8443?mode=auto&amp;path=%2F%3Fed&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=vo.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?security=reality&amp;encryption=none&amp;pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.icloud.com&amp;sid=450d60a09ffb65#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=api.aramonlineshop.ir&amp;type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://06347f8b-44b2-40b5-b498-e7eaabcff088@167.82.101.251:443?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=FINIM.global.ssl.fastly.net&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+vless://9e86f6fa-a1f0-43b9-80ab-4b2ec4c3b91a@test.iraniannimdown.ir:8443?security=tls&amp;encryption=none&amp;insecure=1&amp;host=test.iraniannimdown.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=test.iraniannimdown.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?path=%2Ffp%3Drandomized&amp;security=none&amp;encryption=none&amp;host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 
