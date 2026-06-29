@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-29-Jun-2026 02:35
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-29-Jun-2026 06:25
 
 
 
@@ -89,6 +89,10 @@ vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&amp
 vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fragrant-unit-d662.mmammatrix770088.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fragrant-unit-d662.mmammatrix770088.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;authority=free.ziroxcompany.ir&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=%2Fdashboard&amp;allowInsecure=0&amp;sni=free.ziroxcompany.ir#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=google.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=1&amp;sni=play.google.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://536a80c2-18bd-40ac-b147-dbafc6f8e872@37.49.224.93:443?security=reality&amp;encryption=none&amp;pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dev.max.ru&amp;sid=c338fe2b01cf271a#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://a6ba1073-ef56-4f72-be97-aea817ca516b@chatgpt.com:2083?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=ys.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ys.dbssl.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://a6ba1073-ef56-4f72-be97-aea817ca516b@104.17.195.20:2083?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=ys.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ys.dbssl.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 vless://49242061-8eb8-48b6-8aec-bb185263f7d5@104.16.247.45:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=game.proxystore11.qzz.io&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=game.proxystore11.qzz.io#Nova-u24gvp
@@ -912,6 +916,10 @@ vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&amp
 vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fragrant-unit-d662.mmammatrix770088.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fragrant-unit-d662.mmammatrix770088.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;authority=free.ziroxcompany.ir&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=%2Fdashboard&amp;allowInsecure=0&amp;sni=free.ziroxcompany.ir#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=google.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=1&amp;sni=play.google.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://536a80c2-18bd-40ac-b147-dbafc6f8e872@37.49.224.93:443?security=reality&amp;encryption=none&amp;pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dev.max.ru&amp;sid=c338fe2b01cf271a#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://a6ba1073-ef56-4f72-be97-aea817ca516b@chatgpt.com:2083?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=ys.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ys.dbssl.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://a6ba1073-ef56-4f72-be97-aea817ca516b@104.17.195.20:2083?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=ys.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ys.dbssl.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 
@@ -962,6 +970,7 @@ vmess://eyJhZGQiOiIxMDcuMTQ5LjExOS41MiIsInYiOjIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9
 vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjIxNyIsInYiOjIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9XzE3IiwicG9ydCI6IjQxMDAwIiwiaWQiOiJmOWZhM2E5Yy1mN2Q1LTQxNGYtODhlNi02OTcwNTg1ZDk5NDkiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3BhdGgvMjgyMDE4MjUyNTI2In0=
 vmess://eyJhZGQiOiI4NS4xMzMuMjIxLjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNzBlNTdkMC02NDMxLTQxZmQtYmEwMS0yZjM0ZDBkNjAyMDgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE0MzMiLCJwcyI6IvCfh6nwn4eqIEBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIzLjcxLjguMTc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0MGNkZGY4LWJmZGMtNDkzNi1iODQyLTM4MWQ1NzJhMTJhYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMiIsInBzIjoi8J+HqfCfh6pARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzguNjIuMTE4LjIwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMTAxZGQzMy0yMzZmLTRmZGQtYWU1OS0wN2IxM2U4MzZjMjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsInBvcnQiOiIyOTU3NCIsInBzIjoi8J+HrPCfh6dARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 
 
@@ -1069,6 +1078,7 @@ vmess://eyJhZGQiOiIxOTUuMTgyLjM4LjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiI4NS4xMzMuMjIxLjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNzBlNTdkMC02NDMxLTQxZmQtYmEwMS0yZjM0ZDBkNjAyMDgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE0MzMiLCJwcyI6IvCfh6nwn4eqIEBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIzLjcxLjguMTc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0MGNkZGY4LWJmZGMtNDkzNi1iODQyLTM4MWQ1NzJhMTJhYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMiIsInBzIjoi8J+HqfCfh6pARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzguNjIuMTE4LjIwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMTAxZGQzMy0yMzZmLTRmZGQtYWU1OS0wN2IxM2U4MzZjMjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsInBvcnQiOiIyOTU3NCIsInBzIjoi8J+HrPCfh6dARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 
 
@@ -1221,6 +1231,11 @@ ss://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&amp;se
 ss://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fragrant-unit-d662.mmammatrix770088.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 ss://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fragrant-unit-d662.mmammatrix770088.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 ss://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;authority=free.ziroxcompany.ir&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=%2Fdashboard&amp;allowInsecure=0&amp;sni=free.ziroxcompany.ir#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+ss://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=google.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=1&amp;sni=play.google.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://536a80c2-18bd-40ac-b147-dbafc6f8e872@37.49.224.93:443?security=reality&amp;encryption=none&amp;pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dev.max.ru&amp;sid=c338fe2b01cf271a#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://eyJhZGQiOiIxNzguNjIuMTE4LjIwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMTAxZGQzMy0yMzZmLTRmZGQtYWU1OS0wN2IxM2U4MzZjMjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsInBvcnQiOiIyOTU3NCIsInBzIjoi8J+HrPCfh6dARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://a6ba1073-ef56-4f72-be97-aea817ca516b@chatgpt.com:2083?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=ys.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ys.dbssl.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+ss://a6ba1073-ef56-4f72-be97-aea817ca516b@104.17.195.20:2083?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=ys.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ys.dbssl.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 ss://49242061-8eb8-48b6-8aec-bb185263f7d5@104.16.247.45:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=game.proxystore11.qzz.io&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=game.proxystore11.qzz.io#Nova-u24gvp
@@ -2140,6 +2155,11 @@ ss://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&amp;se
 ss://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fragrant-unit-d662.mmammatrix770088.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 ss://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=fragrant-unit-d662.mmammatrix770088.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=fragrant-unit-d662.mmammatrix770088.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 ss://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;authority=free.ziroxcompany.ir&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=%2Fdashboard&amp;allowInsecure=0&amp;sni=free.ziroxcompany.ir#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+ss://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=google.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=1&amp;sni=play.google.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://536a80c2-18bd-40ac-b147-dbafc6f8e872@37.49.224.93:443?security=reality&amp;encryption=none&amp;pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dev.max.ru&amp;sid=c338fe2b01cf271a#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://eyJhZGQiOiIxNzguNjIuMTE4LjIwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMTAxZGQzMy0yMzZmLTRmZGQtYWU1OS0wN2IxM2U4MzZjMjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsInBvcnQiOiIyOTU3NCIsInBzIjoi8J+HrPCfh6dARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://a6ba1073-ef56-4f72-be97-aea817ca516b@chatgpt.com:2083?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=ys.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ys.dbssl.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+ss://a6ba1073-ef56-4f72-be97-aea817ca516b@104.17.195.20:2083?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=ys.dbssl.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=ys.dbssl.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 
@@ -2176,6 +2196,8 @@ trojan://pemyo67c0yjom5kv@104.21.100.168:443?path=%2Fmobotouch&amp;security=tls&
 trojan://Mitivpn@167.82.101.251:443?path=%2Fde&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=3-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://humanity@45.130.125.158:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=www.ignitelimit.com&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%A8%40FreakConfig
 trojan://humanity@43.169.18.179:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
+trojan://MiTiVPN@151.101.193.242:443?path=%2Fusa%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+trojan://MiTiVPN@151.101.1.242:443?path=%2Fde%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.f6r.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 
@@ -2383,6 +2405,8 @@ trojan://pemyo67c0yjom5kv@104.21.100.168:443?path=%2Fmobotouch&amp;security=tls&
 trojan://Mitivpn@167.82.101.251:443?path=%2Fde&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=3-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://humanity@45.130.125.158:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=www.ignitelimit.com&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%A8%40FreakConfig
 trojan://humanity@43.169.18.179:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig
+trojan://MiTiVPN@151.101.193.242:443?path=%2Fusa%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+trojan://MiTiVPN@151.101.1.242:443?path=%2Fde%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.f6r.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 
