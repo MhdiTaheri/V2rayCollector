@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-02-Jul-2026 13:27
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-02-Jul-2026 15:38
 
 
 
@@ -7,6 +7,8 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tc
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=95r.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=95r.ir#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+trojan://MiTiVPN@199.181.197.176:443?path=%2FMiTiVPN%3DfL&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=95r.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=95r.ir#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%20%40FreakConfig
@@ -161,12 +163,6 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chr
 
 
 
-trojan://MiTiVPN@45.131.4.118:443?path=%2Fusa%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5DConfigV2RayNG
-trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#%5B%F0%9F%87%BA%F0%9F%87%A6%5DConfigV2RayNG
-trojan://MiTiVPN@151.101.193.242:443?path=%2Fusa%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
-trojan://MiTiVPN@172.66.47.69:443?path=%2Fde%3Dmitivpn&amp;security=tls&amp;insecure=0&amp;host=f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=f6r.ir#TELEGRAM%3A%40ConfigV2RayNG
-trojan://MiTiVPN@151.101.1.242:443?path=%2Fde%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.f6r.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.f6r.ir#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
-trojan://humanity@216.24.57.1:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=95r.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=95r.ir#TELEGRAM%3A%40ConfigV2RayNG
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=95r.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=95r.ir#ConfigV2RayNG
 trojan://Mitivpn@151.101.110.219:443?path=%2F&amp;security=tls&amp;insecure=0&amp;host=3-mitivpn.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#%7C%20%F0%9F%8C%90%20ConfigV2RayNG
@@ -234,6 +230,8 @@ trojan://SoftNetConnect@83.228.228.243:2087?mode=gun&amp;security=reality&amp;au
 trojan://SoftNetConnect@83.228.228.243:8443?security=reality&amp;pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=play.google.com&amp;sid=c7#%40ConfigV2RayNG%20%28%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%29
 trojan://SoftNetConnect@83.228.228.243:42549?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.speedtest.net#%40ConfigV2RayNG%20%284%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%29
 trojan://SoftNetConnect@83.228.228.243:443?mode=auto&amp;path=%2F&amp;security=reality&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=www.yahoo.com&amp;sid=141b14d8#%40ConfigV2RayNG%20%282%F0%9F%87%A8%F0%9F%87%AD%E2%9A%A1%29
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 
 
 
@@ -257,6 +255,8 @@ trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20017/?typ
 
 
 
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=95r.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=95r.ir#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+trojan://MiTiVPN@199.181.197.176:443?path=%2FMiTiVPN%3DfL&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=95r.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=95r.ir#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%20%40FreakConfig
