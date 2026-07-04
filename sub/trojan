@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-04-Jul-2026 07:18
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-04-Jul-2026 10:13
 
 
 
@@ -43,7 +43,6 @@ trojan://MITIVPN@69.84.182.44:443?path=%2FMiTiVPN%3DUsa&amp;security=tls&amp;alp
 
 
 
-trojan://telegram-id-privatevpns@18.197.104.44:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@51.45.25.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@18.195.103.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@52.57.13.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
@@ -57,6 +56,7 @@ trojan://telegram-id-privatevpns@18.193.237.12:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@63.186.137.193:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.37.135.58:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.39.35.22:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@3.73.234.160:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 
 
 trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=linkkon-w.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=linkkon-w.ir#%24Free%20165%20%40Outline_Vpn
