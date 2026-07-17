@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-17-Jul-2026 05:38
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-17-Jul-2026 09:06
 
 
 
@@ -217,13 +217,6 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chr
 
 
 
-trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&amp;path=%2Fda&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=networkzvx.global.ssl.fastly.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=global.fastly.com#%40ConfigV2RayNG
-trojan://MITIVPN@162.159.38.62:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Win-use-Cv-o.Maqror.ir#%F0%9F%8F%86%20%40ConfigV2RayNG
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%8F%86%20%40ConfigV2RayNG
-trojan://MiTiVPN@151.101.1.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---W&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=1&amp;host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ssl.fastly.com#%F0%9F%AA%81ConfigV2RayNG
-trojan://Mehdi1234@172.64.144.251:2083?path=%2F&amp;security=tls&amp;insecure=0&amp;host=purple-recipe-5e30.cimavo4626.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=purple-recipe-5e30.cimavo4626.workers.dev#%F0%9F%AA%AFConfigV2RayNG
-trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=Wihn-Nlkl--ol.App-Cloud.Ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Win-Nll--l.App-Cloud.Ir#%F0%9F%90%B0%40ConfigV2RayNG%20%F0%9F%90%B0
-trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&amp;path=%2Fda&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=networkzvx.global.ssl.fastly.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=global.fastly.com#%40ConfigV2RayNG
 trojan://-----BanV2ray----
 trojan://7f5rouvmiqm83905@188.213.131.90:59618?security=reality&amp;pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=google.com&amp;sid=e3916e0f2c8b438b#%F0%9F%94%B5%20%20ConfigV2RayNG
 trojan://------BanV2ray-----
@@ -243,6 +236,9 @@ trojan://-------BanV2ray------
 trojan://--------BanV2ray-------
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=packet-up&amp;path=%2Fdb&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=edgezvx.global.ssl.fastly.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=global.fastly.com#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 trojan://humanity@162.159.38.119:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
+trojan://MiTiVPN@151.101.1.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsws-s&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=1&amp;host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ssl.fastly.com#%F0%9F%AA%ADConfigV2RayNG
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%E2%9A%99%EF%B8%8F%20%40ConfigV2RayNG
+trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&amp;path=%2Fdb&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=edgezvx.global.ssl.fastly.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=global.fastly.com#%F0%9F%AA%84%20%40ConfigV2RayNG
 
 
 
