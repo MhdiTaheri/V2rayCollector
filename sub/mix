@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-19-Jul-2026 23:37
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-20-Jul-2026 01:15
 
 
 
@@ -79,6 +79,14 @@ vless://b82d817a-431e-4c4b-93b7-a924256db74e@al1.vipsite2.top:8088?security=tls&
 vless://2335f653-ab29-46aa-bd8a-9d8e39625d57@al1.vipsite2.top:8088?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=alman1.rendai.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://50414e45-4c5f-5a45-5553-50c186e6c545@104.16.235.139:443?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=zeus-panel-ks8k6a.zeus-cjk2yx.workers.dev&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=zeus-panel-ks8k6a.zeus-cjk2yx.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://21a240b8-7e43-430f-ba5f-bada80227fe8@37.27.196.114:59280?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://d89538a6-cce4-44be-8754-8f20a495dabc@178.128.173.78:36412?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://86e9579b-f7e5-422e-81c2-33c3fc85b654@namahdod.tehran-game.ir:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=tehran-game.ir&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://bacd8811-1e50-46ec-accf-06149cbdc25d@77.233.214.195:40443?security=reality&amp;encryption=none&amp;pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&amp;host=deepl.com&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=172e#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@tank.tarfiq.ir:38733?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&amp;fp=chrome&amp;type=grpc&amp;sni=play.google.com&amp;sid=09e78c1d381f98ed#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://0c9f23c8-fd11-4b5e-8387-cb302301fa5f@46.101.6.189:53597?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://b2da112d-6b84-4c6e-8935-12eab65c63b6@mabar130.mobail1010.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=mabar130.mobail1010.ir&amp;type=ws#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig
+vless://5a3c6bc5-03fa-4a62-b165-1a24b39123e5@65.109.216.56:40038?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://aa821fab-db04-43f0-b807-c25541b5e536@162.159.38.119:443?path=%2F-----MxGriD-----&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=telegram.mxgrid.xyz&amp;type=ws&amp;allowInsecure=0&amp;sni=telegram.mxgrid.xyz#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfing
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws?ELiV2ray--ELiV2ray--ELiV2ray--ELiV2ray&amp;security=tls&amp;encryption=none&amp;host=vangoghhh.info&amp;type=ws&amp;sni=vangoghhh.info#ELiV2RAY
 vless://1e031b69-f2eb-42cb-b0e8-97ed64163767@143.246.136.174:8896?security=reality&amp;encryption=none&amp;pbk=k8SeTD6AcL6sQrek1DXbIGYya6SvFpfOwNo_2QYAbkw&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.play.google.com&amp;sid=ee383485a23223b1#
 vless://449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb@87.120.106.52:8081?type=tcp&amp;encryption=none&amp;path=%2FELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray&amp;host=Chess.com&amp;headerType=http&amp;security=none#
@@ -915,6 +923,14 @@ vless://b82d817a-431e-4c4b-93b7-a924256db74e@al1.vipsite2.top:8088?security=tls&
 vless://2335f653-ab29-46aa-bd8a-9d8e39625d57@al1.vipsite2.top:8088?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=alman1.rendai.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://50414e45-4c5f-5a45-5553-50c186e6c545@104.16.235.139:443?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=zeus-panel-ks8k6a.zeus-cjk2yx.workers.dev&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=zeus-panel-ks8k6a.zeus-cjk2yx.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://21a240b8-7e43-430f-ba5f-bada80227fe8@37.27.196.114:59280?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://d89538a6-cce4-44be-8754-8f20a495dabc@178.128.173.78:36412?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://86e9579b-f7e5-422e-81c2-33c3fc85b654@namahdod.tehran-game.ir:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=tehran-game.ir&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://bacd8811-1e50-46ec-accf-06149cbdc25d@77.233.214.195:40443?security=reality&amp;encryption=none&amp;pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&amp;host=deepl.com&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=172e#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@tank.tarfiq.ir:38733?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&amp;fp=chrome&amp;type=grpc&amp;sni=play.google.com&amp;sid=09e78c1d381f98ed#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://0c9f23c8-fd11-4b5e-8387-cb302301fa5f@46.101.6.189:53597?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://b2da112d-6b84-4c6e-8935-12eab65c63b6@mabar130.mobail1010.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=mabar130.mobail1010.ir&amp;type=ws#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig
+vless://5a3c6bc5-03fa-4a62-b165-1a24b39123e5@65.109.216.56:40038?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+vless://aa821fab-db04-43f0-b807-c25541b5e536@162.159.38.119:443?path=%2F-----MxGriD-----&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=telegram.mxgrid.xyz&amp;type=ws&amp;allowInsecure=0&amp;sni=telegram.mxgrid.xyz#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfing
 
 
 
@@ -1211,6 +1227,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 ss://50414e45-4c5f-5a45-5553-50c186e6c545@104.16.235.139:443?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=zeus-panel-ks8k6a.zeus-cjk2yx.workers.dev&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=zeus-panel-ks8k6a.zeus-cjk2yx.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 ss://21a240b8-7e43-430f-ba5f-bada80227fe8@37.27.196.114:59280?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://d89538a6-cce4-44be-8754-8f20a495dabc@178.128.173.78:36412?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+ss://86e9579b-f7e5-422e-81c2-33c3fc85b654@namahdod.tehran-game.ir:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=tehran-game.ir&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://bacd8811-1e50-46ec-accf-06149cbdc25d@77.233.214.195:40443?security=reality&amp;encryption=none&amp;pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&amp;host=deepl.com&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=172e#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://384a72e6-8a10-4695-9ee5-c93728ef7e2a@tank.tarfiq.ir:38733?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&amp;fp=chrome&amp;type=grpc&amp;sni=play.google.com&amp;sid=09e78c1d381f98ed#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+ss://0c9f23c8-fd11-4b5e-8387-cb302301fa5f@46.101.6.189:53597?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+ss://b2da112d-6b84-4c6e-8935-12eab65c63b6@mabar130.mobail1010.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=mabar130.mobail1010.ir&amp;type=ws#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig
+ss://5a3c6bc5-03fa-4a62-b165-1a24b39123e5@65.109.216.56:40038?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://aa821fab-db04-43f0-b807-c25541b5e536@162.159.38.119:443?path=%2F-----MxGriD-----&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=telegram.mxgrid.xyz&amp;type=ws&amp;allowInsecure=0&amp;sni=telegram.mxgrid.xyz#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfing
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws?ELiV2ray--ELiV2ray--ELiV2ray--ELiV2ray&amp;security=tls&amp;encryption=none&amp;host=vangoghhh.info&amp;type=ws&amp;sni=vangoghhh.info#ELiV2RAY
 ss://1e031b69-f2eb-42cb-b0e8-97ed64163767@143.246.136.174:8896?security=reality&amp;encryption=none&amp;pbk=k8SeTD6AcL6sQrek1DXbIGYya6SvFpfOwNo_2QYAbkw&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.play.google.com&amp;sid=ee383485a23223b1#
 ss://449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb@87.120.106.52:8081?type=tcp&amp;encryption=none&amp;path=%2FELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray&amp;host=Chess.com&amp;headerType=http&amp;security=none#
@@ -2164,6 +2188,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 ss://50414e45-4c5f-5a45-5553-50c186e6c545@104.16.235.139:443?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=zeus-panel-ks8k6a.zeus-cjk2yx.workers.dev&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=zeus-panel-ks8k6a.zeus-cjk2yx.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 ss://21a240b8-7e43-430f-ba5f-bada80227fe8@37.27.196.114:59280?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://d89538a6-cce4-44be-8754-8f20a495dabc@178.128.173.78:36412?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+ss://86e9579b-f7e5-422e-81c2-33c3fc85b654@namahdod.tehran-game.ir:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=tehran-game.ir&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://bacd8811-1e50-46ec-accf-06149cbdc25d@77.233.214.195:40443?security=reality&amp;encryption=none&amp;pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&amp;host=deepl.com&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=172e#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://384a72e6-8a10-4695-9ee5-c93728ef7e2a@tank.tarfiq.ir:38733?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&amp;fp=chrome&amp;type=grpc&amp;sni=play.google.com&amp;sid=09e78c1d381f98ed#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+ss://0c9f23c8-fd11-4b5e-8387-cb302301fa5f@46.101.6.189:53597?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+ss://b2da112d-6b84-4c6e-8935-12eab65c63b6@mabar130.mobail1010.ir:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=mabar130.mobail1010.ir&amp;type=ws#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig
+ss://5a3c6bc5-03fa-4a62-b165-1a24b39123e5@65.109.216.56:40038?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+ss://aa821fab-db04-43f0-b807-c25541b5e536@162.159.38.119:443?path=%2F-----MxGriD-----&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=telegram.mxgrid.xyz&amp;type=ws&amp;allowInsecure=0&amp;sni=telegram.mxgrid.xyz#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfing
 
 
 
@@ -2210,6 +2242,8 @@ trojan://humanity@162.159.38.119:443?path=%2Fassignment&amp;security=tls&amp;ins
 trojan://------------BanV2ray------------@179.237.75.217:16369?security=reality&amp;pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&amp;headerType=none&amp;fp=firefox&amp;spx=%2Fo6A0DkyYzJ6oG5O&amp;type=tcp&amp;sni=promotion.yahoo.com&amp;sid=4aa2#%F0%9F%87%A8%F0%9F%87%AD%40FreakConfig
 trojan://MiTiVPN@167.82.101.252:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSw&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=miticonfig.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://------------BanV2ray------------@179.237.75.217:1232?security=reality&amp;pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&amp;headerType=none&amp;fp=firefox&amp;spx=%2FD3hjGXEe9vzucLn&amp;type=tcp&amp;sni=promotion.yahoo.com&amp;sid=21c11ba53c#%F0%9F%87%A8%F0%9F%87%AD%40FreakConfig
+trojan://JA96378052@52.195.11.84:443?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=WangCai.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
+trojan://JA96378052@3.112.1.122:443?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=WangCai.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 trojan://-----------%42%61%6e%56%32%72%61%79------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:30000?security=reality&amp;pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&amp;fp=firefox&amp;spx=%2FnctesNoRBmMFXBj&amp;type=grpc&amp;serviceName=%2FLoginmassaageeeee&amp;sni=chi.yahoo.com&amp;sid=a68956#Elena4
 trojan://-----------%42%61%6e%56%32%72%61%79------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:52727?security=reality&amp;pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&amp;fp=firefox&amp;spx=%2FYWIn3NIXieCvhqs&amp;type=grpc&amp;serviceName=%2FLoginmassaageeeee&amp;sni=chi.yahoo.com&amp;sid=162666c3acca7a#Elena3
 trojan://-----------%42%61%6e%56%32%72%61%79------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26657?security=reality&amp;pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&amp;fp=firefox&amp;spx=%2FKFfG8SKWE2bkdl3&amp;type=grpc&amp;serviceName=%2FLoginmassaageeeee&amp;sni=chi.yahoo.com&amp;sid=f4b34559dd56#Elena2
@@ -2447,6 +2481,8 @@ trojan://humanity@162.159.38.119:443?path=%2Fassignment&amp;security=tls&amp;ins
 trojan://------------BanV2ray------------@179.237.75.217:16369?security=reality&amp;pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&amp;headerType=none&amp;fp=firefox&amp;spx=%2Fo6A0DkyYzJ6oG5O&amp;type=tcp&amp;sni=promotion.yahoo.com&amp;sid=4aa2#%F0%9F%87%A8%F0%9F%87%AD%40FreakConfig
 trojan://MiTiVPN@167.82.101.252:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSw&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=miticonfig.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://------------BanV2ray------------@179.237.75.217:1232?security=reality&amp;pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&amp;headerType=none&amp;fp=firefox&amp;spx=%2FD3hjGXEe9vzucLn&amp;type=tcp&amp;sni=promotion.yahoo.com&amp;sid=21c11ba53c#%F0%9F%87%A8%F0%9F%87%AD%40FreakConfig
+trojan://JA96378052@52.195.11.84:443?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=WangCai.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
+trojan://JA96378052@3.112.1.122:443?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=WangCai.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 
 
 
