@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-01-Aug-2026 21:29
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-01-Aug-2026 22:41
 
 
 
@@ -174,7 +174,6 @@ ss://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;e
 
 ss://075232d9-82c0-4500-b049-812e944c655c@shop.frahidx.ir:2044?encryption=none&amp;fp=ios&amp;headerType=http&amp;host=play.google.com&amp;path=%2F&amp;pbk=gjTtmitQwQ-RqfeieYrfdba0R08zcdwh4h4YGBCnVRo&amp;security=reality&amp;sid=0be408ac733a5da5&amp;sni=google-analytics.com&amp;spx=%2FGOJJb7rYbXlqVHW&amp;type=tcp#test
 
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.173.17:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.154.254:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
@@ -190,7 +189,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&am
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.147.218:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.252.106:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.139.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-ss://7968c546-02dc-4f8c-b791-934591a94cb2@cf.levikogjgfdd.ir:443?path=%2Fcbasur&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=hhvl.hhapp.kdns.fr&amp;type=ws&amp;allowInsecure=1&amp;sni=hhvl.hhapp.kdns.fr#%F0%9F%87%A8%F0%9F%87%A…
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://db840ee9-a3a3-4f4e-b63a-3779fe25eabe@check09.farsinblog.ir:8443?security=reality&amp;encryption=none&amp;pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=b7b70c104ad267b8#%40FreeLand8%E2%81%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#%40FreeLand8%E2%81%B4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQm5WMzZ0enQ3TUtWNzVhRFpUYnpH@141.227.152.129:8388#%40FreeLand8%C2%B3
@@ -222,6 +221,18 @@ ss://7e3ed13c-8320-4c20-9a92-e7f17b5b6fc7@tunlo.dearhossein-taktaz.ir:21922?secu
 ss://d653f2fc-7eb3-4dad-84fc-a42624e94dfa@154.9.240.153:30333?security=reality&amp;encryption=none&amp;pbk=FecuyYIQm7AEutbh7FRwGN-OWpOrVesJmDxWcTyyKko&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com#@FreeLand8
 ss://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.165:8443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#@FreeLand8
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.66.148.223:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@FreeLand8 trojan://521314@104.248.161.136:443?path=%2F&amp;security=…
+ss://8b0c48db-c228-47d9-b634-6ea6edf81e22@91.99.119.155:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
+ss://8b0c48db-c228-47d9-b634-6ea6edf81e22@128.140.114.57:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
+ss://8b0c48db-c228-47d9-b634-6ea6edf81e22@167.233.233.187:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
+ss://8b0c48db-c228-47d9-b634-6ea6edf81e22@168.119.156.100:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
+ss://8b0c48db-c228-47d9-b634-6ea6edf81e22@94.130.179.44:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
+ss://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.192.171:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
+ss://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.193.221:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
+ss://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0@185.126.64.86:10536#@FreeLand8
+ss://34eaf2f3-894f-472e-a36c-0e08a30f0829@185.199.198.182:443?security=reality&amp;encryption=none&amp;pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=15affa0af66dfc79#@FreeLand8
+ss://8a88edf2-235a-4e74-a012-315e8b0f000c@172.66.146.2:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=oknoloy.dearhossein-taktaz.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=oknoloy.dearhossein-taktaz.ir#@FreeLand8
+ss://29ca503d-e6b8-4509-b666-48133f450857@162.159.38.206:8443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#@FreeLand8
 
 ss://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.2.200:443?path=%2Fproxy&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=43.165.2.200&amp;type=ws&amp;allowInsecure=1&amp;sni=43.165.2.200#Mi168%2011%20%40Outline_Vpn
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=%2Fsg-amz&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#Mi168%2013%20%40Outline_Vpn
@@ -836,9 +847,6 @@ ss://+2rVQexR2fMYcjtu63hvqLzjdYQmGkO4AxBps1D9ZzdtljGB001uRWxBBK/RBwUPDESTjk1hFYp
 
 
 
-ss://38ede46b-d237-4c76-9de1-a10738642adc@www.ipget.net:8880?encryption=none&amp;host=summer-hat-ba5c.430.workers.dev&amp;path=%2Fpyip%3Dproxyip.kr.cmliussss.net&amp;security=none&amp;type=ws#@Network_442_%20MTN%20(25%20July)%206
-ss://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?alpn=h2&amp;encryption=none&amp;host=dey.lnmarketplace.net&amp;mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;sni=dey.lnmarketplace.net&amp;type=xhttp#@Network_442_%20MTN%20(25%20July)%207
-ss://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?ed=2560&amp;eh=Sec-WebSocket-Protocol&amp;encryption=none&amp;host=learn00.evany.de5.net&amp;path=%2Ffdip%3Dtw.william.us.ci%21txt&amp;security=tls&amp;sni=learn00.evany.de5.net&amp;type=ws#@Network_442_%20MTN%20(25%20July)%208
 ss://21c25bef-eb3b-44a8
 ss://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&amp;headerType=http&amp;host=play.google.com&amp;security=none&amp;type=tcp#@Network_442_%20MTN%20(25%20July)%2010
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#@Network_442_%20ss%2001
