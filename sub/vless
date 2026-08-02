@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-02-Aug-2026 19:38
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-02-Aug-2026 20:35
 
 
 
@@ -149,10 +149,6 @@ vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&am
 
 vless://075232d9-82c0-4500-b049-812e944c655c@shop.frahidx.ir:2044?encryption=none&amp;fp=ios&amp;headerType=http&amp;host=play.google.com&amp;path=%2F&amp;pbk=gjTtmitQwQ-RqfeieYrfdba0R08zcdwh4h4YGBCnVRo&amp;security=reality&amp;sid=0be408ac733a5da5&amp;sni=google-analytics.com&amp;spx=%2FGOJJb7rYbXlqVHW&amp;type=tcp#test
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.178:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.66.148.223:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
@@ -167,6 +163,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.27.73:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.90.95:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.53.125:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.150.100:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.119.112:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.91.68:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.66.148.223:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@FreeLand8 trojan://521314@104.248.161.136:443?path=%2F&amp;security=…
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@91.99.119.155:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@128.140.114.57:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#@FreeLand8
