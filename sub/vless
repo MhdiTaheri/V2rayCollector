@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-10-Aug-2026 23:21
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-11-Aug-2026 00:06
 
 
 
@@ -136,9 +136,6 @@ vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&am
 
 
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.80.223:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.221.117:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.128:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
@@ -152,6 +149,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.84.121:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.105.116:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.146:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%40FREELAND8
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#%40FREELAND8
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?encryption=none&amp;type=ws&amp;path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&amp;host=play.google.com#%40FREELAND8
