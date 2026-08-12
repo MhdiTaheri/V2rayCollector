@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-12-Aug-2026 13:27
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-12-Aug-2026 14:27
 
 
 
@@ -176,7 +176,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@tt.hsrdnr.ir:2044?secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@page.hsrdnr.ir:2044?security=none&amp;type=tcp#fast%F0%9F%87%A9%F0%9F%87%AA-test
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@185.215.228.132:2044?security=none&amp;type=tcp#fast%F0%9F%87%A9%F0%9F%87%AA-test
 
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.105.116:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.146:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.222.124:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
@@ -188,6 +187,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.149.16:22222?encryption=none&am
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.25.66:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.45.65:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://f61025f4-7973-4e3e-883c-a0fe85f0489c@89.125.79.95:443?security=reality&amp;encryption=none&amp;pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ne4.rexten.cc#%40FreeLand8  vless://b9d4c53c…
 ss://73435d4e-2ac1-4dba-900e-81aac3dc5913@no-fardad.oorluma.ir:6800?security=reality&amp;encryption=none&amp;pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;sni=play.google.com#%40FreeLand8
 ss://XpnTeam-23@140.248.186.45:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#%40FreeLand8
