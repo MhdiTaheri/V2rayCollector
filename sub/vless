@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-22-Aug-2026 11:52
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-22-Aug-2026 12:52
 
 
 
@@ -91,7 +91,7 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&amp;security=none&amp;encryption=none&amp;host=de.vpnbase.net&amp;type=ws#%F0%9F%87%AB%F0%9F%87%B7%40ELiV2ray%20%7C%20OVH
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?security=reality&amp;encryption=none&amp;pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sw1-chr.astralweb.tech&amp;sid=496ee75c2f91f51d#%F0%9F%87%B8%F0%9F%87%AA424Mb%20%7C%20%40ELiV2ray
 
-vless://beca67c2-e0a8-43fe-aaff-fecc842de3d9@ipcf.prx11game.ir:443?path=%2Fprx11&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=mlkem768x25519plus.native.0rtt.ZYNiy9qf0MbtAc…
+
 
 
 
@@ -119,9 +119,6 @@ vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&am
 
 
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.97.116:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.40.90:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.163.238:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.22.74:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
@@ -133,6 +130,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22222?encryption=none&am
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.61.245:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.239.139:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.211.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.70.33.197:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@uk2.levikogjgfdd.ir:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=gb1.murhost.network&amp;insecure=1&amp;allowInsecure=1&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6Pkr…
 
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@77.239.123.224:443?security=reality&amp;encryption=none&amp;pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=node20.mxvpn.dev&amp;sid=bbc68cec8bb8d2e3#Free%20250%20%40Outline_Vpn
