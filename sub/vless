@@ -1,10 +1,16 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-25-Aug-2026 16:06
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-25-Aug-2026 17:14
 
 
 
 
 
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:443?security=reality&amp;encryption=none&amp;pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=universe.whit3.net&amp;sid=4eb17bfdb000bef0#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?security=reality&amp;encryption=none&amp;pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com&amp;sid=cbb0a5c1dc905505#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?security=reality&amp;encryption=none&amp;pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com&amp;sid=cbb0a5c1dc905505#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.90:443?security=reality&amp;encryption=none&amp;pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com&amp;sid=cbb0a5c1dc905505#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?security=reality&amp;encryption=none&amp;pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&amp;host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de.orpheous.ru&amp;sid=9e4eced6e98ed4d4#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@94.183.157.203:443?security=reality&amp;encryption=none&amp;pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=s3.storage.anti-zapret.com&amp;sid=cbb0a5c1dc905505#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&amp;fp=firefox&amp;type=xhttp&amp;sni=universe.whit3.net&amp;sid=4eb17bfdb000bef0#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://a78f7463-ca1c-4af2-8458-52f1f382268a@91.236.168.18:38850?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
@@ -665,6 +671,12 @@ vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.25.217.123:2086?ed=2560&amp;eh=
 
 
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:443?security=reality&amp;encryption=none&amp;pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=universe.whit3.net&amp;sid=4eb17bfdb000bef0#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?security=reality&amp;encryption=none&amp;pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com&amp;sid=cbb0a5c1dc905505#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?security=reality&amp;encryption=none&amp;pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com&amp;sid=cbb0a5c1dc905505#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.90:443?security=reality&amp;encryption=none&amp;pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com&amp;sid=cbb0a5c1dc905505#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?security=reality&amp;encryption=none&amp;pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&amp;host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de.orpheous.ru&amp;sid=9e4eced6e98ed4d4#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@94.183.157.203:443?security=reality&amp;encryption=none&amp;pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=s3.storage.anti-zapret.com&amp;sid=cbb0a5c1dc905505#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&amp;fp=firefox&amp;type=xhttp&amp;sni=universe.whit3.net&amp;sid=4eb17bfdb000bef0#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://a78f7463-ca1c-4af2-8458-52f1f382268a@91.236.168.18:38850?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
