@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-26-Aug-2026 12:06
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-26-Aug-2026 13:05
 
 
 
@@ -162,9 +162,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@tt.hsrdnr.ir:2044?secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@page.hsrdnr.ir:2044?security=none&amp;type=tcp#fast%F0%9F%87%A9%F0%9F%87%AA-test
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@185.215.228.132:2044?security=none&amp;type=tcp#fast%F0%9F%87%A9%F0%9F%87%AA-test
 
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.163.13:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.35.132:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.219.171:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
@@ -176,6 +173,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.153.183:22222?encryption=none&a
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.166.114:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.21.202:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.210.231:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.214.184:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008?type=tcp&amp;headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%40FreeLand8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348?type=tcp&amp;headerType=none#%F0%9F%87%A7%F0%9F%87%B4%20%40FreeLand8
 ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:80?type=tcp&amp;headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20%40FreeLand8
@@ -459,7 +457,6 @@ ss://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-
 ss://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=grpc&amp;sni=google.com&amp;sid=6a326909#Telegram:@v2rayng3
 ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.ru&amp;sid=c226283c4de5b1ad#Telegram:@v2rayng3
 ss://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&amp;security=reality&amp;sid=4014ce9b0d82ad9d&amp;sni=www.bing.com&amp;type=tcp#Telegram:@v2rayng3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2TzVwNGhpUFZ5NkxnWTF0R21GMnFGVnVMc0hHdjFycTRJU0cxS2lMb0xBPQ@e3.cover20.ir:56985?type=tcp#@v2rayng3
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#Telegram:@v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#Telegram:@v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA%3D%3D@3.75.179.86:443#Telegram:@v2rayng3
