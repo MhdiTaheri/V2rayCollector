@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-30-Aug-2026 04:27
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-30-Aug-2026 09:45
 
 
 
@@ -12,6 +12,8 @@ trojan://humanity@130.250.137.171:443?path=%2Fassignment&amp;security=tls&amp;in
 trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.16.29.250:443?path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4&amp;security=tls&amp;insecure=0&amp;host=yvzagcelunqs.73927482.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=yvzagcelunqs.73927482.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.24.174.94:443?path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4%2Floc-0&amp;security=tls&amp;insecure=0&amp;host=yvzagcelunqs.73927482.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=yvzagcelunqs.73927482.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.16.29.250:443?path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4&amp;security=tls&amp;insecure=0&amp;host=yvzagcelunqs.73927482.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=yvzagcelunqs.73927482.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.24.174.94:443?path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4%2Floc-0&amp;security=tls&amp;insecure=0&amp;host=yvzagcelunqs.73927482.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=yvzagcelunqs.73927482.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 
@@ -77,12 +79,14 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chr
 
 
 
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
-trojan://humanity@172.67.221.242:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%8E%80%20-%20%40ConfigV2RayNG13
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
+trojan://humanity@172.67.221.242:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22se
 trojan://humanity@130.250.137.171:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
+trojan://humanity@172.67.221.242:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%8E%80%20-%20%40ConfigV2RayNG13
 trojan://humanity@render.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
+trojan://Parsconn_bot@46.8.229.118:8443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=amp-api-edge.apps.apple.com&amp;headerType=http&amp;type=tcp&amp;allowInsecure=0&amp;sni=46.8.229.118#%5B%F0%9F%8F%81%5Dt.me%2FConfigV2RayNG
 
 
 
@@ -111,6 +115,8 @@ trojan://humanity@130.250.137.171:443?path=%2Fassignment&amp;security=tls&amp;in
 trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.16.29.250:443?path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4&amp;security=tls&amp;insecure=0&amp;host=yvzagcelunqs.73927482.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=yvzagcelunqs.73927482.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.24.174.94:443?path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4%2Floc-0&amp;security=tls&amp;insecure=0&amp;host=yvzagcelunqs.73927482.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=yvzagcelunqs.73927482.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.16.29.250:443?path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4&amp;security=tls&amp;insecure=0&amp;host=yvzagcelunqs.73927482.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=yvzagcelunqs.73927482.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.24.174.94:443?path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4%2Floc-0&amp;security=tls&amp;insecure=0&amp;host=yvzagcelunqs.73927482.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=yvzagcelunqs.73927482.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 
 
 
