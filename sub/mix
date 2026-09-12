@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-12-Sep-2026 18:21
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-12-Sep-2026 21:08
 
 
 
@@ -89,6 +89,8 @@ vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@89.106.206.57:443?path=%2F6d2fed050
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?path=%2Fcdn%2Fv3%2Flive&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cf2.rumedia-cdn.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cf2.rumedia-cdn.com#%F0%9F%87%B8%F0%9F%87%AA%40EliV2ray
 vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=%2Fapi%2Fv2%2Fstream&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40EliV2ray
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.218:443?security=reality&amp;encryption=none&amp;pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=localhost#%F0%9F%87%AB%F0%9F%87%AE%40EliV2ray
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless#%F0%9F%87%AC%F0%9F%87%A7S2%20%40ELiV2Ray
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless#%F0%9F%87%AC%F0%9F%87%A7%40ELiV2Ray
 
 
 
@@ -118,6 +120,8 @@ vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&am
 
 
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.85.1:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.214.185:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.215.210:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.117.250:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
@@ -130,6 +134,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.150.64:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.40.234.23:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.30.143:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.100.172:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.21.210:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://aa1e3eda-6981-46c5-85f3-7fe880f21d8b@b.bandfig.ir:22747?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%20%40FREELAND8%20%F0%9F%95%8A%EF%B8%8F1
 vless://903cbea5-278a-4f9b-b841-e97077d94633@66.33.22.238:49194?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=oho2ZfrpJKDlXr9w4VsAE-61QJLG_y070pOMvEzHzyY&amp;fp=chrome&amp;spx=%2F65252048ef0ebb8&amp;type=xhttp&amp;sni=yellow.ai&amp;sid=6b58f6#%20%40FREELAND8%20%F0%9F%95%8A%EF%B8%8F2
 vless://6b03ffdd-6646-410b-b575-6c05eafdaf60@165.231.99.52:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=vusr-6aa2cf2b.adhil.uk#%20%40FREELAND8%20%F0%9F%95%8A%EF%B8%8F3
@@ -1024,6 +1030,8 @@ ss://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@89.106.206.57:443?path=%2F6d2fed050b30
 ss://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?path=%2Fcdn%2Fv3%2Flive&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cf2.rumedia-cdn.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cf2.rumedia-cdn.com#%F0%9F%87%B8%F0%9F%87%AA%40EliV2ray
 ss://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=%2Fapi%2Fv2%2Fstream&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40EliV2ray
 ss://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.218:443?security=reality&amp;encryption=none&amp;pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=localhost#%F0%9F%87%AB%F0%9F%87%AE%40EliV2ray
+ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless#%F0%9F%87%AC%F0%9F%87%A7S2%20%40ELiV2Ray
+ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless#%F0%9F%87%AC%F0%9F%87%A7%40ELiV2Ray
 
 
 
@@ -1061,6 +1069,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@tt.hsrdnr.ir:2044?secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@page.hsrdnr.ir:2044?security=none&amp;type=tcp#fast%F0%9F%87%A9%F0%9F%87%AA-test
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@185.215.228.132:2044?security=none&amp;type=tcp#fast%F0%9F%87%A9%F0%9F%87%AA-test
 
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.85.1:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.214.185:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.215.210:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.117.250:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
@@ -1073,6 +1083,8 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.150.64:22222?encryption=none&am
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.40.234.23:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.30.143:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.100.172:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.21.210:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://aa1e3eda-6981-46c5-85f3-7fe880f21d8b@b.bandfig.ir:22747?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%20%40FREELAND8%20%F0%9F%95%8A%EF%B8%8F1
 ss://903cbea5-278a-4f9b-b841-e97077d94633@66.33.22.238:49194?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=oho2ZfrpJKDlXr9w4VsAE-61QJLG_y070pOMvEzHzyY&amp;fp=chrome&amp;spx=%2F65252048ef0ebb8&amp;type=xhttp&amp;sni=yellow.ai&amp;sid=6b58f6#%20%40FREELAND8%20%F0%9F%95%8A%EF%B8%8F2
 ss://6b03ffdd-6646-410b-b575-6c05eafdaf60@165.231.99.52:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=vusr-6aa2cf2b.adhil.uk#%20%40FREELAND8%20%F0%9F%95%8A%EF%B8%8F3
