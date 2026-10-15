@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-15-Oct-2026 08:59
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-15-Oct-2026 14:14
 
 
 
@@ -9,9 +9,9 @@ trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debia
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&amp;path=%2F%2Bmehrosaboran&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn-s1.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=google.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&amp;path=%2F%2Bmehrosaboran&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn-s1.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 
 
 
@@ -160,9 +160,9 @@ trojan://UX82473651@3.36.50.213:443?security=tls&amp;insecure=0&amp;headerType=n
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&amp;path=%2F%2Bmehrosaboran&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn-s1.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=google.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&amp;path=%2F%2Bmehrosaboran&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn-s1.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 
 
 
