@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Oct-2026 01:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Oct-2026 04:12
 
 
 
@@ -483,6 +483,8 @@ ss://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&a
 ss://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&amp;encryption=none&amp;pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=zsit.eu-cdn294.com&amp;sid=cd2d53510b4df2a8#Telegram:@v2rayng3
 ss://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=%2Falibodama-ws&amp;security=&amp;encryption=none&amp;host=51.75.118.149&amp;type=ws#Telegram:@v2rayng3
 ss://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=tcp&amp;encryption=none&amp;security=none#tel:@v2rayng3
+ss://54327b73-3ce6-437d-9d00-3d6398d9f9f5@13.140.91.117:23808?encryption=none&amp;security=none&amp;type=tcp#n1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUWlhSWx6ME1kOE53VHpiUlNpWG9pRDJaQkVMM1hHQmNzVVplUXA0V0hrPQ@e5.cover20.ir:31973?type=tcp#e5
 ss://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.205.6:62145?encryption=none&amp;packetEncoding=xudp#https://t.me/ShadowsocksM4
 ss://XpnTeam-17@199.232.78.160:443?encryption=none&amp;security=tls&amp;sni=ssl.fastly.com&amp;alpn=http/1.1&amp;fp=chrome&amp;type=ws&amp;host=Appxdn.global.ssl.fastly.net&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM5
 ss://303c2140-19ff-4eea-b1b1-865d4160d261@2.26.124.199:443?encryption=none&amp;type=grpc&amp;security=reality&amp;sni=ai.android&amp;fp=chrome&amp;pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&amp;sid=53499a662395&amp;spx=/
