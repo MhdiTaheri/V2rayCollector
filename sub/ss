@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-31-Oct-2026 22:30
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-01-Nov-2026 01:53
 
 
 
@@ -187,9 +187,6 @@ ss://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;e
 
 
 
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.76.90:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.17.126:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.164.49:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.69.117:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.208.89:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.13.152:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
@@ -203,6 +200,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.14.177:22222?encryption=none&amp
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.136.78:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.143.31:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.42.143:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.132.84:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://4a140c2f-5b0c-4524-950c-026de74fcf69@5.149.249.94:443?security=reality&amp;encryption=none&amp;pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=neurex&amp;sni=nlb.kosmosapp.net&amp;sid=27350908de933e09#%40FREELAND8%20%F0%9F%92%8E%F0%9F%87%B3%F0%9F%87%B1
 ss://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hw3.divarkhaghazi.com.&amp;type=ws&amp;allowInsecure=0&amp;sni=hw3.divarkhaghazi.com#%40FREELAND8%20%F0%9F%92%8E%F0%9F%87%AA%F0%9F%87%BA
 ss://bb3df091-daa3-4a7d-8394-8d7c115e8987@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=takidopower-point.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=1&amp;sni=www.firefox.com#%40FREELAND8%20%F0%9F%92%8E%F0%9F%87%AE%F0%9F%87%B9%20
